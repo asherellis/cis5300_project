@@ -1,0 +1,111 @@
+{
+  "q001": {
+    "question": "What specific EU energy measure was scheduled to take effect according to the report, and what key details did member states agree on regarding the scope and level of gas reductions?",
+    "answer": "Energy ministers from the 27 EU member states mostly backed a plan for a voluntary 15% reduction in gas usage over the winter. Several opt-outs were added for island nations and countries unconnected or little connected to the European gas network, which will blunt the overall effect.",
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+        "score": 0.0005964934825897217,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-26T17_01_01Z",
+        "score": -0.18330036103725433,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-08-06T00_59_35Z",
+        "score": -2.3480944633483887,
+        "rank": 3
+      },
+      {
+        "doc_id": "gold/russia-ukraine-conflict_2022-08-05T12_31_57Z",
+        "score": -2.8185298442840576,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T15_09_05Z",
+        "score": -3.740994453430176,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S92",
+      "S93"
+    ]
+  },
+  "q002": {
+    "question": "How did long-term political instability, recurring coups, and the emergence of northern armed groups shape Mali\u2019s struggle to maintain territorial control from 1991 through 2024?",
+    "answer": "In Mali, long-term political instability and recurring coups led to a rebellion and military coup in 2012, following which rebels expelled the military from the country's three northern regions, allowing terrorist organizations to develop strongholds. The Malian government's territorial control remains weak in the region due to competition among local militias, terrorists, and insurgent groups. Despite a 2015 peace accord, little progress has been made towards implementing the agreement by 2017.",
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Mali_history",
+        "score": 1.487581729888916,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Mali",
+        "score": 1.4486887454986572,
+        "rank": 2
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Niger",
+        "score": -3.5920090675354004,
+        "rank": 3
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Syria",
+        "score": -4.010773181915283,
+        "rank": 4
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Central_African_Republic",
+        "score": -5.23431396484375,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S15",
+      "S16",
+      "S18",
+      "S19",
+      "S20"
+    ]
+  },
+  "q003": {
+    "question": "According to the article, how close was the no-confidence vote against Prime Minister Manmohan Singh, and what unusual step was taken to ensure voting could occur?",
+    "answer": "The no-confidence vote against Prime Minister Manmohan Singh was unsuccessful, and he narrowly survived it, as he won a confidence vote despite opposition. The unusual step taken to ensure voting could occur is not explicitly mentioned in the article, but it is mentioned that the vote was sparked by concerns from the opposition that India was kowtowing to the U.S.",
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+        "score": 4.178788185119629,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Nepal",
+        "score": -6.835565567016602,
+        "rank": 2
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Sao_Tome_and_Principe",
+        "score": -7.538439750671387,
+        "rank": 3
+      },
+      {
+        "doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+        "score": -8.140365600585938,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-26T09_55_30Z",
+        "score": -8.520223617553711,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S4",
+      "S2",
+      "S5"
+    ]
+  }
+}

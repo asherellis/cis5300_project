@@ -1,0 +1,326 @@
+url: https://www.cia.gov/the-world-factbook/countries/bulgaria/
+Introduction: Background: The Bulgars, a Central Asian Turkic tribe, merged with the local Slavic inhabitants in the late 7th century to form the first Bulgarian state. In succeeding centuries, Bulgaria struggled with the Byzantine Empire to assert its place in the Balkans, but by the end of the 14th century, the Ottoman Turks overran the country. Northern Bulgaria attained autonomy in 1878, and all of Bulgaria became independent from the Ottoman Empire in 1908. Having fought on the losing side in both World Wars, Bulgaria fell within the Soviet sphere of influence and became a People's Republic in 1946. Communist domination ended in 1990, when Bulgaria held its first multiparty election since World War II and began the contentious process of moving toward political democracy and a market economy while combating inflation, unemployment, corruption, and crime. The country joined NATO in 2004, the EU in 2007, and the Schengen Area for air and sea travel in 2024.
+Geography: Location: Southeastern Europe, bordering the Black Sea, between Romania and Turkey
+Geography: Geographic coordinates: 43 00 N, 25 00 E
+Geography: Map references: Europe
+Geography: Area - total: 110,879 sq km
+Geography: Area - land: 108,489 sq km
+Geography: Area - water: 2,390 sq km
+Geography: Area - comparative: almost identical in size to Virginia; slightly larger than Tennessee
+Geography: Land boundaries - total: 1,806 km
+Geography: Land boundaries - border countries (5): Greece 472 km; Macedonia 162 km; Romania 605 km; Serbia 344 km; Turkey 223 km
+Geography: Coastline: 354 km
+Geography: Maritime claims - territorial sea: 12 nm
+Geography: Maritime claims - contiguous zone: 24 nm
+Geography: Maritime claims - exclusive economic zone: 200 nm
+Geography: Climate: temperate; cold, damp winters; hot, dry summers
+Geography: Terrain: mostly mountains with lowlands in north and southeast
+Geography: Elevation - highest point: Musala 2,925 m
+Geography: Elevation - lowest point: Black Sea 0 m
+Geography: Elevation - mean elevation: 472 m
+Geography: Natural resources: bauxite, copper, lead, zinc, coal, timber, arable land
+Geography: Land use - agricultural land: 46.9% (2018 est.)agricultural land: arable land: 29.9% (2018 est.)agricultural land: permanent crops: 1.5% (2018 est.)agricultural land: permanent pasture: 15.5% (2018 est.)
+Geography: Land use - forest: 36.7% (2018 est.)
+Geography: Land use - other: 16.4% (2018 est.)
+Geography: Irrigated land: 987 sq km (2013)
+Geography: Major rivers (by length in km): Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km
+Geography: Major rivers (by length in km) - note: – [s] after country name indicates river source; [m] after country name indicates river mouth
+Geography: Major watersheds (area sq km): Atlantic Ocean drainage: (Black Sea) Danube (795,656 sq km)
+Geography: Population distribution: a fairly even distribution throughout most of the country, with urban areas attracting larger populations
+Geography: Natural hazards: earthquakes; landslides
+Geography: Geography - note: strategic location near Turkish Straits; controls key land routes from Europe to Middle East and Asia
+People and Society: Population - total: 6,782,659
+People and Society: Population - male: 3,303,491
+People and Society: Population - female: 3,479,168 (2024 est.)
+People and Society: Nationality - noun: Bulgarian(s)
+People and Society: Nationality - adjective: Bulgarian
+People and Society: Ethnic groups: Bulgarian 78.5%, Turkish 7.8%, Roma 4.1%, other 1.2%, unspecified 9.4% (2021 est.)
+People and Society: Ethnic groups - note: Romani populations are usually underestimated in official statistics and may represent 9–11% of Bulgaria's population
+People and Society: Languages: Bulgarian (official) 77.3%, Turkish 7.9%, Romani 3.5%, other 1%, unspecified 10.4% (2021 est.)
+People and Society: Languages - major-language sample(s): Светoвен Алманах, незаменимият източник за основна информация. (Bulgarian)The World Factbook, the indispensable source for basic information.
+People and Society: Religions: Christian 64.7%, Muslim 9.8%, other 0.1%, none 4.7%, unspecified 20.7% (2021 est.)
+People and Society: Age structure - 0-14 years: 13.8% (male 479,586/female 453,423)
+People and Society: Age structure - 15-64 years: 65.2% (male 2,250,962/female 2,171,279)
+People and Society: Age structure - 65 years and over: 21% (2024 est.) (male 572,943/female 854,466)
+People and Society: Dependency ratios - total dependency ratio: 57.3
+People and Society: Dependency ratios - youth dependency ratio: 22
+People and Society: Dependency ratios - elderly dependency ratio: 35.3
+People and Society: Dependency ratios - potential support ratio: 2.8 (2021 est.)
+People and Society: Median age - total: 45.1 years (2024 est.)
+People and Society: Median age - male: 43.3 years
+People and Society: Median age - female: 47 years
+People and Society: Population growth rate: -0.66% (2024 est.)
+People and Society: Birth rate: 7.9 births/1,000 population (2024 est.)
+People and Society: Death rate: 14.2 deaths/1,000 population (2024 est.)
+People and Society: Net migration rate: -0.3 migrant(s)/1,000 population (2024 est.)
+People and Society: Population distribution: a fairly even distribution throughout most of the country, with urban areas attracting larger populations
+People and Society: Urbanization - urban population: 76.7% of total population (2023)
+People and Society: Urbanization - rate of urbanization: -0.28% annual rate of change (2020-25 est.)
+People and Society: Major urban areas - population: 1.288 million SOFIA (capital) (2023)
+People and Society: Sex ratio - at birth: 1.06 male(s)/female
+People and Society: Sex ratio - 0-14 years: 1.06 male(s)/female
+People and Society: Sex ratio - 15-64 years: 1.04 male(s)/female
+People and Society: Sex ratio - 65 years and over: 0.67 male(s)/female
+People and Society: Sex ratio - total population: 0.95 male(s)/female (2024 est.)
+People and Society: Mother's mean age at first birth: 26.4 years (2020 est.)
+People and Society: Maternal mortality ratio: 7 deaths/100,000 live births (2020 est.)
+People and Society: Infant mortality rate - total: 7.7 deaths/1,000 live births (2024 est.)
+People and Society: Infant mortality rate - male: 8.7 deaths/1,000 live births
+People and Society: Infant mortality rate - female: 6.6 deaths/1,000 live births
+People and Society: Life expectancy at birth - total population: 76.1 years (2024 est.)
+People and Society: Life expectancy at birth - male: 72.9 years
+People and Society: Life expectancy at birth - female: 79.4 years
+People and Society: Total fertility rate: 1.51 children born/woman (2024 est.)
+People and Society: Gross reproduction rate: 0.73 (2024 est.)
+People and Society: Contraceptive prevalence rate: NA
+People and Society: Drinking water source - improved: urban: 99.5% of populationrural: 97.4% of populationtotal: 99% of population
+People and Society: Drinking water source - unimproved: urban: 0.5% of populationrural: 2.6% of populationtotal: 1% of population (2020 est.)
+People and Society: Current health expenditure: 8.6% of GDP (2021)
+People and Society: Physician density: 4.2 physicians/1,000 population (2018)
+People and Society: Hospital bed density: 7.5 beds/1,000 population (2017)
+People and Society: Sanitation facility access - improved: urban: 100% of populationrural: 100% of populationtotal: 100% of population
+People and Society: Sanitation facility access - unimproved: urban: 0% of populationrural: 0% of populationtotal: 0% of population (2020 est.)
+People and Society: Obesity - adult prevalence rate: 25% (2016)
+People and Society: Alcohol consumption per capita - total: 11.18 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - beer: 4.44 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - wine: 1.72 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - spirits: 4.96 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - other alcohols: 0.06 liters of pure alcohol (2019 est.)
+People and Society: Tobacco use - total: 39% (2020 est.)
+People and Society: Tobacco use - male: 40.9% (2020 est.)
+People and Society: Tobacco use - female: 37.1% (2020 est.)
+People and Society: Children under the age of 5 years underweight: 1.9% (2014)
+People and Society: Currently married women (ages 15-49): 57.3% (2023 est.)
+People and Society: Education expenditures: 4% of GDP (2020 est.)
+People and Society: Literacy - definition: age 15 and over can read and write
+People and Society: Literacy - total population: 98.4%
+People and Society: Literacy - male: 98.7%
+People and Society: Literacy - female: 98.2% (2021)
+People and Society: School life expectancy (primary to tertiary education) - total: 14 years
+People and Society: School life expectancy (primary to tertiary education) - male: 13 years
+People and Society: School life expectancy (primary to tertiary education) - female: 14 years (2020)
+Environment: Environment - current issues: air pollution from industrial emissions; rivers polluted from raw sewage, heavy metals, detergents; deforestation; forest damage from air pollution and resulting acid rain; soil contamination from heavy metals from metallurgical plants and industrial wastes
+Environment: Environment - international agreements - party to: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+Environment: Environment - international agreements - signed, but not ratified: none of the selected agreements
+Environment: Climate: temperate; cold, damp winters; hot, dry summers
+Environment: Land use - agricultural land: 46.9% (2018 est.)agricultural land: arable land: 29.9% (2018 est.)agricultural land: permanent crops: 1.5% (2018 est.)agricultural land: permanent pasture: 15.5% (2018 est.)
+Environment: Land use - forest: 36.7% (2018 est.)
+Environment: Land use - other: 16.4% (2018 est.)
+Environment: Urbanization - urban population: 76.7% of total population (2023)
+Environment: Urbanization - rate of urbanization: -0.28% annual rate of change (2020-25 est.)
+Environment: Revenue from forest resources: 0.22% of GDP (2018 est.)
+Environment: Revenue from coal: 0.14% of GDP (2018 est.)
+Environment: Air pollutants - particulate matter emissions: 17.29 micrograms per cubic meter (2019 est.)
+Environment: Air pollutants - carbon dioxide emissions: 41.71 megatons (2016 est.)
+Environment: Air pollutants - methane emissions: 6.77 megatons (2020 est.)
+Environment: Waste and recycling - municipal solid waste generated annually: 3.011 million tons (2015 est.)
+Environment: Waste and recycling - municipal solid waste recycled annually: 572,993 tons (2015 est.)
+Environment: Waste and recycling - percent of municipal solid waste recycled: 19% (2015 est.)
+Environment: Major rivers (by length in km): Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km
+Environment: Major rivers (by length in km) - note: – [s] after country name indicates river source; [m] after country name indicates river mouth
+Environment: Major watersheds (area sq km): Atlantic Ocean drainage: (Black Sea) Danube (795,656 sq km)
+Environment: Total water withdrawal - municipal: 840 million cubic meters (2020 est.)
+Environment: Total water withdrawal - industrial: 3.48 billion cubic meters (2020 est.)
+Environment: Total water withdrawal - agricultural: 760 million cubic meters (2020 est.)
+Environment: Total renewable water resources: 21.3 billion cubic meters (2020 est.)
+Government: Country name - conventional long form: Republic of Bulgaria
+Government: Country name - conventional short form: Bulgaria
+Government: Country name - local long form: Republika Bulgaria
+Government: Country name - local short form: Bulgaria
+Government: Country name - former: Kingdom of Bulgaria, People's Republic of Bulgaria
+Government: Country name - etymology: named after the Bulgar tribes who settled the lower Balkan region in the 7th century A.D.
+Government: Government type: parliamentary republic
+Government: Capital - name: Sofia
+Government: Capital - geographic coordinates: 42 41 N, 23 19 E
+Government: Capital - time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+Government: Capital - daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Government: Capital - etymology: named after the Saint Sofia Church in the city, parts of which date back to the 4th century A.D.
+Government: Administrative divisions: 28 provinces (oblasti, singular - oblast); Blagoevgrad, Burgas, Dobrich, Gabrovo, Haskovo, Kardzhali, Kyustendil, Lovech, Montana, Pazardzhik, Pernik, Pleven, Plovdiv, Razgrad, Ruse, Shumen, Silistra, Sliven, Smolyan, Sofia, Sofia-Grad (Sofia City), Stara Zagora, Targovishte, Varna, Veliko Tarnovo, Vidin, Vratsa, Yambol
+Government: Independence: 3 March 1878 (as an autonomous principality within the Ottoman Empire); 22 September 1908 (complete independence from the Ottoman Empire)
+Government: National holiday: Liberation Day, 3 March (1878)
+Government: Legal system: civil law
+Government: Constitution - history: several previous; latest drafted between late 1990 and early 1991, adopted 13 July 1991
+Government: Constitution - amendments: proposed by the National Assembly or by the president of the republic; passage requires three-fourths majority vote of National Assembly members in three ballots; signed by the National Assembly chairperson; note - under special circumstances, a "Grand National Assembly" is elected with the authority to write a new constitution and amend certain articles of the constitution, including those affecting basic civil rights and national sovereignty; passage requires at least two-thirds majority vote in each of several readings; amended several times, last in 2023
+Government: International law organization participation: accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
+Government: Citizenship - citizenship by birth: no
+Government: Citizenship - citizenship by descent only: at least one parent must be a citizen of Bulgaria
+Government: Citizenship - dual citizenship recognized: yes
+Government: Citizenship - residency requirement for naturalization: 5 years
+Government: Suffrage: 18 years of age; universal
+Government: Executive branch - chief of state: President Rumen RADEV (since 22 January 2017)
+Government: Executive branch - head of government: Caretaker Prime Minister Dimitar GLAVCHEV (since 9 April 2024)
+Government: Executive branch - cabinet: Council of Ministers nominated by the prime minister, elected by the National Assembly
+Government: Executive branch - elections/appointments: president and vice president elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 and 21 November 2021 (next to be held in fall 2026); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly
+Government: Executive branch - election results: 2021: Rumen RADEV reelected president in second round; percent of vote in the first round - Rumen RADEV (independent) 49.4%, Anastas GERDZHIKOV (independent) 22.8%, Mustafa KARADAYI (DPS) 11.6%, Kostadin KOSTADINOV (Revival) 3.9%, Lozan PANOV (independent) 3.7%, other 8.6%; percent of vote in the second round - Rumen RADEV 66.7%, Anastas GERDZHIKOV 31.8%, neither 1.5%2016: Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%
+Government: Legislative branch - legislature name: National Assembly (Narodno sabranie)
+Government: Legislative branch - legislative structure: unicameral
+Government: Legislative branch - number of seats: 240 (all directly elected)
+Government: Legislative branch - electoral system: proportional representation
+Government: Legislative branch - scope of elections: full renewal
+Government: Legislative branch - term in office: 4 years
+Government: Legislative branch - most recent election date: 10/27/2024
+Government: Legislative branch - parties elected and seats per party: Citizens for European Development of Bulgaria Party (GERB) - Union of Democratic Forces (UDF) (69); We Continue the Change - Democratic Bulgaria (37); Revival (Vuzrazhdane) (35); Movement for Rights and Freedoms (DPS) - New Beginning (30); Bulgarian Socialist Party (BSP) - United Left (20); Alliance for Rights and Freedoms (APS) (19); There is Such a People (PP-ITN) (18); Political Party Morality, Unity, Honour (PP MECh) (12)
+Government: Legislative branch - percentage of women in chamber: 21.3%
+Government: Legislative branch - expected date of next election: October 2028
+Government: Judicial branch - highest court(s): Supreme Court of Cassation (consists of a chairman and approximately 72 judges organized into penal, civil, and commercial colleges); Supreme Administrative Court (organized into 2 colleges with various panels of 5 judges each); Constitutional Court (consists of 12 justices); note - Constitutional Court resides outside the judiciary
+Government: Judicial branch - judge selection and term of office: Supreme Court of Cassation and Supreme Administrative judges elected by the Supreme Judicial Council or SJC (consists of 25 members with extensive legal experience) and appointed by the president; judges can serve until mandatory retirement at age 65; Constitutional Court justices elected by the National Assembly and appointed by the president and the SJC; justices appointed for 9-year terms with renewal of 4 justices every 3 years
+Government: Judicial branch - subordinate courts: appeals courts; regional and district courts; administrative courts; courts martial
+Government: Political parties: BSP for Bulgaria (electoral alliance of BSP, PKT, Ecoglasnost)Bulgarian Rise or BVBulgarian Socialist Party or BSPCitizens for the European Development of Bulgaria or GERB (alliance with SDS) Democratic Bulgaria or DB (electoral alliance of Yes! Bulgaria, DSB, and The Greens) Democrats for a Strong Bulgaria or DSBEcoglasnostGreen Movement or The Greens Movement for Rights and Freedoms or DPSPolitical Club Thrace or PKTRevivalStand Up.BG or IS.BGThere is Such a People or ITNUnion of Democratic Forces or SDS (alliance with GERB) Yes! Bulgaria We Continue the Change or PP We Continue the Change and Democratic Bulgaria or PP-DB (electoral alliance of PP, DB, Yes! Bulgaria)
+Government: International organization participation: Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G- 9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNOOSA,  UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC
+Government: Diplomatic representation in the US - chief of mission: Ambassador Georgi Velikov PANAYOTOV (since 7 June 2022)
+Government: Diplomatic representation in the US - chancery: 1621 22nd Street NW, Washington, DC 20008
+Government: Diplomatic representation in the US - telephone: [1] (202) 387 5770
+Government: Diplomatic representation in the US - FAX: [1] (202) 234-7973
+Government: Diplomatic representation in the US - email address and website: office@bulgaria-embassy.orghttps://www.bulgaria-embassy.org/en/homepage/
+Government: Diplomatic representation in the US - consulate(s) general: Chicago, Los Angeles, New York
+Government: Diplomatic representation from the US - chief of mission: Ambassador (vacant); Chargé d'Affaires H. Martin McDOWELL (since January 2025)
+Government: Diplomatic representation from the US - embassy: 16, Kozyak Street, Sofia 1408
+Government: Diplomatic representation from the US - mailing address: 5740 Sofia Place, Washington, DC  20521-5740
+Government: Diplomatic representation from the US - telephone: [359] (2) 937-5100
+Government: Diplomatic representation from the US - FAX: [359] (2) 937-5209
+Government: Diplomatic representation from the US - email address and website: acs_sofia@state.govhttps://bg.usembassy.gov/
+Government: Flag description: three equal horizontal bands of white (top), green, and red; the pan-Slavic white-blue-red colors were modified by substituting a green band (representing freedom) for the blue
+Government: Flag description - note: the national emblem, formerly on the hoist side of the white stripe, has been removed
+Government: National symbol(s): lion; national colors: white, green, red
+Government: National anthem - name: "Mila Rodino" (Dear Homeland)
+Government: National anthem - lyrics/music: Tsvetan Tsvetkov RADOSLAVOV
+Government: National anthem - note: adopted 1964; composed in 1885 by a student en route to fight in the Serbo-Bulgarian War
+Government: National heritage - total World Heritage Sites: 10 (7 cultural, 3 natural)
+Government: National heritage - selected World Heritage Site locales: Boyana Church (c); Madara Rider (c); Thracian Tomb of Kazanlak (c); Rock-Hewn Churches of Ivanovo (c); Rila Monastery (c); Ancient City of Nessebar (c); Thracian Tomb of Sveshtari (c); Srebarna Nature Reserve (n); Pirin National Park (n); Primeval Beech Forests of the Carpathians (n)
+Economy: Economic overview: upper-middle-income EU economy; currency pegged to the euro with accession pending; joined Schengen area as of March 2024; global events and internal political turmoil triggered export slump and stalled reforms; EU structural funds contributing to investment recovery; skilled labor shortage driven by emigration and aging population
+Economy: Real GDP (purchasing power parity): $215.338 billion (2023 est.)$211.35 billion (2022 est.)$203.146 billion (2021 est.)note: data in 2021 dollars
+Economy: Real GDP growth rate: 1.89% (2023 est.)4.04% (2022 est.)7.66% (2021 est.)note: annual GDP % growth based on constant local currency
+Economy: Real GDP per capita: $33,400 (2023 est.)$31,800 (2022 est.)$29,500 (2021 est.)note: data in 2021 dollars
+Economy: GDP (official exchange rate): $102.408 billion (2023 est.)note: data in current dollars at official exchange rate
+Economy: Inflation rate (consumer prices): 9.44% (2023 est.)15.33% (2022 est.)3.3% (2021 est.)note: annual % change based on consumer prices
+Economy: Credit ratings - Fitch rating: BBB (2017)
+Economy: Credit ratings - Moody's rating: Baa1 (2020)
+Economy: Credit ratings - Standard & Poors rating: BBB (2019)
+Economy: Credit ratings - note: The year refers to the year in which the current credit rating was first obtained.
+Economy: GDP - composition, by sector of origin - agriculture: 2.5% (2023 est.)
+Economy: GDP - composition, by sector of origin - industry: 22.7% (2023 est.)
+Economy: GDP - composition, by sector of origin - services: 62.5% (2023 est.)note: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
+Economy: GDP - composition, by end use - household consumption: 57.7% (2023 est.)
+Economy: GDP - composition, by end use - government consumption: 18.4% (2023 est.)
+Economy: GDP - composition, by end use - investment in fixed capital: 18.7% (2023 est.)
+Economy: GDP - composition, by end use - investment in inventories: 1.1% (2023 est.)
+Economy: GDP - composition, by end use - exports of goods and services: 61.9% (2023 est.)
+Economy: GDP - composition, by end use - imports of goods and services: -57.8% (2023 est.)note: figures may not total 100% due to rounding or gaps in data collection
+Economy: Agricultural products: wheat, maize, sunflower seeds, barley, milk, rapeseed, grapes, potatoes, triticale, tomatoes (2023)note: top ten agricultural products based on tonnage
+Economy: Industries: electricity, gas, water; food, beverages, tobacco; machinery and equipment, automotive parts, base metals, chemical products, coke, refined petroleum, nuclear fuel; outsourcing centers
+Economy: Industrial production growth rate: -4.11% (2023 est.)note: annual % change in industrial value added based on constant local currency
+Economy: Labor force: 3.09 million (2023 est.)note: number of people ages 15 or older who are employed or seeking work
+Economy: Unemployment rate: 4.3% (2023 est.)4.27% (2022 est.)5.27% (2021 est.)note: % of labor force seeking employment
+Economy: Youth unemployment rate (ages 15-24) - total: 12% (2023 est.)
+Economy: Youth unemployment rate (ages 15-24) - male: 11.8% (2023 est.)
+Economy: Youth unemployment rate (ages 15-24) - female: 12.2% (2023 est.)note: % of labor force ages 15-24 seeking employment
+Economy: Population below poverty line: 20.6% (2022 est.)note: % of population with income below national poverty line
+Economy: Gini Index coefficient - distribution of family income: 39 (2021 est.)note: index (0-100) of income distribution; higher values represent greater inequality
+Economy: Average household expenditures - on food: 20.7% of household expenditures (2023 est.)
+Economy: Average household expenditures - on alcohol and tobacco: 4.8% of household expenditures (2023 est.)
+Economy: Household income or consumption by percentage share - lowest 10%: 2% (2021 est.)
+Economy: Household income or consumption by percentage share - highest 10%: 29.9% (2021 est.)note: % share of income accruing to lowest and highest 10% of population
+Economy: Remittances: 2.3% of GDP (2023 est.)2.2% of GDP (2022 est.)2.38% of GDP (2021 est.)note: personal transfers and compensation between resident and non-resident individuals/households/entities
+Economy: Budget - revenues: $33.1 billion (2022 est.)
+Economy: Budget - expenditures: $35.619 billion (2022 est.)note: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
+Economy: Public debt: 30.2% of GDP (2022 est.)note: central government debt as a % of GDP
+Economy: Taxes and other revenues: 21.73% (of GDP) (2022 est.)note: central government tax revenue as a % of GDP
+Economy: Current account balance: $927.67 million (2023 est.)-$2.359 billion (2022 est.)-$872.53 million (2021 est.)note: balance of payments - net trade and primary/secondary income in current dollars
+Economy: Exports: $63.38 billion (2023 est.)$63.246 billion (2022 est.)$52.125 billion (2021 est.)note: balance of payments - exports of goods and services in current dollars
+Economy: Exports - partners: Germany 14%, Romania 11%, Italy 8%, Greece 6%, Turkey 5% (2023)note: top five export partners based on percentage share of exports
+Economy: Exports - commodities: refined petroleum, garments, refined copper, wheat, natural gas (2023)note: top five export commodities based on value in dollars
+Economy: Imports: $59.16 billion (2023 est.)$62.26 billion (2022 est.)$49.999 billion (2021 est.)note: balance of payments - imports of goods and services in current dollars
+Economy: Imports - partners: Germany 12%, Turkey 8%, Romania 8%, Russia 7%, Italy 6% (2023)note: top five import partners based on percentage share of imports
+Economy: Imports - commodities: crude petroleum, copper ore, cars, packaged medicine, electricity (2023)note: top five import commodities based on value in dollars
+Economy: Reserves of foreign exchange and gold: $46.334 billion (2023 est.)$40.989 billion (2022 est.)$39.188 billion (2021 est.)note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars
+Economy: Debt - external: $14.277 billion (2022 est.)note: present value of external debt in current US dollars
+Economy: Exchange rates: leva (BGN) per US dollar -
+Economy: Exchange rates - Exchange rates: 1.809 (2023 est.)1.86 (2022 est.)1.654 (2021 est.)1.716 (2020 est.)1.747 (2019 est.)
+Energy: Electricity access - electrification - total population: 100% (2022 est.)
+Energy: Electricity access - electrification - urban areas: 100%
+Energy: Electricity access - electrification - rural areas: 99.6%
+Energy: Electricity - installed generating capacity: 12.031 million kW (2022 est.)
+Energy: Electricity - consumption: 35.369 billion kWh (2022 est.)
+Energy: Electricity - exports: 13.665 billion kWh (2022 est.)
+Energy: Electricity - imports: 1.47 billion kWh (2022 est.)
+Energy: Electricity - transmission/distribution losses: 2.616 billion kWh (2022 est.)
+Energy: Electricity generation sources - fossil fuels: 48.6% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - nuclear: 32.8% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - solar: 4% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - wind: 3% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - hydroelectricity: 7.2% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - biomass and waste: 4.5% of total installed capacity (2022 est.)
+Energy: Nuclear energy - Number of operational nuclear reactors: 2 (2023)
+Energy: Nuclear energy - Net capacity of operational nuclear reactors: 2.01GW (2023 est.)
+Energy: Nuclear energy - Percent of total electricity production: 40.3% (2023 est.)
+Energy: Nuclear energy - Number of nuclear reactors permanently shut down: 4 (2023)
+Energy: Coal - production: 35.516 million metric tons (2022 est.)
+Energy: Coal - consumption: 35.97 million metric tons (2022 est.)
+Energy: Coal - exports: 504,000 metric tons (2022 est.)
+Energy: Coal - imports: 928,000 metric tons (2022 est.)
+Energy: Coal - proven reserves: 2.366 billion metric tons (2022 est.)
+Energy: Petroleum - total petroleum production: 4,000 bbl/day (2023 est.)
+Energy: Petroleum - refined petroleum consumption: 101,000 bbl/day (2022 est.)
+Energy: Petroleum - crude oil estimated reserves: 15 million barrels (2021 est.)
+Energy: Natural gas - production: 20.837 million cubic meters (2022 est.)
+Energy: Natural gas - consumption: 2.801 billion cubic meters (2022 est.)
+Energy: Natural gas - exports: 2.75 million cubic meters (2020 est.)
+Energy: Natural gas - imports: 2.911 billion cubic meters (2022 est.)
+Energy: Natural gas - proven reserves: 5.663 billion cubic meters (2021 est.)
+Energy: Carbon dioxide emissions: 43.234 million metric tonnes of CO2 (2022 est.)
+Energy: Carbon dioxide emissions - from coal and metallurgical coke: 24.654 million metric tonnes of CO2 (2022 est.)
+Energy: Carbon dioxide emissions - from petroleum and other liquids: 13.185 million metric tonnes of CO2 (2022 est.)
+Energy: Carbon dioxide emissions - from consumed natural gas: 5.395 million metric tonnes of CO2 (2022 est.)
+Energy: Energy consumption per capita: 107.943 million Btu/person (2022 est.)
+Communications: Telephones - fixed lines - total subscriptions: 619,000 (2023 est.)
+Communications: Telephones - fixed lines - subscriptions per 100 inhabitants: 9 (2023 est.)
+Communications: Telephones - mobile cellular - total subscriptions: 8.01 million (2023 est.)
+Communications: Telephones - mobile cellular - subscriptions per 100 inhabitants: 117 (2022 est.)
+Communications: Telecommunication systems - general assessment: Bulgaria’s telecom market was for some years affected by the difficult macroeconomic climate, as well as by relatively high unemployment and a shrinking population; these factors continue to slow investments in the sector, though revenue growth has returned since 2019; there still remains pressure on revenue growth, with consumers migrating from fixed-line voice telephony to mobile and VoIP alternatives, while the volume of SMS and MMS traffic has been affected by the growing use of alternative OTT messaging services; investing in network upgrades and its development of services based on 5G have stimulated other market players to invest in their own service provision; by the end of 2022 about 70% of the population is expected to be covered by 5G; the broadband market in Bulgaria enjoys excellent cross-platform competition; the share of the market held by DSL has fallen steadily as a result of customers being migrated to fiber networks; by early 2021 about 65% of fixed-line broadband subscribers were on fiber infrastructure; Bulgaria joins the U.S. State Department’s Clean Network initiative in a bid to protect its 5G communications networks (2022)
+Communications: Telecommunication systems - domestic: fixed-line over 11 per 100 persons, mobile-cellular teledensity, fostered by multiple service providers, is over 115 telephones per 100 persons (2021)
+Communications: Telecommunication systems - international: country code - 359; Caucasus Cable System via submarine cable provides connectivity to Ukraine, Georgia and Russia; a combination submarine cable and land fiber-optic system provides connectivity to Italy, Albania, and Macedonia; satellite earth stations - 3 (1 Intersputnik in the Atlantic Ocean region, 2 Intelsat in the Atlantic and Indian Ocean regions) (2019)
+Communications: Broadcast media: 4 national terrestrial TV stations with 1 state-owned and 3 privately owned; a vast array of TV stations are available from cable and satellite TV providers; state-owned national radio broadcasts over 3 networks; large number of private radio stations broadcasting, especially in urban areas
+Communications: Internet country code: .bg
+Communications: Internet users - percent of population: 80% (2023 est.)
+Communications: Broadband - fixed subscriptions - total: 2.45 million (2023 est.)
+Communications: Broadband - fixed subscriptions - subscriptions per 100 inhabitants: 36 (2023 est.)
+Transportation: National air transport system - number of registered air carriers: 8 (2020)
+Transportation: National air transport system - inventory of registered aircraft operated by air carriers: 44
+Transportation: National air transport system - annual passenger traffic on registered air carriers: 1,022,645 (2018)
+Transportation: National air transport system - annual freight traffic on registered air carriers: 1.38 million (2018) mt-km
+Transportation: Civil aircraft registration country code prefix: LZ
+Transportation: Airports: 111 (2024)
+Transportation: Heliports: 8 (2024)
+Transportation: Pipelines: 2,765 km gas, 346 km oil, 378 km refined products (2017)
+Transportation: Railways - total: 4,029 km (2020) 2,871 km electrified
+Transportation: Roadways - total: 19,117 km (2022)
+Transportation: Roadways - note: does not include Category IV local roads
+Transportation: Waterways: 470 km (2009)
+Transportation: Merchant marine - total: 78 (2023)
+Transportation: Merchant marine - by type: bulk carrier 2, general cargo 13, oil tanker 8, other 55
+Transportation: Ports - total ports: 2 (2024)
+Transportation: Ports - large: 1
+Transportation: Ports - medium: 0
+Transportation: Ports - small: 1
+Transportation: Ports - very small: 0
+Transportation: Ports - ports with oil terminals: 2
+Transportation: Ports - key ports: Burgas, Varna
+Military and Security: Military and security forces: Bulgarian Armed Forces (aka Bulgarian Army): Land Forces, Air Force, NavyMinistry of Interior: General Directorate National Police (GDNP), General Directorate Border Police (GDBP), General Directorate for Combating Organized Crime (GDCOC), Fire Safety and Civil Protection General Directorate, Special Unit for Combating Terrorism (SOBT) (2024)
+Military and Security: Military and security forces - note: the GDMP includes the Gendarmerie, a special police force with military status deployed to secure important facilities, buildings and infrastructure, to respond to riots, and to counter militant threats
+Military and Security: Military expenditures: 2.2% of GDP (2024 est.)1.9% of GDP (2023)1.6% of GDP (2022)1.6% of GDP (2021)1.6% of GDP (2020)
+Military and Security: Military and security service personnel strengths: approximately 27,000 active-duty personnel (17,000 Army; 3,000 Navy; 7,000 Air Force) (2024)
+Military and Security: Military and security service personnel strengths - note: in 2021, Bulgaria released a 10-year defense plan which called for an active military strength of 43,000
+Military and Security: Military equipment inventories and acquisitions: the military's inventory consists mostly of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern Western weapons systems (2023)
+Military and Security: Military service age and obligation: 18-40 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2023)
+Military and Security: Military service age and obligation - note 1: in 2021, women comprised about 17% of the Bulgarian military's full-time personnel
+Military and Security: Military service age and obligation - note 2: in 2020, Bulgaria announced a program to allow every citizen up to the age of 40 to join the armed forces for 6 months of military service in the voluntary reserve
+Military and Security: Military - note: the Bulgarian military is responsible for guaranteeing Bulgaria’s independence, sovereignty, and territorial integrity, providing support to international peace and security missions, and contributing to national security in peacetime, including such missions as responding to disasters or assisting with border security; the military trains regularly including in multinational exercises with regional partners and with NATO since Bulgaria joined the organization in 2004; it also participates in overseas peacekeeping and other security missions under the EU, NATO, and the UN; in 2022, Bulgaria established and began leading a NATO multinational battlegroup as part of an effort to boost NATO defenses in Eastern Europe following Russia’s invasion of Ukraine; in 2021, Bulgaria approved a 10-year defense development program, which included calls for equipment upgrades and procurements, boosts in manpower, organizational reforms, and greater focus on such areas as cyber defense, communications, logistics support, and research and developmentthe Bulgarian military has participated in several significant conflicts since its establishment in 1878, including the Serbo-Bulgarian War (1885), the First Balkan War (1912-13), the Second Balkan War (1913), World War I (1915-1918), and World War II (1941-45); during the Cold War it was one of the Warsaw Pact’s largest militaries with over 150,000 personnel and more than 200 Soviet-made combat aircraft (2024)
+Space: Space agency/agencies: Space Research and Technology Institute - Bulgarian Academy of Sciences (SRTI-BAS; formed in 1987 but originated from the Central Laboratory for Space Research and the Bulgarian Aerospace Agency, which was established in 1969) (2024)
+Space: Space program overview: has a long history of involvement in space-related activities going back to the 1960s; develops, produces, and operates satellites, mostly with foreign partners; researches, develops, and produces other space technologies, including those related to astrophysics, remote sensing, data exploitation, optics, and electronics; has specialized in producing scientific instruments for space research; has more than 20 research institutes; Cooperating State of the European Space Agency (ESA) since 2015; cooperates with a variety of foreign space agencies and commercial entities, including those of the ESA and EU (and bi-laterally with their member states), India, Japan, Russia, and the US (2024)
+Space: Space program overview - note: further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide
+Terrorism: Terrorist group(s) - Terrorist group(s): Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qods Force
+Terrorism: Terrorist group(s) - note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide
+Transnational Issues: Refugees and internally displaced persons - refugees (country of origin): 22,226 (Syria) (mid-year 2022); 72,775 (Ukraine) (as of 8 March 2024)
+Transnational Issues: Refugees and internally displaced persons - stateless persons: 1,129 (2022)
+Transnational Issues: Refugees and internally displaced persons - note: 106,227 estimated refugee and migrant arrivals (January 2015-January 2024); Bulgaria is predominantly a transit country
+Transnational Issues: Illicit drugs: source country for amphetamine tablets

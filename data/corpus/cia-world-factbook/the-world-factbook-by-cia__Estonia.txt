@@ -1,0 +1,300 @@
+url: https://www.cia.gov/the-world-factbook/countries/estonia/
+Introduction: Background: After centuries of Danish, Swedish, German, and Russian rule, Estonia attained independence in 1918. Forcibly incorporated into the USSR in 1940 -- an action never recognized by the US and many other countries -- it regained its freedom in 1991 with the collapse of the Soviet Union. Since the last Russian troops left in 1994, Estonia has been free to promote economic and political ties with the West. It joined both NATO and the EU in 2004, formally joined the OECD in 2010, and adopted the euro as its official currency in 2011.
+Geography: Location: Eastern Europe, bordering the Baltic Sea and Gulf of Finland, between Latvia and Russia
+Geography: Geographic coordinates: 59 00 N, 26 00 E
+Geography: Map references: Europe
+Geography: Area - total: 45,228 sq km
+Geography: Area - land: 42,388 sq km
+Geography: Area - water: 2,840 sq km
+Geography: Area - note: includes 1,520 islands in the Baltic Sea
+Geography: Area - comparative: about twice the size of New Jersey
+Geography: Land boundaries - total: 657 km
+Geography: Land boundaries - border countries (2): Latvia 333 km; Russia 324 km
+Geography: Coastline: 3,794 km
+Geography: Maritime claims - territorial sea: 12 nm
+Geography: Maritime claims - exclusive economic zone: limits as agreed to by Estonia, Finland, Latvia, Sweden, and Russia
+Geography: Climate: maritime; wet, moderate winters, cool summers
+Geography: Terrain: marshy, lowlands; flat in the north, hilly in the south
+Geography: Elevation - highest point: Suur Munamagi 318 m
+Geography: Elevation - lowest point: Baltic Sea 0 m
+Geography: Elevation - mean elevation: 61 m
+Geography: Natural resources: oil shale, peat, rare earth elements, phosphorite, clay, limestone, sand, dolomite, arable land, sea mud
+Geography: Land use - agricultural land: 22.2% (2018 est.)agricultural land: arable land: 14.9% (2018 est.)agricultural land: permanent crops: 0.1% (2018 est.)agricultural land: permanent pasture: 7.2% (2018 est.)
+Geography: Land use - forest: 52.1% (2018 est.)
+Geography: Land use - other: 25.7% (2018 est.)
+Geography: Irrigated land: 20 sq km (2016)
+Geography: Major lakes (area sq km) - fresh water lake(s): Lake Peipus - 4,300 sq km (shared with Russia); Lake Võrtsjärv - 270 sq km
+Geography: Population distribution: a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations
+Geography: Natural hazards: sometimes flooding occurs in the spring
+Geography: Geography - note: the mainland terrain is flat, boggy, and partly wooded; offshore lie more than 1,500 islands
+People and Society: Population - total: 1,193,791
+People and Society: Population - male: 563,079
+People and Society: Population - female: 630,712 (2024 est.)
+People and Society: Nationality - noun: Estonian(s)
+People and Society: Nationality - adjective: Estonian
+People and Society: Ethnic groups: Estonian 69.1%, Russian 23.7%, Ukrainian 2.1%, other 4.6%, unspecified 0.5% (2021 est.)
+People and Society: Languages: Estonian (official) 67.2%, Russian 28.5%, other 3.7%, unspecified 0.6% (2021est.)
+People and Society: Religions: Orthodox 16.5%, Protestant 9.2% (Lutheran 7.7%, other Protestant 1.5%), other 3% (includes Roman Catholic, Muslim, Jehovah's Witness, Pentecostal, Buddhist, and Taara Believer), none 58.4%, unspecified 12.9% (2021 est.)
+People and Society: Age structure - 0-14 years: 15.2% (male 92,980/female 88,753)
+People and Society: Age structure - 15-64 years: 62.2% (male 373,989/female 368,113)
+People and Society: Age structure - 65 years and over: 22.6% (2024 est.) (male 96,110/female 173,846)
+People and Society: Dependency ratios - total dependency ratio: 58.3
+People and Society: Dependency ratios - youth dependency ratio: 26.1
+People and Society: Dependency ratios - elderly dependency ratio: 32.3
+People and Society: Dependency ratios - potential support ratio: 3.1 (2021 est.)
+People and Society: Median age - total: 45 years (2024 est.)
+People and Society: Median age - male: 41.9 years
+People and Society: Median age - female: 48.2 years
+People and Society: Population growth rate: -0.76% (2024 est.)
+People and Society: Birth rate: 8.2 births/1,000 population (2024 est.)
+People and Society: Death rate: 13.2 deaths/1,000 population (2024 est.)
+People and Society: Net migration rate: -2.7 migrant(s)/1,000 population (2024 est.)
+People and Society: Population distribution: a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations
+People and Society: Urbanization - urban population: 69.8% of total population (2023)
+People and Society: Urbanization - rate of urbanization: -0.03% annual rate of change (2020-25 est.)
+People and Society: Major urban areas - population: 454,000 TALLINN (capital) (2023)
+People and Society: Sex ratio - at birth: 1.05 male(s)/female
+People and Society: Sex ratio - 0-14 years: 1.05 male(s)/female
+People and Society: Sex ratio - 15-64 years: 1.02 male(s)/female
+People and Society: Sex ratio - 65 years and over: 0.55 male(s)/female
+People and Society: Sex ratio - total population: 0.89 male(s)/female (2024 est.)
+People and Society: Mother's mean age at first birth: 28.2 years (2020 est.)
+People and Society: Maternal mortality ratio: 5 deaths/100,000 live births (2020 est.)
+People and Society: Infant mortality rate - total: 3.3 deaths/1,000 live births (2024 est.)
+People and Society: Infant mortality rate - male: 3.2 deaths/1,000 live births
+People and Society: Infant mortality rate - female: 3.4 deaths/1,000 live births
+People and Society: Life expectancy at birth - total population: 78.4 years (2024 est.)
+People and Society: Life expectancy at birth - male: 73.8 years
+People and Society: Life expectancy at birth - female: 83.2 years
+People and Society: Total fertility rate: 1.62 children born/woman (2024 est.)
+People and Society: Gross reproduction rate: 0.79 (2024 est.)
+People and Society: Contraceptive prevalence rate: NA
+People and Society: Drinking water source - improved: urban: 100% of populationrural: NAtotal: 99.6% of population
+People and Society: Drinking water source - unimproved: urban: 0% of populationrural: NAtotal: 0.4% of population (2020 est.)
+People and Society: Current health expenditure: 6.9% of GDP (2022)
+People and Society: Physician density: 3.47 physicians/1,000 population (2019)
+People and Society: Hospital bed density: 4.6 beds/1,000 population (2018)
+People and Society: Sanitation facility access - improved: urban: 99.8% of populationrural: 100% of populationtotal: 99.8% of population
+People and Society: Sanitation facility access - unimproved: urban: 0.2% of populationrural: 0% of populationtotal: 0.2% of population (2020 est.)
+People and Society: Obesity - adult prevalence rate: 21.2% (2016)
+People and Society: Alcohol consumption per capita - total: 11.65 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - beer: 4 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - wine: 1.92 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - spirits: 4.6 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - other alcohols: 1.13 liters of pure alcohol (2019 est.)
+People and Society: Tobacco use - total: 29.7% (2020 est.)
+People and Society: Tobacco use - male: 36.3% (2020 est.)
+People and Society: Tobacco use - female: 23% (2020 est.)
+People and Society: Children under the age of 5 years underweight: 0.4% (2013/15)
+People and Society: Currently married women (ages 15-49): 52.3% (2023 est.)
+People and Society: Education expenditures: 6.6% of GDP (2020 est.)
+People and Society: Literacy - definition: age 15 and over can read and write
+People and Society: Literacy - total population: 99.9%
+People and Society: Literacy - male: 99.9%
+People and Society: Literacy - female: 99.9% (2021)
+People and Society: School life expectancy (primary to tertiary education) - total: 16 years
+People and Society: School life expectancy (primary to tertiary education) - male: 15 years
+People and Society: School life expectancy (primary to tertiary education) - female: 17 years (2020)
+Environment: Environment - current issues: air polluted with sulfur dioxide from oil-shale burning power plants in northeast; however, the amounts of pollutants emitted into the air have fallen dramatically and the pollution load of wastewater at purification plants has decreased substantially due to improved technology and environmental monitoring; Estonia has more than 1,400 natural and manmade lakes, the smaller of which in agricultural areas need to be monitored; coastal seawater is polluted in certain locations
+Environment: Environment - international agreements - party to: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+Environment: Environment - international agreements - signed, but not ratified: none of the selected agreements
+Environment: Climate: maritime; wet, moderate winters, cool summers
+Environment: Land use - agricultural land: 22.2% (2018 est.)agricultural land: arable land: 14.9% (2018 est.)agricultural land: permanent crops: 0.1% (2018 est.)agricultural land: permanent pasture: 7.2% (2018 est.)
+Environment: Land use - forest: 52.1% (2018 est.)
+Environment: Land use - other: 25.7% (2018 est.)
+Environment: Urbanization - urban population: 69.8% of total population (2023)
+Environment: Urbanization - rate of urbanization: -0.03% annual rate of change (2020-25 est.)
+Environment: Revenue from forest resources: 0.85% of GDP (2018 est.)
+Environment: Revenue from coal: 0% of GDP (2018 est.)
+Environment: Air pollutants - particulate matter emissions: 6.35 micrograms per cubic meter (2019 est.)
+Environment: Air pollutants - carbon dioxide emissions: 16.59 megatons (2016 est.)
+Environment: Air pollutants - methane emissions: 0.99 megatons (2020 est.)
+Environment: Waste and recycling - municipal solid waste generated annually: 473,000 tons (2015 est.)
+Environment: Waste and recycling - municipal solid waste recycled annually: 117,020 tons (2015 est.)
+Environment: Waste and recycling - percent of municipal solid waste recycled: 24.7% (2015 est.)
+Environment: Major lakes (area sq km) - fresh water lake(s): Lake Peipus - 4,300 sq km (shared with Russia); Lake Võrtsjärv - 270 sq km
+Environment: Total water withdrawal - municipal: 60 million cubic meters (2020 est.)
+Environment: Total water withdrawal - industrial: 790 million cubic meters (2020 est.)
+Environment: Total water withdrawal - agricultural: 4.5 million cubic meters (2017 est.)
+Environment: Total renewable water resources: 12.81 billion cubic meters (2020 est.)
+Government: Country name - conventional long form: Republic of Estonia
+Government: Country name - conventional short form: Estonia
+Government: Country name - local long form: Eesti Vabariik
+Government: Country name - local short form: Eesti
+Government: Country name - former: Estonian Soviet Socialist Republic (while occupied by the USSR)
+Government: Country name - etymology: the country name may derive from the Aesti, an ancient people who lived along the eastern Baltic Sea in the first centuries A.D.
+Government: Government type: parliamentary republic
+Government: Capital - name: Tallinn
+Government: Capital - geographic coordinates: 59 26 N, 24 43 E
+Government: Capital - time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+Government: Capital - daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Government: Capital - etymology: the Estonian name is generally believed to be derived from "Taani-linn" (originally meaning "Danish castle", now "Danish town") after a stronghold built in the area by the Danes; it could also have come from "tali-linn" ("winter castle" or "winter town") or "talu-linn" ("home castle" or "home town")
+Government: Administrative divisions: 15 urban municipalities (linnad, singular - linn), 64 rural municipalities (vallad, singular vald) 
+Government: Administrative divisions - urban municipalities: Haapsalu, Keila, Kohtla-Jarve, Loksa, Maardu, Narva, Narva-Joesuu, Paide, Parnu, Rakvere, Sillamae, Tallinn, Tartu, Viljandi, Voru
+Government: Administrative divisions - rural municipalities: Alutaguse, Anija, Antsla, Elva, Haademeeste, Haljala, Harku, Hiiumaa, Jarva, Joelahtme, Jogeva, Johvi, Kadrina, Kambja, Kanepi, Kastre, Kehtna, Kihnu, Kiili, Kohila, Kose, Kuusalu, Laane-Harju, Laane-Nigula, Laaneranna, Luganuse, Luunja, Marjamaa, Muhu, Mulgi, Mustvee, Noo, Otepaa, Peipsiaare, Pohja-Parnumaa, Pohja-Sakala, Poltsamaa, Polva, Raasiku, Rae, Rakvere, Räpina, Rapla, Rouge, Ruhnu, Saarde, Saaremaa, Saku, Saue, Setomaa, Tapa, Tartu, Toila, Tori, Torva, Turi, Vaike-Maarja, Valga, Viimsi, Viljandi, Vinni, Viru-Nigula, Vormsi, Voru
+Government: Independence: 24 February 1918 (from Soviet Russia); 20 August 1991 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union)
+Government: National holiday: Independence Day, 24 February (1918); note - 24 February 1918 was the date Estonia declared its independence from Soviet Russia and established its statehood; 20 August 1991 was the date it declared its independence from the Soviet Union restoring its statehood
+Government: Legal system: civil law system
+Government: Constitution - history: several previous; latest adopted 28 June 1992, entered into force 3 July 1992
+Government: Constitution - amendments: proposed by at least one-fifth of Parliament members or by the president of the republic; passage requires three readings of the proposed amendment and a simple majority vote in two successive memberships of Parliament; passage of amendments to the "General Provisions" and "Amendment of the Constitution" chapters requires at least three-fifths majority vote by Parliament to conduct a referendum and majority vote in a referendum; amended several times, last in 2015
+Government: International law organization participation: accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
+Government: Citizenship - citizenship by birth: no
+Government: Citizenship - citizenship by descent only: at least one parent must be a citizen of Estonia
+Government: Citizenship - dual citizenship recognized: no
+Government: Citizenship - residency requirement for naturalization: 5 years
+Government: Suffrage: 18 years of age; universal; age 16 for local elections
+Government: Executive branch - chief of state: President Alar KARIS (since 11 October 2021)
+Government: Executive branch - head of government: Prime Minister Kristen MICHAL (since 23 July 2024)
+Government: Executive branch - cabinet: Cabinet appointed by the prime minister, approved by Parliament
+Government: Executive branch - elections/appointments: president indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two thirds of the votes after 3 rounds of balloting, then an electoral college consisting of Parliament members and local council members elects the president, choosing between the 2 candidates with the highest number of votes; if a president is still not elected, the process begins again; election last held on 30 to 31 August 2021 (next to be held in 2026); prime minister nominated by the president and approved by Parliament
+Government: Executive branch - election results: 2021: Alar KARIS (independent) elected president; won second round of voting in parliament with 72 of 101 votes2016: Kersti KALJULAID elected president; won sixth round of voting in parliament with 81 of 98 votes (17 ballots blank); KALJULAID sworn in on 10 October 2016 - first female head of state of Estonia
+Government: Executive branch - note: - Prime Minister Kaja KALLAS resigned on 15 July 2024 but will continue as acting prime minister until the new government is sworn in
+Government: Legislative branch - legislature name: The Estonian Parliament (Riigikogu)
+Government: Legislative branch - legislative structure: unicameral
+Government: Legislative branch - number of seats: 101 (all directly elected)
+Government: Legislative branch - electoral system: proportional representation
+Government: Legislative branch - scope of elections: full renewal
+Government: Legislative branch - term in office: 4 years
+Government: Legislative branch - most recent election date: 3/5/2023
+Government: Legislative branch - parties elected and seats per party: Reform Party (37); Conservative People's Party (EKRE) (17); Centre Party (16); Estonia 200 (Eesti 200) (14); Social Democratic Party (9); Pro Patria (Isamaa) (8)
+Government: Legislative branch - percentage of women in chamber: 28.7%
+Government: Legislative branch - expected date of next election: March 2027
+Government: Judicial branch - highest court(s): Supreme Court (consists of 19 justices, including the chief justice, and organized into civil, criminal, administrative, and constitutional review chambers)
+Government: Judicial branch - judge selection and term of office: the chief justice is proposed by the president of the republic and appointed by the Riigikogu; other justices proposed by the chief justice and appointed by the Riigikogu; justices appointed for life
+Government: Judicial branch - subordinate courts: circuit (appellate) courts; administrative, county, city, and specialized courts
+Government: Political parties: Conservative People's Party (Konservatiivne Rahvaerakond) or EKREEstonia 200 or E200Estonia Centre Party of (Keskerakond) or KEEstonian Free Party or VAPEstonian Greens or EEREstonian Nationalists and Conservatives or ERK Estonian Reform Party (Reformierakond) or REEstonian United Left Party or EÜVPFatherland or IPro Patria (Isamaa)The Right or PPSocial Democratic Party or SDE
+Government: International organization participation: Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO
+Government: Diplomatic representation in the US - chief of mission: Ambassador Kristjan PRIKK (since 7 July 2021)
+Government: Diplomatic representation in the US - chancery: 2131 Massachusetts Ave, NWWashington, DC, 20008
+Government: Diplomatic representation in the US - telephone: [1] (202) 588-0101
+Government: Diplomatic representation in the US - FAX: [1] (202) 588-0108
+Government: Diplomatic representation in the US - email address and website: Embassy.Washington@mfa.eehttps://washington.mfa.ee/
+Government: Diplomatic representation in the US - consulate(s) general: New York, San Francisco
+Government: Diplomatic representation from the US - chief of mission: Ambassador (vacant); Chargé d’Affaires Matthew E. WALL (since January 2025)
+Government: Diplomatic representation from the US - embassy: Kentmanni 20, 15099 Tallinn
+Government: Diplomatic representation from the US - mailing address: 4530 Tallinn Place, Washington DC  20521-4530
+Government: Diplomatic representation from the US - telephone: [372] 668-8100
+Government: Diplomatic representation from the US - FAX: [372] 668-8265
+Government: Diplomatic representation from the US - email address and website: acstallinn@state.govhttps://ee.usembassy.gov/
+Government: Flag description: three equal horizontal bands of blue (top), black, and white; various interpretations are linked to the flag colors; blue represents faith, loyalty, and devotion, while also reminiscent of the sky, sea, and lakes of the country; black symbolizes the soil of the country and the dark past and suffering endured by the Estonian people; white refers to the striving towards enlightenment and virtue, and is the color of birch bark and snow, as well as summer nights illuminated by the midnight sun
+Government: National symbol(s): barn swallow, cornflower; national colors: blue, black, white
+Government: National anthem - name: "Mu isamaa, mu onn ja room" (My Native Land, My Pride and Joy)
+Government: National anthem - lyrics/music: Johann Voldemar JANNSEN/Fredrik PACIUS
+Government: National anthem - note: adopted 1920, though banned between 1940 and 1990 under Soviet occupation; the anthem, used in Estonia since 1869, shares the same melody as Finland's but has different lyrics
+Government: National heritage - total World Heritage Sites: 2 (both cultural)
+Government: National heritage - selected World Heritage Site locales: Historic Center (Old Town) of Tallinn; Struve Geodetic Arc
+Economy: Economic overview: advanced, service-based EU and eurozone economy; economic downturn due to inflation, trade, and energy impacts of Ukraine war; decline in intra-EU trade; low public debt relative to EU members; recovery depends on improving private investment and productivity rates
+Economy: Real GDP (purchasing power parity): $58.199 billion (2023 est.)$60.013 billion (2022 est.)$59.977 billion (2021 est.)note: data in 2021 dollars
+Economy: Real GDP growth rate: -3.02% (2023 est.)0.06% (2022 est.)7.25% (2021 est.)note: annual GDP % growth based on constant local currency
+Economy: Real GDP per capita: $42,500 (2023 est.)$44,500 (2022 est.)$45,100 (2021 est.)note: data in 2021 dollars
+Economy: GDP (official exchange rate): $41.291 billion (2023 est.)note: data in current dollars at official exchange rate
+Economy: Inflation rate (consumer prices): 9.16% (2023 est.)19.4% (2022 est.)4.65% (2021 est.)note: annual % change based on consumer prices
+Economy: Credit ratings - Fitch rating: AA- (2018)
+Economy: Credit ratings - Moody's rating: A1 (2002)
+Economy: Credit ratings - Standard & Poors rating: AA- (2011)
+Economy: Credit ratings - note: The year refers to the year in which the current credit rating was first obtained.
+Economy: GDP - composition, by sector of origin - agriculture: 1.9% (2023 est.)
+Economy: GDP - composition, by sector of origin - industry: 21.7% (2023 est.)
+Economy: GDP - composition, by sector of origin - services: 64.5% (2023 est.)note: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
+Economy: GDP - composition, by end use - household consumption: 52.3% (2023 est.)
+Economy: GDP - composition, by end use - government consumption: 20.6% (2023 est.)
+Economy: GDP - composition, by end use - investment in fixed capital: 27.9% (2023 est.)
+Economy: GDP - composition, by end use - investment in inventories: -0.2% (2023 est.)
+Economy: GDP - composition, by end use - exports of goods and services: 77.9% (2023 est.)
+Economy: GDP - composition, by end use - imports of goods and services: -77% (2023 est.)note: figures may not total 100% due to rounding or gaps in data collection
+Economy: Agricultural products: milk, wheat, barley, rapeseed, peas, oats, potatoes, rye, pork, triticale (2023)note: top ten agricultural products based on tonnage
+Economy: Industries: food, engineering, electronics, wood and wood products, textiles; information technology, telecommunications
+Economy: Industrial production growth rate: -10.02% (2023 est.)note: annual % change in industrial value added based on constant local currency
+Economy: Labor force: 757,000 (2023 est.)note: number of people ages 15 or older who are employed or seeking work
+Economy: Unemployment rate: 6.35% (2023 est.)5.57% (2022 est.)6.18% (2021 est.)note: % of labor force seeking employment
+Economy: Youth unemployment rate (ages 15-24) - total: 17.1% (2023 est.)
+Economy: Youth unemployment rate (ages 15-24) - male: 18.2% (2023 est.)
+Economy: Youth unemployment rate (ages 15-24) - female: 16% (2023 est.)note: % of labor force ages 15-24 seeking employment
+Economy: Population below poverty line: 22.5% (2022 est.)note: % of population with income below national poverty line
+Economy: Gini Index coefficient - distribution of family income: 31.8 (2021 est.)note: index (0-100) of income distribution; higher values represent greater inequality
+Economy: Average household expenditures - on food: 19.9% of household expenditures (2023 est.)
+Economy: Average household expenditures - on alcohol and tobacco: 6.7% of household expenditures (2023 est.)
+Economy: Household income or consumption by percentage share - lowest 10%: 3.1% (2021 est.)
+Economy: Household income or consumption by percentage share - highest 10%: 24.3% (2021 est.)note: % share of income accruing to lowest and highest 10% of population
+Economy: Remittances: 1.18% of GDP (2023 est.)1.22% of GDP (2022 est.)1.59% of GDP (2021 est.)note: personal transfers and compensation between resident and non-resident individuals/households/entities
+Economy: Budget - revenues: $13.907 billion (2022 est.)
+Economy: Budget - expenditures: $13.505 billion (2022 est.)note: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
+Economy: Public debt: 24.9% of GDP (2022 est.)note: central government debt as a % of GDP
+Economy: Taxes and other revenues: 20.76% (of GDP) (2022 est.)note: central government tax revenue as a % of GDP
+Economy: Current account balance: -$722.668 million (2023 est.)-$1.496 billion (2022 est.)-$1.387 billion (2021 est.)note: balance of payments - net trade and primary/secondary income in current dollars
+Economy: Exports: $32.147 billion (2023 est.)$33.178 billion (2022 est.)$29.525 billion (2021 est.)note: balance of payments - exports of goods and services in current dollars
+Economy: Exports - partners: Finland 14%, Latvia 10%, Lithuania 9%, Sweden 7%, Russia 6% (2023)note: top five export partners based on percentage share of exports
+Economy: Exports - commodities: cars, wood, broadcasting equipment, refined petroleum, prefabricated buildings (2023)note: top five export commodities based on value in dollars
+Economy: Imports: $31.796 billion (2023 est.)$33.655 billion (2022 est.)$30.054 billion (2021 est.)note: balance of payments - imports of goods and services in current dollars
+Economy: Imports - partners: Finland 11%, Germany 11%, China 10%, Lithuania 6%, Poland 6% (2023)note: top five import partners based on percentage share of imports
+Economy: Imports - commodities: cars, refined petroleum, broadcasting equipment, natural gas, packaged medicine (2023)note: top five import commodities based on value in dollars
+Economy: Reserves of foreign exchange and gold: $2.593 billion (2023 est.)$2.217 billion (2022 est.)$2.371 billion (2021 est.)note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars
+Economy: Exchange rates: euros (EUR) per US dollar -
+Economy: Exchange rates - Exchange rates: 0.925 (2023 est.)0.95 (2022 est.)0.845 (2021 est.)0.876 (2020 est.)0.893 (2019 est.)
+Energy: Electricity access - electrification - total population: 100% (2022 est.)
+Energy: Electricity - installed generating capacity: 2.871 million kW (2022 est.)
+Energy: Electricity - consumption: 7.476 billion kWh (2022 est.)
+Energy: Electricity - exports: 6.173 billion kWh (2022 est.)
+Energy: Electricity - imports: 7.182 billion kWh (2022 est.)
+Energy: Electricity - transmission/distribution losses: 532 million kWh (2022 est.)
+Energy: Electricity generation sources - fossil fuels: 63.5% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - solar: 5.1% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - wind: 9.6% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - hydroelectricity: 0.2% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - biomass and waste: 21.7% of total installed capacity (2022 est.)
+Energy: Coal - consumption: 3,000 metric tons (2022 est.)
+Energy: Coal - exports: 18.5 metric tons (2022 est.)
+Energy: Coal - imports: 2,000 metric tons (2022 est.)
+Energy: Petroleum - total petroleum production: 24,000 bbl/day (2023 est.)
+Energy: Petroleum - refined petroleum consumption: 28,000 bbl/day (2023 est.)
+Energy: Natural gas - consumption: 354.912 million cubic meters (2022 est.)
+Energy: Natural gas - exports: 706.983 million cubic meters (2022 est.)
+Energy: Natural gas - imports: 1.255 billion cubic meters (2022 est.)
+Energy: Carbon dioxide emissions: 5.16 million metric tonnes of CO2 (2022 est.)
+Energy: Carbon dioxide emissions - from coal and metallurgical coke: 7,000 metric tonnes of CO2 (2022 est.)
+Energy: Carbon dioxide emissions - from petroleum and other liquids: 4.466 million metric tonnes of CO2 (2022 est.)
+Energy: Carbon dioxide emissions - from consumed natural gas: 688,000 metric tonnes of CO2 (2022 est.)
+Energy: Energy consumption per capita: 73.259 million Btu/person (2022 est.)
+Communications: Telephones - fixed lines - total subscriptions: 238,000 (2023 est.)
+Communications: Telephones - fixed lines - subscriptions per 100 inhabitants: 17 (2023 est.)
+Communications: Telephones - mobile cellular - total subscriptions: 2.05 million (2023 est.)
+Communications: Telephones - mobile cellular - subscriptions per 100 inhabitants: 155 (2022 est.)
+Communications: Telecommunication systems - general assessment: investment in Estonia’s telecom market has been focused on fixed-line infrastructure upgrades, and the deployment of 5G services; fixed broadband subscribers are gradually migrating from digital subscriber lines (DSL) to fiber, with the legacy copper being replaced; the Mobile Network Operators (MNOs) have comprehensive long-term evolution (LTE) infrastructure in place, and have in recent years channeled investment to 5G; several 5G trials have been undertaken in recent years, though commercial service launches have been restricted by the lack of available internet services (2024)
+Communications: Telecommunication systems - domestic: 20 per 100 for fixed-line subscribership and approximately 155 per 100 for mobile-cellular (2022)
+Communications: Telecommunication systems - international: country code - 372; landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC and EESF-2 fiber-optic submarine cables to other Estonia points, Finland, and Sweden; 2 international switches are located in Tallinn (2019)
+Communications: Broadcast media: the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV channels and 5 radio networks; growing number of private commercial radio stations broadcasting nationally, regionally, and locally; fully transitioned to digital television in 2010; national private TV channels expanding service; a range of channels are aimed at Russian-speaking viewers; in 2016, there were 42 on-demand services available in Estonia, including 19 pay TVOD and SVOD services; roughly 85% of households accessed digital television services
+Communications: Internet country code: .ee
+Communications: Internet users - percent of population: 93% (2023 est.)
+Communications: Broadband - fixed subscriptions - total: 516,000 (2023 est.)
+Communications: Broadband - fixed subscriptions - subscriptions per 100 inhabitants: 38 (2023 est.)
+Transportation: National air transport system - number of registered air carriers: 3 (2020)
+Transportation: National air transport system - inventory of registered aircraft operated by air carriers: 14
+Transportation: National air transport system - annual passenger traffic on registered air carriers: 31,981 (2018)
+Transportation: Civil aircraft registration country code prefix: ES
+Transportation: Airports: 26 (2024)
+Transportation: Heliports: 2 (2024)
+Transportation: Pipelines: 2,360 km gas (2016)
+Transportation: Railways - total: 1,441 km (2020) 225 km electrified
+Transportation: Roadways - total: 89,382 km (2022)
+Transportation: Waterways: 335 km (2011) (320 km are navigable year-round)
+Transportation: Merchant marine - total: 72 (2023)
+Transportation: Merchant marine - by type: general cargo 3, oil tanker 3, other 66
+Transportation: Ports - total ports: 20 (2024)
+Transportation: Ports - large: 4
+Transportation: Ports - medium: 1
+Transportation: Ports - small: 4
+Transportation: Ports - very small: 11
+Transportation: Ports - ports with oil terminals: 5
+Transportation: Ports - key ports: Muuga - Port of Tallin, Paldiski Lounasadam, Paljassaare, Sillamae, Vanasadam - Port of Tallinn
+Military and Security: Military and security forces: Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League Ministry of Interior: Police and Border Guard Board, Internal Security Service (2024)
+Military and Security: Military expenditures: 3.4% of GDP (2024 est.)2.9% of GDP (2023)2.2% of GDP (2022)2% of GDP (2021)2.3% of GDP (2020)
+Military and Security: Military and security service personnel strengths: approximately 7,500 active-duty personnel; approximately 15,000 Defense League (2024)
+Military and Security: Military and security service personnel strengths - note: the Estonian Defense Forces rely largely on reservists who have completed compulsory conscription in the previous 10 years to fill out its active duty and Territorial Defense units during a crisis; there are more than 40,000 trained reservists and approximately 230,000 Estonians are enrolled in the mobilization registry
+Military and Security: Military equipment inventories and acquisitions: the Estonian military has a mix of weapons and equipment from western European suppliers, as well as Israel, South Korea, Turkey, and the US  (2024)
+Military and Security: Military service age and obligation: 18-27 for compulsory military or governmental service for men; conscript service requirement 8-11 months depending on education; non-commissioned officers, reserve officers, and specialists serve 11 months; women can volunteer, and as of 2018 could serve in any military branch (2024)
+Military and Security: Military service age and obligation - note 1: conscripts comprise approximately 3,000-3,300 of the Estonian military's 7,000 active-duty personnel and serve in all branches, except for the Air Force; after conscript service, reservists are called up for training every 5 years; Estonia has had conscription since 1991
+Military and Security: Military service age and obligation - note 2: in 2021, women comprised about 10% of the full-time professional military force; the Defense League includes a Women's Voluntary Defense Organization of more than 3,000 members
+Military and Security: Military - note: the Estonian military is a compact force that relies heavily on conscripts and reservists and the support of its NATO allies; Estonia’s defense policy aims to guarantee the country’s independence and sovereignty, protect its territorial integrity, including waters and airspace, and preserve constitutional order; Estonia’s main defense goals are developing and maintaining a credible deterrent to outside aggression and ensuring the Estonian Defense Forces (EDF) can fulfill their commitments to NATO and interoperate with the armed forces of NATO and EU member states; the EDF’s primary external focus is Russia; since Russia’s full-scale invasion of Ukraine in 2022, Estonia has boosted defense spending, sent arms to Ukraine, and sought to boost the EDF’s capabilities in such areas as air defense, artillery, personnel readiness, and surveillanceEstonia has been a member of NATO since 2004 and is fully integrated within the NATO structure; since 2017, Estonia has hosted a UK-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; as the EDF Air Force does not have any combat aircraft, NATO has provided airspace protection for Estonia since 2004 through its Baltic Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014; Estonia also hosts a NATO cyber security center; it cooperates closely with the EU on defense issues through the EU Common Security and Defense Policy and is a member of the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the North Atlantic, Baltic Sea, and High North regions; Estonia also has close defense ties with its Baltic neighbors and has bilateral military agreements with a number of European countries, as well as Canada and the US (2024)
+Transnational Issues: Refugees and internally displaced persons - refugees (country of origin): 38,020 (Ukraine) (as of 2 March 2024)
+Transnational Issues: Refugees and internally displaced persons - stateless persons: 70,604 (2022); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old
+Transnational Issues: Illicit drugs: producer of synthetic drugs; important transshipment zone for cannabis, cocaine, opiates, and synthetic drugs since joining the European Union and the Schengen Accord; potential money laundering related to organized crime and drug trafficking is a concern, as is possible use of the gambling sector to launder funds; major use of opiates and ecstasy

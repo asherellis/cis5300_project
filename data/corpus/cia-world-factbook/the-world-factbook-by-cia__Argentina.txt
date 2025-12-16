@@ -1,0 +1,341 @@
+url: https://www.cia.gov/the-world-factbook/countries/argentina/
+Introduction: Background: In 1816, the United Provinces of the Río de la Plata declared their independence from Spain. After Bolivia, Paraguay, and Uruguay went their separate ways, the area that remained became Argentina. European immigrants heavily shaped the country's population and culture, with Italy and Spain providing the largest percentage of newcomers from 1860 to 1930. Until about the mid-20th century, much of Argentina's history was dominated by periods of internal political unrest and conflict between civilian and military factions. After World War II, former President Juan Domingo PERÓN -- the founder of the Peronist political movement -- introduced an era of populism, serving three non-consecutive terms in office until his death in 1974. Direct and indirect military interference in government throughout the PERÓN years led to a military junta taking power in 1976. In 1982, the junta failed in its bid to seize the Falkland Islands (Islas Malvinas) by force from the United Kingdom. Democracy was reinstated in 1983 and has persisted despite numerous challenges, the most formidable of which was a severe economic crisis in 2001-02 that led to violent public protests and the successive resignations of several presidents. The years 2003-15 saw Peronist rule by Néstor KIRCHNER (2003-07) and his spouse Cristina FERNÁNDEZ DE KIRCHNER (2007-15), who oversaw several years of strong economic growth (2003-11) followed by a gradual deterioration in the government’s fiscal situation and eventual economic stagnation and isolation. Argentina underwent a brief period of economic reform and international reintegration under Mauricio MACRI (2015-19), but a recession in 2018-19 and frustration with MACRI’s economic policies ushered in a new Peronist government in 2019 led by President Alberto FERNÁNDEZ and Vice President Cristina FERNÁNDEZ DE KIRCHNER. Argentina's high public debts, its pandemic-related inflationary pressures, and systemic monetary woes served as the catalyst for the 2023 elections, culminating with President Javier MILEI's electoral success. Argentina has since eliminated half of its government agencies and is seeking shock therapy to amend taxation and monetary policies.
+Geography: Location: Southern South America, bordering the South Atlantic Ocean, between Chile and Uruguay
+Geography: Geographic coordinates: 34 00 S, 64 00 W
+Geography: Map references: South America
+Geography: Area - total: 2,780,400 sq km
+Geography: Area - land: 2,736,690 sq km
+Geography: Area - water: 43,710 sq km
+Geography: Area - comparative: slightly less than three-tenths the size of the US
+Geography: Land boundaries - total: 11,968 km
+Geography: Land boundaries - border countries (5): Bolivia 942 km; Brazil 1,263 km; Chile 6,691 km; Paraguay 2,531 km; Uruguay 541 km
+Geography: Coastline: 4,989 km
+Geography: Maritime claims - territorial sea: 12 nm
+Geography: Maritime claims - contiguous zone: 24 nm
+Geography: Maritime claims - exclusive economic zone: 200 nm
+Geography: Maritime claims - continental shelf: 200 nm or to the edge of the continental margin
+Geography: Climate: mostly temperate; arid in southeast; subantarctic in southwest
+Geography: Terrain: rich plains of the Pampas in northern half, flat to rolling plateau of Patagonia in south, rugged Andes along western border
+Geography: Elevation - highest point: Cerro Aconcagua (located in the northwestern corner of the province of Mendoza; highest point in South America) 6,962 m
+Geography: Elevation - lowest point: Laguna del Carbón (located between Puerto San Julián and Comandante Luis Piedra Buena in the province of Santa Cruz) -105 m
+Geography: Elevation - mean elevation: 595 m
+Geography: Natural resources: fertile plains of the pampas, lead, zinc, tin, copper, iron ore, manganese, petroleum, uranium, arable land
+Geography: Land use - agricultural land: 53.9% (2018 est.)agricultural land: arable land: 13.9% (2018 est.)agricultural land: permanent crops: 0.4% (2018 est.)agricultural land: permanent pasture: 39.6% (2018 est.)
+Geography: Land use - forest: 10.7% (2018 est.)
+Geography: Land use - other: 35.4% (2018 est.)
+Geography: Irrigated land: 23,600 sq km (2012)
+Geography: Major lakes (area sq km) - fresh water lake(s): Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Martín (shared with Chile) - 1,010 sq km; Lago Colhué Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km
+Geography: Major lakes (area sq km) - salt water lake(s): Laguna Mar Chiquita - 1,850 sq km;
+Geography: Major rivers (by length in km): Río de la Plata/Paraná river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km
+Geography: Major rivers (by length in km) - note: – [s] after country name indicates river source; [m] after country name indicates river mouth
+Geography: Major watersheds (area sq km): Atlantic Ocean drainage: Paraná (2,582,704 sq km)
+Geography: Major aquifers: Guaraní Aquifer System
+Geography: Population distribution: one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated
+Geography: Natural hazards: San Miguel de Tucumán and Mendoza areas in the Andes subject to earthquakes; pamperos are violent windstorms that can strike the pampas and northeast; heavy flooding in some areas 
+Geography: Natural hazards - volcanism: volcanic activity in the Andes Mountains along the Chilean border; Copahue (2,997 m) last erupted in 2000; other historically active volcanoes include Llullaillaco, Maipo, Planchón-Peteroa, San José, Tromen, Tupungatito, and Viedma
+Geography: Geography - note - note 1: second-largest country in South America (after Brazil); strategic location relative to sea lanes between the South Atlantic and the South Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage); diverse geophysical landscapes range from tropical climates in the north to tundra in the far south; Cerro Aconcagua is the Western Hemisphere's tallest mountain, while Laguna del Carbón is the lowest point in the Western Hemisphere; shares Iguazú Falls, the world's largest waterfalls system, with Brazil
+Geography: Geography - note - note 2: southeast Bolivia and northwest Argentina seem to be the original development site for peanuts
+People and Society: Population - total: 46,994,384
+People and Society: Population - male: 23,274,794
+People and Society: Population - female: 23,719,590 (2024 est.)
+People and Society: Nationality - noun: Argentine(s)
+People and Society: Nationality - adjective: Argentine
+People and Society: Ethnic groups: European (mostly Spanish and Italian descent) and Mestizo (mixed European and Indigenous ancestry) 97.2%, Indigenous 2.4%, African descent 0.4% (2010 est.)
+People and Society: Languages: Spanish (official), Italian, English, German, French, indigenous (Quechua, Guarani, Mapudungun)
+People and Society: Languages - major-language sample(s): La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)The World Factbook, the indispensable source for basic information.
+People and Society: Religions: Roman Catholic 62.9%, Evangelical 15.3% (Pentecostal 13%, other Evangelical 2.3%), Jehovah's Witness and Church of Jesus Christ 1.4%, other 1.2% (includes Muslim, Jewish), none 18.9% (includes agnostic and atheist), unspecified 0.3% (2019 est.)
+People and Society: Demographic profile: Argentina's population continues to grow but at a slower rate because of its steadily declining birth rate. Argentina's fertility decline began earlier than in the rest of Latin America, occurring most rapidly between the early 20th century and the 1950s, and then becoming more gradual. Life expectancy has been improving, most notably among the young and the poor. While the population under age 15 is shrinking, the youth cohort - ages 15-24 - is the largest in Argentina's history and will continue to bolster the working-age population. If this large working-age population is well-educated and gainfully employed, Argentina is likely to experience an economic boost and possibly higher per capita savings and investment. Although literacy and primary school enrollment are nearly universal, grade repetition is problematic and secondary school completion is low. Both of these issues vary widely by region and socioeconomic group. Argentina has been primarily a country of immigration for most of its history, welcoming European immigrants (often providing needed low-skilled labor) after its independence in the 19th century and attracting especially large numbers from Spain and Italy. More than 7 million European immigrants are estimated to have arrived in Argentina between 1880 and 1930, when it adopted a more restrictive immigration policy. European immigration also began to wane in the 1930s because of the global depression. The inflow rebounded temporarily following WWII and resumed its decline in the 1950s when Argentina's military dictators tightened immigration rules and European economies rebounded. Regional migration increased, however, supplying low-skilled workers escaping economic and political instability in their home countries. As of 2015, immigrants made up almost 5% of Argentina's population, the largest share in South America. Migration from neighboring countries accounted for approximately 80% of Argentina's immigrant population in 2015. The first waves of highly skilled Argentine emigrant workers headed mainly to the United States and Spain in the 1960s and 1970s, driven by economic decline and repressive military dictatorships. The 2008 European economic crisis drove the return migration of some Argentinean and other Latin American nationals, as well as the immigration of Europeans to South America, where Argentina was a key recipient. In 2015, Argentina received the highest number of legal migrants in Latin America and the Caribbean. The majority of its migrant inflow came from Paraguay and Bolivia.
+People and Society: Age structure - 0-14 years: 23.3% (male 5,632,983/female 5,301,778)
+People and Society: Age structure - 15-64 years: 63.9% (male 15,071,215/female 14,956,069)
+People and Society: Age structure - 65 years and over: 12.8% (2024 est.) (male 2,570,596/female 3,461,743)
+People and Society: Dependency ratios - total dependency ratio: 54.3
+People and Society: Dependency ratios - youth dependency ratio: 36
+People and Society: Dependency ratios - elderly dependency ratio: 18.2
+People and Society: Dependency ratios - potential support ratio: 5.5 (2021 est.)
+People and Society: Median age - total: 33.3 years (2024 est.)
+People and Society: Median age - male: 32.1 years
+People and Society: Median age - female: 34.6 years
+People and Society: Population growth rate: 0.79% (2024 est.)
+People and Society: Birth rate: 15.2 births/1,000 population (2024 est.)
+People and Society: Death rate: 7.3 deaths/1,000 population (2024 est.)
+People and Society: Net migration rate: -0.1 migrant(s)/1,000 population (2024 est.)
+People and Society: Population distribution: one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated
+People and Society: Urbanization - urban population: 92.5% of total population (2023)
+People and Society: Urbanization - rate of urbanization: 0.97% annual rate of change (2020-25 est.)
+People and Society: Major urban areas - population: 15.490 million BUENOS AIRES (capital), 1.612 million Córdoba, 1.594 million Rosario, 1.226 million Mendoza, 1.027 million San Miguel de Tucumán, 914,000 La Plata (2023)
+People and Society: Sex ratio - at birth: 1.07 male(s)/female
+People and Society: Sex ratio - 0-14 years: 1.06 male(s)/female
+People and Society: Sex ratio - 15-64 years: 1.01 male(s)/female
+People and Society: Sex ratio - 65 years and over: 0.74 male(s)/female
+People and Society: Sex ratio - total population: 0.98 male(s)/female (2024 est.)
+People and Society: Maternal mortality ratio: 45 deaths/100,000 live births (2020 est.)
+People and Society: Infant mortality rate - total: 9 deaths/1,000 live births (2024 est.)
+People and Society: Infant mortality rate - male: 9.9 deaths/1,000 live births
+People and Society: Infant mortality rate - female: 7.9 deaths/1,000 live births
+People and Society: Life expectancy at birth - total population: 78.8 years (2024 est.)
+People and Society: Life expectancy at birth - male: 75.8 years
+People and Society: Life expectancy at birth - female: 82 years
+People and Society: Total fertility rate: 2.15 children born/woman (2024 est.)
+People and Society: Gross reproduction rate: 1.04 (2024 est.)
+People and Society: Contraceptive prevalence rate: 70.1% (2019/20)
+People and Society: Drinking water source - improved: urban: 99.8% of populationrural: NAtotal: NA
+People and Society: Drinking water source - unimproved: urban: 0.2% of populationrural: NAtotal: (2020 est.) NA
+People and Society: Current health expenditure: 9.7% of GDP (2021)
+People and Society: Physician density: 4.06 physicians/1,000 population (2020)
+People and Society: Hospital bed density: 5 beds/1,000 population (2017)
+People and Society: Sanitation facility access - improved: urban: 100% of populationrural: NAtotal: NA
+People and Society: Sanitation facility access - unimproved: rural: NAtotal: (2020 est.) NA
+People and Society: Obesity - adult prevalence rate: 28.3% (2016)
+People and Society: Alcohol consumption per capita - total: 7.95 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - beer: 3.62 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - wine: 2.88 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - spirits: 0.72 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - other alcohols: 0.72 liters of pure alcohol (2019 est.)
+People and Society: Tobacco use - total: 24.5% (2020 est.)
+People and Society: Tobacco use - male: 29.4% (2020 est.)
+People and Society: Tobacco use - female: 19.6% (2020 est.)
+People and Society: Children under the age of 5 years underweight: 1.7% (2018/19)
+People and Society: Currently married women (ages 15-49): 48.9% (2023 est.)
+People and Society: Child marriage - women married by age 15: 2.4%
+People and Society: Child marriage - women married by age 18: 15.5% (2020 est.)
+People and Society: Education expenditures: 5% of GDP (2020 est.)
+People and Society: Literacy - definition: age 15 and over can read and write
+People and Society: Literacy - total population: 99%
+People and Society: Literacy - male: 98.9%
+People and Society: Literacy - female: 99.1% (2018)
+People and Society: School life expectancy (primary to tertiary education) - total: 18 years
+People and Society: School life expectancy (primary to tertiary education) - male: 17 years
+People and Society: School life expectancy (primary to tertiary education) - female: 20 years (2020)
+Environment: Environment - current issues: environmental problems (urban and rural) typical of an industrializing economy such as deforestation, soil degradation (erosion, salinization), desertification, air pollution, and water pollution
+Environment: Environment - international agreements - party to: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
+Environment: Environment - international agreements - signed, but not ratified: Marine Dumping-London Protocol, Marine Life Conservation
+Environment: Climate: mostly temperate; arid in southeast; subantarctic in southwest
+Environment: Land use - agricultural land: 53.9% (2018 est.)agricultural land: arable land: 13.9% (2018 est.)agricultural land: permanent crops: 0.4% (2018 est.)agricultural land: permanent pasture: 39.6% (2018 est.)
+Environment: Land use - forest: 10.7% (2018 est.)
+Environment: Land use - other: 35.4% (2018 est.)
+Environment: Urbanization - urban population: 92.5% of total population (2023)
+Environment: Urbanization - rate of urbanization: 0.97% annual rate of change (2020-25 est.)
+Environment: Revenue from forest resources: 0.09% of GDP (2018 est.)
+Environment: Revenue from coal: 0% of GDP (2018 est.)
+Environment: Air pollutants - particulate matter emissions: 12.04 micrograms per cubic meter (2019 est.)
+Environment: Air pollutants - carbon dioxide emissions: 201.35 megatons (2016 est.)
+Environment: Air pollutants - methane emissions: 120.66 megatons (2020 est.)
+Environment: Waste and recycling - municipal solid waste generated annually: 17,910,550 tons (2014 est.)
+Environment: Waste and recycling - municipal solid waste recycled annually: 1,074,633 tons (2010 est.)
+Environment: Waste and recycling - percent of municipal solid waste recycled: 6% (2010 est.)
+Environment: Major lakes (area sq km) - fresh water lake(s): Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Martín (shared with Chile) - 1,010 sq km; Lago Colhué Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km
+Environment: Major lakes (area sq km) - salt water lake(s): Laguna Mar Chiquita - 1,850 sq km;
+Environment: Major rivers (by length in km): Río de la Plata/Paraná river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km
+Environment: Major rivers (by length in km) - note: – [s] after country name indicates river source; [m] after country name indicates river mouth
+Environment: Major watersheds (area sq km): Atlantic Ocean drainage: Paraná (2,582,704 sq km)
+Environment: Major aquifers: Guaraní Aquifer System
+Environment: Total water withdrawal - municipal: 5.85 billion cubic meters (2020 est.)
+Environment: Total water withdrawal - industrial: 4 billion cubic meters (2020 est.)
+Environment: Total water withdrawal - agricultural: 27.93 billion cubic meters (2020 est.)
+Environment: Total renewable water resources: 876.24 billion cubic meters (2020 est.)
+Government: Country name - conventional long form: Argentine Republic
+Government: Country name - conventional short form: Argentina
+Government: Country name - local long form: República Argentina
+Government: Country name - local short form: Argentina
+Government: Country name - etymology: originally the area was referred to as Tierra Argentina, i.e., "Land beside the Silvery River" or "silvery land," which referred to the massive estuary in the east of the country, the Río de la Plata (River of Silver); over time the name shortened to simply Argentina or "silvery"
+Government: Government type: presidential republic
+Government: Capital - name: Buenos Aires
+Government: Capital - geographic coordinates: 34 36 S, 58 22 W
+Government: Capital - time difference: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)
+Government: Capital - etymology: the name translates as "fair winds" in Spanish and derives from the original designation of the settlement that would become the present-day city, "Santa Maria del Buen Aire" (Saint Mary of the Fair Winds)
+Government: Administrative divisions: 23 provinces (provincias, singular - provincia) and 1 autonomous city*; Buenos Aires, Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego - Antartida e Islas del Atlantico Sur (Tierra del Fuego - Antarctica and the South Atlantic Islands), Tucuman
+Government: Administrative divisions - note: the US does not recognize any claims to Antarctica
+Government: Independence: 9 July 1816 (from Spain)
+Government: National holiday: Revolution Day (May Revolution Day), 25 May (1810)
+Government: Legal system: civil law system based on West European legal systems; note - in mid-2015, Argentina adopted a new civil code, replacing the old one in force since 1871
+Government: Constitution - history: several previous; latest effective 11 May 1853
+Government: Constitution - amendments: a declaration of proposed amendments requires two-thirds majority vote by both houses of the National Congress followed by approval by an ad hoc, multi-member constitutional convention; amended several times, last significant amendment in 1994
+Government: International law organization participation: has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
+Government: Citizenship - citizenship by birth: yes
+Government: Citizenship - citizenship by descent only: yes
+Government: Citizenship - dual citizenship recognized: yes
+Government: Citizenship - residency requirement for naturalization: 2 years
+Government: Suffrage: 18-70 years of age; universal and compulsory; 16-17 years of age - optional for national elections
+Government: Executive branch - chief of state: President Javier Gerardo MILEI (since 10 December 2023)
+Government: Executive branch - head of government: President Javier Gerardo MILEI (since 10 December 2023)
+Government: Executive branch - cabinet: Cabinet appointed by the president
+Government: Executive branch - elections/appointments: president and vice president directly elected on the same ballot by qualified majority vote (to win, a candidate must receive at least 45% of votes or 40% of votes and a 10-point lead over the second place candidate; if neither occurs, a second round is held ); the president serves a 4-year term (eligible for a second consecutive term); election last held on 22 October 2023 with a runoff held 19 November 2023 (next to be held in October 2027)
+Government: Executive branch - election results: 2023: Javier Gerardo MILEI elected president in second round; percent vote in first round - Sergio Tomás MASSA (FR) 36.7%, Javier Gerardo MILEI (PL) 30%, Patricia BULLRICH 23.8% (JxC/PRO), Juan SCHIARETTI (PJ) 6.8%, Myriam BREGMAN (PTS) 2.7%; percent of vote in second round - Javier Gerardo MILEI 55.7%, Sergio Tomás MASSA 44.3%2019: Alberto Ángel FERNÁNDEZ elected president; percent of vote - Alberto Angel FERNÁNDEZ (TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA (independent) 6.2%, other 5.3%
+Government: Legislative branch - legislature name: National Congress (Congreso de la nación)
+Government: Legislative branch - legislative structure: bicameral
+Government: Legislative branch - lower chamber - chamber name: Chamber of Deputies (Cámara de Diputados)
+Government: Legislative branch - lower chamber - number of seats: 257 (all directly elected)
+Government: Legislative branch - lower chamber - electoral system: proportional representation
+Government: Legislative branch - lower chamber - scope of elections: partial renewal
+Government: Legislative branch - lower chamber - term in office: 4 years
+Government: Legislative branch - lower chamber - most recent election date: 10/22/2023
+Government: Legislative branch - lower chamber - parties elected and seats per party: Union for the Homeland (UP) (48); Freedom Advances (LLA) (28); Together for Change (JxC/Juntos) (27); Other (27)
+Government: Legislative branch - lower chamber - percentage of women in chamber: 42.4%
+Government: Legislative branch - lower chamber - expected date of next election: October 2025
+Government: Legislative branch - upper chamber - chamber name: Senate (Senado)
+Government: Legislative branch - upper chamber - number of seats: 72 (all directly elected)
+Government: Legislative branch - upper chamber - electoral system: proportional representation
+Government: Legislative branch - upper chamber - scope of elections: partial renewal
+Government: Legislative branch - upper chamber - term in office: 6 years
+Government: Legislative branch - upper chamber - most recent election date: 10/22/2023
+Government: Legislative branch - upper chamber - parties elected and seats per party: Union for the Homeland (UP) (9); Freedom Advances (LLA) (6); Together for Change (JxC/Juntos) (2); Front for the Renewal of Social Concord – Federal Innovation (2); Federal Renewal (2); For Santa Cruz (2); Other (1)
+Government: Legislative branch - upper chamber - percentage of women in chamber: 45.8%
+Government: Legislative branch - upper chamber - expected date of next election: October 2025
+Government: Judicial branch - highest court(s): Supreme Court or Corte Suprema (consists of the court president, vice president, 2 judges, 1 vacancy)
+Government: Judicial branch - judge selection and term of office: judges nominated by the president and approved by the Senate; ministers can serve until mandatory retirement at age 75; extensions beyond 75 require renomination by the president and approval by the Senate
+Government: Judicial branch - subordinate courts: federal level appellate, district, and territorial courts; provincial level supreme, appellate, and first instance courts
+Government: Political parties: Avanza Libertad or ALCivic Coalition ARI or CC-ARIConsenso Federal (Federal Consensus) or CFFrente Cívico por Santiago (Civic Front for Santiago)Frente de Izquierda y de los Trabajadores – Unidad (Workers' Left Front) or FIT-U (coalition of leftist parties in lower house; includes PTS, PO, and MST) Frente de la Concordia Misionero (Front for the Renewal of Social Concord) or FRCSFrente Renovador (Renewal Front) or FRGeneración por un Encuentro Nacional (Generation for a National Encounter) or GENHacemos por Córdoba (We do for Cordoba) or HCHacemos por Nuestro Pais (We Do For Our Country) or NHPJuntos por el Cambio (Together for Change) or JxC (includes CC-ARI, PRO, and UCR); note - primary opposition coalition since 2019Juntos Somos Río Negro (Together We Are Rio Negro) or JSRN  Partido Justicialista (Justicialist Party) or PJLa CámporaLa Libertad Avanza (The Liberty Advances) or LLAMovimiento Popular Neuquino (Neuquén People's Movement) or MPNMovimiento Socialista de los Trabajadores (Workers' Socialist Movement) or MST Partido de los Trabajadores Socialistas (Socialist Workers' Party) or PTSPartido Demócrata (Democratic Party) or PDNPartido Libertario (Libertarian Party) or PL; note - party is also a founding member of the coalition La Libertad AvanzaPartido Obrero (Workers' Party) or POPartido Socialista or PSPropuesta Republicana (Republican Proposal) or PROUnidad Federal (coalition of provencial parties in the lower house; includes FRCS and JSRN)Unión Cívica Radical (Radical Civic Union) or UCRUnión por la Patria (Union for the Homeland) or UP (formerly Frente de Todos (Everyone's Front) or FdT) (includes FR, La Cámpora, and PJ); note - ruling coalition since 2019; includes several national and provincial Peronist political partiesVamos con Vos (Let's Go with You) or VcV 
+Government: International organization participation: AfDB (nonregional member), Australia Group, BCIE, BIS, CAN (associate), CD, CABEI, CELAC, FAO, FATF, G-15, G-20, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NAM (observer), NSG, OAS, OPANAL, OPCW, Paris Club (associate), PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNDOF, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, Union Latina (observer), UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC
+Government: Diplomatic representation in the US - chief of mission: Ambassador (vacant); Chargé d'Affaires Juan Manuel CORTELLETTI (since 1 November 2024)
+Government: Diplomatic representation in the US - chancery: 1600 New Hampshire Avenue NW, Washington, DC 20009
+Government: Diplomatic representation in the US - telephone: [1] (202) 238-6400
+Government: Diplomatic representation in the US - FAX: [1] (202) 332-3171
+Government: Diplomatic representation in the US - email address and website: eeeuu@mrecic.gov.arhttps://eeeuu.cancilleria.gob.ar/en
+Government: Diplomatic representation in the US - consulate(s) general: Atlanta, Chicago, Houston, Los Angeles, Miami, New York
+Government: Diplomatic representation from the US - chief of mission: Ambassador (vacant); Chargé d'Affaires Abigail L. DRESSEL (since 17 January 2025)
+Government: Diplomatic representation from the US - embassy: Avenida Colombia 4300, (C1425GMN) Buenos Aires
+Government: Diplomatic representation from the US - mailing address: 3130 Buenos Aires Place, Washington DC  20521-3130
+Government: Diplomatic representation from the US - telephone: [54] (11) 5777-4533
+Government: Diplomatic representation from the US - FAX: [54] (11) 5777-4240
+Government: Diplomatic representation from the US - email address and website: Buenosairespublicaffairs@state.govhttps://ar.usembassy.gov/
+Government: Flag description: three equal horizontal bands of sky blue (top), white, and sky blue; centered in the white band is a radiant yellow sun with a human face (delineated in brown) known as the Sun of May; the colors represent the clear skies and snow of the Andes; the sun symbol commemorates the appearance of the sun through cloudy skies on 25 May 1810 during the first mass demonstration in favor of independence; the sun features are those of Inti, the Inca god of the sun
+Government: National symbol(s): Sun of May (a sun-with-face symbol); national colors: sky blue, white
+Government: National anthem - name: "Himno Nacional Argentino" (Argentine National Anthem)
+Government: National anthem - lyrics/music: Vicente LOPEZ y PLANES/Jose Blas PARERA
+Government: National anthem - note: adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain
+Government: National heritage - total World Heritage Sites: 12 (7 cultural, 5 natural)
+Government: National heritage - selected World Heritage Site locales: Los Glaciares National Park (n); Jesuit Missions of the Guaranis (c); Iguazú National Park (n); Cueva de las Manos (c); Valdés Península (n); Ischigualasto/Talampaya National Parks (n); Jesuit Block and Estancias of Córdoba (c); Quebrada de Humahuaca (c); Qhapaq Ñan/Andean Road System (c)
+Economy: Economic overview: large diversified economy; financial risks from debt obligations, rapid inflation, and reduced investor appetites; resource-rich, export-led growth model; increasing trade relations with China; G20 and OAS leader; tendency to nationalize businesses and under-report inflation
+Economy: Real GDP (purchasing power parity): $1.234 trillion (2023 est.)$1.255 trillion (2022 est.)$1.192 trillion (2021 est.)note: data in 2021 dollars
+Economy: Real GDP growth rate: -1.61% (2023 est.)5.27% (2022 est.)10.72% (2021 est.)note: annual GDP % growth based on constant local currency
+Economy: Real GDP per capita: $27,100 (2023 est.)$27,600 (2022 est.)$26,300 (2021 est.)note: data in 2021 dollars
+Economy: GDP (official exchange rate): $646.075 billion (2023 est.)note: data in current dollars at official exchange rate
+Economy: Inflation rate (consumer prices): 25.7% (2017 est.)26.5% (2016 est.)note: data are derived from private estimates
+Economy: Credit ratings - Fitch rating: CCC (2020)
+Economy: Credit ratings - Moody's rating: Ca (2020)
+Economy: Credit ratings - Standard & Poors rating: CCC+ (2020)
+Economy: Credit ratings - note: The year refers to the year in which the current credit rating was first obtained.
+Economy: GDP - composition, by sector of origin - agriculture: 5.9% (2023 est.)
+Economy: GDP - composition, by sector of origin - industry: 25.1% (2023 est.)
+Economy: GDP - composition, by sector of origin - services: 53.1% (2023 est.)note: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
+Economy: GDP - composition, by end use - household consumption: 65.9% (2023 est.)
+Economy: GDP - composition, by end use - government consumption: 16.4% (2023 est.)
+Economy: GDP - composition, by end use - investment in fixed capital: 18.6% (2023 est.)
+Economy: GDP - composition, by end use - investment in inventories: 0.8% (2023 est.)
+Economy: GDP - composition, by end use - exports of goods and services: 12.7% (2023 est.)
+Economy: GDP - composition, by end use - imports of goods and services: -13.9% (2023 est.)note: figures may not total 100% due to rounding or gaps in data collection
+Economy: Agricultural products: maize, soybeans, sugarcane, wheat, milk, sunflower seeds, barley, beef, potatoes, chicken (2023)note: top ten agricultural products based on tonnage
+Economy: Industries: food processing, motor vehicles, consumer durables, textiles, chemicals and petrochemicals, printing, metallurgy, steel
+Economy: Industrial production growth rate: -0.23% (2023 est.)note: annual % change in industrial value added based on constant local currency
+Economy: Labor force: 21.533 million (2023 est.)note: number of people ages 15 or older who are employed or seeking work
+Economy: Unemployment rate: 6.18% (2023 est.)6.81% (2022 est.)8.74% (2021 est.)note: % of labor force seeking employment
+Economy: Youth unemployment rate (ages 15-24) - total: 18% (2023 est.)
+Economy: Youth unemployment rate (ages 15-24) - male: 16.9% (2023 est.)
+Economy: Youth unemployment rate (ages 15-24) - female: 19.5% (2023 est.)note: % of labor force ages 15-24 seeking employment
+Economy: Population below poverty line: 39.2% (2022 est.)note: % of population with income below national poverty line
+Economy: Gini Index coefficient - distribution of family income: 40.7 (2022 est.)note: index (0-100) of income distribution; higher values represent greater inequality
+Economy: Average household expenditures - on food: 23.1% of household expenditures (2023 est.)
+Economy: Average household expenditures - on alcohol and tobacco: 1.9% of household expenditures (2023 est.)
+Economy: Household income or consumption by percentage share - lowest 10%: 2% (2022 est.)
+Economy: Household income or consumption by percentage share - highest 10%: 29.8% (2022 est.)note: % share of income accruing to lowest and highest 10% of population
+Economy: Remittances: 0.16% of GDP (2023 est.)0.17% of GDP (2022 est.)0.19% of GDP (2021 est.)note: personal transfers and compensation between resident and non-resident individuals/households/entities
+Economy: Budget - revenues: $113.553 billion (2022 est.)
+Economy: Budget - expenditures: $138.622 billion (2022 est.)note: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
+Economy: Public debt: 57.6% of GDP (2017 est.)
+Economy: Taxes and other revenues: 11.12% (of GDP) (2022 est.)note: central government tax revenue as a % of GDP
+Economy: Current account balance: -$20.956 billion (2023 est.)-$4.055 billion (2022 est.)$6.625 billion (2021 est.)note: balance of payments - net trade and primary/secondary income in current dollars
+Economy: Exports: $82.947 billion (2023 est.)$102.928 billion (2022 est.)$87.575 billion (2021 est.)note: balance of payments - exports of goods and services in current dollars
+Economy: Exports - partners: Brazil 18%, USA 9%, Chile 8%, China 8%, India 4% (2023)note: top five export partners based on percentage share of exports
+Economy: Exports - commodities: soybean meal, corn, trucks, soybean oil, crude petroleum (2023)note: top five export commodities based on value in dollars
+Economy: Imports: $92.3 billion (2023 est.)$97.399 billion (2022 est.)$72.58 billion (2021 est.)note: balance of payments - imports of goods and services in current dollars
+Economy: Imports - partners: Brazil 23%, China 20%, USA 12%, Paraguay 5%, Germany 4% (2023)note: top five import partners based on percentage share of imports
+Economy: Imports - commodities: soybeans, vehicle parts/accessories, refined petroleum, natural gas, cars (2023)note: top five import commodities based on value in dollars
+Economy: Reserves of foreign exchange and gold: $23.081 billion (2023 est.)$44.795 billion (2022 est.)$39.653 billion (2021 est.)note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars
+Economy: Debt - external: $83.279 billion (2023 est.)note: present value of external debt in current US dollars
+Economy: Exchange rates: Argentine pesos (ARS) per US dollar -
+Economy: Exchange rates - Exchange rates: 296.258 (2023 est.)130.617 (2022 est.)94.991 (2021 est.)70.539 (2020 est.)48.148 (2019 est.)
+Energy: Electricity access - electrification - total population: 100% (2022 est.)
+Energy: Electricity - installed generating capacity: 46.82 million kW (2022 est.)
+Energy: Electricity - consumption: 127.98 billion kWh (2022 est.)
+Energy: Electricity - exports: 31 million kWh (2022 est.)
+Energy: Electricity - imports: 12.909 billion kWh (2022 est.)
+Energy: Electricity - transmission/distribution losses: 29.877 billion kWh (2022 est.)
+Energy: Electricity generation sources - fossil fuels: 65.3% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - nuclear: 5.2% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - solar: 2% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - wind: 9.7% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - hydroelectricity: 16.4% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - biomass and waste: 1.5% of total installed capacity (2022 est.)
+Energy: Nuclear energy - Number of operational nuclear reactors: 3 (2023)
+Energy: Nuclear energy - Number of nuclear reactors under construction: 1 (2023)
+Energy: Nuclear energy - Net capacity of operational nuclear reactors: 1.64GW (2023 est.)
+Energy: Nuclear energy - Percent of total electricity production: 6.3% (2023 est.)
+Energy: Coal - production: 1.318 million metric tons (2022 est.)
+Energy: Coal - consumption: 3.391 million metric tons (2022 est.)
+Energy: Coal - exports: 8,000 metric tons (2022 est.)
+Energy: Coal - imports: 2.196 million metric tons (2022 est.)
+Energy: Coal - proven reserves: 799.999 million metric tons (2022 est.)
+Energy: Petroleum - total petroleum production: 807,000 bbl/day (2023 est.)
+Energy: Petroleum - refined petroleum consumption: 706,000 bbl/day (2022 est.)
+Energy: Petroleum - crude oil estimated reserves: 2.483 billion barrels (2021 est.)
+Energy: Natural gas - production: 43.28 billion cubic meters (2022 est.)
+Energy: Natural gas - consumption: 46.228 billion cubic meters (2022 est.)
+Energy: Natural gas - exports: 3.422 billion cubic meters (2022 est.)
+Energy: Natural gas - imports: 6.229 billion cubic meters (2022 est.)
+Energy: Natural gas - proven reserves: 396.464 billion cubic meters (2021 est.)
+Energy: Carbon dioxide emissions: 185.37 million metric tonnes of CO2 (2022 est.)
+Energy: Carbon dioxide emissions - from coal and metallurgical coke: 5.392 million metric tonnes of CO2 (2022 est.)
+Energy: Carbon dioxide emissions - from petroleum and other liquids: 89.464 million metric tonnes of CO2 (2022 est.)
+Energy: Carbon dioxide emissions - from consumed natural gas: 90.515 million metric tonnes of CO2 (2022 est.)
+Energy: Energy consumption per capita: 75.735 million Btu/person (2022 est.)
+Communications: Telephones - fixed lines - total subscriptions: 7.034 million (2023 est.)
+Communications: Telephones - fixed lines - subscriptions per 100 inhabitants: 15 (2023 est.)
+Communications: Telephones - mobile cellular - total subscriptions: 62.7 million (2023 est.)
+Communications: Telephones - mobile cellular - subscriptions per 100 inhabitants: 132 (2022 est.)
+Communications: Telecommunication systems - general assessment: Argentina’s ongoing problem with hyperinflation continues to distort the telecom market’s performance, which shows strong growth in revenue but only modest gains in subscriber numbers each year; the fixed broadband segment has penetration levels only slightly higher than the fixed-line teledensity; nearly a quarter of the country’s broadband connections are via DSL, although fiber is starting claim an increasing share of that market as networks expand across most of the main cities; mobile broadband continues to be the preferred platform for internet access, supported by high mobile penetration levels and nationwide LTE coverage; the first 5G service was launched in February 2021 using refarmed LTE frequencies; the anticipated 5G spectrum auctions should drive even stronger uptake in mobile broadband services; while the various fixed, mobile, and cable operators push to expand and enhance their services, the government is also making an active contribution towards boosting broadband connectivity around the country; its national connectivity plan ‘Plan Conectar’, launched in September 2020, provides funding for a range of programs to increase coverage; in August 2021, the telecom regulator announced the release funding to help operators accelerate the rollout of their broadband infrastructure and services (2021)
+Communications: Telecommunication systems - domestic: roughly 15 per 100 fixed-line and 130 per 100 mobile-cellular; microwave radio relay, fiber-optic cable, and a domestic satellite system with 40 earth stations serve the trunk network (2021)
+Communications: Telecommunication systems - international: country code - 54; landing points for the UNISUR, Bicentenario, Atlantis-2, SAm-1, and SAC, Tannat, Malbec and ARBR submarine cable systems that provide links to Europe, Africa, South and Central America, and US; satellite earth stations - 112 (2019)
+Communications: Broadcast media: Argentina is one of South America's biggest media markets, there are dozens of TV networks, hundreds of radio stations and more than 150 daily newspapers (2023)
+Communications: Internet country code: .ar
+Communications: Internet users - percent of population: 89% (2023 est.)
+Communications: Broadband - fixed subscriptions - total: 11.5 million (2023 est.)
+Communications: Broadband - fixed subscriptions - subscriptions per 100 inhabitants: 25 (2023 est.)
+Transportation: National air transport system - number of registered air carriers: 6 (2020)
+Transportation: National air transport system - inventory of registered aircraft operated by air carriers: 107
+Transportation: National air transport system - annual passenger traffic on registered air carriers: 18,081,937 (2018)
+Transportation: National air transport system - annual freight traffic on registered air carriers: 311.57 million (2018) mt-km
+Transportation: Civil aircraft registration country code prefix: LV
+Transportation: Airports: 756 (2024)
+Transportation: Heliports: 144 (2024)
+Transportation: Pipelines: 29,930 km gas, 41 km liquid petroleum gas, 6,248 km oil, 3,631 km refined products (2013)
+Transportation: Railways - total: 17,866 km (2018)
+Transportation: Roadways - total: 240,000 km
+Transportation: Roadways - paved: 81,355 km
+Transportation: Roadways - unpaved: 158,645 km (2017)
+Transportation: Waterways: 11,000 km (2012)
+Transportation: Merchant marine - total: 201 (2023)
+Transportation: Merchant marine - by type: container ship 1, bulk carrier 1 general cargo 8, oil tanker 33, other 158
+Transportation: Ports - total ports: 37 (2024)
+Transportation: Ports - large: 1
+Transportation: Ports - medium: 2
+Transportation: Ports - small: 10
+Transportation: Ports - very small: 24
+Transportation: Ports - ports with oil terminals: 19
+Transportation: Ports - key ports: Buenos Aires, Campana, Concepcion del Uruguay, La Plata, Mar del Plata, Puerto Belgrano, Puerto Ingeniero White, Puerto Madryn, Rosario, San Sebastian Bay, Santa Fe, Ushuaia, Zarate
+Military and Security: Military and security forces: Armed Forces of the Argentine Republic (Fuerzas Armadas de la República Argentina): Argentine Army (Ejercito Argentino, EA), Navy of the Argentine Republic (Armada Republica, ARA; includes naval aviation and naval infantry), Argentine Air Force (Fuerza Aerea Argentina, FAA)Ministry of Security: Gendarmería Nacional Argentina (National Gendarmerie), Coast Guard (Prefectura Naval) (2024)
+Military and Security: Military and security forces - note: all federal police forces are under the Ministry of Security
+Military and Security: Military expenditures: 0.8% of GDP (2024 est.)0.5% of GDP (2023 est.)0.6% of GDP (2022 est.)0.8% of GDP (2021 est.)0.8% of GDP (2020 est.)
+Military and Security: Military and security service personnel strengths: approximately 75,000 active-duty personnel (46,000 Army; 16,000 Navy, including about 3,500 marines); 13,000 Air Force); estimated 20,000 Gendarmerie (2024)
+Military and Security: Military equipment inventories and acquisitions: the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; in recent years, France and the US have been the leading suppliers of equipment; Argentina has an indigenous defense industry that produces air, land, and naval systems (2024)
+Military and Security: Military service age and obligation: 18-24 years of age for voluntary military service for men and women; conscription suspended in 1995; citizens can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2024)
+Military and Security: Military service age and obligation - note: as of 2023, women comprised nearly 20% of the active duty military
+Military and Security: Military deployments: 325 Cyprus (UNFICYP) (2024)
+Military and Security: Military - note: the Argentine military’s primary responsibilities are territorial defense and protecting the country’s sovereignty; other duties include border security, countering narcotics trafficking, and other internal missions, such as disaster response and infrastructure development; it also conducts support operations in Antarctica to promote an active presence in areas of national territory that are sparsely populated; the military participates in both bilateral and multinational training exercises and supports UN peacekeeping operationsArgentina participates in the Tripartite Command, an interagency security mechanism created by Argentina, Brazil, and Paraguay to exchange information and combat transnational threats, including terrorism, in the Tri-Border Area; in addition, Argentina and Chile have a joint peacekeeping force known as the Combined Southern Cross Peacekeeping Force (FPC), designed to be made available to the UN; the FPC is made up of infantry, command and control, air, naval, and logistics support elements; Argentina has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperationthe Army and Navy were both created in 1810 during the Argentine War of Independence, while the Air Force was established in 1945; the military conducted coups d'état in 1930, 1943, 1955, 1962, 1966, and 1976; the 1976 coup, aka the "National Reorganization Process," marked the beginning of the so-called "Dirty War," a period of state-sponsored terrorism that saw the deaths or disappearances of thousands of Argentinians; the defeat in the 1983 Falklands War led to the downfall of the military junta (2024)
+Space: Space agency/agencies: Argentina National Space Activities Commission (Comision Nacional de Actividades Espaciales, CONAE; formed in 1991); CONAE’s predecessor was the National Commission for Space Research (Comisión Nacional de Investigaciones Espaciales, CNIE; formed in 1960) (2024)
+Space: Space launch site(s): Manuel Belgrano Space Center (Buenos Aires province): planned launch platform of the Tronador SLV (see Appendix S); Punta Indio Space Center (Buenos Aires province): test facility; Teofilo Tabanera Space Center (CETT; Cordoba Province): testing, mission control site (2024)
+Space: Space program overview: has a long history of involvement in the development of space-related capabilities, including rockets and satellites; develops, builds, and operates communications, remote sensing (RS), and scientific satellites, often in partnership with other countries; developing additional satellites with more advanced payloads; has a national space plan; contracts with commercial and other government space agencies for launches but has a domestic rocket program and is developing space launch vehicle (SLV) capabilities; cooperates with a broad range of space agencies and industries, including those of Brazil, China, the European Space Agency and its member states (particularly France, Italy), and the US; also has a commercial space industry, which includes efforts to design, build, and launch reusable small SLVs (2024)
+Space: Space program overview - note: further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide
+Terrorism: Terrorist group(s) - Terrorist group(s): Hizballah
+Terrorism: Terrorist group(s) - note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide
+Transnational Issues: Refugees and internally displaced persons - refugees (country of origin): 217,742 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)
+Transnational Issues: Illicit drugs: counterfeiting, drug trafficking, and other smuggling offenses in the Tri-Border area; some money laundering organizations in the TBA have may have links to the terrorist organization Hizballah; a large producer of chemical precursors

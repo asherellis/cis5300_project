@@ -1,0 +1,2354 @@
+{
+  "q001": {
+    "question": "According to the article, what controversies or issues arose during Griffin Bell\u2019s confirmation process to become attorney general?",
+    "answer": "(CNN) -- Griffin Bell, who served as attorney general in the Carter administration, has died, according to the Carter Center in Atlanta, Georgia. \"As a World War II veteran, federal appeals court judge, civil rights advocate, and U.S. attorney general in my administration, Griffin made many lasting contributions to his native Georgia and country. The son of a south Georgia cotton farmer, Bell passed the Georgia bar exam while still a student in law school, according to the New Georgia Encycloped...",
+    "answers": [
+      {
+        "answer": "(CNN) -- Griffin Bell, who served as attorney general in the Carter administration, has died, according to the Carter Center in Atlanta, Georgia. \"As a World War II veteran, federal appeals court judge, civil rights advocate, and U.S. attorney general in my administration, Griffin made many lasting contributions to his native Georgia and country. The son of a south Georgia cotton farmer, Bell passed the Georgia bar exam while still a student in law school, according to the New Georgia Encycloped...",
+        "citation": {
+          "doc_id": "gold/cnn_dailymail__506e1baad13bc8b50b0f1db98518da52aea1c40c",
+          "score": 51.026466322409505,
+          "sentence_ids": [
+            0,
+            5,
+            7
+          ]
+        }
+      },
+      {
+        "answer": "The White House has announced that James Comey, the former Bush Administration deputy attorney general from 2003 to 2005 will be nominated as the next FBI director. In dramatic testimony to the Senate Judiciary Committee in 2007, Comey said he thought the no-warrant wiretapping program was so questionable that he refused for a time to reauthorize it, leading to a standoff with White House officials at the hospital bedside of an ailing Attorney General John Ashcroft. High-profile: Prior to his ti...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__81015926ed3b34684387e6b911fb56d785d6ffdc",
+          "score": 43.986389557408046,
+          "sentence_ids": [
+            24,
+            37,
+            46
+          ]
+        }
+      },
+      {
+        "answer": "Jake Sullivan, the national security adviser in Washington, has warned that the appointment of a new general in command of Russia\u2019s military campaign is likely to usher in a fresh round of \u201ccrimes and brutality\u201d against civilians. The New York Times said otherwise on Sunday, in a report headlined: \u201cJanuary 6 panel has evidence for criminal referral of Trump, but splits on sending.\u201d\n\n\u201cThe debate centers on whether making a referral \u2013 a largely symbolic act \u2013 would backfire by politically tainting...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+          "score": 39.412351322872006,
+          "sentence_ids": [
+            3,
+            13,
+            19
+          ]
+        }
+      },
+      {
+        "answer": "\u201cTwitter has tremendous potential \u2013 I look forward to working with the company and users to unlock it.\u201d\n\nWhat has Twitter\u2019s chief executive, Parag Agrawal, said? Russia\u2019s foreign minister has accused Nato of fighting a proxy war by supplying military aid to Ukraine, as defence ministers gathered in Germany for US-hosted talks on supporting Ukraine through what one US general called a \u201cvery critical\u201d few weeks. Marjorie Taylor Greene texted Trump chief of staff urging martial law to overturn 2020...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-26T09_55_30Z",
+          "score": 37.77528023167174,
+          "sentence_ids": [
+            1,
+            22,
+            25
+          ]
+        }
+      },
+      {
+        "answer": "\u201cIn terms of the personal leg of the trip, he [Evgeny] was keen this happened at the tail end \u2013 ie the weekend following the \u2018formal\u2019 business.\u201d\n\nAn email from Lister on 16 September indicated plans were developing: \u201cBoris has it in his diary for the 23 June [2014] for a week and I have told him that the end of the week and weekend will be private with Evgeny (I hope that\u2019s right) so we need to build a programme around the rest?\u201d\n\nAlexander and Evgeny Lebedev in London in 2012. Photograph: Wenn ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-29T12_21_30Z",
+          "score": 36.72422388300462,
+          "sentence_ids": [
+            1,
+            7,
+            8
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/cnn_dailymail__506e1baad13bc8b50b0f1db98518da52aea1c40c",
+        "score": 51.026466322409505,
+        "rank": 1
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__81015926ed3b34684387e6b911fb56d785d6ffdc",
+        "score": 43.986389557408046,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+        "score": 39.412351322872006,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-26T09_55_30Z",
+        "score": 37.77528023167174,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-29T12_21_30Z",
+        "score": 36.72422388300462,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S1",
+      "S6",
+      "S8"
+    ]
+  },
+  "q002": {
+    "question": "What were the main political tensions surrounding India's proposed civil nuclear partnership with the United States?",
+    "answer": "NEW DELHI, India (CNN) -- President George W. Bush called India's prime minister Thursday to push a proposed nuclear partnership that sparked an unsuccessful no-confidence vote against the Indian leader this week, a White House spokesman said. The leaders of India's two communist parties -- which hold about 60 seats in Parliament -- have accused Singh of surrendering India's sovereignty to the United States with the deal. \"Both leaders expressed their desire to see the U.S.-India Civil Nuclear i...",
+    "answers": [
+      {
+        "answer": "NEW DELHI, India (CNN) -- President George W. Bush called India's prime minister Thursday to push a proposed nuclear partnership that sparked an unsuccessful no-confidence vote against the Indian leader this week, a White House spokesman said. The leaders of India's two communist parties -- which hold about 60 seats in Parliament -- have accused Singh of surrendering India's sovereignty to the United States with the deal. \"Both leaders expressed their desire to see the U.S.-India Civil Nuclear i...",
+        "citation": {
+          "doc_id": "gold/cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+          "score": 31.638404521381545,
+          "sentence_ids": [
+            0,
+            2,
+            10
+          ]
+        }
+      },
+      {
+        "answer": "Sanctions: UK foreign secretary Philip Hammond meets with United States secretary of state John Kerry for talks on the Ukraine crisis. \u2018Will we now step up to the mark, will we put a military presence in the Baltic states and recognise we are getting close to a position where Russia will threaten Nato in its own territory?\u2019 Yesterday, US secretary of state John Kerry warned Russia the west will not tolerate its 'unacceptable' actions in Ukraine - as thousands of pro-Kremlin supporters took to th...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__c75c143d059dbd7acb4106d5590f17cb2382974d",
+          "score": 27.681411325866147,
+          "sentence_ids": [
+            22,
+            24,
+            25
+          ]
+        }
+      },
+      {
+        "answer": "He said: \u201cFor the first time in history, civil nuclear facilities have been turned into military targets and springboards for the Russian army in breach of the non-proliferation provisions on peaceful use of nuclear energy. We ask to close the sky over the nuclear power plants in Ukraine.\u201d\n\nThe US embassy in Kyiv has criticised what it says is a decision by Roskomnadzor , the Russian government\u2019s media agency, to block a US government website \u2013 share.america.gov. False reports exaggerating how m...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-08-03T14_08_08Z",
+          "score": 27.502979932309255,
+          "sentence_ids": [
+            20,
+            23,
+            35
+          ]
+        }
+      },
+      {
+        "answer": "Clinton supporters-turned-McCain converts at the event were not just angry at Obama's campaign; they're furious with the Democratic Party's nomination process this year. But the 54-year-old Democrat joined several other Hillary Clinton supporters, along with volunteers and officials from John McCain's campaign, at a Happy Hour for Hillary. Barack Obama doesn't have the experience to be president of the United States,\" said McCain campaign regional communications director Tom Kise.",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__48d1ac3878ec68361770b2f16e32f733c72c194d",
+          "score": 26.161479243464267,
+          "sentence_ids": [
+            2,
+            6,
+            43
+          ]
+        }
+      },
+      {
+        "answer": "Economy: GDP - composition, by sector of origin - agriculture: 8.5% (2023 est.)\nEconomy: GDP - composition, by sector of origin - industry: 23.4% (2023 est.)\nEconomy: GDP - composition, by sector of origin - services: 59.4% (2023 est.)note: figures may not total 100% due to non-allocated consumption not captured in sector-reported data\nEconomy: GDP - composition, by end use - household consumption: 65.4% (2023 est.)\nEconomy: GDP - composition, by end use - government consumption: 14.1% (2023 est...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Armenia",
+          "score": 26.025307397118777,
+          "sentence_ids": [
+            5,
+            44,
+            45
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+        "score": 31.638404521381545,
+        "rank": 1
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__c75c143d059dbd7acb4106d5590f17cb2382974d",
+        "score": 27.681411325866147,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-08-03T14_08_08Z",
+        "score": 27.502979932309255,
+        "rank": 3
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__48d1ac3878ec68361770b2f16e32f733c72c194d",
+        "score": 26.161479243464267,
+        "rank": 4
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Armenia",
+        "score": 26.025307397118777,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S1",
+      "S12",
+      "S3"
+    ]
+  },
+  "q003": {
+    "question": "According to the article, how many extra ballots did the electoral commission request beyond the number of registered voters, and how many stations reportedly lacked proper accreditation for opposition agents?",
+    "answer": "An MDC official said this week that leaked correspondence from the electoral commission showed it had asked for 3.3 million more ballots than there are registered voters, including 250,000 extra postal ballots for soldiers and police. The elections are not just for president but also for parliamentary, senate and local council seats, meaning voters have to cast a number of ballots in a limited amount of time. The party also said the Zimbabwe Electoral Commission claimed to have lost the accredit...",
+    "answers": [
+      {
+        "answer": "An MDC official said this week that leaked correspondence from the electoral commission showed it had asked for 3.3 million more ballots than there are registered voters, including 250,000 extra postal ballots for soldiers and police. The elections are not just for president but also for parliamentary, senate and local council seats, meaning voters have to cast a number of ballots in a limited amount of time. The party also said the Zimbabwe Electoral Commission claimed to have lost the accredit...",
+        "citation": {
+          "doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+          "score": 80.13146208517118,
+          "sentence_ids": [
+            6,
+            29,
+            35
+          ]
+        }
+      },
+      {
+        "answer": "The event, sponsored by the Republican National Committee and approved by the McCain campaign, was a chance for McCain and Clinton supporters to come together for one cause: their opposition to Barack Obama's candidacy. As the convention heats up and tensions remain high over how to make sure Clinton's 18 million or so votes are counted, supporters will rally by her side, even if their pick in November is her enemy. But the 54-year-old Democrat joined several other Hillary Clinton supporters, al...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__48d1ac3878ec68361770b2f16e32f733c72c194d",
+          "score": 49.25888190586699,
+          "sentence_ids": [
+            2,
+            3,
+            53
+          ]
+        }
+      },
+      {
+        "answer": "The move sets the stage for visits to Mexico by three administration Cabinet members, starting tomorrow with Secretary of State Hillary Clinton, in an effort to stem drug-related violence and prevent it from spilling into the United States. (CNN) -- Homeland Security Secretary Janet Napolitano unveiled a $700 million plan on Tuesday to help Mexico fight violent drug cartels, which includes a U.S. crackdown on the flow of weapons and money into Mexico. Janet Napolitano: Well, the whole package we...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__2b51cc7290072a70b029d90cd57490ad6017eb36",
+          "score": 49.08751824868797,
+          "sentence_ids": [
+            0,
+            2,
+            7
+          ]
+        }
+      },
+      {
+        "answer": "But the plight of many other U.S. citizens kept against their will in foreign prisons continues, as anxious relatives desperately seek for a way to gain their release, . For their families, the ordeal is emotionally devastating and becomes incalculably complicated as they try to figure out whose advice they can trust, how to avoid saying the wrong thing and how best to proceed to gain their loved ones' freedom. Havana wants to exchange him for five Cuban agents convicted in Miami in 2001, one of...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__8dc282b8704753f8f97e6717c564cb8f39aaa920",
+          "score": 48.783226923718765,
+          "sentence_ids": [
+            1,
+            5,
+            25
+          ]
+        }
+      },
+      {
+        "answer": "Ron Pollack of Families USA, one of the major groups promoting the health care initiative, brought activists from a dozen key states to Washington last week to help plan the various messages and reaction plans for each of the possible scenarios depending on how the court rules. Various constituencies -- the White House, Congress and a myriad of interest groups on all sides -- anxiously wait for the nation's high court to hand down its decision on one of the most divisive political issues it has ...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__d05aaad4f3e74ef51c7594e4200ab24e311b2d84",
+          "score": 48.25371088432891,
+          "sentence_ids": [
+            6,
+            10,
+            56
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+        "score": 80.13146208517118,
+        "rank": 1
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__48d1ac3878ec68361770b2f16e32f733c72c194d",
+        "score": 49.25888190586699,
+        "rank": 2
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__2b51cc7290072a70b029d90cd57490ad6017eb36",
+        "score": 49.08751824868797,
+        "rank": 3
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__8dc282b8704753f8f97e6717c564cb8f39aaa920",
+        "score": 48.783226923718765,
+        "rank": 4
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__d05aaad4f3e74ef51c7594e4200ab24e311b2d84",
+        "score": 48.25371088432891,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S36",
+      "S30",
+      "S7"
+    ]
+  },
+  "q004": {
+    "question": "Based solely on this historical overview, what percentage of Rwanda\u2019s population in 2024 belongs to the Tutsi ethnic group, and how has that percentage changed over time?",
+    "answer": "People and Society: Age structure - 0-14 years: 37.2% (male 2,561,884/female 2,508,218)\nPeople and Society: Age structure - 15-64 years: 59.7% (male 3,954,608/female 4,179,844)\nPeople and Society: Age structure - 65 years and over: 3.1% (2024 est.) (male 168,163/female 250,585)\nPeople and Society: Dependency ratios - total dependency ratio: 72.5\nPeople and Society: Dependency ratios - youth dependency ratio: 67.1\nPeople and Society: Dependency ratios - elderly dependency ratio: 5.4\nPeople and So...",
+    "answers": [
+      {
+        "answer": "People and Society: Age structure - 0-14 years: 37.2% (male 2,561,884/female 2,508,218)\nPeople and Society: Age structure - 15-64 years: 59.7% (male 3,954,608/female 4,179,844)\nPeople and Society: Age structure - 65 years and over: 3.1% (2024 est.) (male 168,163/female 250,585)\nPeople and Society: Dependency ratios - total dependency ratio: 72.5\nPeople and Society: Dependency ratios - youth dependency ratio: 67.1\nPeople and Society: Dependency ratios - elderly dependency ratio: 5.4\nPeople and So...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Rwanda",
+          "score": 71.98132179734107,
+          "sentence_ids": [
+            20,
+            32,
+            33
+          ]
+        }
+      },
+      {
+        "answer": "(burundiembassy-usa.com)\nGovernment: Diplomatic representation from the US - chief of mission: Ambassador Lisa PETERSON (since 27 June 2024)\nGovernment: Diplomatic representation from the US - embassy: No 50 Avenue Des Etats-Unis, 110-01-02, Bujumbura\nGovernment: Diplomatic representation from the US - mailing address: 2100 Bujumbura Place, Washington DC\u00a0 20521-2100\nGovernment: Diplomatic representation from the US - telephone: [257] 22-207-000\nGovernment: Diplomatic representation from the US -...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Burundi",
+          "score": 66.37054458338973,
+          "sentence_ids": [
+            17,
+            34,
+            35
+          ]
+        }
+      },
+      {
+        "answer": "Social categories became more rigid during the reign of RWABUGIRI (1860-1895), who focused on aggressive expansion and solidifying Rwanda\u2019s bureaucratic structures. While the current ethnic labels Hutu and Tutsi predate colonial rule, their flexibility and importance have varied significantly over time and often manifested more as a hierarchical class distinction than an ethnic or cultural distinction. The children of Tutsi exiles later formed a rebel group, the Rwandan Patriotic Front (RPF) and...",
+        "citation": {
+          "doc_id": "gold/the-world-factbook-by-cia__Rwanda_history",
+          "score": 65.69873077405012,
+          "sentence_ids": [
+            2,
+            5,
+            14
+          ]
+        }
+      },
+      {
+        "answer": "What\u2019s happening for the first time in John\u2019s reign is that they King has his own sent folder, copies are being kept of the thousands of letters he is sending out. He said: \u2018When we look at events in history we\u2019ve got to think not just about the documents that people left behind but about the landscapes that they were living in and travelling through because that helps explain some of their actions, their motives and how they viewed the world around them and how they responded to it. \u2018The world ...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__6d80128885cd57debc81b06bad81fe1a7c3548d7",
+          "score": 63.5620165984139,
+          "sentence_ids": [
+            16,
+            35,
+            37
+          ]
+        }
+      },
+      {
+        "answer": "The New York Times said otherwise on Sunday, in a report headlined: \u201cJanuary 6 panel has evidence for criminal referral of Trump, but splits on sending.\u201d\n\n\u201cThe debate centers on whether making a referral \u2013 a largely symbolic act \u2013 would backfire by politically tainting the justice department\u2019s expanding investigation into the January 6 assault and what led up to it,\u201d the paper said. Jake Sullivan, the national security adviser in Washington, has warned that the appointment of a new general in co...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+          "score": 61.18160466584563,
+          "sentence_ids": [
+            1,
+            3,
+            13
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Rwanda",
+        "score": 71.98132179734107,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Burundi",
+        "score": 66.37054458338973,
+        "rank": 2
+      },
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Rwanda_history",
+        "score": 65.69873077405012,
+        "rank": 3
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__6d80128885cd57debc81b06bad81fe1a7c3548d7",
+        "score": 63.5620165984139,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+        "score": 61.18160466584563,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S33",
+      "S34",
+      "S21"
+    ]
+  },
+  "q005": {
+    "question": "According to the article, what specific political reforms did Sultan Qaboos enact in response to the 2011 demonstrations?",
+    "answer": "In 2011, the popular uprisings that swept the Middle East and North Africa inspired demonstrations in Oman that called for more jobs and economic benefits and an end to corruption. In 1970, QABOOS bin Said Al Said overthrew his father and ruled as sultan for the next five decades. In response, QABOOS implemented economic and political reforms such as granting Oman\u2019s legislative body more power and authorizing direct elections for its lower house.",
+    "answers": [
+      {
+        "answer": "In 2011, the popular uprisings that swept the Middle East and North Africa inspired demonstrations in Oman that called for more jobs and economic benefits and an end to corruption. In 1970, QABOOS bin Said Al Said overthrew his father and ruled as sultan for the next five decades. In response, QABOOS implemented economic and political reforms such as granting Oman\u2019s legislative body more power and authorizing direct elections for its lower house.",
+        "citation": {
+          "doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+          "score": 58.66835775479881,
+          "sentence_ids": [
+            3,
+            6,
+            7
+          ]
+        }
+      },
+      {
+        "answer": "scholars, the geographer PTOLEMY and the historian ARRIAN, both mention an Arabian Sea coastal town of Moscha, which most likely referred to Muscat\nGovernment: Administrative divisions: 11 governorates (muhafazat, singular - muhafaza); Ad Dakhiliyah, Al Buraymi, Al Wusta, Az Zahirah, Janub al Batinah (Al Batinah South), Janub ash Sharqiyah (Ash Sharqiyah South), Masqat (Muscat), Musandam, Shamal al Batinah (Al Batinah North), Shamal ash Sharqiyah (Ash Sharqiyah North), Zufar (Dhofar)\nGovernment:...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Oman",
+          "score": 46.55355247849543,
+          "sentence_ids": [
+            5,
+            15,
+            17
+          ]
+        }
+      },
+      {
+        "answer": "Russia is guilty of inciting genocide and having the intent to commit genocide in Ukraine, legally obliging other countries to stop it, according to a new report by more than 30 internationally recognised legal scholars and experts. The report, compiled by two thinktanks, the New Lines Institute in Washington and the Raoul Wallenberg Centre for Human Rights in Montreal, found that there were \u201creasonable grounds to conclude\u201d that Russia is already in breach of two articles of the 1948 Genocide Co...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-27T17_45_42Z",
+          "score": 37.75034589422281,
+          "sentence_ids": [
+            0,
+            1,
+            12
+          ]
+        }
+      },
+      {
+        "answer": "But according to sources in America, the alleged victim either changed his story or declined to give a statement elaborating on what he told police in the 1980s. Mr Watson added that the politician\u2019s response to the allegations was \u2018by no means convincing\u2019 because he had not addressed the boys\u2019 specific claims. He concluded: \u2018I have arrived at the firm view, having regard in particular to the number and nature of the complaints and how they came to be made, that there would be a realistic prospe...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__7dac6614733848deb73f9d569251444fe7bd9bfe",
+          "score": 36.19913701155659,
+          "sentence_ids": [
+            11,
+            12,
+            29
+          ]
+        }
+      },
+      {
+        "answer": "\u201cLet me be clear: Any use of nuclear weapons in this conflict on any scale would be completely unacceptable to us as well as the rest of the world and would entail severe consequences.\u201d\n\nMr. Biden stated bluntly in his article that he did not seek to overthrow Mr. Putin, despite his off-the-cuff remarks during a speech in Poland earlier this year, when he said the Russian president \u201ccannot remain in power.\u201d On Tuesday, Mr. Biden presented a different view. \u201cWe currently see no indication that Ru...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022_05_31",
+          "score": 34.3709560720074,
+          "sentence_ids": [
+            1,
+            3,
+            4
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+        "score": 58.66835775479881,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Oman",
+        "score": 46.55355247849543,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-27T17_45_42Z",
+        "score": 37.75034589422281,
+        "rank": 3
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__7dac6614733848deb73f9d569251444fe7bd9bfe",
+        "score": 36.19913701155659,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022_05_31",
+        "score": 34.3709560720074,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S7",
+      "S4",
+      "S8"
+    ]
+  },
+  "q006": {
+    "question": "According to the article, who won Mali\u2019s presidential elections in 2013 and 2018, and how did international observers judge the credibility of those elections?",
+    "answer": "Ibrahim Boubacar KEITA won the Malian presidential elections in 2013 and 2018. The transition government and ECOWAS agreed to a new two-year timeline, which would have included presidential elections in February 2024, but the transition government postponed the elections indefinitely in September 2023 and withdrew from ECOWAS in January 2024. In 2022, the Economic Community of West African States (ECOWAS) imposed sanctions on the transition government, and member states closed their borders with...",
+    "answers": [
+      {
+        "answer": "Ibrahim Boubacar KEITA won the Malian presidential elections in 2013 and 2018. The transition government and ECOWAS agreed to a new two-year timeline, which would have included presidential elections in February 2024, but the transition government postponed the elections indefinitely in September 2023 and withdrew from ECOWAS in January 2024. In 2022, the Economic Community of West African States (ECOWAS) imposed sanctions on the transition government, and member states closed their borders with...",
+        "citation": {
+          "doc_id": "gold/the-world-factbook-by-cia__Mali_history",
+          "score": 65.5374804472964,
+          "sentence_ids": [
+            21,
+            29,
+            30
+          ]
+        }
+      },
+      {
+        "answer": "Government: Government type: semi-presidential republic\nGovernment: Capital - name: Bamako\nGovernment: Capital - geographic coordinates: 12 39 N, 8 00 W\nGovernment: Capital - time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)\nGovernment: Capital - etymology: the name in the Bambara language can mean either \"crocodile tail\" or \"crocodile river\" and three crocodiles appear on the city seal\nGovernment: Administrative divisions: 10 regions (regions, singular - region), 1 ...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Mali",
+          "score": 60.55620193784477,
+          "sentence_ids": [
+            46,
+            47,
+            48
+          ]
+        }
+      },
+      {
+        "answer": "\u201cIn terms of the personal leg of the trip, he [Evgeny] was keen this happened at the tail end \u2013 ie the weekend following the \u2018formal\u2019 business.\u201d\n\nAn email from Lister on 16 September indicated plans were developing: \u201cBoris has it in his diary for the 23 June [2014] for a week and I have told him that the end of the week and weekend will be private with Evgeny (I hope that\u2019s right) so we need to build a programme around the rest?\u201d\n\nAlexander and Evgeny Lebedev in London in 2012. The unusual excur...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-29T12_21_30Z",
+          "score": 55.47931390746731,
+          "sentence_ids": [
+            1,
+            7,
+            23
+          ]
+        }
+      },
+      {
+        "answer": "It undermines the effort to bring food to the hungry and the credibility of Russia\u2019s commitments to the deal finalized yesterday to allow Ukrainian exports.\u201d 3.7 million Ukrainian refugees have received temporary protection status in the European Union, according to the UNHCR. It undermines the effort to bring food to the hungry and the credibility of Russia\u2019s commitments to the deal finalized yesterday to allow Ukrainian exports.\u201d\n\nIn a statement posted on Twitter, Anthony Blinken said, \u201cThe Un...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-23T23_00_08Z",
+          "score": 55.45966914692434,
+          "sentence_ids": [
+            5,
+            15,
+            16
+          ]
+        }
+      },
+      {
+        "answer": "He scored higher than his result in the first round five years ago, and clearly gained support in the final hours of the campaign after his harsh warnings to voters to hold back the far right and protect France\u2019s place on the international diplomatic stage during the war in Ukraine. Austria\u2019s chancellor is to meet Vladimir Putin on Monday, the Russian president\u2019s first face-to-face meeting with an EU leader since ordering the invasion of Ukraine, amid warnings of a fresh offensive and shelling i...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+          "score": 55.012868297355226,
+          "sentence_ids": [
+            1,
+            3,
+            20
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Mali_history",
+        "score": 65.5374804472964,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Mali",
+        "score": 60.55620193784477,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-29T12_21_30Z",
+        "score": 55.47931390746731,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-23T23_00_08Z",
+        "score": 55.45966914692434,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+        "score": 55.012868297355226,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S22",
+      "S31",
+      "S30"
+    ]
+  },
+  "q007": {
+    "question": "How has the dynastic leadership structure shaped North Korea\u2019s political system and strategic behavior over time?",
+    "answer": "; the North Korean name \"Choson\" means \"[Land of the] Morning Calm\"\nGovernment: Government type: dictatorship, single-party communist state\nGovernment: Capital - name: Pyongyang\nGovernment: Capital - geographic coordinates: 39 01 N, 125 45 E\nGovernment: Capital - time difference: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)\nGovernment: Capital - time zone note: on 5 May 2018, North Korea reverted to UTC+9, the same time zone as South Korea\nGovernment: Capital - etymology: the n...",
+    "answers": [
+      {
+        "answer": "; the North Korean name \"Choson\" means \"[Land of the] Morning Calm\"\nGovernment: Government type: dictatorship, single-party communist state\nGovernment: Capital - name: Pyongyang\nGovernment: Capital - geographic coordinates: 39 01 N, 125 45 E\nGovernment: Capital - time difference: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)\nGovernment: Capital - time zone note: on 5 May 2018, North Korea reverted to UTC+9, the same time zone as South Korea\nGovernment: Capital - etymology: the n...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Korea,_North",
+          "score": 32.94258017213113,
+          "sentence_ids": [
+            28,
+            29,
+            30
+          ]
+        }
+      },
+      {
+        "answer": "\u2018Will we now step up to the mark, will we put a military presence in the Baltic states and recognise we are getting close to a position where Russia will threaten Nato in its own territory?\u2019 Yesterday, US secretary of state John Kerry warned Russia the west will not tolerate its 'unacceptable' actions in Ukraine - as thousands of pro-Kremlin supporters took to the streets of Moscow. 'We are confident that over the next few days we are going to make it clear that we are not going to play this gam...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__c75c143d059dbd7acb4106d5590f17cb2382974d",
+          "score": 32.3172523689495,
+          "sentence_ids": [
+            22,
+            27,
+            28
+          ]
+        }
+      },
+      {
+        "answer": "The Guardian\u2019s Jennifer Rankin reports from Brussels and has written an explainer tackling the question \u2018How does the EU plan to cut gas usage by 15% this winter?\u2019 EU member states have agreed a plan for gas savings to avoid a winter energy crisis, but loaded with exemptions. The Guardian\u2019s Jennifer Rankin reports from Brussels and has written an explainer tackling the question \u2018How does the EU plan to cut gas usage by 15% this winter?\u2019 EU member states have agreed a plan for gas savings to avoi...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+          "score": 32.07764131974294,
+          "sentence_ids": [
+            8,
+            13,
+            138
+          ]
+        }
+      },
+      {
+        "answer": "The Kremlin has produced no evidence to support its weapons lab claims, which were called \u201cpreposterous\u201d by Psaki and have been dismissed by Ukraine\u2019s government. Sunak\u2019s February package of a \u00a3200 energy bill cut, to be paid back over five years, and a \u00a3150 council tax rebate have been criticised as too meagre to cushion the blow significantly for many households. Rhiannon Davies, whose daughter Kate Stanton-Davies died under the care of the trust shortly after she was born in 2009, said: \u201cWe\u2019v...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-03-10T06_31_27Z",
+          "score": 31.536830914313512,
+          "sentence_ids": [
+            4,
+            16,
+            32
+          ]
+        }
+      },
+      {
+        "answer": "They have a lot of time to talk and a lot of talk to be done, both actors hitting the text with energy and passion in MacGregor\u2019s production for Dogstar. Here, as the polar night approaches and the Arctic storms kick off, Rebecca Wilkie\u2019s Slava arrives as backup for Matthew Zajac\u2019s Sasha, a security guard. If the two of them are more conduits than fully fleshed characters, they nonetheless show how our values are forged by political circumstance and remind us that it pays to know your enemy.",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-08-05T15_00_03Z",
+          "score": 31.080641505523054,
+          "sentence_ids": [
+            10,
+            11,
+            15
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Korea,_North",
+        "score": 32.94258017213113,
+        "rank": 1
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__c75c143d059dbd7acb4106d5590f17cb2382974d",
+        "score": 32.3172523689495,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+        "score": 32.07764131974294,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-03-10T06_31_27Z",
+        "score": 31.536830914313512,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-08-05T15_00_03Z",
+        "score": 31.080641505523054,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S30",
+      "S31",
+      "S29"
+    ]
+  },
+  "q008": {
+    "question": "How did Dominica transition from European colonial rule to an independent state, and what political shift in 1980 significantly changed the country's governance trajectory?",
+    "answer": "While the current ethnic labels Hutu and Tutsi predate colonial rule, their flexibility and importance have varied significantly over time and often manifested more as a hierarchical class distinction than an ethnic or cultural distinction. Changing political attitudes in Belgium contributed to colonial and Catholic officials shifting their support from Tutsi to Hutu leaders in the years leading up to independence. German colonial conquest began in the late 1890s, but the territory was ceded to ...",
+    "answers": [
+      {
+        "answer": "While the current ethnic labels Hutu and Tutsi predate colonial rule, their flexibility and importance have varied significantly over time and often manifested more as a hierarchical class distinction than an ethnic or cultural distinction. Changing political attitudes in Belgium contributed to colonial and Catholic officials shifting their support from Tutsi to Hutu leaders in the years leading up to independence. German colonial conquest began in the late 1890s, but the territory was ceded to ...",
+        "citation": {
+          "doc_id": "gold/the-world-factbook-by-cia__Rwanda_history",
+          "score": 45.27875135934827,
+          "sentence_ids": [
+            2,
+            6,
+            9
+          ]
+        }
+      },
+      {
+        "answer": "And science fiction writer Alastair Reynolds said, \"This is science fiction made real in terms of the achievement of the mission itself, but Rosetta is also taking us a step closer to answering science fiction's grandest question of all: Are we alone?\" A few who spoke to reporters in Darmstadt, Germany, choked up and said how much the mission -- dubbed Rosetta -- means to them and to space exploration. \"What were the conditions like at its infancy and how did it evolve?",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__bdad05d8490dbdf8446a50a9a253aa099a4360b5",
+          "score": 44.99549792694014,
+          "sentence_ids": [
+            2,
+            4,
+            15
+          ]
+        }
+      },
+      {
+        "answer": "The law passed at the height of America's civil rights movement, when citizens in parts of the country were fighting each other and sometimes authorities over how skin color impacts a person's place in a democracy. For example, 31 cities and counties and Virginia successfully petitioned to be exempt from the preclearance requirements in recent years, though the rest of the state remains under federal oversight. Civil rights groups say the Voting Rights Act -- specifically Section 5, the mechanis...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__5eecff9a5c2958be9719d392bef2ecc6f102711e",
+          "score": 43.24412557230836,
+          "sentence_ids": [
+            0,
+            24,
+            47
+          ]
+        }
+      },
+      {
+        "answer": "Obama pointed to Mullen's leadership, from all the advice he provided in the Oval Office about the nation's two wars, to his crucial testimony to Congress that the country should end its ban on gays and lesbians serving open in the military. \"In seeing this critical transition through to its completion, in making sure that the security gains we have made are not squandered by the scourge of corruption or the lack of good governance that still plagues the country, our strategy is the right one,\" ...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__0e0ee624c9f156cc5309428e8eca62661cf129f6",
+          "score": 42.03550057451534,
+          "sentence_ids": [
+            5,
+            6,
+            27
+          ]
+        }
+      },
+      {
+        "answer": "It is abandoning these very same principles of human dignity, underpinned by free and fair trials that led to al-Awlaki's decisive shift after being released from a Yemeni prison in 2007: From being anti-American rabble-rouser, he went to advocating direct violence against the United States. By killing al-Awlaki, his message gains new life as words from an American Muslim martyr, the first to join the iconography of underground Muslim culture since Malcolm X. An easier, cheaper and more effectiv...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__04c8cc49e22a128b8bf806c2665ca27bb47eff5d",
+          "score": 41.98188440874014,
+          "sentence_ids": [
+            2,
+            5,
+            27
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Rwanda_history",
+        "score": 45.27875135934827,
+        "rank": 1
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__bdad05d8490dbdf8446a50a9a253aa099a4360b5",
+        "score": 44.99549792694014,
+        "rank": 2
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__5eecff9a5c2958be9719d392bef2ecc6f102711e",
+        "score": 43.24412557230836,
+        "rank": 3
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__0e0ee624c9f156cc5309428e8eca62661cf129f6",
+        "score": 42.03550057451534,
+        "rank": 4
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__04c8cc49e22a128b8bf806c2665ca27bb47eff5d",
+        "score": 41.98188440874014,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S3",
+      "S11",
+      "S9"
+    ]
+  },
+  "q009": {
+    "question": "According to the article, what specific impacts did Hurricane Maria have on Dominica in 2017, and which sectors or infrastructure were most heavily damaged?",
+    "answer": "The report, compiled by two thinktanks, the New Lines Institute in Washington and the Raoul Wallenberg Centre for Human Rights in Montreal, found that there were \u201creasonable grounds to conclude\u201d that Russia is already in breach of two articles of the 1948 Genocide Convention, by publicly inciting genocide, and by the forcible transfer of Ukrainian children to Russia, which the report notes is itself a genocidal act under article II of the convention. \u201cI think the documentation of crimes in Ukrai...",
+    "answers": [
+      {
+        "answer": "The report, compiled by two thinktanks, the New Lines Institute in Washington and the Raoul Wallenberg Centre for Human Rights in Montreal, found that there were \u201creasonable grounds to conclude\u201d that Russia is already in breach of two articles of the 1948 Genocide Convention, by publicly inciting genocide, and by the forcible transfer of Ukrainian children to Russia, which the report notes is itself a genocidal act under article II of the convention. \u201cI think the documentation of crimes in Ukrai...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-27T17_45_42Z",
+          "score": 50.13723124498543,
+          "sentence_ids": [
+            1,
+            8,
+            12
+          ]
+        }
+      },
+      {
+        "answer": "People and Society: Religions: Catholic 55%, Protestant 29%, Vodou 2.1%, other 4.6%, none 10% (2018 est.)\nPeople and Society: Religions - note: 50-80% of Haitians incorporate some elements of Vodou culture or practice in addition to another religion, most often Roman Catholicism; Vodou was recognized as an official religion in 2003\nPeople and Society: Age structure - 0-14 years: 30.5% (male 1,790,061/female 1,794,210)\nPeople and Society: Age structure - 15-64 years: 65.3% (male 3,787,782/female ...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Haiti",
+          "score": 49.58033613248114,
+          "sentence_ids": [
+            3,
+            21,
+            24
+          ]
+        }
+      },
+      {
+        "answer": "The message \u2013 one of more than 2,000 texts turned over by Meadows to the House select committee investigating the 6 January storming of the Capitol, and first reported by CNN \u2013 shows that some of Trump\u2019s most ardent allies on Capitol Hill were pressing for Trump to return himself to office even after the Capitol attack. One of the most senior US officials in the Pacific has refused to rule out military action against Solomon Islands if it were to allow China to establish a military base there, s...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-26T09_55_30Z",
+          "score": 49.445511315116406,
+          "sentence_ids": [
+            22,
+            26,
+            39
+          ]
+        }
+      },
+      {
+        "answer": "Geography: Location: continent mostly south of the Antarctic Circle\nGeography: Geographic coordinates: 90 00 S, 0 00 E\nGeography: Map references: Antarctic Region\nGeography: Area - total: 14.2 million sq km\nGeography: Area - land: 14.2 million sq km (285,000 sq km ice-free, 13.915 million sq km ice-covered) (est.)\nGeography: Area - note: fifth-largest continent, following Asia, Africa, North America, and South America, but larger than Australia and the subcontinent of Europe\nGeography: Area - co...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Antarctica",
+          "score": 49.05629711931513,
+          "sentence_ids": [
+            8,
+            12,
+            13
+          ]
+        }
+      },
+      {
+        "answer": "At least 75 inmates have died in\u00a0Pedrinhas Prison in the\u00a0Maranhao state in Brazil since 2013, making it one of the most violent on the planet . Despite the presence of heavily armed officers, equipped with ballistic shields, shotguns and CS gas, the inmates were able to rampage . A vast increase in minor drug arrests, a lack of legal advice for criminals and a lack of political will for new prisons have contributed to the increases.",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__f731b9775e1d9aced259ba1ad1e56842908a5a89",
+          "score": 48.8317778300912,
+          "sentence_ids": [
+            5,
+            7,
+            23
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-27T17_45_42Z",
+        "score": 50.13723124498543,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Haiti",
+        "score": 49.58033613248114,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-26T09_55_30Z",
+        "score": 49.445511315116406,
+        "rank": 3
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Antarctica",
+        "score": 49.05629711931513,
+        "rank": 4
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__f731b9775e1d9aced259ba1ad1e56842908a5a89",
+        "score": 48.8317778300912,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S2",
+      "S9",
+      "S13"
+    ]
+  },
+  "q010": {
+    "question": "Based only on this article, what was Mali\u2019s exact defense budget in 2020, and how much financial assistance did it receive from ECOWAS before the sanctions were imposed?",
+    "answer": "In 2022, the Economic Community of West African States (ECOWAS) imposed sanctions on the transition government, and member states closed their borders with Mali after the transition government presented a five-year extension to the electoral calendar. At its peak in the 14th century, it was the largest and wealthiest empire in West Africa and controlled an area about twice the size of modern-day France. Primarily a trading empire, Mali derived its wealth from gold and maintained several goldfiel...",
+    "answers": [
+      {
+        "answer": "In 2022, the Economic Community of West African States (ECOWAS) imposed sanctions on the transition government, and member states closed their borders with Mali after the transition government presented a five-year extension to the electoral calendar. At its peak in the 14th century, it was the largest and wealthiest empire in West Africa and controlled an area about twice the size of modern-day France. Primarily a trading empire, Mali derived its wealth from gold and maintained several goldfiel...",
+        "citation": {
+          "doc_id": "gold/the-world-factbook-by-cia__Mali_history",
+          "score": 66.48439981182773,
+          "sentence_ids": [
+            1,
+            2,
+            29
+          ]
+        }
+      },
+      {
+        "answer": "Earlier on Thursday, Putin said it was obvious that western sanctions were creating difficulties, \u201cbut not at all what the initiators of the economic blitzkrieg against Russia were counting on.\u201d\n\n\n\n7 Jul 2022 23.02 Summary of the day so far It\u2019s 1am in Kyiv. \u201cThe economic barriers that the United States and Europe imposed against Russia did not work,\u201d Bolsonaro told supporters on Thursday, adding that his position towards Putin and the war \u201cwas one of balance.\u201d Bolsonaro said that stance had all...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+          "score": 63.09700828728771,
+          "sentence_ids": [
+            27,
+            34,
+            36
+          ]
+        }
+      },
+      {
+        "answer": "Economy: GDP - composition, by sector of origin - agriculture: 35.1% (2023 est.)\nEconomy: GDP - composition, by sector of origin - industry: 19.9% (2023 est.)\nEconomy: GDP - composition, by sector of origin - services: 36.7% (2023 est.)note: figures may not total 100% due to non-allocated consumption not captured in sector-reported data\nEconomy: GDP - composition, by end use - household consumption: 74.2% (2023 est.)\nEconomy: GDP - composition, by end use - government consumption: 17.5% (2023 es...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Mali",
+          "score": 61.197679891349125,
+          "sentence_ids": [
+            46,
+            47,
+            48
+          ]
+        }
+      },
+      {
+        "answer": "Born shortly after Russia\u2019s invasion of Ukraine, the Great Translation Movement \u2013 a Twitter account and a related hashtag that identifies itself as \u201cfourth estate\u201d and \u201cholds muck-rake in hand, wears crown from gutter\u201d \u2013 has been a source for English-language speakers to understand how state-linked Chinese social media discuss the war in Ukraine. On 21 April, an article published by the Guardian revealed how civilians, who died during the Russian occupation of the Ukrainian city of Bucha, were k...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-10T06_00_31Z",
+          "score": 61.01383900591695,
+          "sentence_ids": [
+            2,
+            7,
+            16
+          ]
+        }
+      },
+      {
+        "answer": "Ukraine\u2019s defence ministry on Saturday urged citizens in Enerhodar, a key area seized by Russia, to reveal where Russian troops were living and who among the local population was collaborating with the occupying authorities. 23 Jul 2022 23.22 Ukraine\u2019s defence ministry on Saturday urged citizens in Enerhodar, a key area seized by Russia, to reveal where Russian troops were living and who among the local population was collaborating with the occupying authorities. \u201cPlease let us know as a matter ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-23T23_00_08Z",
+          "score": 60.892318782928584,
+          "sentence_ids": [
+            9,
+            10,
+            38
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Mali_history",
+        "score": 66.48439981182773,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+        "score": 63.09700828728771,
+        "rank": 2
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Mali",
+        "score": 61.197679891349125,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-10T06_00_31Z",
+        "score": 61.01383900591695,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-23T23_00_08Z",
+        "score": 60.892318782928584,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S30",
+      "S2",
+      "S3"
+    ]
+  },
+  "q011": {
+    "question": "Based only on this article, what was the total number of jobs created under Oman\u2019s national job creation plan issued after the 2011 unrest?",
+    "answer": "Additionally, the sultan increased unemployment benefits and issued a royal directive mandating a national public- and private-sector job creation plan. In 2011, the popular uprisings that swept the Middle East and North Africa inspired demonstrations in Oman that called for more jobs and economic benefits and an end to corruption. His cousin, HAYTHAM bin Tariq Al Said, former Minister of Heritage and Culture, was sworn in as Oman's new sultan the same day.",
+    "answers": [
+      {
+        "answer": "Additionally, the sultan increased unemployment benefits and issued a royal directive mandating a national public- and private-sector job creation plan. In 2011, the popular uprisings that swept the Middle East and North Africa inspired demonstrations in Oman that called for more jobs and economic benefits and an end to corruption. His cousin, HAYTHAM bin Tariq Al Said, former Minister of Heritage and Culture, was sworn in as Oman's new sultan the same day.",
+        "citation": {
+          "doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+          "score": 55.6944114559353,
+          "sentence_ids": [
+            6,
+            8,
+            11
+          ]
+        }
+      },
+      {
+        "answer": "Economy: GDP - composition, by sector of origin - agriculture: 2.3% (2023 est.)\nEconomy: GDP - composition, by sector of origin - industry: 54.3% (2023 est.)\nEconomy: GDP - composition, by sector of origin - services: 46.4% (2023 est.)note: figures may not total 100% due to non-allocated consumption not captured in sector-reported data\nEconomy: GDP - composition, by end use - household consumption: 34.3% (2022 est.)\nEconomy: GDP - composition, by end use - government consumption: 17.9% (2022 est...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Oman",
+          "score": 48.47014955361608,
+          "sentence_ids": [
+            15,
+            16,
+            17
+          ]
+        }
+      },
+      {
+        "answer": "The deal yesterday comes after a dramatic few weeks of speculation about Twitter\u2019s future, triggered by Musk\u2019s emergence as the platform\u2019s largest single shareholder on 4 April. The message \u2013 one of more than 2,000 texts turned over by Meadows to the House select committee investigating the 6 January storming of the Capitol, and first reported by CNN \u2013 shows that some of Trump\u2019s most ardent allies on Capitol Hill were pressing for Trump to return himself to office even after the Capitol attack. ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-26T09_55_30Z",
+          "score": 46.779994502429865,
+          "sentence_ids": [
+            16,
+            22,
+            26
+          ]
+        }
+      },
+      {
+        "answer": "Not one for subtlety, Senator Lindsey Graham of South Carolina declared that the war in Ukraine won\u2019t end until someone in Russia decides to \u201ctake this guy out\u201d and followed up by saying that the only solution was for Russians to \u201crise up\u201d and, referring to the 2011 uprisings in the Arab world, create a \u201cRussian spring\u201d. Vladimir Putin\u2019s full-blown invasion of Ukraine aimed at toppling the Kyiv government \u2013 based on the preposterous claim that it\u2019s run by \u201cneo-Nazis\u201d \u2013 has produced Europe\u2019s wors...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-03-28T10_21_51Z",
+          "score": 46.655971103752215,
+          "sentence_ids": [
+            0,
+            9,
+            12
+          ]
+        }
+      },
+      {
+        "answer": "Russia\u2019s latest strikes, including on grain warehouses and residential neighbourhoods, \u201cprove once again that the war against Ukraine is a war of extermination for the Russian army,\u201d Zelenskiy has said in his latest nightly address, asking, \u201cWhat could be Russia\u2019s strategic success in this war?\u201d The \u201cThe ruined lives of people and the burned or stolen property will give nothing to Russia,\u201d he continued. \u201cThe Ghost of Kyiv is a super-hero legend whose character was created by Ukrainians!\u201d Ukraine...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-02T04_42_11Z",
+          "score": 45.77882537434183,
+          "sentence_ids": [
+            24,
+            26,
+            92
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+        "score": 55.6944114559353,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Oman",
+        "score": 48.47014955361608,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-26T09_55_30Z",
+        "score": 46.779994502429865,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-03-28T10_21_51Z",
+        "score": 46.655971103752215,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-02T04_42_11Z",
+        "score": 45.77882537434183,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S9",
+      "S7",
+      "S12"
+    ]
+  },
+  "q012": {
+    "question": "How did Russia\u2019s inability to make scheduled payments on its foreign bonds escalate into what analysts considered a default, and what specific factors\u2014including sanctions\u2014made the situation effectively unavoidable?",
+    "answer": "Back then, Russia\u2019s default on domestic rouble bonds led the US government to step in and get banks to bail out Long-Term Capital Management, a large US hedge fund whose collapse, it was feared, could have shaken the wider financial and banking system. Russia\u2019s efforts to avoid the default hit an insurmountable roadblock in late May when the US Treasury Department\u2019s Office of Foreign Assets Control (OFAC) effectively blocked Moscow from making payments. \u201cOFAC has intervened to answer that questi...",
+    "answers": [
+      {
+        "answer": "Back then, Russia\u2019s default on domestic rouble bonds led the US government to step in and get banks to bail out Long-Term Capital Management, a large US hedge fund whose collapse, it was feared, could have shaken the wider financial and banking system. Russia\u2019s efforts to avoid the default hit an insurmountable roadblock in late May when the US Treasury Department\u2019s Office of Foreign Assets Control (OFAC) effectively blocked Moscow from making payments. \u201cOFAC has intervened to answer that questi...",
+        "citation": {
+          "doc_id": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+          "score": 69.87053315851442,
+          "sentence_ids": [
+            4,
+            6,
+            23
+          ]
+        }
+      },
+      {
+        "answer": "Moscow is sitting on foreign currency reserves of about $500bn (\u00a3369bn) and, by international standards, has extremely low levels of national debt.\u201d The latter has a bearing on sanctions that stop Russia issuing or trading its sovereign debt in London and New York: the amount of bonds Russia needs to sell is relatively small. Peaceful Ukrainian cities are under strikes.\u201d\n\n00:54 Ukraine: Russian missile strikes reported in Kharkiv and Kyiv \u2013 video\n\nIn a bid to justify the invasion, Putin branded ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-02-24T06_24_27Z",
+          "score": 52.82000697697789,
+          "sentence_ids": [
+            3,
+            4,
+            16
+          ]
+        }
+      },
+      {
+        "answer": "\u201cAlthough we see Russia is starting to learn from its mistakes and make advances in the Donbas, I think it\u2019s important to stress that the battle for Sievierodonetsk is unlikely to be the kind of the crux of the Donetsk campaign\u201d the official said in a briefing. If Russia captures Sievierodonetsk, and its smaller twin Lysychansk on the higher west bank of the Siverskyi Donets River, it will hold all of Luhansk, a key war aim of Vladimir Putin\u2019s forces. In its daily update, the US-based Institute ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-01T16_31_48Z",
+          "score": 51.769815017434794,
+          "sentence_ids": [
+            12,
+            19,
+            21
+          ]
+        }
+      },
+      {
+        "answer": "Russia\u2019s foreign minister has accused Nato of fighting a proxy war by supplying military aid to Ukraine, as defence ministers gathered in Germany for US-hosted talks on supporting Ukraine through what one US general called a \u201cvery critical\u201d few weeks. \u201cTwitter has tremendous potential \u2013 I look forward to working with the company and users to unlock it.\u201d\n\nWhat has Twitter\u2019s chief executive, Parag Agrawal, said? War means war.\u201d\n\nHe also warned that the risks of nuclear conflict were now \u201cconsidera...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-26T09_55_30Z",
+          "score": 51.58993407915751,
+          "sentence_ids": [
+            1,
+            3,
+            22
+          ]
+        }
+      },
+      {
+        "answer": "Before the war, Russia supplied 40% of Europe\u2019s gas supplies, so limitations on storing gas or ramping up imports of liquefied natural gas (LNG) in certain countries including Germany make replacing Russian gas entirely near impossible in the short term. Now that link has been cut.\u201d\n\nSign up to the daily Business Today email or follow Guardian Business on Twitter at @BusinessDesk\n\nCould Russia\u2019s cutoffs affect the UK? The invasion of Ukraine has triggered a scramble by countries to wean themselv...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-22T15_50_20Z",
+          "score": 48.76005063164674,
+          "sentence_ids": [
+            2,
+            11,
+            31
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+        "score": 69.87053315851442,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-02-24T06_24_27Z",
+        "score": 52.82000697697789,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-01T16_31_48Z",
+        "score": 51.769815017434794,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-26T09_55_30Z",
+        "score": 51.58993407915751,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-22T15_50_20Z",
+        "score": 48.76005063164674,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S26",
+      "S5",
+      "S8"
+    ]
+  },
+  "q013": {
+    "question": "What broader economic and geopolitical consequences did analysts expect from Russia\u2019s 2022 foreign-debt default, and why was the impact considered less severe than the country\u2019s default in the late 1990s?",
+    "answer": "The Kremlin denied the country was in default, with Vladimir Putin\u2019s spokesperson, Dmitry Peskov, calling the claims \u201cabsolutely unjustified\u201d and saying it was \u201cnot our problem\u201d that sanctions had prevented intermediaries from transferring the payments. Once a country defaults, it can be cut off from bond-market borrowing until the default is sorted out and investors regain confidence in the government\u2019s ability and willingness to pay. Back then, Russia\u2019s default on domestic rouble bonds led the...",
+    "answers": [
+      {
+        "answer": "The Kremlin denied the country was in default, with Vladimir Putin\u2019s spokesperson, Dmitry Peskov, calling the claims \u201cabsolutely unjustified\u201d and saying it was \u201cnot our problem\u201d that sanctions had prevented intermediaries from transferring the payments. Once a country defaults, it can be cut off from bond-market borrowing until the default is sorted out and investors regain confidence in the government\u2019s ability and willingness to pay. Back then, Russia\u2019s default on domestic rouble bonds led the...",
+        "citation": {
+          "doc_id": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+          "score": 81.67822625491257,
+          "sentence_ids": [
+            7,
+            17,
+            23
+          ]
+        }
+      },
+      {
+        "answer": "\u201cThe economic barriers that the United States and Europe imposed against Russia did not work,\u201d Bolsonaro told supporters on Thursday, adding that his position towards Putin and the war \u201cwas one of balance.\u201d Bolsonaro said that stance had allowed him to acquire fertilisers, a key input for Brazil\u2019s vast agricultural sector, from Russia. Earlier on Thursday, Putin said it was obvious that western sanctions were creating difficulties, \u201cbut not at all what the initiators of the economic blitzkrieg a...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+          "score": 66.89714828113357,
+          "sentence_ids": [
+            34,
+            36,
+            75
+          ]
+        }
+      },
+      {
+        "answer": "Putin cites Russia\u2019s history in justification of his war, talking of Nuremberg-style processes to menace prisoners of war and please his supporters at home. He, and they, should be less selective in their recall, and remember those who were condemned under Nuremberg protocols for failure to protect prisoners from execution under the infamous commando and commissar orders. Jonathan Powell\u2019s call for readiness for negotiations with Russia when the time comes (Putin is not yet ready to end the Ukra...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-24T17_07_49Z",
+          "score": 65.20453484171063,
+          "sentence_ids": [
+            0,
+            4,
+            5
+          ]
+        }
+      },
+      {
+        "answer": "\u201cTwitter has tremendous potential \u2013 I look forward to working with the company and users to unlock it.\u201d\n\nWhat has Twitter\u2019s chief executive, Parag Agrawal, said? The message \u2013 one of more than 2,000 texts turned over by Meadows to the House select committee investigating the 6 January storming of the Capitol, and first reported by CNN \u2013 shows that some of Trump\u2019s most ardent allies on Capitol Hill were pressing for Trump to return himself to office even after the Capitol attack. Photograph: Patr...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-26T09_55_30Z",
+          "score": 65.1043591984537,
+          "sentence_ids": [
+            14,
+            22,
+            26
+          ]
+        }
+      },
+      {
+        "answer": "As for Putin\u2019s intentions in Ukraine itself, there was a strong indication that he plans to incorporate the Donbas (including the entire Donetsk and Luhansk regions, most of which are still in Ukrainian hands) into the Russian Federation, just as he did with Crimea in 2014. And in the case of his early morning television address announcing Russia\u2019s invasion of Ukraine, his words and hints about his intentions were truly terrifying. The presidential administration and the foreign ministry almost ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-02-24T16_40_54Z",
+          "score": 64.9166223813254,
+          "sentence_ids": [
+            3,
+            7,
+            29
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+        "score": 81.67822625491257,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+        "score": 66.89714828113357,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-24T17_07_49Z",
+        "score": 65.20453484171063,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-26T09_55_30Z",
+        "score": 65.1043591984537,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-02-24T16_40_54Z",
+        "score": 64.9166223813254,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S9",
+      "S20",
+      "S26"
+    ]
+  },
+  "q014": {
+    "question": "How did Russian officials publicly respond to accusations of default, and what rationale did they use to argue that the responsibility for non-payment lay outside Moscow\u2019s control?",
+    "answer": "Photograph: Erdem \u015eahin/EPA Reuters reports that a Turkish official close to the matter said that prior to last week\u2019s agreement the Ukrainian and Russian sides initially did not talk to each other during the negotiations, but then they softened. Asked by broadcasters whether she believed \u201cVladimir Putin is effectively holding the rest of the world to ransom\u201d by \u201ccutting off supplies to Germany,\u201d she replied:\n\nThat is exactly what he is trying to do and it\u2019s vitally important that we stay strong...",
+    "answers": [
+      {
+        "answer": "Photograph: Erdem \u015eahin/EPA Reuters reports that a Turkish official close to the matter said that prior to last week\u2019s agreement the Ukrainian and Russian sides initially did not talk to each other during the negotiations, but then they softened. Asked by broadcasters whether she believed \u201cVladimir Putin is effectively holding the rest of the world to ransom\u201d by \u201ccutting off supplies to Germany,\u201d she replied:\n\nThat is exactly what he is trying to do and it\u2019s vitally important that we stay strong...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T18_00_08Z",
+          "score": 64.08499012696942,
+          "sentence_ids": [
+            40,
+            66,
+            78
+          ]
+        }
+      },
+      {
+        "answer": "Insurance contracts that cover Russian debt have priced an 80% likelihood of default for weeks, and rating agencies such as Standard & Poor\u2019s and Moody\u2019s have placed the country\u2019s debt deep into junk territory. Russia\u2019s efforts to avoid the default hit an insurmountable roadblock in late May when the US Treasury Department\u2019s Office of Foreign Assets Control (OFAC) effectively blocked Moscow from making payments. \u201cOFAC has intervened to answer that question for us, and the default is now upon us....",
+        "citation": {
+          "doc_id": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+          "score": 62.46010300919246,
+          "sentence_ids": [
+            4,
+            6,
+            16
+          ]
+        }
+      },
+      {
+        "answer": "As for Putin\u2019s intentions in Ukraine itself, there was a strong indication that he plans to incorporate the Donbas (including the entire Donetsk and Luhansk regions, most of which are still in Ukrainian hands) into the Russian Federation, just as he did with Crimea in 2014. As for his declared intention to \u201cdemilitarise and denazify\u201d Ukraine, it is hard to see how this could be achieved without a wholesale occupation of the country and change of government. The presidential administration and th...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-02-24T16_40_54Z",
+          "score": 58.00487626729866,
+          "sentence_ids": [
+            7,
+            10,
+            29
+          ]
+        }
+      },
+      {
+        "answer": "The nanny-state pol, now a registered independent after years in both the Republicans and Democratic parties, said Clinton likely did all she could about the situation in Libya that led to the deaths of the U.S. ambassador and three other Americans. But amid House Republicans' zeal to paint Clinton as a serial fabricator in advance of her decision on whether to run for president, they have asked few questions publicly about State Department policies and decisions before the attack took place. An...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__a817367309d1ac8bd2dc7c0070c42d5e78e2d52c",
+          "score": 56.98738206427655,
+          "sentence_ids": [
+            1,
+            14,
+            21
+          ]
+        }
+      },
+      {
+        "answer": "The European Commission has said Lithuania was acting legally, although the EU\u2019s head of foreign policy, Josep Borrell, said on Monday that he would \u201cdouble-check\u201d, in what appeared to be an attempt to take the sting out of the row. Kaliningrad, which has a population of about 500,000, is the headquarters for Russian\u2019s Baltic fleet and hosts some of its most powerful armaments, including hypersonic missiles. Nato has long identified a 50-mile strip of Polish and Lithuanian borderland, known as t...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-21T13_24_53Z",
+          "score": 56.38550857312461,
+          "sentence_ids": [
+            12,
+            16,
+            19
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T18_00_08Z",
+        "score": 64.08499012696942,
+        "rank": 1
+      },
+      {
+        "doc_id": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+        "score": 62.46010300919246,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-02-24T16_40_54Z",
+        "score": 58.00487626729866,
+        "rank": 3
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__a817367309d1ac8bd2dc7c0070c42d5e78e2d52c",
+        "score": 56.98738206427655,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-21T13_24_53Z",
+        "score": 56.38550857312461,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S79",
+      "S41",
+      "S67"
+    ]
+  },
+  "q015": {
+    "question": "How did public statements from President Biden and General Lord Richards describe different weaknesses in Western responses to Russia\u2019s invasion of Ukraine?",
+    "answer": "Ukraine\u2019s president, Volodymyr Zelenskiy, \u201cdidn\u2019t want to hear\u201d warnings of the Russian invasion, according to the US president, Joe Biden. Gen Lord Richards said the British government had adopted a \u201clet\u2019s see how it goes\u201d approach and was failing to show decisiveness. He said leaders still did not know how they wanted the war to end or what kind of Russia they sought to shape, especially regarding relations with China.",
+    "answers": [
+      {
+        "answer": "Ukraine\u2019s president, Volodymyr Zelenskiy, \u201cdidn\u2019t want to hear\u201d warnings of the Russian invasion, according to the US president, Joe Biden. Gen Lord Richards said the British government had adopted a \u201clet\u2019s see how it goes\u201d approach and was failing to show decisiveness. He said leaders still did not know how they wanted the war to end or what kind of Russia they sought to shape, especially regarding relations with China.",
+        "citation": {
+          "doc_id": "gold/russia-ukraine-conflict_2022-06-11T12_01_17Z",
+          "score": 57.208167011200366,
+          "sentence_ids": [
+            0,
+            6,
+            8
+          ]
+        }
+      },
+      {
+        "answer": "And in the case of his early morning television address announcing Russia\u2019s invasion of Ukraine, his words and hints about his intentions were truly terrifying. As for Putin\u2019s intentions in Ukraine itself, there was a strong indication that he plans to incorporate the Donbas (including the entire Donetsk and Luhansk regions, most of which are still in Ukrainian hands) into the Russian Federation, just as he did with Crimea in 2014. The presidential administration and the foreign ministry almost ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-02-24T16_40_54Z",
+          "score": 44.0909271358278,
+          "sentence_ids": [
+            3,
+            7,
+            29
+          ]
+        }
+      },
+      {
+        "answer": "President Biden\u2019s off-script remark, during a visit to Poland following the 24 March Nato summit, that Putin \u201ccannot remain in power\u201d gave rise to speculation about his Russia policy and left his team scrambling to explain that toppling Putin was in fact not one of its goals. Protests in Russia against Putin\u2019s war, criticisms of it by prominent Russian tycoons and celebrities, and growing evidence that western economic sanctions are making Russians\u2019 quotidian life much harder \u2013 because of shorta...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-03-28T10_21_51Z",
+          "score": 41.88498429874878,
+          "sentence_ids": [
+            12,
+            13,
+            16
+          ]
+        }
+      },
+      {
+        "answer": "On Sunday, celebrated as Mother\u2019s Day in the United States, Biden will meet with Ukrainian mothers and children who have been forced to flee their homes because of Russia\u2019s war against Ukraine, her office said according to Reuters. The House delegation had discussed Zelenskiy\u2019s priorities for the next phase of the war, which is concentrated in the east of the country after Russian forces withdrew from around the capital, and Biden\u2019s request for a $33bn aid package for Ukraine, Schiff said: We wa...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-02T04_42_11Z",
+          "score": 41.56584435959306,
+          "sentence_ids": [
+            12,
+            32,
+            92
+          ]
+        }
+      },
+      {
+        "answer": "Instead, Ardern called Zelenskiy from Brussels on Thursday morning following the Nato Leader\u2019s Summit in Spain: I passed on New Zealand\u2019s solidarity, and our commitment to keep standing with Ukraine as they fight the illegal invasion of their country.\u201d A spokesperson from the prime minister\u2019s office says Ardern had also assured the president of New Zealand\u2019s continued support through sanctions on those connected to the Russian government. Photograph: Ukraine Operational Command South/Reuters\n\n\n\n...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-01T00_06_21Z",
+          "score": 40.83950420506295,
+          "sentence_ids": [
+            9,
+            12,
+            20
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/russia-ukraine-conflict_2022-06-11T12_01_17Z",
+        "score": 57.208167011200366,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-02-24T16_40_54Z",
+        "score": 44.0909271358278,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-03-28T10_21_51Z",
+        "score": 41.88498429874878,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-02T04_42_11Z",
+        "score": 41.56584435959306,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-01T00_06_21Z",
+        "score": 40.83950420506295,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S1",
+      "S7",
+      "S9"
+    ]
+  },
+  "q016": {
+    "question": "According to this reporting, what specific risks did Zelenskiy warn would result from Russia blocking Ukrainian ports, and which regions of the world did he say would be most affected?",
+    "answer": "Putin effectively called the deal a quid-pro-quo earlier this week, saying that Russia would \u201cfacilitate the exportation of Ukrainian grain, but we are proceeding from the fact that all restrictions related to \u2026 the export of Russian grain will be lifted.\u201d\n\nWhile Russian grain exports were not sanctioned by the US, some shipping companies have avoided carrying Russian goods because of the financial and reputations risks involved. \u201cIf the president\u2019s team did not manage to move this issue from a ...",
+    "answers": [
+      {
+        "answer": "Putin effectively called the deal a quid-pro-quo earlier this week, saying that Russia would \u201cfacilitate the exportation of Ukrainian grain, but we are proceeding from the fact that all restrictions related to \u2026 the export of Russian grain will be lifted.\u201d\n\nWhile Russian grain exports were not sanctioned by the US, some shipping companies have avoided carrying Russian goods because of the financial and reputations risks involved. \u201cIf the president\u2019s team did not manage to move this issue from a ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-22T16_41_06Z",
+          "score": 66.4847482466305,
+          "sentence_ids": [
+            9,
+            21,
+            34
+          ]
+        }
+      },
+      {
+        "answer": "From 26 Jul 2022 21.35 Zelenskiy accuses Russia of using rising gas prices to terrorise Europe Ukrainian president Volodymyr Zelenskiy on Tuesday said Russia was deliberately cutting supplies of natural gas to impose a \u201cprice terror\u201d against Europe, and he called for more sanctions on Moscow, Reuters reports. The British prime minister said he believed \u201cChurchill would have cheered and probably have wept too\u201d when the Ukrainian president insisted he needed \u201cammunition, not a ride\u201d out of Kyiv wh...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+          "score": 63.446721581062064,
+          "sentence_ids": [
+            0,
+            43,
+            86
+          ]
+        }
+      },
+      {
+        "answer": "But he can only lose,\u201d Trudeau said when asked what he would tell Putin on the eve of Russia\u2019s commemorations of the defeat of Nazi Germany in World War Two, which Moscow calls the Great Patriotic War of 1941-45. For more, read on here: UK expands import sanctions against Russia and Belarus Read more\n\n\n\n9 May 2022 02.35 Here\u2019s a bit more from Canadian prime minister Justin Trudeau, who gave an interview to Reuters during his unannounced visit to Ukraine on Sunday, telling the newswire the world ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-09T02_57_32Z",
+          "score": 63.02229927353548,
+          "sentence_ids": [
+            38,
+            43,
+            91
+          ]
+        }
+      },
+      {
+        "answer": "Russia\u2019s latest strikes, including on grain warehouses and residential neighbourhoods, \u201cprove once again that the war against Ukraine is a war of extermination for the Russian army,\u201d Zelenskiy has said in his latest nightly address, asking, \u201cWhat could be Russia\u2019s strategic success in this war?\u201d The \u201cThe ruined lives of people and the burned or stolen property will give nothing to Russia,\u201d he continued. He also denied that Russia would attempt to claim victory in Ukraine by 9 May \u2013 when Russia m...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-02T04_42_11Z",
+          "score": 62.90693252896983,
+          "sentence_ids": [
+            32,
+            78,
+            92
+          ]
+        }
+      },
+      {
+        "answer": "Ukraine\u2019s foreign minister, Dmytro Kuleba, described the departure of the grain shipment as a \u201cday of relief for the world\u201d and Turkey\u2019s foreign minister, Mevl\u00fct \u00c7avu\u015fo\u011flu, tweeted that he hoped exports from Ukraine would continue without interruptions and problems. \u201cThe main thing is not to be scared of Russia\u2019s tactics because that\u2019s what they are \u2013 tactics, to stop this from happening,\u201d she said. The Sierra Leone-flagged ship Razoni, carrying 26,000 tonnes of corn, finally set sail for Lebano...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-08-01T14_53_34Z",
+          "score": 62.88847043575122,
+          "sentence_ids": [
+            1,
+            22,
+            41
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-22T16_41_06Z",
+        "score": 66.4847482466305,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+        "score": 63.446721581062064,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-09T02_57_32Z",
+        "score": 63.02229927353548,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-02T04_42_11Z",
+        "score": 62.90693252896983,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-08-01T14_53_34Z",
+        "score": 62.88847043575122,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S35",
+      "S22",
+      "S10"
+    ]
+  },
+  "q017": {
+    "question": "Based only on this article, what is the exact number of children reported killed in the war, and how many of those additional confirmed deaths were in Mariupol?",
+    "answer": "Russia\u2019s latest strikes, including on grain warehouses and residential neighbourhoods, \u201cprove once again that the war against Ukraine is a war of extermination for the Russian army,\u201d Zelenskiy has said in his latest nightly address, asking, \u201cWhat could be Russia\u2019s strategic success in this war?\u201d The \u201cThe ruined lives of people and the burned or stolen property will give nothing to Russia,\u201d he continued. Posting on Telegram, Oleh Synyehubov said: \u201cIn connection with the intense shelling, we urge ...",
+    "answers": [
+      {
+        "answer": "Russia\u2019s latest strikes, including on grain warehouses and residential neighbourhoods, \u201cprove once again that the war against Ukraine is a war of extermination for the Russian army,\u201d Zelenskiy has said in his latest nightly address, asking, \u201cWhat could be Russia\u2019s strategic success in this war?\u201d The \u201cThe ruined lives of people and the burned or stolen property will give nothing to Russia,\u201d he continued. Posting on Telegram, Oleh Synyehubov said: \u201cIn connection with the intense shelling, we urge ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-02T04_42_11Z",
+          "score": 71.66360177346073,
+          "sentence_ids": [
+            12,
+            92,
+            96
+          ]
+        }
+      },
+      {
+        "answer": "Read more here: Sixty killed in Russian airstrike on Ukraine school Read more\n\nUpdated at 22.38 BST\n\n8 May 2022 21.26 After today\u2019s successful arrival in Zaporizhzhia, the total number of people evacuated from Azovstal and Mariupol is now more than 600. But he can only lose,\u201d Trudeau said when asked what he would tell Putin on the eve of Russia\u2019s commemorations of the defeat of Nazi Germany in World War Two, which Moscow calls the Great Patriotic War of 1941-45. And the fact that we have already...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-09T02_57_32Z",
+          "score": 67.4509159823006,
+          "sentence_ids": [
+            43,
+            93,
+            114
+          ]
+        }
+      },
+      {
+        "answer": "On 21 April, an article published by the Guardian revealed how civilians, who died during the Russian occupation of the Ukrainian city of Bucha, were killed by tiny metal arrows called flechettes, from shells of a type fired by Russian artillery. Born shortly after Russia\u2019s invasion of Ukraine, the Great Translation Movement \u2013 a Twitter account and a related hashtag that identifies itself as \u201cfourth estate\u201d and \u201cholds muck-rake in hand, wears crown from gutter\u201d \u2013 has been a source for English-la...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-10T06_00_31Z",
+          "score": 65.71129282704281,
+          "sentence_ids": [
+            0,
+            2,
+            16
+          ]
+        }
+      },
+      {
+        "answer": "\u201cPlease let us know as a matter of urgency the exact location of the occupying troops\u2019 bases and their residential addresses\u2026and the places of residence of the commanding staff,\u201d it said, adding that exact coordinates were desirable.\u201d\n\n\u201cPlease let us know as a matter of urgency the exact location of the occupying troops\u2019 bases and their residential addresses\u2026and the places of residence of the commanding staff,\u201d it said, adding that exact coordinates were desirable.\u201d The governor of the Zaporizhi...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-23T23_00_08Z",
+          "score": 65.37723281847563,
+          "sentence_ids": [
+            10,
+            23,
+            86
+          ]
+        }
+      },
+      {
+        "answer": "Five railway stations in central and western Ukraine were hit by Russian airstrikes in the space of an hour on Monday, as the war ground on relentlessly in the south and east of the country. Serhiy Borzov, the governor of the Vinnytsia region in central Ukraine, said Moscow fired rockets at two towns, causing an unspecified number of deaths and injuries. Russian shelling and assaults continued on Monday along most of the front in the east, including missile and bomb attacks on a huge steelworks ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-25T17_10_15Z",
+          "score": 62.70540359620877,
+          "sentence_ids": [
+            0,
+            23,
+            24
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-02T04_42_11Z",
+        "score": 71.66360177346073,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-09T02_57_32Z",
+        "score": 67.4509159823006,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-10T06_00_31Z",
+        "score": 65.71129282704281,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-23T23_00_08Z",
+        "score": 65.37723281847563,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-25T17_10_15Z",
+        "score": 62.70540359620877,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S93",
+      "S97",
+      "S13"
+    ]
+  },
+  "q018": {
+    "question": "How did Russia\u2019s reduction of gas flows through Nord Stream 1 affect Germany\u2019s projected consumer gas prices and energy planning, and why were German officials concerned about the period following the pipeline\u2019s scheduled July shutdown?",
+    "answer": "As announced two days earlier, the energy giant on Wednesday reduced the gas flow through Nord Stream 1 to 33m cubic metres a day \u2013 about 20% of the pipeline\u2019s total capacity and half the amount it has been delivering since resuming service last week after 10 days of maintenance work. On Tuesday, energy ministers from all of the European Union\u2019s 27 member states except Hungary backed a voluntary 15% reduction in gas usage over the winter, a target that could become mandatory if the Kremlin order...",
+    "answers": [
+      {
+        "answer": "As announced two days earlier, the energy giant on Wednesday reduced the gas flow through Nord Stream 1 to 33m cubic metres a day \u2013 about 20% of the pipeline\u2019s total capacity and half the amount it has been delivering since resuming service last week after 10 days of maintenance work. On Tuesday, energy ministers from all of the European Union\u2019s 27 member states except Hungary backed a voluntary 15% reduction in gas usage over the winter, a target that could become mandatory if the Kremlin order...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T15_09_05Z",
+          "score": 97.42731263262425,
+          "sentence_ids": [
+            1,
+            11,
+            16
+          ]
+        }
+      },
+      {
+        "answer": "Germany, which has managed to reduce its reliance on Russian gas from 55% to about 35% of its demand since the start of the Ukraine war, is still heavily reliant on the Nord Stream 1 pipeline, which closed down for 10 days from 11 July due to scheduled maintenance works. The brunt of reductions would have to be made by German industry, accountable for about a third of the country\u2019s gas use. \u201cBut it\u2019s very hard for the government to set these priorities via gas quotas.\u201d\n\nInstead, Sandkamp called ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-19T18_15_40Z",
+          "score": 92.88218813860144,
+          "sentence_ids": [
+            1,
+            15,
+            18
+          ]
+        }
+      },
+      {
+        "answer": "As announced two days earlier, the energy giant on Wednesday reduced the gas flow through Nord Stream 1 to 33m cubic metres a day \u2013 about 20% of the pipeline\u2019s total capacity and half the amount it has been delivering since resuming service last week after 10 days of maintenance work. As announced two days earlier, the energy giant on Wednesday reduced the gas flow through Nord Stream 1 to 33m cubic metres a day \u2013 about 20% of the pipeline\u2019s total capacity and half the amount it has been deliver...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T18_00_08Z",
+          "score": 91.24572508125367,
+          "sentence_ids": [
+            19,
+            50,
+            52
+          ]
+        }
+      },
+      {
+        "answer": "Germany\u2019s plans to replenish its gas reserves face another obstacle next month, when the Nord Stream 1 pipeline is closed for its annual inspection on 11 July and will be unable to carry any gas. In a move controversial with the Green party\u2019s voter base, the German government is planning to build two new liquified natural gas terminals on the North Sea coast and restart some coal-fired power plants that were due to be phased out. \u201cThere\u2019s no point pretending \u2013 the throttling of gas deliveries am...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-23T15_57_05Z",
+          "score": 90.35675301061059,
+          "sentence_ids": [
+            6,
+            8,
+            14
+          ]
+        }
+      },
+      {
+        "answer": "The deal came less than 24 hours after Russia\u2019s state-controlled energy firm, Gazprom, announced a steep reduction in gas supplies through the critical Nord Stream 1 pipeline from Wednesday. \u201cGermany made a strategic error in the past with its great dependency on Russian gas and the faith that it would always flow constantly and cheaply,\u201d said Germany\u2019s vice-chancellor, Robert Habeck, who is responsible for energy. Turning the eurozone debate on its head, Ribera said Spain had \u201cdone our homework...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-26T17_01_01Z",
+          "score": 89.27101785566896,
+          "sentence_ids": [
+            3,
+            29,
+            31
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T15_09_05Z",
+        "score": 97.42731263262425,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-19T18_15_40Z",
+        "score": 92.88218813860144,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T18_00_08Z",
+        "score": 91.24572508125367,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-23T15_57_05Z",
+        "score": 90.35675301061059,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-26T17_01_01Z",
+        "score": 89.27101785566896,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S2",
+      "S17",
+      "S12"
+    ]
+  },
+  "q019": {
+    "question": "According to this report, how long could Germany operate without any Russian gas if its storage facilities were completely full, and what specific condition did officials say would trigger this calculation?",
+    "answer": "Justin Bronk\u200b, of the Rusi thinktank, said if airborne assault troops could take and hold the airbase, the Russians could use it to rapidly build up forces ahead of heavy ground troops to put pressure on the capital. Ukraine\u2019s interior ministry warned that if artillery fire was to hit waste stored after the 1986 disaster, it could lead to \u201cradioactive nuclear dust\u201d being spread \u201cover the territory of Ukraine, Belarus and the countries of the EU\u201d. Crucial, perhaps, in this calculation is the fact...",
+    "answers": [
+      {
+        "answer": "Justin Bronk\u200b, of the Rusi thinktank, said if airborne assault troops could take and hold the airbase, the Russians could use it to rapidly build up forces ahead of heavy ground troops to put pressure on the capital. Ukraine\u2019s interior ministry warned that if artillery fire was to hit waste stored after the 1986 disaster, it could lead to \u201cradioactive nuclear dust\u201d being spread \u201cover the territory of Ukraine, Belarus and the countries of the EU\u201d. Crucial, perhaps, in this calculation is the fact...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-02-24T19_54_49Z",
+          "score": 52.76702093022568,
+          "sentence_ids": [
+            5,
+            9,
+            13
+          ]
+        }
+      },
+      {
+        "answer": "Germany has been racing to fill its gas storage facilities in time for the winter, as Europe\u2019s largest economy scrambles to wean itself off Russian energy supplies in the face of a possible European embargo or a potential decision by Moscow to completely cut off supplies. Germany\u2019s plans to replenish its gas reserves face another obstacle next month, when the Nord Stream 1 pipeline is closed for its annual inspection on 11 July and will be unable to carry any gas. Should Russian gas deliveries v...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-23T15_57_05Z",
+          "score": 51.031456168751966,
+          "sentence_ids": [
+            3,
+            6,
+            13
+          ]
+        }
+      },
+      {
+        "answer": "The price cap on annual energy bills is expected to hit \u00a32,980 in October, and could reach \u00a33,003 in January, research firm Cornwall Insight said this week. If Russian completely cuts off gas exports, it could be pushed even higher. However, without Russian gas, these targets will be hard to meet.",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-22T15_50_20Z",
+          "score": 50.990961679506334,
+          "sentence_ids": [
+            16,
+            40,
+            41
+          ]
+        }
+      },
+      {
+        "answer": "Nations across Africa, the Middle East, Asia and even Latin America are feeling the heat from this conflict.\u201d UN warns of \u2018looming hunger catastrophe\u2019 due to Russian blockade Read more\n\n\n\n7 Jul 2022 00.13 Russian prosecutors have called for prison sentences for a prominent opposition activist and for a Moscow city council member who opposes the invasion of Ukraine. \ud83d\udcf7 Serviceman Ihor Lutsenko https://t.co/o4XQNLpCd2 pic.twitter.com/oxuqhPi697 \u2014 Euromaidan Press (@EuromaidanPress) July 7, 2022\n\n\n\n...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+          "score": 49.60516129439292,
+          "sentence_ids": [
+            10,
+            23,
+            67
+          ]
+        }
+      },
+      {
+        "answer": "In this tense situation what counts is every single day and every cubic metre of gas we can save.\u201d\n\nGas storage facilities were only about one-third full when war broke out. It said: \u201cPolitics and the economy must urgently use the summer months in order to save gas, to ensure the storage facilities are full ahead of the coming heating season. The measures are meant to help wean Germany off Russian gas, making it less open to blackmail, and to preserve energy supplies before winter, using coal to...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T15_58_40Z",
+          "score": 48.345025989262105,
+          "sentence_ids": [
+            7,
+            10,
+            12
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-02-24T19_54_49Z",
+        "score": 52.76702093022568,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-23T15_57_05Z",
+        "score": 51.031456168751966,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-22T15_50_20Z",
+        "score": 50.990961679506334,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+        "score": 49.60516129439292,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T15_58_40Z",
+        "score": 48.345025989262105,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S6",
+      "S10",
+      "S14"
+    ]
+  },
+  "q020": {
+    "question": "Based on the reporting, what risks did Ukrainian officials and international observers identify regarding Russian military activity around the Zaporizhzhia nuclear plant, and how might these actions affect regional safety or military dynamics?",
+    "answer": "Photograph: EyePress News/REX/Shutterstock Trudeau also echoed a statement from the Group of Seven issued earlier on Sunday, following a video call of G7 leaders with Zelinskiy, on how Putin\u2019s \u201cactions bring shame on Russia and the historic sacrifices of its people\u201d during the second world war. Ukraine speech: Tomorrow Defence Secretary @BWallaceMP will say Russian military leaders are as much to blame for the invasion as President Putin and should face the consequences \ud83d\udc47\n\n\n\n\ud83c\uddfa\ud83c\udde6 #StandWithUkraine...",
+    "answers": [
+      {
+        "answer": "Photograph: EyePress News/REX/Shutterstock Trudeau also echoed a statement from the Group of Seven issued earlier on Sunday, following a video call of G7 leaders with Zelinskiy, on how Putin\u2019s \u201cactions bring shame on Russia and the historic sacrifices of its people\u201d during the second world war. Ukraine speech: Tomorrow Defence Secretary @BWallaceMP will say Russian military leaders are as much to blame for the invasion as President Putin and should face the consequences \ud83d\udc47\n\n\n\n\ud83c\uddfa\ud83c\udde6 #StandWithUkraine...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-09T02_57_32Z",
+          "score": 63.765054626600644,
+          "sentence_ids": [
+            45,
+            89,
+            114
+          ]
+        }
+      },
+      {
+        "answer": "He also denied that Russia would attempt to claim victory in Ukraine by 9 May \u2013 when Russia marks the end of the second world war with Victory Day \u2013 saying that the Russian military would not \u201cartificially adjust their actions to any date, including Victory Day.\u201d\n\nThe pace of the operation in Ukraine depends, first of all, on the need to minimise any risks for the civilian population and Russian military personnel. The wife of president Joe Biden will meet with US military service members at Mih...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-02T04_42_11Z",
+          "score": 63.20616746865804,
+          "sentence_ids": [
+            13,
+            39,
+            78
+          ]
+        }
+      },
+      {
+        "answer": "The Washington-based think tank suggested Moscow may be taking an \u201coperational pause,\u201d but said that does not entail \u201cthe complete cessation of active hostilities.\u201d Russian forces will likely confine themselves to relatively small-scale offensive actions as they attempt to set conditions for more significant offensive operations\u201d and rebuild the necessary combat power, the institute said. \u201cThe economic barriers that the United States and Europe imposed against Russia did not work,\u201d Bolsonaro tol...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+          "score": 59.55244936137428,
+          "sentence_ids": [
+            12,
+            34,
+            49
+          ]
+        }
+      },
+      {
+        "answer": "\u201cTherefore the Russian side is not agreeing to any evacuation measures regarding wounded [Ukrainian] troops.\u201d\n\nCapt Svyatoslav Palamar, the deputy commander of the Azov regiment, told Reuters in a video link from an undisclosed location beneath the complex: \u201cAs long as we\u2019re here and holding the defence \u2026 the city is not theirs. Russia has stepped up the pace of its offensive in eastern and southern Ukraine, and is preventing the evacuation of wounded Ukrainian fighters from a steelworks in Mari...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-28T17_08_06Z",
+          "score": 57.341075392404406,
+          "sentence_ids": [
+            0,
+            2,
+            14
+          ]
+        }
+      },
+      {
+        "answer": "The UK\u2019s Ministry of Defence has raised concerns about the \u201csecurity and safety\u201d of the Zaporizhzhia nuclear plant, saying Russia has \u201cused artillery units based in these areas to target Ukrainian territory on the western bank of the Dnipro [Dnieper] river\u201d. The Russian president welcomed Erdo\u011fan to Sochi, a resort city on the Black Sea, by thanking the Turkish president for help in securing an international deal that resumed grain exports from Ukraine that had been disrupted by the Kremlin war ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-08-06T00_59_35Z",
+          "score": 56.069100982500906,
+          "sentence_ids": [
+            3,
+            10,
+            11
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-09T02_57_32Z",
+        "score": 63.765054626600644,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-02T04_42_11Z",
+        "score": 63.20616746865804,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+        "score": 59.55244936137428,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-28T17_08_06Z",
+        "score": 57.341075392404406,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-08-06T00_59_35Z",
+        "score": 56.069100982500906,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S46",
+      "S90",
+      "S115"
+    ]
+  },
+  "q021": {
+    "question": "How did pre-colonial political structures, European colonial rule, and post-independence power struggles contribute to the ethnic tensions that culminated in the 1994 genocide in Rwanda?",
+    "answer": "German colonial conquest began in the late 1890s, but the territory was ceded to Belgian forces in 1916 during World War I. Both European nations quickly realized the benefits of ruling through the already centralized Rwandan Tutsi kingdom. The civil war exacerbated ethnic tensions and culminated in the shooting down of HABYARIMANA\u2019s private jet in 1994. While the current ethnic labels Hutu and Tutsi predate colonial rule, their flexibility and importance have varied significantly over time and ...",
+    "answers": [
+      {
+        "answer": "German colonial conquest began in the late 1890s, but the territory was ceded to Belgian forces in 1916 during World War I. Both European nations quickly realized the benefits of ruling through the already centralized Rwandan Tutsi kingdom. The civil war exacerbated ethnic tensions and culminated in the shooting down of HABYARIMANA\u2019s private jet in 1994. While the current ethnic labels Hutu and Tutsi predate colonial rule, their flexibility and importance have varied significantly over time and ...",
+        "citation": {
+          "doc_id": "gold/the-world-factbook-by-cia__Rwanda_history",
+          "score": 74.76079480422705,
+          "sentence_ids": [
+            2,
+            6,
+            15
+          ]
+        }
+      },
+      {
+        "answer": "People and Society: Age structure - 0-14 years: 37.2% (male 2,561,884/female 2,508,218)\nPeople and Society: Age structure - 15-64 years: 59.7% (male 3,954,608/female 4,179,844)\nPeople and Society: Age structure - 65 years and over: 3.1% (2024 est.) (male 168,163/female 250,585)\nPeople and Society: Dependency ratios - total dependency ratio: 72.5\nPeople and Society: Dependency ratios - youth dependency ratio: 67.1\nPeople and Society: Dependency ratios - elderly dependency ratio: 5.4\nPeople and So...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Rwanda",
+          "score": 60.587689033582784,
+          "sentence_ids": [
+            6,
+            32,
+            33
+          ]
+        }
+      },
+      {
+        "answer": "(burundiembassy-usa.com)\nGovernment: Diplomatic representation from the US - chief of mission: Ambassador Lisa PETERSON (since 27 June 2024)\nGovernment: Diplomatic representation from the US - embassy: No 50 Avenue Des Etats-Unis, 110-01-02, Bujumbura\nGovernment: Diplomatic representation from the US - mailing address: 2100 Bujumbura Place, Washington DC\u00a0 20521-2100\nGovernment: Diplomatic representation from the US - telephone: [257] 22-207-000\nGovernment: Diplomatic representation from the US -...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Burundi",
+          "score": 51.311448521901426,
+          "sentence_ids": [
+            12,
+            34,
+            35
+          ]
+        }
+      },
+      {
+        "answer": "The report, compiled by two thinktanks, the New Lines Institute in Washington and the Raoul Wallenberg Centre for Human Rights in Montreal, found that there were \u201creasonable grounds to conclude\u201d that Russia is already in breach of two articles of the 1948 Genocide Convention, by publicly inciting genocide, and by the forcible transfer of Ukrainian children to Russia, which the report notes is itself a genocidal act under article II of the convention. \u201cI think the documentation of crimes in Ukrai...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-27T17_45_42Z",
+          "score": 47.20459502447045,
+          "sentence_ids": [
+            1,
+            8,
+            12
+          ]
+        }
+      },
+      {
+        "answer": "People and Society: Age structure - 0-14 years: 45.7% (male 26,584,268/female 26,208,891)\nPeople and Society: Age structure - 15-64 years: 51.8% (male 29,845,450/female 29,884,958)\nPeople and Society: Age structure - 65 years and over: 2.5% (2024 est.) (male 1,258,442/female 1,621,018)\nPeople and Society: Dependency ratios - total dependency ratio: 98\nPeople and Society: Dependency ratios - youth dependency ratio: 92.1\nPeople and Society: Dependency ratios - elderly dependency ratio: 5.9\nPeople ...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Congo,_Democratic_Republic_of_the",
+          "score": 46.326254197565596,
+          "sentence_ids": [
+            27,
+            37,
+            38
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Rwanda_history",
+        "score": 74.76079480422705,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Rwanda",
+        "score": 60.587689033582784,
+        "rank": 2
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Burundi",
+        "score": 51.311448521901426,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-27T17_45_42Z",
+        "score": 47.20459502447045,
+        "rank": 4
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Congo,_Democratic_Republic_of_the",
+        "score": 46.326254197565596,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S17",
+      "S3",
+      "S7"
+    ]
+  },
+  "q022": {
+    "question": "How did opposition parties and civil society actors describe the main threats to the fairness of Zimbabwe\u2019s election, and why were these concerns especially significant given the political context surrounding Robert Mugabe\u2019s long rule?",
+    "answer": "The main opposition party, Movement for Democratic Change, alleged widespread irregularities and promised to release its own election results, defying a government order. The government has warned the opposition not to release its own election results, saying that doing so is the role of the electoral commission and could spark violence of the kind seen in Kenya after elections there late last year. The United States this week warned of a possible unfair election, and New York-based Human Rights...",
+    "answers": [
+      {
+        "answer": "The main opposition party, Movement for Democratic Change, alleged widespread irregularities and promised to release its own election results, defying a government order. The government has warned the opposition not to release its own election results, saying that doing so is the role of the electoral commission and could spark violence of the kind seen in Kenya after elections there late last year. The United States this week warned of a possible unfair election, and New York-based Human Rights...",
+        "citation": {
+          "doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+          "score": 74.02540230158242,
+          "sentence_ids": [
+            3,
+            24,
+            33
+          ]
+        }
+      },
+      {
+        "answer": "People and Society: Age structure - 0-14 years: 38.3% (male 3,315,075/female 3,254,643)\nPeople and Society: Age structure - 15-64 years: 57.8% (male 4,758,120/female 5,152,773)\nPeople and Society: Age structure - 65 years and over: 3.9% (2024 est.) (male 270,595/female 399,146)\nPeople and Society: Dependency ratios - total dependency ratio: 79.4\nPeople and Society: Dependency ratios - youth dependency ratio: 73.4\nPeople and Society: Dependency ratios - elderly dependency ratio: 6\nPeople and Soci...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Zimbabwe",
+          "score": 69.40263769499707,
+          "sentence_ids": [
+            23,
+            26,
+            36
+          ]
+        }
+      },
+      {
+        "answer": "\u201cThe economic barriers that the United States and Europe imposed against Russia did not work,\u201d Bolsonaro told supporters on Thursday, adding that his position towards Putin and the war \u201cwas one of balance.\u201d Bolsonaro said that stance had allowed him to acquire fertilisers, a key input for Brazil\u2019s vast agricultural sector, from Russia. Speaking in Moscow\u2019s Meshchansky District Court, the prosecutor accused Gorinov of undermining the \u201cauthority of the armed forces\u201d and being guided by \u201cpolitical ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+          "score": 67.23975310034905,
+          "sentence_ids": [
+            23,
+            34,
+            75
+          ]
+        }
+      },
+      {
+        "answer": "Born shortly after Russia\u2019s invasion of Ukraine, the Great Translation Movement \u2013 a Twitter account and a related hashtag that identifies itself as \u201cfourth estate\u201d and \u201cholds muck-rake in hand, wears crown from gutter\u201d \u2013 has been a source for English-language speakers to understand how state-linked Chinese social media discuss the war in Ukraine. In light of China\u2019s rapid rise and the west\u2019s decline, these people need an illusional superiority to feel better.\u201d In response, online, anonymous volu...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-10T06_00_31Z",
+          "score": 60.67496641913385,
+          "sentence_ids": [
+            1,
+            16,
+            31
+          ]
+        }
+      },
+      {
+        "answer": "Here\u2019s how to tackle both\n\n\u2018Autocrats are often directly the result of fossil fuel.\u2019 Composite: Rita Liu/The Guardian/Getty Images\n\nThe world of money is at least as unbalanced and unfair as the world of political power \u2013 but in ways that may make it a little easier for climate advocates to make progress. Austria\u2019s chancellor is to meet Vladimir Putin on Monday, the Russian president\u2019s first face-to-face meeting with an EU leader since ordering the invasion of Ukraine, amid warnings of a fresh o...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+          "score": 60.32943663129374,
+          "sentence_ids": [
+            1,
+            3,
+            44
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+        "score": 74.02540230158242,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Zimbabwe",
+        "score": 69.40263769499707,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+        "score": 67.23975310034905,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-10T06_00_31Z",
+        "score": 60.67496641913385,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+        "score": 60.32943663129374,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S4",
+      "S25",
+      "S34"
+    ]
+  },
+  "q023": {
+    "question": "How was Russia using its natural gas exports as a tool of political influence over Europe in mid-2022, and what kinds of pressure did this create for EU governments, especially Germany?",
+    "answer": "From 26 Jul 2022 21.35 Zelenskiy accuses Russia of using rising gas prices to terrorise Europe Ukrainian president Volodymyr Zelenskiy on Tuesday said Russia was deliberately cutting supplies of natural gas to impose a \u201cprice terror\u201d against Europe, and he called for more sanctions on Moscow, Reuters reports. Photograph: Anadolu Agency/Getty Images\n\n\n\n26 Jul 2022 21.35 Zelenskiy accuses Russia of using rising gas prices to terrorise Europe Ukrainian president Volodymyr Zelenskiy on Tuesday said ...",
+    "answers": [
+      {
+        "answer": "From 26 Jul 2022 21.35 Zelenskiy accuses Russia of using rising gas prices to terrorise Europe Ukrainian president Volodymyr Zelenskiy on Tuesday said Russia was deliberately cutting supplies of natural gas to impose a \u201cprice terror\u201d against Europe, and he called for more sanctions on Moscow, Reuters reports. Photograph: Anadolu Agency/Getty Images\n\n\n\n26 Jul 2022 21.35 Zelenskiy accuses Russia of using rising gas prices to terrorise Europe Ukrainian president Volodymyr Zelenskiy on Tuesday said ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+          "score": 66.11627482239524,
+          "sentence_ids": [
+            0,
+            86,
+            130
+          ]
+        }
+      },
+      {
+        "answer": "In Germany, which gets 35% of its gas imports from Russia, energy-intensive industries such as steelmaking will face a squeeze and limits on production. Before the war, Russia supplied 40% of Europe\u2019s gas supplies, so limitations on storing gas or ramping up imports of liquefied natural gas (LNG) in certain countries including Germany make replacing Russian gas entirely near impossible in the short term. The head of the International Energy Agency has now warned that Europe needs to prepare imme...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-22T15_50_20Z",
+          "score": 64.52383076371169,
+          "sentence_ids": [
+            1,
+            11,
+            27
+          ]
+        }
+      },
+      {
+        "answer": "He told reporters: \u201cWhen the far-right, in all its forms, represents that much in France, you can\u2019t consider things are going well, so you must go out and convince people with a lot of humility, and respect for those who weren\u2019t on our side in this first round.\u201d\n\nIn other news \u2026\n\nRepresentative Marjorie Taylor Greene and Donald Trump during a rally in Commerce, Georgia, last month. The New York Times said otherwise on Sunday, in a report headlined: \u201cJanuary 6 panel has evidence for criminal refe...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+          "score": 63.00978307562533,
+          "sentence_ids": [
+            13,
+            25,
+            36
+          ]
+        }
+      },
+      {
+        "answer": "\u201cThe economic barriers that the United States and Europe imposed against Russia did not work,\u201d Bolsonaro told supporters on Thursday, adding that his position towards Putin and the war \u201cwas one of balance.\u201d Bolsonaro said that stance had allowed him to acquire fertilisers, a key input for Brazil\u2019s vast agricultural sector, from Russia. Updated at 18.36 BST\n\n7 Jul 2022 00.51 Russia taking 'operational pause', analysts say Foreign analysts say Russia may be temporarily easing its offensive in east...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+          "score": 62.93196305859883,
+          "sentence_ids": [
+            10,
+            16,
+            34
+          ]
+        }
+      },
+      {
+        "answer": "The findings demonstrate how Russia has continued to benefit from its stranglehold over Europe\u2019s energy supply, even while governments have frantically sought to prevent Vladimir Putin using oil and gas as an economic weapon. Since we announced this intent, we have stopped all spot purchases of Russian crude, liquefied natural gas and of cargos of refined products directly exported from Russia.\u201d\n\nAnd a spokesperson for Exxon said: \u201cWe support the internationally coordinated efforts to bring Russ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-27T22_00_42Z",
+          "score": 62.887266714571446,
+          "sentence_ids": [
+            1,
+            3,
+            21
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+        "score": 66.11627482239524,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-22T15_50_20Z",
+        "score": 64.52383076371169,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+        "score": 63.00978307562533,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+        "score": 62.93196305859883,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-27T22_00_42Z",
+        "score": 62.887266714571446,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S1",
+      "S131",
+      "S87"
+    ]
+  },
+  "q024": {
+    "question": "According to the historical account provided, which foreign powers competed for influence over Korea in the late 19th and early 20th centuries, and what key wars shaped this period?",
+    "answer": "Korea became the object of intense imperialistic rivalry among the Chinese, Japanese, and Russian empires in the latter half of the 19th and early 20th centuries. North Korea also declared a central ideology of juche (\u201cself-reliance\u201d) as a check against outside influence, while continuing to rely heavily on China and the Soviet Union for economic support. Over the subsequent centuries, three main kingdoms -- Kogoryo, Paekche, and Silla -- were established on the Peninsula.",
+    "answers": [
+      {
+        "answer": "Korea became the object of intense imperialistic rivalry among the Chinese, Japanese, and Russian empires in the latter half of the 19th and early 20th centuries. North Korea also declared a central ideology of juche (\u201cself-reliance\u201d) as a check against outside influence, while continuing to rely heavily on China and the Soviet Union for economic support. Over the subsequent centuries, three main kingdoms -- Kogoryo, Paekche, and Silla -- were established on the Peninsula.",
+        "citation": {
+          "doc_id": "gold/the-world-factbook-by-cia__Korea_North_history",
+          "score": 57.26095793176464,
+          "sentence_ids": [
+            1,
+            5,
+            13
+          ]
+        }
+      },
+      {
+        "answer": "This data can then be broken down and analysed to reveal how the area looked, stretching back to the Neolithic period. And these thousands of documents, all written or dictated by the King himself, have allowed his voice to travel through the centuries. The letters are examined in a new BBC documentary, The Last Journey of the Magna Carta King, and experts claim they call into question the view of John as a tyrannical ruler \u2013 although are not able to dispel it completely.",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__6d80128885cd57debc81b06bad81fe1a7c3548d7",
+          "score": 56.36614031239036,
+          "sentence_ids": [
+            4,
+            5,
+            23
+          ]
+        }
+      },
+      {
+        "answer": "Economy: Real GDP growth rate: -1.1% (2015 est.)1% (2014 est.)\nEconomy: Real GDP per capita: $1,700 (2015 est.)$1,800 (2014 est.)\nEconomy: Real GDP per capita - note: data are in 2015 US dollars\nEconomy: GDP (official exchange rate): $28 billion (2013 est.)\nEconomy: GDP - composition, by sector of origin - agriculture: 22.5% (2017 est.)\nEconomy: GDP - composition, by sector of origin - industry: 47.6% (2017 est.)\nEconomy: GDP - composition, by sector of origin - services: 29.9% (2017 est.)\nEcono...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Korea,_North",
+          "score": 55.049585396019715,
+          "sentence_ids": [
+            27,
+            28,
+            30
+          ]
+        }
+      },
+      {
+        "answer": "People and Society: Age structure - 0-14 years: 37% (male 5,507,847/female 5,400,551)\nPeople and Society: Age structure - 15-64 years: 59.1% (male 8,720,012/female 8,673,880)\nPeople and Society: Age structure - 65 years and over: 3.9% (2024 est.) (male 532,642/female 617,782)\nPeople and Society: Dependency ratios - total dependency ratio: 74.5\nPeople and Society: Dependency ratios - youth dependency ratio: 68.8\nPeople and Society: Dependency ratios - elderly dependency ratio: 5.8\nPeople and Soci...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Madagascar",
+          "score": 52.237074451219286,
+          "sentence_ids": [
+            12,
+            18,
+            31
+          ]
+        }
+      },
+      {
+        "answer": "The New York Times said otherwise on Sunday, in a report headlined: \u201cJanuary 6 panel has evidence for criminal referral of Trump, but splits on sending.\u201d\n\n\u201cThe debate centers on whether making a referral \u2013 a largely symbolic act \u2013 would backfire by politically tainting the justice department\u2019s expanding investigation into the January 6 assault and what led up to it,\u201d the paper said. Photograph: Alfonso Jimenez/Rex/Shutterstock\n\nFrance faces a brutal two-week campaign over the country\u2019s future, a...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+          "score": 51.859033800519285,
+          "sentence_ids": [
+            13,
+            18,
+            25
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Korea_North_history",
+        "score": 57.26095793176464,
+        "rank": 1
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__6d80128885cd57debc81b06bad81fe1a7c3548d7",
+        "score": 56.36614031239036,
+        "rank": 2
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Korea,_North",
+        "score": 55.049585396019715,
+        "rank": 3
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Madagascar",
+        "score": 52.237074451219286,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+        "score": 51.859033800519285,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S6",
+      "S14",
+      "S2"
+    ]
+  }
+}

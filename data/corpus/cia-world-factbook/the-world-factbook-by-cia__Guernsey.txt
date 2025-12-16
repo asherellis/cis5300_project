@@ -1,0 +1,184 @@
+url: https://www.cia.gov/the-world-factbook/countries/guernsey/
+Introduction: Background: Guernsey and the other Channel Islands represent the last remnants of the medieval Duchy of Normandy, which held sway in both France and England. The islands were the only British soil that Germany occupied in World War II. The Bailiwick of Guernsey consists of the main island of Guernsey and a number of smaller islands, including Alderney, Sark, Herm, Jethou, Brecqhou, and Lihou. The Bailiwick is a self-governing British Crown dependency that is not part of the UK. However, the UK Government is constitutionally responsible for its defense and international representation.
+Geography: Location: Western Europe, islands in the English Channel, northwest of France
+Geography: Geographic coordinates: 49 28 N, 2 35 W
+Geography: Map references: Europe
+Geography: Area - total: 78 sq km
+Geography: Area - land: 78 sq km
+Geography: Area - water: 0 sq km
+Geography: Area - note: includes Alderney, Guernsey, Herm, Sark, and some other smaller islands
+Geography: Area - comparative: about one-half the size of Washington, DC
+Geography: Land boundaries - total: 0 km
+Geography: Coastline: 50 km
+Geography: Maritime claims - territorial sea: 12 nm
+Geography: Maritime claims - exclusive fishing zone: 12 nm
+Geography: Climate: temperate with mild winters and cool summers; about 50% of days are overcast
+Geography: Terrain: mostly flat with low hills in southwest
+Geography: Elevation - highest point: Le Moulin on Sark 114 m
+Geography: Elevation - lowest point: English Channel 0 m
+Geography: Natural resources: cropland
+Geography: Irrigated land: NA
+Geography: Natural hazards: very large tidal variation and fast currents can make local waters dangerous
+Geography: Geography - note: large, deepwater harbor at Saint Peter Port
+People and Society: Population - total: 67,787
+People and Society: Population - male: 33,712
+People and Society: Population - female: 34,075 (2024 est.)
+People and Society: Nationality - noun: Channel Islander(s)
+People and Society: Nationality - adjective: Channel Islander
+People and Society: Ethnic groups: Guernsey 53.5%, UK and Ireland 23.8%, Portugal 2.1%, Latvia 1.4%, other Europe 2.7%, other Crown Dependencies 0.7%, other 5.3%, unspecified 10.5% (2022 est.)
+People and Society: Ethnic groups - note: data represent population by country of birth; the native population is of British and Norman-French descent
+People and Society: Languages: English, French, Norman-French dialect spoken in country districts
+People and Society: Religions: Protestant (Anglican, Presbyterian, Baptist, Congregational, Methodist), Roman Catholic
+People and Society: Age structure - 0-14 years: 14.3% (male 4,999/female 4,717)
+People and Society: Age structure - 15-64 years: 64.1% (male 21,937/female 21,547)
+People and Society: Age structure - 65 years and over: 21.5% (2024 est.) (male 6,776/female 7,811)
+People and Society: Dependency ratios - total dependency ratio: 48.6
+People and Society: Dependency ratios - youth dependency ratio: 23.9
+People and Society: Dependency ratios - elderly dependency ratio: 24.6
+People and Society: Dependency ratios - potential support ratio: 4.1 (2021 est.)
+People and Society: Dependency ratios - note: data represent Guernsey and Jersey
+People and Society: Median age - total: 45 years (2024 est.)
+People and Society: Median age - male: 43.8 years
+People and Society: Median age - female: 46.2 years
+People and Society: Population growth rate: 0.21% (2024 est.)
+People and Society: Birth rate: 9.7 births/1,000 population (2024 est.)
+People and Society: Death rate: 9.2 deaths/1,000 population (2024 est.)
+People and Society: Net migration rate: 1.6 migrant(s)/1,000 population (2024 est.)
+People and Society: Urbanization - urban population: 31.2% of total population (2023)
+People and Society: Urbanization - rate of urbanization: 0.68% annual rate of change (2020-25 est.)
+People and Society: Urbanization - note: data include Guernsey and Jersey
+People and Society: Major urban areas - population: 16,000 SAINT PETER PORT (capital) (2018)
+People and Society: Sex ratio - at birth: 1.05 male(s)/female
+People and Society: Sex ratio - 0-14 years: 1.06 male(s)/female
+People and Society: Sex ratio - 15-64 years: 1.02 male(s)/female
+People and Society: Sex ratio - 65 years and over: 0.87 male(s)/female
+People and Society: Sex ratio - total population: 0.99 male(s)/female (2024 est.)
+People and Society: Infant mortality rate - total: 3.3 deaths/1,000 live births (2024 est.)
+People and Society: Infant mortality rate - male: 3.7 deaths/1,000 live births
+People and Society: Infant mortality rate - female: 2.7 deaths/1,000 live births
+People and Society: Life expectancy at birth - total population: 83.6 years (2024 est.)
+People and Society: Life expectancy at birth - male: 80.9 years
+People and Society: Life expectancy at birth - female: 86.4 years
+People and Society: Total fertility rate: 1.59 children born/woman (2024 est.)
+People and Society: Gross reproduction rate: 0.77 (2024 est.)
+People and Society: Contraceptive prevalence rate: NA
+People and Society: Drinking water source - improved: total: 94.2% of population
+People and Society: Drinking water source - unimproved: total: 5.9% of population (2017 est.)
+People and Society: Drinking water source - note: : includes data for Jersey
+People and Society: Sanitation facility access - improved: urban: NArural: NAtotal: 98% of population
+People and Society: Sanitation facility access - unimproved: urban: NArural: NAtotal: 1.2% of population (2017)
+People and Society: Sanitation facility access - note: data represent Guernsey and Jersey
+People and Society: Children under the age of 5 years underweight: NA
+People and Society: Education expenditures: NA
+People and Society: Literacy - total population: NA
+People and Society: Literacy - male: NA
+People and Society: Literacy - female: NA
+Environment: Environment - current issues: coastal erosion, coastal flooding; declining biodiversity due to land abandonment and succession to scrub or woodland
+Environment: Climate: temperate with mild winters and cool summers; about 50% of days are overcast
+Environment: Urbanization - urban population: 31.2% of total population (2023)
+Environment: Urbanization - rate of urbanization: 0.68% annual rate of change (2020-25 est.)
+Environment: Urbanization - note: data include Guernsey and Jersey
+Environment: Waste and recycling - municipal solid waste generated annually: 178,933 tons (2016 est.)
+Environment: Waste and recycling - municipal solid waste recycled annually: 50,871 tons (2016 est.)
+Environment: Waste and recycling - percent of municipal solid waste recycled: 28.4% (2016 est.)
+Environment: Waste and recycling - note: data include combined totals for Guernsey and Jersey.
+Government: Country name - conventional long form: Bailiwick of Guernsey
+Government: Country name - conventional short form: Guernsey
+Government: Country name - former: Norman Isles
+Government: Country name - etymology: the name is of Old Norse origin, but the meaning of the root "Guern(s)" is uncertain; the "-ey" ending means "island"
+Government: Government type: parliamentary democracy (States of Deliberation)
+Government: Dependency status: British crown dependency
+Government: Capital - name: Saint Peter Port
+Government: Capital - geographic coordinates: 49 27 N, 2 32 W
+Government: Capital - time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+Government: Capital - daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Government: Capital - etymology: Saint Peter Port is the name of the town and its surrounding parish; the "port" distinguishes this parish from that of Saint Peter on the other side of the island
+Government: Administrative divisions: none (British Crown dependency); there are no first-order administrative divisions as defined by the US Government, but there are 10 parishes: Castel, Forest, Saint Andrew, Saint Martin, Saint Peter Port, Saint Pierre du Bois, Saint Sampson, Saint Saviour, Torteval, Vale
+Government: Administrative divisions - note: two additional parishes for Guernsey are sometimes listed - Saint Anne on the island of Alderney and Saint Peter on the island of Sark - but they are generally not included in the enumeration of parishes
+Government: Independence: none (British Crown dependency)
+Government: National holiday: Liberation Day, 9 May (1945)
+Government: Legal system: customary legal system based on Norman customary law; includes elements of the French civil code and English common law
+Government: Constitution - history: unwritten; includes royal charters, statutes, and common law and practice
+Government: Constitution - amendments: new laws or changes to existing laws are initiated by the States of Deliberation; passage requires majority vote; many laws have been passed; in 2019, 60 laws were passed
+Government: Citizenship: see United Kingdom
+Government: Suffrage: 16 years of age; universal
+Government: Executive branch - chief of state: King CHARLES III (since 8 September 2022); represented by Lieutenant-Governor Richard CRIPWELL (since 15 February 2022)
+Government: Executive branch - head of government: Chief Minister Lyndon TROTT (since 13 December 2023)
+Government: Executive branch - cabinet: none
+Government: Executive branch - elections/appointments: the monarchy is hereditary; lieutenant governor and bailiff appointed by the monarch; chief minister, who is the president of the Policy and Resources Committee indirectly elected by the States of Deliberation for a 4-year term; last held on 7 October 2020 (next to be held in 2024)
+Government: Executive branch - election results: 2020: Peter FERBRACHE (independent) elected president of the Policy and Resources Committee and chief minister: percent of States of Guernsey vote - 57.5%2016: Gavin ST. PIER (independent) elected president of the Policy and Resources Committee and chief minister
+Government: Executive branch - note: the chief minister is the president of the Policy and Resources Committee and is the de facto head of government; the Policy and Resources Committee, elected by the States of Deliberation, functions as the executive; the 5 members all have equal voting rights
+Government: Legislative branch - legislature name: States of Deliberation
+Government: Legislative branch - legislative structure: unicameral
+Government: Legislative branch - number of seats: 40 (directly elected)
+Government: Legislative branch - electoral system: plurality/majority
+Government: Legislative branch - scope of elections: full renewal
+Government: Legislative branch - term in office: 4 years
+Government: Legislative branch - most recent election date: 10/7/2020
+Government: Legislative branch - parties elected and seats per party: GPI (10); GP (6); independent (22); States of Alderney (2)
+Government: Legislative branch - percentage of women in chamber: 20%
+Government: Legislative branch - expected date of next election: June 2025
+Government: Legislative branch - note: non-voting members include the bailiff (presiding officer), attorney-general, and solicitor-general
+Government: Judicial branch - highest court(s): Guernsey Court of Appeal (consists of the Bailiff of Guernsey, who is the ex-officio president of the Guernsey Court of Appeal, and at least 12 judges); Royal Court (organized into 3 divisions - Full Court sits with 1 judge and 7 to 12 jurats acting as judges of fact, Ordinary Court sits with 1 judge and normally 3 jurats, and Matrimonial Causes Division sits with 1 judge and 4 jurats); note - appeals beyond Guernsey courts are heard by the Judicial Committee of the Privy Council (in London)
+Government: Judicial branch - judge selection and term of office: Royal Court Bailiff, Deputy Bailiff, and Court of Appeal justices appointed by the British Crown and hold office at Her Majesty's pleasure; jurats elected by the States of Election, a body chaired by the Bailiff and a number of jurats
+Government: Judicial branch - subordinate courts: Court of Alderney; Court of the Seneschal of Sark; Magistrates' Court (includes Juvenile Court); Contracts Court; Ecclesiastical Court; Court of Chief Pleas
+Government: Political parties: Alliance Party Guernsey or APG Guernsey Partnership of Independents or GPI Guernsey Party or GP 
+Government: International organization participation: UPU
+Government: Diplomatic representation in the US: none (British crown dependency)
+Government: Diplomatic representation from the US - embassy: none (British crown dependency)
+Government: Flag description: white with the red cross of Saint George (patron saint of England) extending to the edges of the flag and a yellow equal-armed cross of William the Conqueror superimposed on the Saint George cross; the red cross represents the old ties with England and the fact that Guernsey is a British Crown dependency; the gold cross is a replica of the one used by William the Conqueror at the Battle of Hastings in 1066
+Government: National symbol(s): Guernsey cow, donkey; national colors: red, white, yellow
+Government: National anthem - name: "Sarnia Cherie" (Guernsey Dear)
+Government: National anthem - lyrics/music: George DEIGHTON/Domencio SANTANGELO
+Government: National anthem - note: adopted 1911; serves as a local anthem; as a British crown dependency, "God Save the King" is official (see United Kingdom)
+Economy: Economic overview: high-income English Channel island economy; strong financial sector but stressed due to COVID-19 disruptions; manufacturing, tourism, and construction industries suffered but expected to recover; stable inflation; maintains independent taxation authority
+Economy: Real GDP (purchasing power parity): $3.465 billion (2015 est.)$3.451 billion (2014 est.)
+Economy: Real GDP (purchasing power parity) - note: data are in 2015 dollars
+Economy: Real GDP growth rate: 3.72% (2023 est.)5.34% (2022 est.)15.46% (2021 est.)note: annual GDP % growth based on constant local currency; entry includes Jersey and Guernsey
+Economy: Real GDP per capita: $52,500 (2014 est.)
+Economy: GDP (official exchange rate): $12.508 billion (2023 est.)note: data in current dollars at official exchange rate; entry includes Jersey and Guernsey
+Economy: GDP - composition, by sector of origin - agriculture: 0.6% (2023 est.)
+Economy: GDP - composition, by sector of origin - industry: 8.2% (2023 est.)
+Economy: GDP - composition, by sector of origin - services: 91.2% (2023 est.)note: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
+Economy: Agricultural products: tomatoes, greenhouse flowers, sweet peppers, eggplant, fruit; Guernsey cattle
+Economy: Industries: tourism, banking
+Economy: Industrial production growth rate: 1.26% (2023 est.)note: annual % change in industrial value added based on constant local currency; entry includes Jersey and Guernsey
+Economy: Labor force: 83,000 (2023 est.)note: number of people ages 15 or older who are employed or seeking work;entry includes Jersey and Guernsey
+Economy: Unemployment rate: 5.98% (2023 est.)5.91% (2022 est.)6.61% (2021 est.)note: % of labor force seeking employment; entry includes Jersey and Guernsey
+Economy: Youth unemployment rate (ages 15-24) - total: 13.5% (2023 est.)
+Economy: Youth unemployment rate (ages 15-24) - male: 13.7% (2023 est.)
+Economy: Youth unemployment rate (ages 15-24) - female: 13.2% (2023 est.)note: % of labor force ages 15-24 seeking employment
+Economy: Exports - partners: almost entirely United Kingdom (2022)
+Economy: Exports - commodities: aircraft, photo lab equipment, clocks, ships, paintings (2022)top five export commodities based on value in dollars
+Economy: Imports - partners: almost entirely United Kingdom (2022)
+Economy: Imports - commodities: ships, aircraft, refined petroleum, mineral manufactures, beverages (2022)
+Economy: Exchange rates: Guernsey pound per US dollar
+Economy: Exchange rates - Exchange rates: 0.805 (2023 est.)0.811 (2022 est.)0.727 (2021 est.)0.78 (2020 est.)0.783 (2019 est.)
+Energy: Electricity access - electrification - total population: 100% (2022 est.)
+Energy: Electricity access - note: includes Guernsey and Jersey
+Communications: Telephones - fixed lines - total subscriptions: 33,930 (2021 est.)
+Communications: Telephones - fixed lines - subscriptions per 100 inhabitants: 53 (2021 est.)
+Communications: Telephones - mobile cellular - total subscriptions: 71,485 (2021 est.)
+Communications: Telephones - mobile cellular - subscriptions per 100 inhabitants: 112 (2021 est.)
+Communications: Telecommunication systems - general assessment: fixed network broadband services are those delivered over physical copper connections, fiber connections and fixed wireless communications links (e.g. WiMax); they do not include services delivered over 2G, 3G and 4G mobile networks (2021)
+Communications: Telecommunication systems - domestic: fixed-line 53 per 100 and mobile-cellular 112 per 100 persons (2021)
+Communications: Telecommunication systems - international: country code - 44; landing points for Guernsey-Jersey, HUGO, INGRID, Channel Islands -9 Liberty and UK-Channel Islands-7 submarine cable to UK and France (2019)
+Communications: Broadcast media: multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey with relays in Jersey, Guernsey, and Alderney; satellite packages are available; BBC Radio Guernsey and 1 other radio station operating
+Communications: Internet country code: .gg
+Communications: Internet users - percent of population: 86.6% (2021 est.)
+Communications: Broadband - fixed subscriptions - total: 25,336 (2020 est.)
+Communications: Broadband - fixed subscriptions - subscriptions per 100 inhabitants: 40 (2020 est.)
+Transportation: National air transport system - number of registered air carriers: 1 (2020) (registered in UK)
+Transportation: National air transport system - inventory of registered aircraft operated by air carriers: 9 (registered in UK)
+Transportation: Civil aircraft registration country code prefix: 2
+Transportation: Airports: 2 (2024)
+Transportation: Roadways - total: 260 km (2017)
+Transportation: Ports - total ports: 3 (2024)
+Transportation: Ports - large: 0
+Transportation: Ports - medium: 0
+Transportation: Ports - small: 1
+Transportation: Ports - very small: 2
+Transportation: Ports - ports with oil terminals: 2
+Transportation: Ports - key ports: Alderney Harbour, Saint Peter Port, Saint Sampson
+Military and Security: Military - note: defense is the responsibility of the UK
+Transnational Issues: Illicit drugs: NA

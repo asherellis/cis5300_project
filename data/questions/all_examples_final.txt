@@ -1,0 +1,569 @@
+{
+  "doc_id": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+  "question_type": "A",
+  "question": "How did Russia’s inability to make scheduled payments on its foreign bonds escalate into what analysts considered a default, and what specific factors—including sanctions—made the situation effectively unavoidable?",
+  "answer": "Russia missed $100 million in bond payments after failing to clear them during a 30-day grace period. U.S. sanctions were the critical trigger, because OFAC blocked Moscow from using payment channels in late May, meaning Russia could not legally transfer funds to creditors. While the Kremlin insisted it had the money, intermediaries were not permitted to pass the payments through. Ratings agencies had already placed Russia deep in junk territory, and investors had long expected a default. As a result, the episode became a symbolic but significant milestone reflecting Russia’s forced financial isolation.",
+  "evidence_sentences": ["S1","S2","S5","S9","S18","S19"],
+  "rubric": {
+    "description": "Custom 5-point rubric judging whether the answer accurately explains the mechanisms of the default and the role of sanctions.",
+    "scale": {
+      "1": "Major errors or invented explanations; does not mention both (a) missed payments/grace period AND (b) OFAC blocking payment channels.",
+      "2": "Partially correct but missing most key details; may mention missed payments but fails to attribute the default to sanctions or payment-channel restrictions.",
+      "3": "Some correct details such as missed payments or sanctions, but explanation is incomplete or vague; does not clearly connect OFAC actions to the inevitability of default.",
+      "4": "Mostly correct with only minor omissions; mentions missed payments, OFAC sanctions, and resulting inability to transfer funds, but misses one secondary detail (e.g., investor expectations or ratings downgrades).",
+      "5": "Fully correct: includes (a) Russia missing the $100M payments and grace period, (b) OFAC blocking transfers in late May, (c) Russia claiming funds but being unable to transmit them, and (d) investors/ratings already expecting default. No hallucinations."
+    }
+  }
+}
+{
+  "doc_id": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+  "question_type": "A",
+  "question": "What broader economic and geopolitical consequences did analysts expect from Russia’s 2022 foreign-debt default, and why was the impact considered less severe than the country’s default in the late 1990s?",
+  "answer": "Analysts expected the default to further isolate Russia from global financial markets and reinforce the effects of existing sanctions. Because Russia was already cut off from Western capital markets, the immediate impact on global institutions was expected to be limited. Unlike 1998, when a domestic default triggered fears of systemic contagion and required the rescue of Long-Term Capital Management, foreign exposure to Russia in 2022 was smaller and globally diversified. Russia could still borrow domestically in rubles, and high export revenues weakened the near-term economic shock. Overall, the default was symbolic of isolation rather than a trigger for global instability.",
+  "evidence_sentences": ["S1","S8","S21","S22","S23","S25","S26"],
+  "rubric": {
+    "description": "Custom rubric evaluating whether the model properly contrasts the 2022 default with the 1998 crisis and explains its limited systemic impact.",
+    "scale": {
+      "1": "Incorrect or mostly hallucinated; fails to mention differences between 2022 and 1998 or misstates basic facts.",
+      "2": "Touches on one correct idea (e.g., isolation or limited impact) but omits key comparative details or misrepresents historical context.",
+      "3": "Gives a partially correct explanation of limited global impact but does not clearly compare to the 1998 LTCM-driven crisis.",
+      "4": "Correct on major points, including limited systemic risk and Russia's existing isolation, but may omit one comparison point or one economic factor.",
+      "5": "Fully correct: must include (a) Russia already cut off from Western markets, (b) default mostly symbolic, (c) contrast with 1998 LTCM crisis, (d) lower global exposure today, and (e) domestic ruble borrowing/high export revenues mitigating impact."
+    }
+  }
+}
+{
+  "doc_id": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+  "question_type": "B",
+  "question": "How did Russian officials publicly respond to accusations of default, and what rationale did they use to argue that the responsibility for non-payment lay outside Moscow’s control?",
+  "answer": "Russian officials rejected the idea that the country was in default and argued that they had sufficient funds to make the payments. Putin’s spokesperson Dmitry Peskov said the default claims were unjustified because Western sanctions prevented intermediaries from transferring the money. Moscow framed the situation as a technical obstruction created by foreign governments rather than an inability to pay. Officials also argued that seizing or redirecting Russia’s frozen assets would be illegal. This response was meant to shift blame outward and maintain the image of financial solvency.",
+  "evidence_sentences": ["S9","S11","S17"],
+  "rubric": {
+    "description": "Custom rubric assessing whether the model accurately captures Russia’s official denial and rationale.",
+    "scale": {
+      "1": "Incorrect; claims Russia admitted default or invents statements not present in the article.",
+      "2": "Mentions denial but not the justification regarding sanctions blocking payments.",
+      "3": "States both denial and mentions sanctions but does not clearly articulate that intermediaries were unable to transfer payments.",
+      "4": "Correctly summarizes denial and sanctions-related rationale but omits secondary details such as references to frozen assets or legality arguments.",
+      "5": "Fully correct: includes (a) Russia denied default, (b) said it had the funds, (c) blamed sanctions preventing intermediaries from transferring payments, and (d) referenced claims that asset seizure would be illegal. No hallucinations."
+    }
+  }
+}
+{"doc_id": "gold/russia-ukraine-conflict_2022-06-11T12_01_17Z",
+ "question_type": "A",
+ "question": "How did public statements from President Biden and General Lord Richards describe different weaknesses in Western responses to Russia’s invasion of Ukraine?",
+ "answer": "Biden said that President Zelenskiy initially did not want to hear U.S. warnings that Russia planned to invade, implying Western intelligence warnings were not fully heeded. He also emphasized that the U.S. saw clear intelligence about Putin’s intent before the invasion. In contrast, General Lord Richards criticized Western governments more broadly, saying they lacked a long-term strategy and adopted a wait-and-see approach. He argued that Western leaders failed to coordinate decisive political and military objectives early in the war. Richards said leaders still had not agreed on how they wanted the war to end or how to shape Russia’s future strategic alignment. Together, the comments highlight both early warning failures and continuing strategic uncertainty.",
+ "evidence": ["S1", "S4", "S6", "S7", "S8", "S9"],
+ "edge_case_type": "none",
+ "rubric": {
+   "description": "5-point rubric tailored to this question, requiring comparison of Biden’s and Richards’s critiques using only information from the article.",
+   "scale": {
+     "1": "Answer is mostly incorrect or invented; does not distinguish Biden’s critique from Richards’s; includes claims not present in the article.",
+     "2": "Mentions either Biden or Richards but with significant inaccuracies or missing the main critique; conflates their views or adds unsupported claims.",
+     "3": "Captures the general idea that Biden raised concerns about warnings and Richards criticized strategy, but lacks detail or misstates one element.",
+     "4": "Accurately summarizes both critiques with only minor omissions (e.g., missing the point about ends–ways–means or lack of early decisiveness).",
+     "5": "Fully correct: includes Biden’s point about Zelenskiy not wanting to hear warnings AND Richards’s claims about lack of strategy, missing early coordination, and Western uncertainty about war aims; no hallucinations; grounded strictly in cited sentences."
+   }
+ }
+}
+{"doc_id": "gold/russia-ukraine-conflict_2022-06-11T12_01_17Z",
+ "question_type": "B",
+ "question": "According to this reporting, what specific risks did Zelenskiy warn would result from Russia blocking Ukrainian ports, and which regions of the world did he say would be most affected?",
+ "answer": "Zelenskiy warned that Russian blockades on Ukrainian ports would prevent the export of food, triggering an acute global food crisis. He said this could lead to widespread famine. He identified Asia and Africa as the regions that would suffer the most severe consequences. He emphasized that grain exports were being blocked in the Black Sea and Azov Sea. His statements framed food security as an international rather than local threat tied to port blockades.",
+ "evidence": ["S19", "S20", "S21"],
+ "edge_case_type": "precise_fact_retrieval",
+ "rubric": {
+   "description": "5-point rubric evaluating factual accuracy about the food-crisis warning and regional impact.",
+   "scale": {
+     "1": "Incorrect or hallucinated; fails to mention famine risk or misidentifies affected regions; invents numbers or claims not in the article.",
+     "2": "Partially correct but missing key elements such as famine risk or the regions; may confuse the nature of the blockade.",
+     "3": "Captures the general risk of food crisis but misses one required detail (e.g., specific seas or named regions).",
+     "4": "Accurate summary of risks and regions with minor omissions, such as incomplete description of export blockades.",
+     "5": "Fully correct: explicitly states the blockade stops food exports, risks global food crisis and famine, and identifies Asia and Africa as the regions most affected; no extraneous claims."
+   }
+ }
+}
+{"doc_id": "gold/russia-ukraine-conflict_2022-06-11T12_01_17Z",
+ "question_type": "C",
+ "question": "Based only on this article, what is the exact number of children reported killed in the war, and how many of those additional confirmed deaths were in Mariupol?",
+ "answer": "The article reports that at least 287 children had died in the war so far. It also states that 24 of those additional confirmed deaths occurred in Mariupol. No further breakdown or verification is provided in the text. These are the only numerical casualty figures mentioned regarding children, and no other numbers can be inferred.",
+ "evidence": ["S24"],
+ "edge_case_type": "precise_fact_retrieval",
+ "rubric": {
+   "description": "5-point rubric for verifying a model’s ability to retrieve exact casualty numbers from a single sentence.",
+   "scale": {
+     "1": "Incorrect numbers or invented statistics; fails to provide both required figures.",
+     "2": "Provides one correct number but misses or misstates the other; or adds fabricated detail.",
+     "3": "Provides both numbers but with some imprecision or unnecessary speculation.",
+     "4": "Accurate numbers with minor phrasing errors but no factual mistakes.",
+     "5": "Exact reproduction of both figures: 287 total children killed and 24 additional deaths confirmed in Mariupol; no added claims; strictly grounded in the source."
+   }
+ }
+}
+{
+  "doc_id": "gold/russia-ukraine-conflict_2022-06-24T10_57_22Z",
+  "source_dataset": "hugginglearners/russia-ukraine-conflict-articles",
+  "source": "2022-06-24T10:57:22Z",
+  "question_type": "A",
+  "question": "How did Russia’s reduction of gas flows through Nord Stream 1 affect Germany’s projected consumer gas prices and energy planning, and why were German officials concerned about the period following the pipeline’s scheduled July shutdown?",
+  "answer": "Russia’s decision to cut Nord Stream 1 gas flows by 40% triggered a four- to sixfold rise in market prices, and German regulators warned that consumers could face a doubling or tripling of gas bills. Germany entered the second emergency phase of its energy plan, which allows utilities to pass on higher prices and aims to lower demand. Officials were also concerned about the scheduled 10-day shutdown of Nord Stream 1 in mid-July because they feared Russia might not turn the pipeline back on afterward. This raised the risk of a complete halt to Russian gas deliveries. Germany estimated it could operate for only about two-and-a-half months without Russian gas, making a prolonged cutoff dangerous. These factors forced Berlin to prepare for supply shortages and diversify quickly.",
+  "edge_case_type": "none",
+  "evidence_sentences": ["S2", "S3", "S4", "S6", "S8", "S9", "S10", "S11"],
+  "rubric": {
+    "description": "Custom 5-point rubric requiring all key facts and reasoning from the article.",
+    "scale": {
+      "1": "Answer is mostly incorrect or hallucinated; fails to mention price increases, Nord Stream 1 reduction details, or Germany’s concerns about the July shutdown.",
+      "2": "Mentions either the gas flow reduction or rising prices, but omits major components such as the emergency plan, the July shutdown concern, or Germany’s 2.5-month estimate.",
+      "3": "Correctly describes some effects (e.g., rising prices or emergency phase) but leaves out multiple critical facts such as the scale of the price spike, the 40% flow reduction, or fears of a full cutoff after July.",
+      "4": "Covers most required facts, including price impacts and concerns about the July shutdown, but may omit one specific detail (e.g., the four- to sixfold market price increase or the 2.5-month storage limit).",
+      "5": "Fully correct and grounded: includes (a) 40% NS1 reduction, (b) four- to sixfold market price increase, (c) consumer doubling/tripling projection, (d) declaration of alarm phase, (e) fear Russia may not restart after July shutdown, and (f) Germany’s 2.5-month storage limit, with no hallucinated content."
+    }
+  }
+}
+{
+  "doc_id": "gold/russia-ukraine-conflict_2022-06-24T10_57_22Z",
+  "source_dataset": "hugginglearners/russia-ukraine-conflict-articles",
+  "source": "2022-06-24T10:57:22Z",
+  "question_type": "B",
+  "question": "According to this report, how long could Germany operate without any Russian gas if its storage facilities were completely full, and what specific condition did officials say would trigger this calculation?",
+  "answer": "German officials stated that if storage facilities were mathematically 100% full, Germany could operate without Russian gas for just about two-and-a-half months. This estimate was described by the head of the federal network agency and was framed as a hypothetical scenario requiring full storage levels. The remark underscored that Germany lacked sufficient reserves to handle a prolonged cutoff. It also emphasized that this calculation depended on having storage tanks entirely filled at the outset.",
+  "edge_case_type": "precise_fact_retrieval",
+  "evidence_sentences": ["S10", "S11"],
+  "rubric": {
+    "description": "Custom 5-point rubric emphasizing numerical accuracy and the conditional phrasing used by officials.",
+    "scale": {
+      "1": "Incorrect or invented; does not mention the two-and-a-half-month figure or misstates the condition (e.g., claims partial storage or gives a different duration).",
+      "2": "Attempts to answer but provides wrong numbers, wrong conditions, or mixes in unsupported details.",
+      "3": "Mentions either the correct time period or the correct full-storage condition, but not both, or gives an imprecise phrasing.",
+      "4": "Provides both the correct duration and the conditional requirement but with minor wording issues.",
+      "5": "Fully correct: clearly states (a) two-and-a-half months of operation, and (b) that this estimate is conditional on storage facilities being mathematically 100% full, with no added or missing facts."
+    }
+  }
+}
+{
+  "doc_id": "gold/russia-ukraine-conflict_2022-08-05T12_31_57Z",
+  "source_dataset": "hugginglearners/russia-ukraine-conflict-articles",
+  "source": "2022-08-05T12:31:57Z",
+  "question_type": "A",
+  "question": "Based on the reporting, what risks did Ukrainian officials and international observers identify regarding Russian military activity around the Zaporizhzhia nuclear plant, and how might these actions affect regional safety or military dynamics?",
+  "answer": "Ukrainian officials said Russian forces carried out strikes near a reactor block at the Zaporizhzhia nuclear plant, raising concerns about potential damage to critical infrastructure. Energoatom reported three impacts close to a power block housing a reactor, heightening fears of an accidental nuclear incident. The UK Ministry of Defence also warned about security and safety risks at the plant, noting Russia had fired artillery from positions around the facility. Using the site as cover for military actions could increase the chance of miscalculation, complicate Ukrainian responses, and raise the risk of contamination affecting nearby regions. These developments suggested that the plant had become both a military shield and a strategic pressure point.",
+  "evidence": ["S1", "S2", "S12", "S13"],
+  "edge_case_type": "none",
+  "rubric": {
+    "description": "5-point rubric tailored to the specific factual claims required for this question.",
+    "scale": {
+      "1": "Misses the core facts. Fails to mention strikes near the plant, risks, or Russian military activity. Introduces hallucinated details or unrelated nuclear issues.",
+      "2": "Mentions one correct element (e.g., that Ukraine accused Russia of strikes) but omits other key points such as proximity to a reactor, UK MoD warnings, or Russia firing from the area.",
+      "3": "Provides some correct facts but incomplete. References strikes and general risks but does not explain the role of artillery positioning, safety concerns, or strategic implications.",
+      "4": "Mostly complete. Accurately covers strikes near the reactor and mentions either UK MoD concerns or Russia firing from around the plant. Minor omissions in risk description or implications.",
+      "5": "Fully correct and complete. Includes: (a) Ukrainian claim of three strikes near a reactor, (b) UK MoD concerns about plant security, (c) Russia firing artillery from the area, and (d) how these actions could impact safety or military dynamics. No hallucinations."
+    }
+  }
+}
+{
+  "doc_id": "gold/russia-ukraine-conflict_2022-08-05T12_31_57Z",
+  "source_dataset": "hugginglearners/russia-ukraine-conflict-articles",
+  "source": "2022-08-05T12:31:57Z",
+  "question_type": "B",
+  "question": "What specific EU energy measure was scheduled to take effect according to the report, and what key details did member states agree on regarding the scope and level of gas reductions?",
+  "answer": "The report states that an EU plan to cut gas use would take effect in the coming week. Member states agreed to reduce gas consumption by 15% over the winter. The decision included exemptions for certain countries and was adopted despite Hungary’s opposition. The measure was intended to help Germany and the wider EU reduce dependence on Russian energy supplies. While limited in scope, it represented a coordinated response to energy pressure resulting from the war.",
+  "evidence": ["S14", "S15"],
+  "edge_case_type": "precise_fact_retrieval",
+  "rubric": {
+    "description": "Rubric focused on verifying exact numerical and procedural facts from the article.",
+    "scale": {
+      "1": "Incorrect or hallucinated. Fails to mention the 15% figure, the winter timeframe, or that the plan is taking effect. Adds details not in the source.",
+      "2": "Partially correct but missing at least two key facts. May mention a gas plan but omits the percentage or member-state agreement.",
+      "3": "Includes some correct details (e.g., the 15% reduction) but omits context such as exemptions or opposition. Lacks clarity on when the plan takes effect.",
+      "4": "Mostly complete. States the measure will take effect and includes the 15% reduction figure, with at least some mention of exemptions or political dynamics. Minor gaps allowed.",
+      "5": "Fully correct. Must include: (a) the plan takes effect next week, (b) a 15% cut over the winter, (c) exceptions for some countries, and (d) Hungary’s opposition. No invented details."
+    }
+  }
+}
+{
+  "doc_id": "gold/russia-ukraine-conflict_2022-07-21",
+  "source_dataset": "hugginglearners/russia-ukraine-conflict-articles",
+  "source": "2022-07-21",
+  "question_type": "A",
+  "question": "How was Russia using its natural gas exports as a tool of political influence over Europe in mid-2022, and what kinds of pressure did this create for EU governments, especially Germany?",
+  "answer": "Russia used fluctuations in natural gas flows as leverage, tightening or loosening shipments to pressure European leaders and signal that energy could be weaponized. This created significant economic and political strain inside the EU. Germany was especially vulnerable because it depended on Russian gas to power key industries and heat about half its homes. European governments also faced public pressure to contain rising energy prices and reduce the risk of rationing. The uncertainty surrounding Russian gas policy intensified internal EU tensions as leaders struggled to prepare for winter and maintain unity.",
+  "evidence": ["S1", "S3", "S4", "S5", "S6"],
+  "edge_case_type": "none",
+  "rubric": {
+    "description": "Custom 5-point rubric evaluating factual accuracy, completeness, and correct grounding in the cited sentences.",
+    "scale": {
+      "1": "Hallucinates major claims or contradicts the article; does not mention Russia manipulating gas flow, EU pressure, or Germany's dependency.",
+      "2": "Mentions one correct idea but misses most key elements; incomplete description of Russia’s strategy and minimal or incorrect discussion of EU pressure.",
+      "3": "Captures the basic idea that Russia used gas politically and that Germany/EU faced pressure, but lacks detail or misstates specific effects described in the article.",
+      "4": "Largely correct: describes Russia’s use of gas as leverage, Germany’s dependency, and general EU political/economic pressure, but may omit one nuance such as intra-EU disagreement.",
+      "5": "Fully accurate and complete: includes Russia’s use of gas as a weapon (S3), resulting uncertainty and pressure on leaders (S4), Germany’s heavy dependence (S1), risks of rationing and price pressure (S5), and EU tensions, especially Spain and Greece’s objections (S6). No hallucinations."
+    }
+  }
+}
+{
+  "doc_id": "gold/russia-ukraine-conflict_2022-07-21",
+  "source_dataset": "hugginglearners/russia-ukraine-conflict-articles",
+  "source": "2022-07-21",
+  "question_type": "B",
+  "question": "What disagreements emerged within the European Union regarding proposed gas-use reductions, and which countries argued that they should not have to cut consumption equally?",
+  "answer": "The article notes that a European Union proposal called for all member states to reduce their gas consumption, but this produced disagreement among countries less dependent on Russian gas. Spain and Greece objected to the plan, arguing that they relied far less on Russian supplies than Germany and therefore should not face identical cuts. Their resistance illustrated internal EU tensions caused by uneven exposure to Russia’s energy leverage.",
+  "evidence": ["S6"],
+  "edge_case_type": "precise_fact_retrieval",
+  "rubric": {
+    "description": "Custom rubric assessing retrieval of specific factual details and correct grounding in the article.",
+    "scale": {
+      "1": "Incorrect or fabricated; does not identify the EU disagreement or misstates countries involved.",
+      "2": "Mentions disagreement vaguely but does not correctly identify Spain and Greece or misstates the reason for objections.",
+      "3": "Correctly states that disagreements existed and identifies at least one of the two countries (Spain/Greece), but explanation is incomplete or slightly inaccurate.",
+      "4": "Accurately states that Spain and Greece objected due to lower reliance on Russian gas, with mostly correct context and no added hallucinations.",
+      "5": "Fully faithful to the article: names both Spain and Greece, explains that the dispute centered on EU-wide mandatory gas-use cuts, and notes their argument that they are less reliant on Russia than Germany. No extraneous or invented detail."
+    }
+  }
+}
+{
+  "doc_id": "gold/the-world-factbook-by-cia__Dominica",
+  "source_dataset": "the-world-factbook-by-cia",
+  "source": "Dominica",
+  "question_type": "A",
+  "question": "How did Dominica transition from European colonial rule to an independent state, and what political shift in 1980 significantly changed the country's governance trajectory?",
+  "answer": "Dominica moved from late European colonization, driven partly by strong Carib resistance, into formal British control after France ceded the island in 1763. It became a British colony in 1805 and later joined regional administrative groupings until gaining associated statehood in 1967 and full independence in 1978. A major political shift occurred in 1980 when Mary Eugenia Charles took office as prime minister, replacing a corrupt administration and providing more stable governance for the next 15 years.",
+  "evidence_sentences": ["S1", "S2", "S4", "S5", "S6"],
+  "edge_case_type": "none",
+  "rubric": {
+    "description": "Custom 5-point rubric requiring correct historical sequence and key political transition details.",
+    "scale": {
+      "1": "The answer is mostly incorrect, missing the colonial-to-independence sequence and failing to mention Mary Eugenia Charles or the 1980 transition.",
+      "2": "The answer includes some correct fragments but omits multiple required facts, such as dates of British control, associated statehood, independence, or the 1980 leadership change.",
+      "3": "The answer correctly describes parts of the colonial timeline or the 1980 transition, but the explanation is incomplete or significantly imprecise.",
+      "4": "The answer is mostly accurate and includes the correct colonial timeline and mentions Mary Eugenia Charles, but misses one detail (e.g., associated statehood in 1967 or length of her tenure).",
+      "5": "The answer fully and accurately includes: late colonization due to Carib resistance, cession to Britain in 1763, colony status in 1805, administrative groupings, associated statehood in 1967, independence in 1978, and the 1980 rise of Mary Eugenia Charles as a turning point."
+    }
+  }
+}
+{
+  "doc_id": "gold/the-world-factbook-by-cia__Dominica",
+  "source_dataset": "the-world-factbook-by-cia",
+  "source": "Dominica",
+  "question_type": "B",
+  "question": "According to the article, what specific impacts did Hurricane Maria have on Dominica in 2017, and which sectors or infrastructure were most heavily damaged?",
+  "answer": "Hurricane Maria caused extensive damage to Dominica’s buildings, roads, communications systems, and power supply, and it largely destroyed major agricultural areas.",
+  "evidence_sentences": ["S7"],
+  "edge_case_type": "precise_fact_retrieval",
+  "rubric": {
+    "description": "Custom 5-point rubric evaluating factual precision regarding the 2017 hurricane impacts.",
+    "scale": {
+      "1": "The answer is incorrect or invented and does not list the damages described in the article.",
+      "2": "The answer captures only one element of damage or adds unsupported claims not present in the article.",
+      "3": "The answer mentions some correct impacts but misses multiple required components, such as agriculture or infrastructure specifics.",
+      "4": "The answer is mostly accurate, naming most key impacts but omitting one detail such as communications or agriculture.",
+      "5": "The answer correctly lists all impacts from the article: extensive damage to structures, roads, communications systems, and power supply, plus major destruction of agricultural areas."
+    }
+  }
+}
+{
+  "doc_id": "gold/the-world-factbook-by-cia__Korea_North_history",
+  "question_id": "NK_Q1",
+  "question_type": "analysis",
+  "question": "How has the dynastic leadership structure shaped North Korea’s political system and strategic behavior over time?",
+  "gold_answer": "North Korea’s political system has been shaped by a dynastic lineage starting with Kim Il Sung, who established autocratic one-party rule and centralized authority. His son Kim Jong Il expanded military and nuclear programs, reinforcing the regime’s survival-first strategy. Kim Jong Un continued this consolidation, assuming the country’s highest posts rapidly after 2011. Each succession strengthened internal control while maintaining hostility toward outside influence, especially the United States. The continuity of this family rule has reinforced long-term militarization and rigid ideological positions such as juche.",
+  "evidence_sentences": [
+    "S10",
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+  ],
+  "rubric": {
+    "score_5": "Answer clearly explains how dynastic succession (Kim Il Sung → Kim Jong Il → Kim Jong Un) shaped autocratic governance, ideological rigidity, and strategic militarization. Must reference regime consolidation, one-party rule, nuclear/missile development, and juche’s role. Must ground claims in evidence from S10–S18.",
+    "score_4": "Covers dynastic succession and at least two effects on governance or strategy (e.g., militarization, centralized authority) but omits one key factual element such as juche or nuclear development.",
+    "score_3": "Mentions the Kim dynasty and at least one accurate effect on political structure but provides limited explanation or misses major components.",
+    "score_2": "Superficial or partially incorrect; may mention leadership names but misstate their roles or provide unsupported claims.",
+    "score_1": "Mostly incorrect, vague, or speculative; fails to identify the dynastic leadership structure or any accurate consequences.",
+    "score_0": "No answer or entirely unrelated content."
+  }
+}
+{
+  "doc_id": "gold/the-world-factbook-by-cia__Korea_North_history",
+  "question_id": "NK_Q2",
+  "question_type": "specific_fact",
+  "question": "According to the historical account provided, which foreign powers competed for influence over Korea in the late 19th and early 20th centuries, and what key wars shaped this period?",
+  "gold_answer": "Korea faced imperial rivalry from China, Japan, and Russia during the late 19th and early 20th centuries. Two major conflicts shaped this struggle: the Sino-Japanese War of 1894–95 and the Russo-Japanese War of 1904–05. Japan emerged dominant and later occupied Korea formally in 1910.",
+  "evidence_sentences": [
+    "S6",
+    "S7",
+    "S8"
+  ],
+  "rubric": {
+    "score_5": "Correctly identifies all three competing powers (China, Japan, Russia) AND both wars (Sino-Japanese War 1894–95, Russo-Japanese War 1904–05) AND notes Japan’s subsequent dominance or annexation. All details must match S6–S8.",
+    "score_4": "Identifies at least two powers AND at least one of the two wars correctly. Minor omission of annexation detail allowed.",
+    "score_3": "Provides partially correct information, such as listing the powers but failing to identify the wars, or vice-versa.",
+    "score_2": "Mentions at least one correct power OR one war, but with gaps, errors, or unclear phrasing.",
+    "score_1": "Barely relevant; contains major inaccuracies or guesses.",
+    "score_0": "No meaningful answer or entirely incorrect."
+  }
+}
+{
+  "doc_id": "gold/the-world-factbook-by-cia__Mali_history",
+  "source_dataset": "the-world-factbook-by-cia",
+  "source": "Mali",
+  "question_type": "A",
+  "question": "How did long-term political instability, recurring coups, and the emergence of northern armed groups shape Mali’s struggle to maintain territorial control from 1991 through 2024?",
+  "answer": "Beginning with the 1991 coup that ended decades of dictatorship, Mali attempted to build a multi-party democracy, but state capacity remained weak in the north. Rising ethnic tensions and returning fighters from Libya contributed to the 2012 rebellion, during which rebels expelled the Malian military from three northern regions and allowed terrorist groups to establish strongholds. Although a 2013 French-led intervention retook much of the territory, the government continued to face persistent insecurity from militias, insurgents, and terrorists. Limited progress on implementing the 2015 peace accord left armed actors entrenched. Political instability deepened after the 2020 and 2021 military coups led by Assimi Goïta, the creation of a transition government, and repeated delays to elections. By 2024, Mali had withdrawn from ECOWAS and remained unable to fully control the north due to overlapping conflicts, weakened institutions, and fragmented armed groups.",
+  "evidence_sents": ["S12", "S15", "S16", "S17", "S18", "S19", "S20", "S21", "S25", "S26", "S27", "S28", "S31"],
+  "edge_case_type": "none",
+  "rubric": {
+    "description": "A 5-point rubric assessing whether the answer fully explains how instability, rebellions, and coups affected Mali’s territorial control.",
+    "scale": {
+      "1": "Fails to mention key events (1991 coup, 2012 rebellion, terrorist strongholds, 2020–21 coups). Provides generic or incorrect statements unrelated to the text.",
+      "2": "Mentions only one or two major events but omits critical connections, such as the 2012 loss of territory or French intervention. Lacks causal explanation.",
+      "3": "Captures several correct points (e.g., 2012 rebellion, persistent militias, one of the coups) but does not provide a complete chronological or causal account.",
+      "4": "Mostly complete: describes the 1991 transition, 2012 rebellion, French intervention, armed groups, and the 2020–21 coups, but may miss one significant detail or the final 2024 ECOWAS withdrawal.",
+      "5": "Fully correct and complete: clearly explains the sequence from 1991 democracy transition through the 2012 rebellion, terrorist strongholds, limited impact of the 2015 accord, the 2020–21 coups, election delays, and the 2024 ECOWAS withdrawal, linking each to Mali’s loss or weakening of territorial control."
+    }
+  }
+}
+{
+  "doc_id": "gold/the-world-factbook-by-cia__Mali_history",
+  "source_dataset": "the-world-factbook-by-cia",
+  "source": "Mali",
+  "question_type": "B",
+  "question": "According to the article, who won Mali’s presidential elections in 2013 and 2018, and how did international observers judge the credibility of those elections?",
+  "answer": "The article states that Ibrahim Boubacar Keita won the Malian presidential elections in both 2013 and 2018. International observers viewed these elections as credible, despite some security and logistical issues.",
+  "evidence_sents": ["S22", "S23"],
+  "edge_case_type": "precise_fact_retrieval",
+  "rubric": {
+    "description": "5-point rubric assessing whether the answer retrieves the exact factual elements asked for.",
+    "scale": {
+      "1": "Incorrect name or incorrect assessment of credibility. Provides fabricated details or answers unrelated to the article.",
+      "2": "Correctly identifies either Keita as president OR mentions credibility but not both; contains inaccuracies or omissions.",
+      "3": "Correctly states Keita won both elections but gives an incomplete or vague description of observer credibility.",
+      "4": "Accurately notes Keita’s victories and mentions credibility but may miss the qualifier about security or logistics.",
+      "5": "Fully correct: identifies Keita winning in 2013 and 2018 and notes that observers deemed the elections credible despite security/logistic shortfalls."
+    }
+  }
+}
+{
+  "doc_id": "gold/the-world-factbook-by-cia__Mali_history",
+  "source_dataset": "the-world-factbook-by-cia",
+  "source": "Mali",
+  "question_type": "C",
+  "question": "Based only on this article, what was Mali’s exact defense budget in 2020, and how much financial assistance did it receive from ECOWAS before the sanctions were imposed?",
+  "answer": "The article does not provide Mali’s 2020 defense budget or any information about financial assistance from ECOWAS. It describes political events, rebellions, and coups, but it includes no economic figures or funding amounts. Therefore, the requested information cannot be determined from this source alone.",
+  "evidence_sents": [],
+  "edge_case_type": "unanswerable_from_source",
+  "rubric": {
+    "description": "5-point rubric evaluating whether the model correctly identifies the question as unanswerable from the article.",
+    "scale": {
+      "1": "Provides fabricated numerical values or claims they are stated in the article.",
+      "2": "Acknowledges uncertainty but still speculates or provides invented ranges or estimates.",
+      "3": "States that the article lacks exact numbers but gives unnecessary assumptions or unrelated commentary.",
+      "4": "Correctly identifies that the article does not contain the requested information but wording may be incomplete.",
+      "5": "Explicitly states the article provides no defense-budget figures and no data on ECOWAS financial assistance, and clearly refuses to invent information."
+    }
+  }
+}
+{
+  "doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+  "source_dataset": "the-world-factbook-by-cia",
+  "source": "Oman",
+  "question_type": "A",
+  "question": "How did Oman's leadership under Sultan Qaboos manage to balance modernization with foreign policy independence, and what domestic pressures in 2011 led him to expand political participation?",
+  "answer": "Sultan Qaboos modernized Oman by opening the country to the world and strengthening ties with Western partners while still maintaining an independent foreign policy. He prioritized relations with the UK and US but avoided entanglements with regional disputes. This approach helped Oman maintain stability and constructive diplomacy. In 2011, demonstrations inspired by broader regional uprisings demanded more jobs, economic benefits, and an end to corruption. In response, Qaboos expanded the powers of Oman’s legislature, authorized direct elections for its lower house, and introduced economic measures like unemployment benefit increases.",
+  "evidence_sids": ["S5", "S6", "S7", "S8", "S9"],
+  "edge_case_type": "none",
+  "rubric": {
+    "description": "5-point rubric requiring explicit factual elements grounded in the article.",
+    "scale": {
+      "1": "Missing or incorrect. Fails to mention both modernization + foreign policy independence, OR fails to mention 2011 protest motivations and reforms.",
+      "2": "Includes one correct theme but omits most required details. May mention modernization vaguely but not link to foreign policy independence, OR only partly describes 2011 grievances or reforms.",
+      "3": "Provides some correct elements but incomplete. Must mention: (a) modernization opening Oman, (b) ties to UK/US, and (c) 2011 protests for jobs/economic benefits/end to corruption. Missing reforms or independence theme.",
+      "4": "Mostly complete. Covers: modernization, UK/US ties, independence in foreign policy, and 2011 protest motivations. May omit one reform detail or provide limited explanation.",
+      "5": "Fully correct. Must include ALL: (1) modernization opening Oman, (2) strategic ties to UK/US, (3) maintaining moderate independent foreign policy, (4) 2011 protests calling for jobs/economic benefits/end corruption, and (5) reforms: expanded legislative power + direct elections + job creation / unemployment benefits. No invented details."
+    }
+  }
+}
+{
+  "doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+  "source_dataset": "the-world-factbook-by-cia",
+  "source": "Oman",
+  "question_type": "B",
+  "question": "According to the article, what specific political reforms did Sultan Qaboos enact in response to the 2011 demonstrations?",
+  "answer": "In response to the 2011 protests, Sultan Qaboos granted greater power to Oman’s legislative body and allowed direct elections for its lower house. He also increased unemployment benefits. Additionally, he issued a royal directive requiring the creation of public- and private-sector jobs nationwide.",
+  "evidence_sids": ["S8", "S9"],
+  "edge_case_type": "precise_fact_retrieval",
+  "rubric": {
+    "description": "5-point rubric for strict fact retrieval.",
+    "scale": {
+      "1": "Incorrect or missing. Lists reforms not found in the source, or fails to name any of the specified reforms.",
+      "2": "Mentions only one reform or gives vague statements not tied to the article.",
+      "3": "Correct but incomplete. Must include at least two of: expanded legislative power, direct elections, unemployment benefits increase, mandatory job creation plan.",
+      "4": "Mostly complete but missing one required reform or phrased imprecisely.",
+      "5": "Fully accurate. Must list ALL of the following with no hallucinations: (1) greater legislative power, (2) authorized direct elections for lower house, (3) increased unemployment benefits, (4) national job creation directive."
+    }
+  }
+}
+{
+  "doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+  "source_dataset": "the-world-factbook-by-cia",
+  "source": "Oman",
+  "question_type": "C",
+  "question": "Based only on this article, what was the total number of jobs created under Oman’s national job creation plan issued after the 2011 unrest?",
+  "answer": "The article does not specify how many jobs were created under Oman’s national job creation plan. It states only that a royal directive mandated a public- and private-sector job creation plan, without any numerical totals. Therefore, the number of jobs created cannot be determined from this source.",
+  "evidence_sids": ["S9"],
+  "edge_case_type": "unanswerable_from_source",
+  "rubric": {
+    "description": "Rubric for evaluating accurate recognition of missing information.",
+    "scale": {
+      "1": "Provides a fabricated number or claims a specific total.",
+      "2": "Hints the number is unknown but still speculates or gives approximate figures.",
+      "3": "States the number is not provided but gives unnecessary assumptions or interpretations.",
+      "4": "Correctly states the information is not given but omits clarification that only a mandate is described.",
+      "5": "Fully correct. Must explicitly state: (1) the article gives no job total, (2) only a directive is mentioned, and (3) the question cannot be answered from the source without adding outside information."
+    }
+  }
+}
+{
+  "doc_id": "gold/the-world-factbook-by-cia__Rwanda_history",
+  "source_dataset": "the-world-factbook-by-cia",
+  "source": "Rwanda",
+  "question_type": "A",
+  "question": "How did pre-colonial political structures, European colonial rule, and post-independence power struggles contribute to the ethnic tensions that culminated in the 1994 genocide in Rwanda?",
+  "answer": "Pre-colonial Rwanda developed a centralized monarchy dominated by Tutsi rulers, which created long-standing hierarchies but allowed flexible social categories. German and Belgian colonial rule hardened ethnic divisions by reinforcing Tutsi authority, imposing heavy labor and taxes on Hutus, and later shifting political favor toward Hutu elites. These policies deepened resentment and fueled the 1959 uprising that overthrew the Tutsi king, driving many Tutsis into exile. Exiled Tutsis later formed the Rwandan Patriotic Front, whose 1990 rebellion further intensified ethnic polarization. When President Habyarimana’s plane was shot down in 1994, extremist networks used the moment to launch the genocide. The combination of entrenched hierarchies, colonial manipulation, and decades of post-independence exclusion set the stage for the mass violence.",
+  "evidence_sentences": ["S1", "S2", "S3", "S6", "S7", "S8", "S9", "S10", "S11", "S12", "S13", "S14", "S15", "S16", "S17", "S18"],
+  "edge_case_type": "none",
+  "rubric": {
+    "description": "Custom 5-point rubric evaluating factual accuracy, completeness, and grounding in the Rwanda article.",
+    "scale": {
+      "1": "Answer is largely incorrect or invented; does not reflect the article; confuses key actors or events.",
+      "2": "Mentions some relevant points but omits major historical phases (e.g., colonial rule or post-independence conflicts) or includes unsupported claims.",
+      "3": "Captures the broad sequence of events but misses several key details such as colonial favoritism shifts, the 1959 uprising, or the role of exiled Tutsis; partially grounded.",
+      "4": "Mostly complete and accurate, covering at least two of the three eras (pre-colonial, colonial, post-independence) with only minor missing details.",
+      "5": "Fully correct and well-grounded: explains pre-colonial hierarchies, colonial reinforcement and shifts, the 1959 uprising, exile communities, the RPF rebellion, and the trigger event of 1994 without adding unsupported facts."
+    }
+  }
+}
+{
+  "doc_id": "gold/the-world-factbook-by-cia__Rwanda_history",
+  "source_dataset": "the-world-factbook-by-cia",
+  "source": "Rwanda",
+  "question_type": "C",
+  "question": "Based solely on this historical overview, what percentage of Rwanda’s population in 2024 belongs to the Tutsi ethnic group, and how has that percentage changed over time?",
+  "answer": "This article describes Rwanda’s history, ethnic categories, and political conflicts but does not provide any numerical information about the current ethnic composition of the population. It also does not give past percentages or demographic trends over time. Because no population percentages appear in the text, the question cannot be answered from this source alone. Any attempt to give numbers would require external data. The only valid answer is that the article does not provide the requested demographic statistics.",
+  "evidence_sentences": [],
+  "edge_case_type": "unanswerable_from_source",
+  "rubric": {
+    "description": "Custom rubric for evaluating whether the model correctly identifies the question as unanswerable from the provided text.",
+    "scale": {
+      "1": "Provides invented percentages or trends; fully incorrect.",
+      "2": "Attempts partially correct reasoning but still gives unsupported numbers or claims.",
+      "3": "Acknowledges that some information is missing but still speculates or provides approximate figures.",
+      "4": "Correctly states the information is unavailable but uses vague or uncertain wording.",
+      "5": "Clearly states that the article contains no population percentages or demographic trend data and refuses to hallucinate numbers, explaining why the question is unanswerable from the source."
+    }
+  }
+}
+{
+  "doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+  "source_dataset": "cnn_dailymail",
+  "source": "9a15663058028878027f6aa039fb3185c2ff52c8",
+  "question_type": "A",
+  "question": "How did opposition parties and civil society actors describe the main threats to the fairness of Zimbabwe’s election, and why were these concerns especially significant given the political context surrounding Robert Mugabe’s long rule?",
+  "answer": "Opposition groups and civil society actors argued the election faced serious risks because party agents were excluded from polling stations and accreditation was withheld at multiple sites. They also pointed to a large security force presence and irregularities like voters registered at nonexistent addresses and names of long-dead colonial figures on voter rolls. Human Rights Watch warned that the electoral commission was partisan toward Zanu-PF and lacked the competence to manage the process fairly. Critics noted that extra ballots had been printed far beyond the number of registered voters, raising fears of manipulation. These concerns were significant because Mugabe had consolidated control over Zimbabwean political life for nearly three decades, making the integrity of the vote central to whether change was possible. The combination of administrative failures, alleged intimidation, and historical dominance created a perception that the election might not be genuinely competitive.",
+  "evidence_sentences": ["S4","S6","S7","S8","S9","S26","S27","S28","S33","S34","S35","S36","S37","S38","S39"],
+  "edge_case_type": "none",
+  "rubric": {
+    "1": "Answer is largely incorrect, missing major elements or hallucinating details not supported by the article.",
+    "2": "Covers only 1–2 problems mentioned in the article; lacks explanation of why these issues matter in Mugabe’s long-rule context.",
+    "3": "Captures some of the key issues (e.g., agent expulsion, irregular rolls, partisan commission) but misses at least one major category (e.g., security presence, extra ballots) or fails to connect to the significance of Mugabe’s rule.",
+    "4": "Substantially correct: mentions most of the specific threats (agent removal, accreditation issues, irregular rolls, security forces, partisan commission, extra ballots) and provides some link to concerns about Mugabe’s long tenure, with minor omissions.",
+    "5": "Fully correct: includes ALL of the following — (a) party agent expulsion or accreditation loss; (b) security-force presence; (c) irregularities in voter rolls or nonexistent addresses; (d) concerns over extra ballots; (e) Human Rights Watch criticism of commission competence/partisanship; AND (f) explains why these issues matter in the context of Mugabe’s decades-long dominance. No hallucinated details."
+  }
+}
+{
+  "doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+  "source_dataset": "cnn_dailymail",
+  "source": "9a15663058028878027f6aa039fb3185c2ff52c8",
+  "question_type": "B",
+  "question": "According to the article, how many extra ballots did the electoral commission request beyond the number of registered voters, and how many stations reportedly lacked proper accreditation for opposition agents?",
+  "answer": "The article reports that the electoral commission had asked for 3.3 million more ballots than there were registered voters. It also states that accreditation for opposition agents was lost at 19 polling stations. These figures were cited by opposition officials and used to argue that the election process was vulnerable to fraud. No additional numerical breakdowns are provided.",
+  "evidence_sentences": ["S7","S36"],
+  "edge_case_type": "precise_fact_retrieval",
+  "rubric": {
+    "1": "Provides numbers not in the article or incorrect values.",
+    "2": "Gets only one of the two numbers correct or loosely paraphrases without giving figures.",
+    "3": "Gives both numbers but adds unsupported detail or slightly misstates context.",
+    "4": "Correctly gives both figures (3.3 million extra ballots; 19 stations) with minimal context but minor phrasing issues.",
+    "5": "Exactly states the two required numbers (3.3 million; 19 stations), attributes them correctly to the article, provides no hallucinations, and avoids adding unmentioned details."
+  }
+}
+{
+  "doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+  "source_dataset": "cnn_dailymail",
+  "source": "9a15663058028878027f6aa039fb3185c2ff52c8",
+  "question_type": "C",
+  "question": "Based solely on this article, how many total soldiers and police were deployed across Zimbabwe during the election, and what proportion of polling stations reported irregularities?",
+  "answer": "The article does not provide any numerical totals for soldiers or police deployed, nor does it quantify how many polling stations reported irregularities. It only states that journalists observed a heavy security presence and that opposition officials described the deployment as “massive.” It also mentions individual irregularities, such as accreditation problems at 19 stations and voters registered at nonexistent addresses, but not any overall proportion. Therefore, the specific totals and proportions requested cannot be determined from this article alone.",
+  "evidence_sentences": ["S8","S9","S7","S26","S27","S28"],
+  "edge_case_type": "unanswerable_from_source",
+  "rubric": {
+    "1": "Provides invented numbers or claims the article states totals or proportions that it does not.",
+    "2": "Partially refuses but still includes fabricated statistics or unsupported estimates.",
+    "3": "States that the information is not available but does not clearly explain the limits of the article.",
+    "4": "Correctly refuses and names at least one category of information missing (troop totals OR station proportions), but not both.",
+    "5": "Fully correct refusal: explicitly states that the article provides no totals for troop deployment AND no proportions of irregular polling stations, references the general descriptions that do exist (e.g., 'heavy presence', 'massive'), and avoids hallucinating any figures."
+  }
+}
+{
+  "doc_id": "gold/cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+  "source_dataset": "cnn_dailymail",
+  "source": "c977693b405a89cec98e53b05199e608fd6adeca",
+  "question_type": "broad_analytical_overview",
+  "question": "What were the main political tensions surrounding India's proposed civil nuclear partnership with the United States?",
+  "gold_answer": "Political tensions centered on concerns that India was conceding too much to the United States in the proposed civil nuclear partnership. Opposition parties argued that the agreement compromised India's sovereignty and triggered a no-confidence vote in parliament. Critics also objected to allowing U.S. inspections and fuel access despite India's refusal to join global non-proliferation treaties. Communist parties accused Prime Minister Singh of aligning India too closely with Washington. The vote was narrowly survived, showing deep political fractures. External reactions were more positive, with U.S. officials calling the deal beneficial for India's energy needs.",
+  "evidence_sentences": ["S1", "S2", "S4", "S5", "S8", "S9", "S12"],
+  "rubric": {
+    "score_1": "Answer is mostly incorrect or irrelevant, failing to mention the no-confidence vote, sovereignty concerns, or opposition objections.",
+    "score_2": "Mentions only one correct political issue (such as the confidence vote OR sovereignty concerns) but omits others and lacks context.",
+    "score_3": "Provides a partially correct explanation, referencing at least two key tensions (e.g., sovereignty issues and the vote) but missing details about inspections, non-proliferation concerns, or opposition accusations.",
+    "score_4": "Covers most factual points, including the no-confidence vote, sovereignty criticism, and objections to the nuclear agreement, but may omit either the communist parties' accusations or the context of U.S. support.",
+    "score_5": "Fully accurate and concise explanation capturing: (1) sovereignty concerns; (2) opposition objections triggering a no-confidence vote; (3) India’s refusal to join non-proliferation agreements; (4) criticism from communist parties; and (5) contrasting positive U.S. assessment. All information must come from evidence sentences."
+  }
+}
+{
+  "doc_id": "gold/cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+  "source_dataset": "cnn_dailymail",
+  "source": "c977693b405a89cec98e53b05199e608fd6adeca",
+  "question_type": "specific_fact_numeric_precision",
+  "question": "According to the article, how close was the no-confidence vote against Prime Minister Manmohan Singh, and what unusual step was taken to ensure voting could occur?",
+  "gold_answer": "The no-confidence vote against Prime Minister Singh was narrowly decided at 275 votes to 256. To ensure the vote could occur, five members of parliament who were in prison were temporarily released specifically so they could cast their ballots. Their jailers accompanied them during the vote. This indicates the extraordinary political stakes surrounding the proposed nuclear deal.",
+  "evidence_sentences": ["S4", "S15"],
+  "rubric": {
+    "score_1": "Provides irrelevant or incorrect numbers, fails to identify that imprisoned MPs were released, or fabricates information.",
+    "score_2": "Provides only one part correctly (either the 275–256 vote count OR the release of imprisoned MPs), but the other part is wrong or missing.",
+    "score_3": "Provides both vote margin and prisoner-release fact but contains minor inaccuracies (e.g., misquotes numbers slightly or misstates the context).",
+    "score_4": "Provides the correct vote count and correctly states that imprisoned MPs were freed to vote, but lacks clarity or omits the detail that jailers accompanied them.",
+    "score_5": "Fully correct: states the exact 275–256 vote count AND states that five imprisoned MPs were temporarily released to vote under guard. Answer must be consistent with article facts and not include external speculation."
+  }
+}
+
+{
+  "doc_id": "gold/cnn_dailymail__506e1baad13bc8b50b0f1db98518da52aea1c40c",
+  "source_dataset": "cnn_dailymail",
+  "source": "506e1baad13bc8b50b0f1db98518da52aea1c40c",
+  "question_type": "specific_fact_retrieval",
+  "question": "According to the article, what controversies or issues arose during Griffin Bell’s confirmation process to become attorney general?",
+  "gold_answer": "The article states that Griffin Bell's confirmation hearings were difficult because of concerns about his past memberships in private segregated clubs and some of his judicial decisions. These issues became points of contention during the Senate review. Despite these challenges, he was confirmed in January 1977.",
+  "evidence_sentences": ["S13", "S14", "S15"],
+  "rubric": {
+    "score_5": "Answer must mention BOTH controversies: (1) Bell’s memberships in private segregated clubs AND (2) concerns about some of his decisions as a federal judge. It must also note that these issues created difficulty in the confirmation process. All details must directly match article content.",
+    "score_4": "Mentions at least one controversy accurately AND acknowledges difficulty in confirmation, but omits the second issue or the confirmation-year detail.",
+    "score_3": "Mentions a single correct controversy OR describes hearing difficulties vaguely but without specifics.",
+    "score_2": "Provides a partial or inaccurate explanation but includes at least one fragment of correct information from the article.",
+    "score_1": "Only a vague or generic reference to controversy with little factual grounding.",
+    "score_0": "Entirely incorrect, fabricated, or unrelated answer."
+  }
+}
+

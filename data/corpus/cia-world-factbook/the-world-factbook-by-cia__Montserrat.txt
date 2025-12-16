@@ -1,0 +1,190 @@
+url: https://www.cia.gov/the-world-factbook/countries/montserrat/
+Introduction: Background: English and Irish colonists from St. Kitts first settled on Montserrat in 1632; the first African slaves arrived three decades later. The British and French fought for possession of the island for most of the 18th century, but it finally was confirmed as a British possession in 1783. The island's sugar plantation economy was converted to small farm landholdings in the mid-19th century. The Soufriere Hills Volcano erupted in 1995, devastating much of the island; two thirds of the population fled abroad. Montserrat has endured volcanic activity since, with the last eruption occurring in 2013.
+Geography: Location: Caribbean, island in the Caribbean Sea, southeast of Puerto Rico
+Geography: Geographic coordinates: 16 45 N, 62 12 W
+Geography: Map references: Central America and the Caribbean
+Geography: Area - total: 102 sq km
+Geography: Area - land: 102 sq km
+Geography: Area - water: 0 sq km
+Geography: Area - comparative: about 0.6 times the size of Washington, DC
+Geography: Land boundaries - total: 0 km
+Geography: Coastline: 40 km
+Geography: Maritime claims - territorial sea: 12 nm
+Geography: Maritime claims - exclusive fishing zone: 200 nm
+Geography: Climate: tropical; little daily or seasonal temperature variation
+Geography: Terrain: volcanic island, mostly mountainous, with small coastal lowland
+Geography: Elevation - highest point: Soufriere Hills volcano pre-eruption height was 915 m; current lava dome is subject to periodic build up and collapse; estimated dome height was 1,050 m in 2015
+Geography: Elevation - lowest point: Caribbean Sea 0 m
+Geography: Natural resources: NEGL
+Geography: Land use - agricultural land: 30% (2018 est.)agricultural land: arable land: 20% (2018 est.)agricultural land: permanent crops: 0% (2018 est.)agricultural land: permanent pasture: 10% (2018 est.)
+Geography: Land use - forest: 25% (2018 est.)
+Geography: Land use - other: 45% (2018 est.)
+Geography: Irrigated land: 0 sq km (2022)
+Geography: Population distribution: only the northern half of the island is populated, the southern portion is uninhabitable due to volcanic activity
+Geography: Natural hazards: volcanic eruptions; severe hurricanes (June to November)
+Geography: Natural hazards - volcanism: Soufriere Hills volcano (915 m), has erupted continuously since 1995; a massive eruption in 1997 destroyed most of the capital, Plymouth, and resulted in approximately half of the island becoming uninhabitable; the island of Montserrat is part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south
+Geography: Geography - note: the island is entirely volcanic in origin and composed of three major volcanic centers of differing ages
+People and Society: Population - total: 5,468
+People and Society: Population - male: 2,728
+People and Society: Population - female: 2,740 (2024 est.)
+People and Society: Population - note: an estimated 8,000 refugees left the island following the resumption of volcanic activity in July 1995; some have returned
+People and Society: Nationality - noun: Montserratian(s)
+People and Society: Nationality - adjective: Montserratian
+People and Society: Ethnic groups: African/Black 86.2%, mixed 4.8%, Hispanic/Spanish 3%, Caucasian/White 2.7%, East Indian/Indian 1.6%, other 1.8% (2018 est.)
+People and Society: Languages: English
+People and Society: Religions: Protestant 71.4% (includes Anglican 17.7%, Pentecostal/Full Gospel 16.1%, Seventh Day Adventist 15%, Methodist 13.9%, Church of God 6.7%, other Protestant 2%), Roman Catholic 11.4%, Rastafarian 1.4%, Hindu 1.2%, Jehovah's Witness 1%, Muslim 0.4%, other/not stated 5.1%, none 7.9% (2018 est.)
+People and Society: Age structure - 0-14 years: 15.8% (male 446/female 420)
+People and Society: Age structure - 15-64 years: 76.1% (male 2,062/female 2,101)
+People and Society: Age structure - 65 years and over: 8% (2024 est.) (male 220/female 219)
+People and Society: Dependency ratios - total dependency ratio: 43.9
+People and Society: Dependency ratios - youth dependency ratio: 19.2
+People and Society: Dependency ratios - elderly dependency ratio: 24.7
+People and Society: Dependency ratios - potential support ratio: 4 (2021)
+People and Society: Median age - total: 36.8 years (2024 est.)
+People and Society: Median age - male: 35.4 years
+People and Society: Median age - female: 37.8 years
+People and Society: Population growth rate: 0.59% (2024 est.)
+People and Society: Birth rate: 11.9 births/1,000 population (2024 est.)
+People and Society: Death rate: 6 deaths/1,000 population (2024 est.)
+People and Society: Net migration rate: 0 migrant(s)/1,000 population (2024 est.)
+People and Society: Population distribution: only the northern half of the island is populated, the southern portion is uninhabitable due to volcanic activity
+People and Society: Urbanization - urban population: 9.3% of total population (2023)
+People and Society: Urbanization - rate of urbanization: 0.94% annual rate of change (2020-25 est.)
+People and Society: Sex ratio - at birth: 1.03 male(s)/female
+People and Society: Sex ratio - 0-14 years: 1.06 male(s)/female
+People and Society: Sex ratio - 15-64 years: 0.98 male(s)/female
+People and Society: Sex ratio - 65 years and over: 1 male(s)/female
+People and Society: Sex ratio - total population: 1 male(s)/female (2024 est.)
+People and Society: Infant mortality rate - total: 9.7 deaths/1,000 live births (2024 est.)
+People and Society: Infant mortality rate - male: 8 deaths/1,000 live births
+People and Society: Infant mortality rate - female: 11.6 deaths/1,000 live births
+People and Society: Life expectancy at birth - total population: 76.1 years (2024 est.)
+People and Society: Life expectancy at birth - male: 76.9 years
+People and Society: Life expectancy at birth - female: 75.3 years
+People and Society: Total fertility rate: 1.33 children born/woman (2024 est.)
+People and Society: Gross reproduction rate: 0.63 (2024 est.)
+People and Society: Contraceptive prevalence rate: NA
+People and Society: Drinking water source - improved: urban: NArural: NAtotal: 98.1% of population
+People and Society: Drinking water source - unimproved: urban: NArural: NAtotal: 1.9% of population (2020 est.)
+People and Society: Physician density: NA
+People and Society: Sanitation facility access - improved: urban: NArural: NAtotal: NA
+People and Society: Sanitation facility access - unimproved: urban: NArural: NAtotal: NA
+People and Society: Children under the age of 5 years underweight: NA
+People and Society: Currently married women (ages 15-49): 35.8% (2023 est.)
+People and Society: Education expenditures: 5.4% of GDP (2020 est.)
+People and Society: Literacy - total population: NA
+People and Society: Literacy - male: NA
+People and Society: Literacy - female: NA
+People and Society: School life expectancy (primary to tertiary education) - total: 14 years
+People and Society: School life expectancy (primary to tertiary education) - male: 13 years
+People and Society: School life expectancy (primary to tertiary education) - female: 15 years (2019)
+Environment: Environment - current issues: land erosion occurs on slopes that have been cleared for cultivation
+Environment: Climate: tropical; little daily or seasonal temperature variation
+Environment: Land use - agricultural land: 30% (2018 est.)agricultural land: arable land: 20% (2018 est.)agricultural land: permanent crops: 0% (2018 est.)agricultural land: permanent pasture: 10% (2018 est.)
+Environment: Land use - forest: 25% (2018 est.)
+Environment: Land use - other: 45% (2018 est.)
+Environment: Urbanization - urban population: 9.3% of total population (2023)
+Environment: Urbanization - rate of urbanization: 0.94% annual rate of change (2020-25 est.)
+Government: Country name - conventional long form: none
+Government: Country name - conventional short form: Montserrat
+Government: Country name - etymology: island named by explorer Christopher COLUMBUS in 1493 after the Benedictine abbey Santa Maria de Montserrat, near Barcelona, Spain
+Government: Government type: parliamentary democracy; self-governing overseas territory of the UK
+Government: Dependency status: overseas territory of the UK
+Government: Capital - name: Plymouth; note - Plymouth was abandoned in 1997 because of volcanic activity; interim government buildings have been built at Brades Estate, the de facto capital, in the Carr's Bay/Little Bay vicinity at the northwest end of Montserrat
+Government: Capital - geographic coordinates: 16 42 N, 62 13 W
+Government: Capital - time difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+Government: Capital - etymology: now entirely deserted because of volcanic activity, the city was originally named after Plymouth, England; de jure, Plymouth remains the capital city of Montserrat; it is therefore the only ghost town that serves as the capital of a political entity
+Government: Administrative divisions: 3 parishes; Saint Anthony, Saint Georges, Saint Peter
+Government: Independence: none (overseas territory of the UK)
+Government: National holiday: Birthday of Queen ELIZABETH II, usually celebrated the Monday after the second Saturday in June (1926)
+Government: Legal system: English common law
+Government: Constitution - history: previous 1960; latest put into force 20 October 2010 (The Montserrat Constitution Order 2010)
+Government: Constitution - amendments: amended 2011, 2020
+Government: Citizenship: see United Kingdom
+Government: Suffrage: 18 years of age; universal
+Government: Executive branch - chief of state: King CHARLES III (since 8 September 2022); represented by Governor Sarah TUCKER (since 6 April 2023)
+Government: Executive branch - head of government: Premier Easton TAYLOR-FARRELL (since 19 November 2019)
+Government: Executive branch - cabinet: Executive Council consists of the governor, the premier, 3 other ministers, the attorney general, and the finance secretary
+Government: Executive branch - elections/appointments: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually becomes premier
+Government: Executive branch - note: effective with Constitution Order 2010, October 2010, the office of premier replaced the office of chief minister
+Government: Legislative branch - legislature name: Legislative Assembly
+Government: Legislative branch - legislative structure: unicameral
+Government: Legislative branch - number of seats: 12 (directly elected)
+Government: Legislative branch - electoral system: plurality/majority
+Government: Legislative branch - scope of elections: full renewal
+Government: Legislative branch - term in office: 5 years
+Government: Legislative branch - most recent election date: 11/18/2019
+Government: Legislative branch - parties elected and seats per party: MCAP (5); PDM (3); independent (1)
+Government: Legislative branch - percentage of women in chamber: 33.3%
+Government: Legislative branch - expected date of next election: 2024
+Government: Legislative branch - note: the Assembly elects the speaker from the outside for a 5-year term; the Assembly includes 2 ex-officio members, the attorney general and the financial secretary
+Government: Judicial branch - highest court(s): the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 1 assigned to Montserrat; Montserrat is also a member of the Caribbean Court of Justice
+Government: Judicial branch - judge selection and term of office: chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, and independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62
+Government: Judicial branch - subordinate courts: magistrate's court
+Government: Political parties: Movement for Change and Prosperity or MCAP People's Democratic Movement or PDM
+Government: International organization participation: Caricom, CDB, Interpol (subbureau), OECS, UPU
+Government: Diplomatic representation in the US: none (overseas territory of the UK)
+Government: Diplomatic representation from the US - embassy: none (overseas territory of the UK); alternate contact is the US Embassy in Barbados [1] (246) 227-4000; US Embassy Bridgetown, Wildey Business Park, St. Michael BB 14006, Barbados, WI
+Government: Flag description: blue with the flag of the UK in the upper hoist-side quadrant and the Montserratian coat of arms centered in the outer half of the flag; the arms feature a woman in green dress, Erin, the female personification of Ireland, standing beside a yellow harp and embracing a large dark cross with her right arm; Erin and the harp are symbols of Ireland reflecting the territory's Irish ancestry; blue represents awareness, trustworthiness, determination, and righteousness
+Government: National anthem - note: as a territory of the UK, "God Save the King" is official (see United Kingdom)
+Economy: Economic overview: formerly high-income economy; volcanic activity destroyed much of original infrastructure and economy; new capital and port is being developed; key geothermal and solar power generation; key music recording operations
+Economy: Real GDP per capita: (2011)(2010)(2009)
+Economy: Inflation rate (consumer prices): 1.2% (2017 est.)-0.2% (2016 est.)
+Economy: Credit ratings - Standard & Poors rating: BBB- (2020)
+Economy: Credit ratings - note: The year refers to the year in which the current credit rating was first obtained.
+Economy: GDP - composition, by sector of origin - agriculture: 1.9% (2017 est.)
+Economy: GDP - composition, by sector of origin - industry: 7.8% (2017 est.)
+Economy: GDP - composition, by sector of origin - services: 90.3% (2017 est.)
+Economy: GDP - composition, by end use - household consumption: 90.8% (2017 est.)
+Economy: GDP - composition, by end use - government consumption: 50.4% (2017 est.)
+Economy: GDP - composition, by end use - investment in fixed capital: 17.9% (2017 est.)
+Economy: GDP - composition, by end use - investment in inventories: -0.1% (2017 est.)
+Economy: GDP - composition, by end use - exports of goods and services: 29.5% (2017 est.)
+Economy: GDP - composition, by end use - imports of goods and services: -88.6% (2017 est.)
+Economy: Agricultural products: cabbages, carrots, cucumbers, tomatoes, onions, peppers; livestock products
+Economy: Industries: tourism, rum, textiles, electronic appliances
+Economy: Industrial production growth rate: -21% (2017 est.)
+Economy: Unemployment rate: 5.6% (2017 est.)
+Economy: Budget - revenues: $55.651 million (2014 est.)
+Economy: Budget - expenditures: $43.652 million (2014 est.)note: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
+Economy: Current account balance: -$15.4 million (2017 est.)-$12.2 million (2016 est.)
+Economy: Exports: $11.9 million (2021 est.)$4.4 million (2017 est.)$5.2 million (2016 est.)
+Economy: Exports - partners: USA 25%, Antigua & Barbuda 13%, Guyana 13%, Egypt 12%, France 10% (2023)note: top five export partners based on percentage share of exports
+Economy: Exports - commodities: gravel and crushed stone, sand (2023)
+Economy: Exports - commodities - note: top export commodities based on value in dollars over $500,000
+Economy: Imports: $15.3 million (2021 est.)$39.44 million (2017 est.)$36.1 million (2016 est.)
+Economy: Imports - partners: USA 62%, Antigua & Barbuda 6%, UK 5%, Belgium 4%, Trinidad & Tobago 3% (2023)note: top five import partners based on percentage share of imports
+Economy: Imports - commodities: refined petroleum, electric generating sets, cars, stone processing machines, x-ray equipment (2023)note: top five import commodities based on value in dollars
+Economy: Reserves of foreign exchange and gold: $47.58 million (31 December 2017 est.)$51.47 million (31 December 2015 est.)
+Economy: Exchange rates: East Caribbean dollars (XCD) per US dollar -
+Economy: Exchange rates - Exchange rates: 2.7 (2023 est.)2.7 (2022 est.)2.7 (2021 est.)2.7 (2020 est.)2.7 (2019 est.)
+Energy: Electricity access - electrification - total population: 100% (2020)
+Energy: Electricity - installed generating capacity: 6,000 kW (2022 est.)
+Energy: Electricity - consumption: 13.968 million kWh (2022 est.)
+Energy: Electricity - transmission/distribution losses: 370,000 kWh (2022 est.)
+Energy: Electricity generation sources - fossil fuels: 100% of total installed capacity (2022 est.)
+Energy: Coal - imports: (2022 est.) less than 1 metric ton
+Energy: Petroleum - refined petroleum consumption: 200 bbl/day (2022 est.)
+Energy: Carbon dioxide emissions: 26,000 metric tonnes of CO2 (2022 est.)
+Energy: Carbon dioxide emissions - from petroleum and other liquids: 26,000 metric tonnes of CO2 (2022 est.)
+Energy: Energy consumption per capita: (2019)
+Communications: Telephones - fixed lines - total subscriptions: 3,000 (2020 est.)
+Communications: Telephones - fixed lines - subscriptions per 100 inhabitants: 67 (2020 est.)
+Communications: Telephones - mobile cellular - total subscriptions: 5,000 (2020 est.)
+Communications: Telephones - mobile cellular - subscriptions per 100 inhabitants: 110 (2020 est.)
+Communications: Telecommunication systems - general assessment: telecom market one of growth in Caribbean and fully digitalized; high dependency on tourism and offshore financial services; operators expand FttP (Fiber to Home) services; LTE launches and operators invest in mobile networks; effective competition in all sectors (2020)
+Communications: Telecommunication systems - domestic: fixed-line is 67 per 100 and mobile-cellular teledensity is 110 per 100 persons (2020)
+Communications: Telecommunication systems - international: country code - 1-664; landing point for the ECFS optic submarine cable with links to 14 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad (2019)
+Communications: Broadcast media: Radio Montserrat, a public radio broadcaster, transmits on 1 station and has a repeater transmission to a second station; repeater transmissions from the GEM Radio Network of Trinidad and Tobago provide another 2 radio stations; cable and satellite TV available (2007)
+Communications: Internet country code: .ms
+Communications: Internet users - percent of population: 56.2% (2021 est.)
+Communications: Broadband - fixed subscriptions - total: 2,700 (2018 est.)
+Communications: Broadband - fixed subscriptions - subscriptions per 100 inhabitants: 55 (2018 est.)
+Transportation: National air transport system - number of registered air carriers: 1 (2020)
+Transportation: National air transport system - inventory of registered aircraft operated by air carriers: 3
+Transportation: Civil aircraft registration country code prefix: VP-M
+Transportation: Airports: 1 (2024)
+Transportation: Roadways - note: volcanic eruptions that began in 1995 destroyed most of the 227 km road system; a new road infrastructure has been built on the north end of the island
+Military and Security: Military and security forces: no regular military forces; Royal Montserrat Defense Force (ceremonial, civil defense duties), Montserrat Police Force (2024)
+Military and Security: Military - note: defense is the responsibility of the UK
+Transnational Issues: Illicit drugs: transshipment point for South American narcotics destined for the US and Europe

@@ -1,0 +1,112 @@
+{
+  "q001": {
+    "question": "What disagreements emerged within the European Union regarding proposed gas-use reductions, and which countries argued that they should not have to cut consumption equally?",
+    "answer": "Spain, along with Portugal and Greece, led opposition to the uniform 15% gas usage reduction target, arguing it was unfair and failed to take account of their national circumstances. Spain's minister for ecological transition, Teresa Ribera, commented that the initial proposal was \"not necessarily the most effective approach\" and argued that Spain had \"done our homework\" by investing in infrastructure to boost supplies of liquified natural gas, which was seen as an implicit criticism of Germany's reliance on Russian gas.",
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-26T17_01_01Z",
+        "score": 3.246826648712158,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022_07_29",
+        "score": -0.1361394077539444,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+        "score": -0.2293274700641632,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-19T18_15_40Z",
+        "score": -1.0222910642623901,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-22T15_50_20Z",
+        "score": -2.2332029342651367,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S27",
+      "S28",
+      "S30"
+    ]
+  },
+  "q002": {
+    "question": "How did Oman's leadership under Sultan Qaboos manage to balance modernization with foreign policy independence, and what domestic pressures in 2011 led him to expand political participation?",
+    "answer": "Sultan Qaboos managed to balance modernization with foreign policy independence by prioritizing strategic ties to the UK and US and maintaining a moderate, independent foreign policy that allowed Oman to maintain good relations with its neighbors and avoid external entanglements. In 2011, domestic pressures led by popular uprisings in the Middle East and North Africa inspired demonstrations in Oman, calling for more jobs, economic benefits, and an end to corruption, prompting Sultan Qaboos to implement economic and political reforms, including granting Oman's legislative body more power and authorizing direct elections for its lower house.",
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+        "score": 3.5658180713653564,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Oman",
+        "score": 1.2798712253570557,
+        "rank": 2
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Qatar",
+        "score": -3.014857292175293,
+        "rank": 3
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Libya",
+        "score": -4.731564044952393,
+        "rank": 4
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Saudi_Arabia",
+        "score": -4.953985214233398,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S6",
+      "S7",
+      "S8"
+    ]
+  },
+  "q003": {
+    "question": "Based solely on this article, how many total soldiers and police were deployed across Zimbabwe during the election, and what proportion of polling stations reported irregularities?",
+    "answer": "Journalists inside the country reported a heavy presence of the army and police, but disagreed with Tenda Biti's description of it as \"massive.\" The document does not provide sufficient information to determine the total number of soldiers and police deployed. Tenda Biti said there was a \"massive\" deployment of soldiers and police at most stations, but no specific number is mentioned.",
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+        "score": -2.115656852722168,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-19T17_14_05Z",
+        "score": -7.318011283874512,
+        "rank": 2
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Zimbabwe",
+        "score": -7.404847145080566,
+        "rank": 3
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Zambia",
+        "score": -7.790230751037598,
+        "rank": 4
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Botswana",
+        "score": -7.987937927246094,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S8",
+      "S9",
+      "S27",
+      "S28",
+      "S26"
+    ]
+  }
+}

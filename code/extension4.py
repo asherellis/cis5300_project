@@ -1,0 +1,482 @@
+import argparse
+import sys
+import json
+import os
+import re
+from rank_bm25 import BM25Okapi
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktParameters
+from groq import Groq
+from sentence_transformers import SentenceTransformer, CrossEncoder
+import numpy as np
+
+# Models for hybrid retrieval
+print("Loading embedding model for hybrid retrieval...", file=sys.stderr)
+embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
+cross_encoder_name = "cross-encoder/ms-marco-MiniLM-L-6-v2"
+rerank_model = CrossEncoder(cross_encoder_name)
+
+try:
+    nltk.data.find('tokenizers/punkt')
+except LookupError:
+    nltk.download("punkt", quiet=True)
+
+try:
+    nltk.data.find("tokenizers/punkt_tab")
+except LookupError:
+    nltk.download("punkt_tab", quiet=True)
+
+_punkt_param = PunktParameters()
+_punkt_param.abbrev_types = set([
+    'dr', 'vs', 'mr', 'mrs', 'ms', 'prof', 'inc', 'u.s', 'e.g', 'i.e',
+    'etc', 'fig', 'al', 'gen', 'col', 'jr', 'sr', 'rev', 'hon', 'esq',
+    'ltd', 'co', 'corp', 'approx', 'appt', 'dept', 'est', 'min', 'max',
+    'a.m', 'p.m', 'e.t', 'no', 'pp', 'op', 'vol', 'ed', 'eds', 'st'
+])
+custom_sent_tokenize = PunktSentenceTokenizer(_punkt_param).tokenize
+
+DEFAULT_THRESHOLD = 0.0
+HYBRID_ALPHA = 0.5  # Weight for BM25 vs semantic (0.5 = equal weight)
+
+groq_api_key = os.getenv("GROQ_API_KEY")
+if not groq_api_key:
+    print("="*60)
+    print("Submit Groq API Key")
+    print("\n1. Go to: https://console.groq.com/keys")
+    print("2. Click 'Create API Key'")
+    print("3. Copy key and paste it below\n")
+    groq_api_key = input("Enter your Groq API key: ").strip()
+    if not groq_api_key:
+        print("No API key provided. Exiting.")
+        exit(1)
+
+client = Groq(api_key=groq_api_key)
+model_name = "llama-3.1-8b-instant"
+
+def load_jsonl(filepath):
+    with open(filepath, "r") as f:
+        return [json.loads(line) for line in f if line.strip()]
+
+def load_documents(doc_dir):
+    doc_texts = []
+    doc_ids = []
+    doc_structures = []
+
+    if not os.path.exists(doc_dir):
+        print(f"Warning: Document directory {doc_dir} not found. Using placeholder.", file=sys.stderr)
+        return doc_texts, doc_ids, doc_structures
+
+    skip_files = {'train_final.txt', 'dev_final.txt', 'test_final.txt',
+                   'train_final_jsonl.txt', 'dev_final_jsonl.txt', 'test_final_jsonl.txt',
+                   'all_examples_final.txt'}
+
+    print("Loading documents from corpus...", file=sys.stderr)
+    file_count = 0
+    loaded_count = 0
+
+    for root, _, files in os.walk(doc_dir):
+        for filename in files:
+            if filename in skip_files:
+                continue
+            if filename.endswith(".txt") or filename.endswith(".json"):
+                file_count += 1
+                if file_count % 100 == 0:
+                    print(f"  Processed {file_count} files, loaded {loaded_count} documents...", file=sys.stderr)
+
+                filepath = os.path.join(root, filename)
+                rel_path = os.path.relpath(filepath, doc_dir)
+                doc_id = rel_path.replace(os.sep, "/")
+                doc_id = doc_id.replace(".txt", "").replace(".json", "")
+                try:
+                    structure = None
+                    if filename.endswith(".json"):
+                        with open(filepath, "r") as f:
+                            doc_data = json.load(f)
+                            text = doc_data.get("text", "") or doc_data.get("content", "")
+                            if 'sentences' in doc_data:
+                                structure = doc_data
+                    else:
+                        with open(filepath, "r", encoding="utf-8") as f:
+                            content = f.read()
+                        try:
+                            doc_data = json.loads(content)
+                            if 'sentences' in doc_data:
+                                sentences = [s.get('text', '') for s in doc_data['sentences'] if s.get('text')]
+                                text = ' '.join(sentences)
+                                structure = doc_data
+                            else:
+                                text = content
+                        except json.JSONDecodeError:
+                            text = content
+
+                    if text:
+                        doc_texts.append(text)
+                        doc_ids.append(doc_id)
+                        doc_structures.append(structure)
+                        loaded_count += 1
+                except Exception as e:
+                    print(f"Warning: Could not load {rel_path}: {e}", file=sys.stderr)
+
+    print(f"Loaded {loaded_count} documents from {file_count} files.", file=sys.stderr)
+    return doc_texts, doc_ids, doc_structures
+
+def tokenize(text):
+    return word_tokenize(text.lower())
+
+def build_bm25_index(doc_texts):
+    tokenized_corpus = [tokenize(text) for text in doc_texts]
+    return BM25Okapi(tokenized_corpus)
+
+def build_embedding_index(doc_texts):
+    """Pre-compute document embeddings for semantic retrieval."""
+    print("Computing document embeddings (this may take a moment)...", file=sys.stderr)
+    # Truncate documents to first 512 tokens for embedding
+    truncated_docs = [' '.join(text.split()[:512]) for text in doc_texts]
+    embeddings = embedding_model.encode(truncated_docs, show_progress_bar=True)
+    print(f"Computed embeddings for {len(embeddings)} documents.", file=sys.stderr)
+    return embeddings
+
+def hybrid_retrieve(question, bm25_index, doc_embeddings, doc_texts, N=30, alpha=HYBRID_ALPHA):
+    """
+    Hybrid retrieval combining BM25 and semantic similarity.
+
+    Args:
+        alpha: Weight for BM25 (1-alpha for semantic). Default 0.5.
+
+    Returns:
+        top_ids, top_texts, hybrid_scores
+    """
+    # BM25 scores
+    tokenized_question = tokenize(question)
+    bm25_scores = bm25_index.get_scores(tokenized_question)
+
+    # Normalize BM25 scores to [0, 1]
+    bm25_min, bm25_max = bm25_scores.min(), bm25_scores.max()
+    if bm25_max > bm25_min:
+        bm25_norm = (bm25_scores - bm25_min) / (bm25_max - bm25_min)
+    else:
+        bm25_norm = np.zeros_like(bm25_scores)
+
+    # Semantic similarity scores
+    question_embedding = embedding_model.encode([question])[0]
+    semantic_scores = np.dot(doc_embeddings, question_embedding) / (
+        np.linalg.norm(doc_embeddings, axis=1) * np.linalg.norm(question_embedding) + 1e-8
+    )
+
+    # Normalize semantic scores to [0, 1]
+    sem_min, sem_max = semantic_scores.min(), semantic_scores.max()
+    if sem_max > sem_min:
+        semantic_norm = (semantic_scores - sem_min) / (sem_max - sem_min)
+    else:
+        semantic_norm = np.zeros_like(semantic_scores)
+
+    # Combine scores
+    hybrid_scores = alpha * bm25_norm + (1 - alpha) * semantic_norm
+
+    # Get top N
+    top_ids = np.argsort(hybrid_scores)[::-1][:N]
+    top_texts = [doc_texts[i] for i in top_ids]
+
+    return top_ids, top_texts, hybrid_scores
+
+def rerank_encoder(question, top_ids, top_texts, hybrid_scores, k=5):
+    """Cross-encoder reranking of hybrid retrieval results."""
+    input_pairs = [(question, t) for t in top_texts]
+    rerank_scores = rerank_model.predict(input_pairs)
+
+    sorted_by_reranking = list(zip(top_ids, top_texts, rerank_scores))
+    sorted_by_reranking.sort(key=lambda x: x[2], reverse=True)
+    top_retrieved = sorted_by_reranking[:k]
+
+    reranked_ids = [ids for ids, _, _ in top_retrieved]
+    reranked_scores = [float(score) for _, _, score in top_retrieved]
+
+    return reranked_ids, reranked_scores
+
+def get_sentences_with_ids(doc_structure, doc_text):
+    """Extract sentences with their IDs from document."""
+    if doc_structure and 'sentences' in doc_structure:
+        return [(s.get('sid', f"S{i+1}"), s.get('text', ''))
+                for i, s in enumerate(doc_structure['sentences'])
+                if s.get('text')]
+    else:
+        sentences = custom_sent_tokenize(doc_text)
+        return [(f"S{i+1}", sent) for i, sent in enumerate(sentences)]
+
+def extract_sentence_ids_llm(question, answer, doc_structure, doc_text):
+    """Use LLM to identify supporting sentences."""
+    sentences = get_sentences_with_ids(doc_structure, doc_text)
+
+    if not sentences:
+        return []
+
+    sentences = sentences[:30]
+    sentence_list = "\n".join([f"{sid}: {text}" for sid, text in sentences])
+
+    prompt = f"""You are a citation extraction system. Given a question, an answer, and a list of sentences from a source document, identify which sentences contain information that supports the answer.
+
+QUESTION:
+{question}
+
+ANSWER:
+{answer}
+
+DOCUMENT SENTENCES:
+{sentence_list}
+
+INSTRUCTIONS:
+1. Read the answer carefully and identify the key claims/facts it contains.
+2. Find sentences from the document that directly support these claims.
+3. Return ONLY the sentence IDs (e.g., S1, S5, S12) that contain supporting evidence.
+4. Return 1-5 sentence IDs, prioritizing the most relevant ones.
+5. If no sentences support the answer, return "NONE".
+
+OUTPUT FORMAT:
+Return only the sentence IDs separated by commas (e.g., "S3, S7, S12").
+Do not include any explanation or other text.
+
+SUPPORTING SENTENCE IDs:"""
+
+    try:
+        response = client.chat.completions.create(
+            messages=[{"role": "user", "content": prompt}],
+            model=model_name,
+            temperature=0.0,
+            max_tokens=50,
+        )
+        result = response.choices[0].message.content.strip()
+
+        if result.upper() == "NONE" or not result:
+            return []
+
+        sentence_ids = re.findall(r'S\d+', result, re.IGNORECASE)
+        sentence_ids = [sid.upper() for sid in sentence_ids]
+
+        valid_ids = {sid for sid, _ in sentences}
+        sentence_ids = [sid for sid in sentence_ids if sid in valid_ids]
+
+        seen = set()
+        unique_ids = []
+        for sid in sentence_ids:
+            if sid not in seen:
+                seen.add(sid)
+                unique_ids.append(sid)
+                if len(unique_ids) >= 5:
+                    break
+
+        return unique_ids if unique_ids else fallback_extraction(question, sentences)
+
+    except Exception as e:
+        print(f"LLM citation extraction error: {e}", file=sys.stderr)
+        return fallback_extraction(question, sentences)
+
+def fallback_extraction(question, sentences):
+    """Fallback to word-overlap if LLM extraction fails."""
+    query_tokens = set(tokenize(question))
+    scored = []
+    for sid, text in sentences:
+        sent_tokens = set(tokenize(text))
+        overlap = len(query_tokens & sent_tokens)
+        scored.append((sid, overlap))
+    scored.sort(key=lambda x: x[1], reverse=True)
+    return [sid for sid, _ in scored[:3]]
+
+def truncate_text(text, max_tokens=1500):
+    tokens = text.split()
+    if len(tokens) <= max_tokens:
+        return text
+    return " ".join(tokens[:max_tokens]) + "..."
+
+def build_rag_prompt(question, doc_text):
+    doc_text = truncate_text(doc_text, max_tokens=1500)
+    prompt = f"""You are a document-grounded question answering system. Answer the question based ONLY on the provided document.
+
+Document:
+{doc_text}
+
+Question: {question}
+
+Instructions:
+- Answer the question in two to four complete sentences based on the document.
+- If the document does not contain enough information to answer the question, say "The document does not provide sufficient information to answer this question."
+- Do not include any notes, disclaimers, bullet points, or follow-up offers.
+- Give only the answer.
+
+Answer:"""
+    return prompt
+
+def query_groq(prompt):
+    try:
+        chat_completion = client.chat.completions.create(
+            messages=[{"role": "user", "content": prompt}],
+            model=model_name,
+            temperature=0.7,
+            max_tokens=256,
+        )
+        return chat_completion.choices[0].message.content.strip()
+    except Exception as e:
+        print(f"\nError: {e}", file=sys.stderr)
+        return "Error generating answer"
+
+def rag_predict(
+    question,
+    bm25_index,
+    doc_embeddings,
+    doc_texts,
+    doc_ids,
+    doc_structures,
+    k=5,
+    score_threshold=DEFAULT_THRESHOLD,
+):
+    if not doc_texts:
+        return {
+            "answer": "I cannot answer this question as no documents are available in the corpus.",
+            "retrieved_docs": [],
+            "evidence_sentences": [],
+        }
+
+    # Hybrid retrieval (BM25 + semantic)
+    N = max(k * 5, 30)
+    cand_id, cand_text, hybrid_scores = hybrid_retrieve(
+        question, bm25_index, doc_embeddings, doc_texts, N
+    )
+
+    if len(cand_id) == 0:
+        return {
+            "answer": "I cannot answer this question as no documents are available in the corpus.",
+            "retrieved_docs": [],
+            "evidence_sentences": [],
+        }
+
+    top_score = hybrid_scores[cand_id[0]] if len(cand_id) > 0 else 0.0
+
+    if top_score < score_threshold:
+        return {
+            "answer": "I cannot answer this question based on the available documents. No sufficiently relevant documents were found.",
+            "retrieved_docs": [],
+            "evidence_sentences": [],
+        }
+
+    # Cross-encoder reranking
+    reranked_ids, reranked_scores = rerank_encoder(question, cand_id, cand_text, hybrid_scores, k)
+
+    retrieved_docs = [
+        {
+            "doc_id": doc_ids[idx],
+            "score": reranked_scores[rank],
+            "rank": rank + 1,
+            "text": doc_texts[idx],
+            "structure": doc_structures[idx] if idx < len(doc_structures) else None
+        }
+        for rank, idx in enumerate(reranked_ids)
+    ]
+
+    # Generate answer
+    top_doc_text = retrieved_docs[0]['text']
+    prompt = build_rag_prompt(question, top_doc_text)
+    answer = query_groq(prompt)
+
+    # LLM-based citation extraction
+    top_doc = retrieved_docs[0]
+    evidence_sentences = extract_sentence_ids_llm(
+        question, answer, top_doc["structure"], top_doc["text"]
+    )
+
+    return {
+        "answer": answer,
+        "retrieved_docs": [
+            {
+                "doc_id": doc["doc_id"],
+                "score": doc["score"],
+                "rank": doc["rank"]
+            }
+            for doc in retrieved_docs
+        ],
+        "evidence_sentences": evidence_sentences,
+    }
+
+parser = argparse.ArgumentParser(
+    description="Run Extension 4: Hybrid Retrieval (BM25 + Semantic) + Reranking + LLM Citations."
+)
+parser.add_argument(
+    "split",
+    nargs="?",
+    default="train",
+    choices=["train", "dev", "test"],
+    help="Which split to run (train, dev, or test). Default: train",
+)
+parser.add_argument(
+    "--score-threshold",
+    type=float,
+    default=DEFAULT_THRESHOLD,
+    help="Score floor for accepting a document.",
+)
+parser.add_argument(
+    "--alpha",
+    type=float,
+    default=HYBRID_ALPHA,
+    help="Weight for BM25 in hybrid retrieval (0-1). Default: 0.5",
+)
+args = parser.parse_args()
+
+split = args.split
+input_file = f"data/questions/{split}_final_jsonl.txt"
+doc_dir = "data/corpus"
+output_file = f"output/{split}_extension4_output.json"
+score_threshold = args.score_threshold
+HYBRID_ALPHA = args.alpha
+
+questions = load_jsonl(input_file)
+print(f"Loaded {len(questions)} questions.", file=sys.stderr)
+
+doc_texts, doc_ids, doc_structures = load_documents(doc_dir)
+print(f"Building BM25 index...", file=sys.stderr)
+bm25_index = build_bm25_index(doc_texts)
+print(f"BM25 index built.", file=sys.stderr)
+
+doc_embeddings = build_embedding_index(doc_texts)
+print(f"Ready to process questions.", file=sys.stderr)
+
+predictions = {}
+print("\n" + "=" * 60 + "\n")
+print(f"Running Extension 4: Hybrid Retrieval + Reranking + LLM Citations")
+print(f"Hybrid alpha (BM25 weight): {HYBRID_ALPHA}")
+print(f"Processing {len(questions)} questions...")
+print("=" * 60 + "\n")
+
+for idx, item in enumerate(questions):
+    if (idx + 1) % 5 == 0:
+        print(f"Progress: {idx + 1}/{len(questions)} questions processed...", file=sys.stderr)
+    question = item.get("question", "")
+    if not question:
+        continue
+    question_id = item.get("question_id", f"q{idx+1:03d}")
+
+    prediction = rag_predict(
+        question,
+        bm25_index,
+        doc_embeddings,
+        doc_texts,
+        doc_ids,
+        doc_structures,
+        k=5,
+        score_threshold=score_threshold,
+    )
+
+    predictions[question_id] = {
+        "question": question,
+        "answer": prediction.get("answer", ""),
+        "retrieved_docs": prediction.get("retrieved_docs", []),
+        "evidence_sentences": prediction.get("evidence_sentences", []),
+    }
+
+    print(f"Q{idx+1}:", question[:80] + "..." if len(question) > 80 else question)
+    print(f"A:", prediction.get("answer", "")[:100] + "..." if len(prediction.get("answer", "")) > 100 else prediction.get("answer", ""))
+    print(f"Citations:", prediction.get("evidence_sentences", []))
+    print("-" * 40)
+
+with open(output_file, "w") as f:
+    json.dump(predictions, f, indent=2)
+
+print(f"\nPredictions saved to: {output_file}")

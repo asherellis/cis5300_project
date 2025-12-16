@@ -1,0 +1,40 @@
+url: https://www.cia.gov/the-world-factbook/countries/coral-sea-islands/
+Introduction: Background: The widely scattered Coral Sea Islands were first charted in 1803, but they were too small to host permanent human habitation. The 1870s and 1880s saw attempts at guano mining, but these were soon abandoned. The islands became an Australian territory in 1969, and the boundaries were extended in 1997. A small meteorological staff has operated on the Willis Islets since 1921, and several other islands host unmanned weather stations, beacons, and lighthouses. Much of the territory lies within national marine nature reserves.  
+Geography: Location: Oceania, islands in the Coral Sea, northeast of Australia
+Geography: Geographic coordinates: 18 00 S, 152 00 E
+Geography: Map references: Oceania
+Geography: Area - total: 3 sq km less than
+Geography: Area - land: 3 sq km less than
+Geography: Area - water: 0 sq km
+Geography: Area - note: includes numerous small islands and reefs scattered over a sea area of about 780,000 sq km (300,000 sq mi) with the Willis Islets the most important
+Geography: Area - comparative: about four times the size of the National Mall in Washington, DC
+Geography: Land boundaries - total: 0 km
+Geography: Coastline: 3,095 km
+Geography: Maritime claims - territorial sea: 3 nm
+Geography: Maritime claims - exclusive fishing zone: 200 nm
+Geography: Climate: tropical
+Geography: Terrain: sand and coral reefs and islands (cays)
+Geography: Elevation - highest point: unnamed location on Cato Island 9 m
+Geography: Elevation - lowest point: Pacific Ocean 0 m
+Geography: Natural resources: fish
+Geography: Land use - agricultural land: 0% (2018 est.)
+Geography: Land use - other: 100% (2018 est.)
+Geography: Natural hazards: occasional tropical cyclones
+Geography: Geography - note: important nesting area for birds and turtles
+People and Society: Population - total: no indigenous inhabitants (2021)
+People and Society: Population - note: a staff of four operates the meteorological station on Willis Island
+Environment: Environment - current issues: no permanent freshwater resources; damaging activities include coral mining, destructive fishing practices (overfishing, blast fishing)
+Environment: Climate: tropical
+Environment: Land use - agricultural land: 0% (2018 est.)
+Environment: Land use - other: 100% (2018 est.)
+Government: Country name - conventional long form: Coral Sea Islands Territory
+Government: Country name - conventional short form: Coral Sea Islands
+Government: Country name - etymology: self-descriptive name to reflect the islands' position in the Coral Sea off the northeastern coast of Australia
+Government: Dependency status: territory of Australia; administered from Canberra by the Department of Regional Australia, Local Government, Arts and Sport
+Government: Legal system: the common law legal system of Australia applies where applicable
+Government: Citizenship: see Australia
+Government: Diplomatic representation in the US: none (territory of Australia)
+Government: Diplomatic representation from the US - embassy: none (territory of Australia)
+Government: Flag description: the flag of Australia is used
+Communications: Communications - note: automatic weather stations on many of the isles and reefs relay data to the mainland
+Military and Security: Military - note: defense is the responsibility of Australia

@@ -1,0 +1,116 @@
+{
+  "q001": {
+    "question": "What disagreements emerged within the European Union regarding proposed gas-use reductions, and which countries argued that they should not have to cut consumption equally?",
+    "answer": "Hungary, which has already secured an opt-out from the EU's embargo on Russian oil, was the only country to voice its opposition to the plan. Hungary has blamed the EU's measures for increasing prices for Hungarian drivers and households, despite having backed EU sanctions against Russia.",
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-26T17_01_01Z",
+        "score": 3.7232611179351807,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-19T18_15_40Z",
+        "score": 2.8591394424438477,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022_07_29",
+        "score": -0.1361394077539444,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+        "score": -0.18199434876441956,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-08-06T00_59_35Z",
+        "score": -2.9741172790527344,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S17",
+      "S19"
+    ],
+    "verification_status": "SUPPORTED",
+    "verification_attempts": 1
+  },
+  "q002": {
+    "question": "How did Oman's leadership under Sultan Qaboos manage to balance modernization with foreign policy independence, and what domestic pressures in 2011 led him to expand political participation?",
+    "answer": "Oman's leadership under Sultan Qaboos implemented economic and political reforms in response to domestic pressures in 2011, which included demonstrations calling for jobs, economic benefits, and an end to corruption. As part of these reforms, Qaboos granted Oman's legislative body more power, authorized direct elections for its lower house, increased unemployment benefits, and issued a royal directive for a national job creation plan. The government also conducted its first municipal council elections in 2012, decentralizing authority and allowing greater citizen participation in local governance.",
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+        "score": 3.74403715133667,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Oman",
+        "score": 2.889665126800537,
+        "rank": 2
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Saudi_Arabia",
+        "score": -1.5813771486282349,
+        "rank": 3
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Qatar",
+        "score": -4.708483695983887,
+        "rank": 4
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Egypt",
+        "score": -4.978630065917969,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S7",
+      "S8",
+      "S9",
+      "S10"
+    ],
+    "verification_status": "SUPPORTED",
+    "verification_attempts": 1
+  },
+  "q003": {
+    "question": "Based solely on this article, how many total soldiers and police were deployed across Zimbabwe during the election, and what proportion of polling stations reported irregularities?",
+    "answer": "The document does not provide sufficient information to answer this question.",
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+        "score": 2.8977150917053223,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__South_Africa",
+        "score": -5.786998748779297,
+        "rank": 2
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Zimbabwe",
+        "score": -6.590620040893555,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-02-24T19_54_49Z",
+        "score": -7.230559349060059,
+        "rank": 4
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Tanzania",
+        "score": -7.460102081298828,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S8",
+      "S9",
+      "S10"
+    ],
+    "verification_status": "N/A",
+    "verification_attempts": 3
+  }
+}

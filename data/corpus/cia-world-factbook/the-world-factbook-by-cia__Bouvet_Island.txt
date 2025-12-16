@@ -1,0 +1,38 @@
+url: https://www.cia.gov/the-world-factbook/countries/bouvet-island/
+Introduction: Background: This uninhabited volcanic island in Antarctica is almost entirely covered by glaciers, making it difficult to approach. Bouvet Island is recognized as the most remote island on Earth because it is furthest from any other point of land (1,639 km from Antarctica). The island was named after the French naval officer who discovered it in 1739, although no country laid claim to it until 1825, when the British flag was raised. A few expeditions visited the island in the late 19th century. In 1929, the UK waived its claim in favor of Norway, which had occupied the island two years previously. In 1971, Norway designated Bouvet Island and the adjacent territorial waters as a nature reserve. Since 1977, Norway has run an automated meteorological station and studied foraging strategies and distribution of fur seals and penguins on the island. In 2006, an earthquake weakened the station's foundation, causing it to be blown out to sea in a winter storm. Norway erected a new research station in 2014 that can hold six people for periods of two to four months.
+Geography: Location: island in the South Atlantic Ocean, southwest of the Cape of Good Hope (South Africa)
+Geography: Geographic coordinates: 54 26 S, 3 24 E
+Geography: Map references: Antarctic Region
+Geography: Area - total: 49 sq km
+Geography: Area - land: 49 sq km
+Geography: Area - water: 0 sq km
+Geography: Area - comparative: about 0.3 times the size of Washington, DC
+Geography: Land boundaries - total: 0 km
+Geography: Coastline: 29.6 km
+Geography: Maritime claims - territorial sea: 4 nm
+Geography: Climate: antarctic
+Geography: Terrain: volcanic; coast is mostly inaccessible
+Geography: Elevation - highest point: Olavtoppen (Olav Peak) 780 m
+Geography: Elevation - lowest point: South Atlantic Ocean 0 m
+Geography: Natural resources: none
+Geography: Land use - agricultural land: 0% (2018 est.)agricultural land: arable land: 0% (2018 est.)agricultural land: permanent crops: 0% (2018 est.)agricultural land: permanent pasture: 0% (2018 est.)
+Geography: Land use - forest: 0% (2018 est.)
+Geography: Land use - other: 100% (2018 est.)
+Geography: Natural hazards: occasional volcanism, rock slides; harsh climate, surrounded by pack ice in winter
+Geography: Geography - note: almost entirely covered by glacial ice (93%); declared a nature reserve by Norway; the distance from Bouvet Island to Norway is 12,776 km, which is almost one-third the circumference of the earth
+People and Society: Population - total: uninhabited
+Environment: Environment - current issues: none; almost entirely ice covered
+Environment: Climate: antarctic
+Environment: Land use - agricultural land: 0% (2018 est.)agricultural land: arable land: 0% (2018 est.)agricultural land: permanent crops: 0% (2018 est.)agricultural land: permanent pasture: 0% (2018 est.)
+Environment: Land use - forest: 0% (2018 est.)
+Environment: Land use - other: 100% (2018 est.)
+Government: Country name - conventional long form: none
+Government: Country name - conventional short form: Bouvet Island
+Government: Country name - etymology: named after the French naval officer Jean-Baptiste Charles BOUVET who discovered the island in 1739
+Government: Country name - note: pronounced boo-vay i-land
+Government: Dependency status: territory of Norway; administered by the Polar Department of the Ministry of Justice and Oslo Police
+Government: Legal system: the laws of Norway apply where applicable
+Government: Flag description: the flag of Norway is used
+Communications: Internet country code: .bv
+Communications: Communications - note: has an automated meteorological station
+Military and Security: Military - note: defense is the responsibility of Norway

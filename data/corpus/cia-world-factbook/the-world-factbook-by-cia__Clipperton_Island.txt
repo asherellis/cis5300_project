@@ -1,0 +1,39 @@
+url: https://www.cia.gov/the-world-factbook/countries/clipperton-island/
+Introduction: Background: This isolated atoll was named for John CLIPPERTON, an English pirate who was rumored to have made it his hideout early in the 18th century. Annexed by France in 1855 and claimed by the US, it was seized by Mexico in 1897. Arbitration eventually awarded the island to France in 1931, which took possession in 1935.
+Geography: Location: Middle America, atoll in the North Pacific Ocean, 1,120 km southwest of Mexico
+Geography: Geographic coordinates: 10 17 N, 109 13 W
+Geography: Map references: Political Map of the World
+Geography: Area - total: 6 sq km
+Geography: Area - land: 6 sq km
+Geography: Area - water: 0 sq km
+Geography: Area - comparative: about 12 times the size of The Mall in Washington, DC
+Geography: Land boundaries - total: 0 km
+Geography: Coastline: 11.1 km
+Geography: Maritime claims - territorial sea: 12 nm
+Geography: Maritime claims - exclusive economic zone: 200 nm
+Geography: Climate: tropical; humid, average temperature 20-32 degrees Celsius, wet season (May to October)
+Geography: Terrain: coral atoll
+Geography: Elevation - highest point: Rocher Clipperton 29 m
+Geography: Elevation - lowest point: Pacific Ocean 0 m
+Geography: Natural resources: fish
+Geography: Land use - agricultural land: 0% (2018 est.)
+Geography: Land use - forest: 0% (2018 est.)
+Geography: Land use - other: 100% (2018 est.)
+Geography: Natural hazards: subject to tropical storms and hurricanes from May to October
+Geography: Geography - note: the atoll reef is approximately 12 km (7.5 mi) in circumference; an attempt to colonize the atoll in the early 20th century ended in disaster and was abandoned in 1917
+People and Society: Population - total: uninhabited
+Environment: Environment - current issues: no natural resources, guano deposits depleted; the ring-shaped atoll encloses a stagnant fresh-water lagoon
+Environment: Climate: tropical; humid, average temperature 20-32 degrees Celsius, wet season (May to October)
+Environment: Land use - agricultural land: 0% (2018 est.)
+Environment: Land use - forest: 0% (2018 est.)
+Environment: Land use - other: 100% (2018 est.)
+Government: Country name - conventional long form: none
+Government: Country name - conventional short form: Clipperton Island
+Government: Country name - local long form: none
+Government: Country name - local short form: Ile Clipperton
+Government: Country name - former: sometimes referred to as Ile de la Passion or Atoll Clipperton
+Government: Country name - etymology: named after an 18th-century English pirate who supposedly used the island as a base
+Government: Dependency status: possession of France; administered directly by the Minister of Overseas France
+Government: Legal system: the laws of France apply
+Government: Flag description: the flag of France is used
+Military and Security: Military - note: defense is the responsibility of France

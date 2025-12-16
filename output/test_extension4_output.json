@@ -1,0 +1,113 @@
+{
+  "q001": {
+    "question": "What specific EU energy measure was scheduled to take effect according to the report, and what key details did member states agree on regarding the scope and level of gas reductions?",
+    "answer": "The EU energy measure scheduled to take effect was a voluntary 15% reduction in gas usage over the winter. Member states agreed that the target could become mandatory if the Kremlin ordered a complete shutdown of gas to Europe, and that exemptions would be granted to island nations and countries with limited connections to the European gas network.",
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-26T17_01_01Z",
+        "score": -0.8401548862457275,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+        "score": -4.037204742431641,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-19T18_15_40Z",
+        "score": -4.361046314239502,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T15_09_05Z",
+        "score": -5.792367458343506,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-23T15_57_05Z",
+        "score": -6.012875556945801,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S2",
+      "S3",
+      "S20",
+      "S21",
+      "S23"
+    ]
+  },
+  "q002": {
+    "question": "How did long-term political instability, recurring coups, and the emergence of northern armed groups shape Mali\u2019s struggle to maintain territorial control from 1991 through 2024?",
+    "answer": "Mali saw 31 years of dictatorship until 1991, when a military coup led by Amadou Toumani TOURE ousted the government, but this ultimately led to a transition towards a multi-party democracy. However, a series of subsequent military coups and power struggles, including a 2012 rebellion, a 2020 military arrest of the president, and a 2021 military takeover, have contributed to ongoing instability and the struggle for territorial control in the country. In 2022, the Economic Community of West African States (ECOWAS) imposed sanctions and Mali withdrew from ECOWAS in January 2024, indicating that long-term political instability and power struggles continue to affect Mali's ability to maintain territorial control.",
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Mali_history",
+        "score": -0.3870234787464142,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Mali",
+        "score": -2.021467924118042,
+        "rank": 2
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Syria",
+        "score": -2.6523122787475586,
+        "rank": 3
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Guinea-Bissau",
+        "score": -3.3899269104003906,
+        "rank": 4
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Comoros",
+        "score": -4.050295829772949,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S12",
+      "S15",
+      "S16",
+      "S25",
+      "S28"
+    ]
+  },
+  "q003": {
+    "question": "According to the article, how close was the no-confidence vote against Prime Minister Manmohan Singh, and what unusual step was taken to ensure voting could occur?",
+    "answer": "The no-confidence vote against Prime Minister Manmohan Singh was narrow, with a margin of 275-256 votes. To enable five members of parliament serving prison sentences to cast their votes, they were freed under the watchful eyes of their jailers.",
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+        "score": 4.308494567871094,
+        "rank": 1
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__ed1f7853eacb3c5422b95af36014d7826a618486",
+        "score": -7.777796745300293,
+        "rank": 2
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__b66d1fab1f4c45793043916ca349143dcd0bbb3e",
+        "score": -7.786621570587158,
+        "rank": 3
+      },
+      {
+        "doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+        "score": -8.184185028076172,
+        "rank": 4
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__c52fc4eee691e0385518635e2ef819edf572d198",
+        "score": -8.903806686401367,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S15",
+      "S4"
+    ]
+  }
+}

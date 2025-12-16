@@ -1,0 +1,110 @@
+{
+  "q001": {
+    "question": "What disagreements emerged within the European Union regarding proposed gas-use reductions, and which countries argued that they should not have to cut consumption equally?",
+    "answer": "Spain, along with Portugal and Greece, led opposition to the uniform 15% gas-use reduction target, arguing it was unfair and failed to take account of their national circumstances. Spain's minister for ecological transition, Teresa Ribera, claimed that Spain had \"done our homework\" by investing in infrastructure to boost supplies of liquified natural gas, an implicit criticism of Berlin's decades-long reliance on cheap Russian gas.",
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-26T17_01_01Z",
+        "score": 3.246826648712158,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+        "score": -0.2293274700641632,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-19T18_15_40Z",
+        "score": -1.0222910642623901,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-27T22_00_42Z",
+        "score": -3.5932044982910156,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T16_25_08Z",
+        "score": -5.34451961517334,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S3",
+      "S23",
+      "S26"
+    ]
+  },
+  "q002": {
+    "question": "How did Oman's leadership under Sultan Qaboos manage to balance modernization with foreign policy independence, and what domestic pressures in 2011 led him to expand political participation?",
+    "answer": "Oman's leadership under Sultan Qaboos managed to balance modernization with foreign policy independence by prioritizing strategic ties to the UK and US and maintaining a moderate, independent foreign policy that allowed the country to maintain good relations with its neighbors and avoid external entanglements. In 2011, domestic pressures led Sultan Qaboos to expand political participation in response to popular uprisings that swept the Middle East and North Africa, which inspired demonstrations in Oman calling for more jobs, economic benefits, and an end to corruption.",
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+        "score": 3.5658180713653564,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Oman",
+        "score": 1.2798712253570557,
+        "rank": 2
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Qatar",
+        "score": -3.014857292175293,
+        "rank": 3
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Libya",
+        "score": -4.731564044952393,
+        "rank": 4
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Saudi_Arabia",
+        "score": -4.953985214233398,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S6",
+      "S10",
+      "S7"
+    ]
+  },
+  "q003": {
+    "question": "Based solely on this article, how many total soldiers and police were deployed across Zimbabwe during the election, and what proportion of polling stations reported irregularities?",
+    "answer": "The document does not provide sufficient information to determine the total number of soldiers and police deployed across Zimbabwe during the election. Police said they were investigating the bombing of a house in Harare belonging to a parliamentarian candidate from Mugabe's ruling Zanu-PF party, but the number of soldiers and police deployed is not specified. Movement for Democratic Change Secretary-General Tenda Biti said there was a \"massive\" deployment of soldiers and police at most stations, but journalists disagreed with his description of it as \"massive.\" The document does not provide sufficient information to determine the proportion of polling stations that reported irregularities.",
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+        "score": -2.115656852722168,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Zimbabwe",
+        "score": -7.404847145080566,
+        "rank": 2
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Botswana",
+        "score": -7.987937927246094,
+        "rank": 3
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Malawi",
+        "score": -8.790761947631836,
+        "rank": 4
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__13206bb7cf67bb6639793ca77e05b4f36d88e71c",
+        "score": -9.307637214660645,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S34",
+      "S36",
+      "S4"
+    ]
+  }
+}

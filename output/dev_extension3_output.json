@@ -1,0 +1,114 @@
+{
+  "q001": {
+    "question": "What disagreements emerged within the European Union regarding proposed gas-use reductions, and which countries argued that they should not have to cut consumption equally?",
+    "answer": "The proposed gas-use reductions plan faced opposition from Hungary, which cited the EU's measures against Russia for increasing prices for Hungarian drivers and households, a link strongly rebutted by Brussels. Additionally, southern European countries, led by Spain, argued that the uniform 15% target was unfair and failed to take account of their national circumstances, particularly those that use less or no Russian gas, such as Spain, which has invested in infrastructure to boost supplies of liquified natural gas.",
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-26T17_01_01Z",
+        "score": 3.246826648712158,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+        "score": -0.2293274700641632,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-19T18_15_40Z",
+        "score": -1.0222910642623901,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-27T22_00_42Z",
+        "score": -3.5932044982910156,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T16_25_08Z",
+        "score": -5.34451961517334,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S17",
+      "S19",
+      "S27",
+      "S28",
+      "S26"
+    ]
+  },
+  "q002": {
+    "question": "How did Oman's leadership under Sultan Qaboos manage to balance modernization with foreign policy independence, and what domestic pressures in 2011 led him to expand political participation?",
+    "answer": "Sultan Qaboos managed to balance modernization with foreign policy independence by prioritizing strategic ties to the UK and US and maintaining a moderate, independent foreign policy, which allowed Oman to maintain good relations with its neighbors and avoid external entanglements. In 2011, domestic pressures led by popular uprisings in the Middle East and North Africa inspired demonstrations in Oman that called for more jobs, economic benefits, and an end to corruption, prompting Sultan Qaboos to implement economic and political reforms, including granting more power to Oman's legislative body and authorizing direct elections for its lower house.",
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+        "score": 3.5658180713653564,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Oman",
+        "score": 1.2798712253570557,
+        "rank": 2
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Qatar",
+        "score": -3.014857292175293,
+        "rank": 3
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Libya",
+        "score": -4.731564044952393,
+        "rank": 4
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Saudi_Arabia",
+        "score": -4.953985214233398,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S6",
+      "S7",
+      "S8"
+    ]
+  },
+  "q003": {
+    "question": "Based solely on this article, how many total soldiers and police were deployed across Zimbabwe during the election, and what proportion of polling stations reported irregularities?",
+    "answer": "The document does not provide sufficient information to answer the question regarding the total number of soldiers and police deployed, but it mentions a \"massive\" deployment by army and police at most polling stations, with journalists disagreeing with the description as \"massive.\" The Movement for Democratic Change alleged that irregularities occurred at 19 polling stations due to the Zimbabwe Electoral Commission's claim of losing the accreditation for agents at those stations, but the document does not provide information on the total number of polling stations and the proportion of those reporting irregularities.",
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+        "score": -2.115656852722168,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Zimbabwe",
+        "score": -7.404847145080566,
+        "rank": 2
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Botswana",
+        "score": -7.987937927246094,
+        "rank": 3
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Malawi",
+        "score": -8.790761947631836,
+        "rank": 4
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__13206bb7cf67bb6639793ca77e05b4f36d88e71c",
+        "score": -9.307637214660645,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S8",
+      "S9",
+      "S7",
+      "S26",
+      "S27"
+    ]
+  }
+}

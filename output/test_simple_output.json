@@ -1,0 +1,296 @@
+{
+  "q001": {
+    "question": "What specific EU energy measure was scheduled to take effect according to the report, and what key details did member states agree on regarding the scope and level of gas reductions?",
+    "answer": "We can land on a comet, but we can't... Philae is equipped with an array of experiments to photograph and test the surface of Comet 67P as well as to find out what happens when the roasting effect of the sun drives off gas and dust. According to details on ESA's Rosetta website, sensors on the lander will measure the density and thermal properties of the surface, gas analyzers will help detect and identify any complex organic chemicals that might be present, while other tests will measure the ma...",
+    "answers": [
+      {
+        "answer": "We can land on a comet, but we can't... Philae is equipped with an array of experiments to photograph and test the surface of Comet 67P as well as to find out what happens when the roasting effect of the sun drives off gas and dust. According to details on ESA's Rosetta website, sensors on the lander will measure the density and thermal properties of the surface, gas analyzers will help detect and identify any complex organic chemicals that might be present, while other tests will measure the ma...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__bdad05d8490dbdf8446a50a9a253aa099a4360b5",
+          "score": 61.59243277495222,
+          "sentence_ids": [
+            28,
+            30,
+            32
+          ]
+        }
+      },
+      {
+        "answer": "The Guardian\u2019s Jennifer Rankin reports from Brussels and has written an explainer tackling the question \u2018How does the EU plan to cut gas usage by 15% this winter?\u2019 EU member states have agreed a plan for gas savings to avoid a winter energy crisis, but loaded with exemptions. The Guardian\u2019s Jennifer Rankin reports from Brussels and has written an explainer tackling the question \u2018How does the EU plan to cut gas usage by 15% this winter?\u2019 EU member states have agreed a plan for gas savings to avoi...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+          "score": 59.55412688578991,
+          "sentence_ids": [
+            8,
+            92,
+            138
+          ]
+        }
+      },
+      {
+        "answer": "The New York Times said otherwise on Sunday, in a report headlined: \u201cJanuary 6 panel has evidence for criminal referral of Trump, but splits on sending.\u201d\n\n\u201cThe debate centers on whether making a referral \u2013 a largely symbolic act \u2013 would backfire by politically tainting the justice department\u2019s expanding investigation into the January 6 assault and what led up to it,\u201d the paper said. Photograph: J Scott Applewhite/AP\n\nA key Republican on the House January 6 committee disputed a report that said t...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+          "score": 59.16175510402299,
+          "sentence_ids": [
+            1,
+            11,
+            13
+          ]
+        }
+      },
+      {
+        "answer": "They said there has been \u201cwax and wane\u201d in the war in Ukraine, and Russia has the capacity to \u201cadapt and adjust what they are doing\u201d, according to a Press Association report. As announced two days earlier, the energy giant on Wednesday reduced the gas flow through Nord Stream 1 to 33m cubic metres a day \u2013 about 20% of the pipeline\u2019s total capacity and half the amount it has been delivering since resuming service last week after 10 days of maintenance work. They said there has been \u201cwax and wane\u201d...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T18_00_08Z",
+          "score": 57.69795909998376,
+          "sentence_ids": [
+            2,
+            19,
+            45
+          ]
+        }
+      },
+      {
+        "answer": "Under the energy savings plan, all EU member states will strive to reduce gas consumption by 15% from August through to the end of March. Energy ministers from the 27 member states, except Hungary, backed a voluntary 15% reduction in gas usage over the winter, a target that could become mandatory if the Kremlin ordered a complete shutdown of gas to Europe. After days of fraught negotiations, ministers agreed opt-outs for island nations and possible exclusions for countries little connected to th...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-26T17_01_01Z",
+          "score": 56.66652782102462,
+          "sentence_ids": [
+            1,
+            2,
+            19
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "abisee/cnn_dailymail__bdad05d8490dbdf8446a50a9a253aa099a4360b5",
+        "score": 61.59243277495222,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+        "score": 59.55412688578991,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+        "score": 59.16175510402299,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T18_00_08Z",
+        "score": 57.69795909998376,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-26T17_01_01Z",
+        "score": 56.66652782102462,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S31",
+      "S33",
+      "S29"
+    ]
+  },
+  "q002": {
+    "question": "How did long-term political instability, recurring coups, and the emergence of northern armed groups shape Mali\u2019s struggle to maintain territorial control from 1991 through 2024?",
+    "answer": "Economy: GDP - composition, by sector of origin - agriculture: 47.8% (2023 est.)\nEconomy: GDP - composition, by sector of origin - industry: 20.2% (2023 est.)\nEconomy: GDP - composition, by sector of origin - services: 26.9% (2023 est.)note: figures may not total 100% due to non-allocated consumption not captured in sector-reported data\nEconomy: GDP - composition, by end use - household consumption: 72% (2021 est.)\nEconomy: GDP - composition, by end use - government consumption: 17.3% (2021 est....",
+    "answers": [
+      {
+        "answer": "Economy: GDP - composition, by sector of origin - agriculture: 47.8% (2023 est.)\nEconomy: GDP - composition, by sector of origin - industry: 20.2% (2023 est.)\nEconomy: GDP - composition, by sector of origin - services: 26.9% (2023 est.)note: figures may not total 100% due to non-allocated consumption not captured in sector-reported data\nEconomy: GDP - composition, by end use - household consumption: 72% (2021 est.)\nEconomy: GDP - composition, by end use - government consumption: 17.3% (2021 est....",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Niger",
+          "score": 55.94297538922918,
+          "sentence_ids": [
+            18,
+            34,
+            35
+          ]
+        }
+      },
+      {
+        "answer": "Economy: GDP - composition, by sector of origin - agriculture: 16.3% (2023 est.)\nEconomy: GDP - composition, by sector of origin - industry: 29.3% (2023 est.)\nEconomy: GDP - composition, by sector of origin - services: 43.6% (2023 est.)note: figures may not total 100% due to non-allocated consumption not captured in sector-reported data\nEconomy: GDP - composition, by end use - household consumption: 64.6% (2023 est.)\nEconomy: GDP - composition, by end use - government consumption: 20% (2023 est....",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Burkina_Faso",
+          "score": 53.75266451078153,
+          "sentence_ids": [
+            18,
+            33,
+            34
+          ]
+        }
+      },
+      {
+        "answer": "Economy: GDP - composition, by sector of origin - agriculture: 35.1% (2023 est.)\nEconomy: GDP - composition, by sector of origin - industry: 19.9% (2023 est.)\nEconomy: GDP - composition, by sector of origin - services: 36.7% (2023 est.)note: figures may not total 100% due to non-allocated consumption not captured in sector-reported data\nEconomy: GDP - composition, by end use - household consumption: 74.2% (2023 est.)\nEconomy: GDP - composition, by end use - government consumption: 17.5% (2023 es...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Mali",
+          "score": 53.646660332242845,
+          "sentence_ids": [
+            31,
+            47,
+            48
+          ]
+        }
+      },
+      {
+        "answer": "Following the coup, rebels expelled the military from the country\u2019s three northern regions, allowing terrorist organizations to develop strongholds in the area. However, the government\u2019s grasp in the region remains weak with local militias, terrorists, and insurgent groups competing for control. France, expanding from Senegal, seized control of the area in the 1890s and incorporated it into French West Africa as French Sudan.",
+        "citation": {
+          "doc_id": "gold/the-world-factbook-by-cia__Mali_history",
+          "score": 49.30947764353117,
+          "sentence_ids": [
+            8,
+            15,
+            17
+          ]
+        }
+      },
+      {
+        "answer": "Economy: GDP - composition, by sector of origin - agriculture: 13.1% (2023 est.)\nEconomy: GDP - composition, by sector of origin - industry: 37.8% (2023 est.)\nEconomy: GDP - composition, by sector of origin - services: 45.6% (2023 est.)note: figures may not total 100% due to non-allocated consumption not captured in sector-reported data\nEconomy: GDP - composition, by end use - household consumption: 40.8% (2023 est.)\nEconomy: GDP - composition, by end use - government consumption: 17.9% (2023 es...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Algeria",
+          "score": 48.23206571688437,
+          "sentence_ids": [
+            19,
+            40,
+            41
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Niger",
+        "score": 55.94297538922918,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Burkina_Faso",
+        "score": 53.75266451078153,
+        "rank": 2
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Mali",
+        "score": 53.646660332242845,
+        "rank": 3
+      },
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Mali_history",
+        "score": 49.30947764353117,
+        "rank": 4
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Algeria",
+        "score": 48.23206571688437,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S36",
+      "S35",
+      "S19"
+    ]
+  },
+  "q003": {
+    "question": "According to the article, how close was the no-confidence vote against Prime Minister Manmohan Singh, and what unusual step was taken to ensure voting could occur?",
+    "answer": "NEW DELHI, India (CNN) -- President George W. Bush called India's prime minister Thursday to push a proposed nuclear partnership that sparked an unsuccessful no-confidence vote against the Indian leader this week, a White House spokesman said. A no-confidence vote would have forced Singh to resign, and required the government to hold early elections unless a new coalition could have been formed. Prime Minister Manmohan Singh won a confidence vote despite opposition to the nuclear deal.",
+    "answers": [
+      {
+        "answer": "NEW DELHI, India (CNN) -- President George W. Bush called India's prime minister Thursday to push a proposed nuclear partnership that sparked an unsuccessful no-confidence vote against the Indian leader this week, a White House spokesman said. A no-confidence vote would have forced Singh to resign, and required the government to hold early elections unless a new coalition could have been formed. Prime Minister Manmohan Singh won a confidence vote despite opposition to the nuclear deal.",
+        "citation": {
+          "doc_id": "gold/cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+          "score": 72.67939013016807,
+          "sentence_ids": [
+            0,
+            1,
+            11
+          ]
+        }
+      },
+      {
+        "answer": "The event, sponsored by the Republican National Committee and approved by the McCain campaign, was a chance for McCain and Clinton supporters to come together for one cause: their opposition to Barack Obama's candidacy. Clinton, speaking to member of the New York delegation in Denver on Monday, said she was opposed to Republicans using her words against Obama. The ad, set to run in key battleground states and specifically in Denver this week, also goes a step further than the New York senator's ...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__48d1ac3878ec68361770b2f16e32f733c72c194d",
+          "score": 54.2070302696732,
+          "sentence_ids": [
+            3,
+            32,
+            33
+          ]
+        }
+      },
+      {
+        "answer": "Specifically, Section 4 -- the formula  the federal government uses to determine which states and counties are subject to continued oversight -- was struck down. \"While any racial discrimination in voting is too much, Congress must ensure that the legislation it passes to remedy the problem speaks to the current conditions,\" he said. Unlike the rest of the nation, these municipalities, counties and states have had to get the federal government's approval first before they made any changes to the...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__5eecff9a5c2958be9719d392bef2ecc6f102711e",
+          "score": 51.89832218013865,
+          "sentence_ids": [
+            6,
+            23,
+            32
+          ]
+        }
+      },
+      {
+        "answer": "Russia\u2019s latest strikes, including on grain warehouses and residential neighbourhoods, \u201cprove once again that the war against Ukraine is a war of extermination for the Russian army,\u201d Zelenskiy has said in his latest nightly address, asking, \u201cWhat could be Russia\u2019s strategic success in this war?\u201d The \u201cThe ruined lives of people and the burned or stolen property will give nothing to Russia,\u201d he continued. It\u2019s moving from a phase in which Ukrainians were ambushing Russian tanks -- it was close-qua...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-02T04_42_11Z",
+          "score": 51.39328315945995,
+          "sentence_ids": [
+            34,
+            92,
+            96
+          ]
+        }
+      },
+      {
+        "answer": "In a city that over the past three months became used to wailing air-raid sirens and the thuds of artillery from the suburbs, the audience was instead treated to the frothy melodies of Rossini\u2019s The Barber of Seville. The Kyiv Opera performs The Barber of Seville Photograph: Alessio Mamo/The Observer Saturday\u2019s audience was a mix of couples enjoying their first opportunity for weeks to wear their most elegant outfits, and soldiers in military fatigues taking a break from their army service for s...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-21T23_17_58Z",
+          "score": 48.73594984607117,
+          "sentence_ids": [
+            19,
+            23,
+            80
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+        "score": 72.67939013016807,
+        "rank": 1
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__48d1ac3878ec68361770b2f16e32f733c72c194d",
+        "score": 54.2070302696732,
+        "rank": 2
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__5eecff9a5c2958be9719d392bef2ecc6f102711e",
+        "score": 51.89832218013865,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-02T04_42_11Z",
+        "score": 51.39328315945995,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-21T23_17_58Z",
+        "score": 48.73594984607117,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S1",
+      "S13",
+      "S2"
+    ]
+  }
+}

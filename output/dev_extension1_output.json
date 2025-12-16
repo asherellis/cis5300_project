@@ -1,0 +1,110 @@
+{
+  "q001": {
+    "question": "What disagreements emerged within the European Union regarding proposed gas-use reductions, and which countries argued that they should not have to cut consumption equally?",
+    "answer": "The document does not provide sufficient information to answer this question.",
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-27T15_09_55Z",
+        "score": 46.45160804999934,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-11T15_00_23Z",
+        "score": 45.074606030838794,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-23T23_00_08Z",
+        "score": 44.45349777147747,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+        "score": 43.63966079830827,
+        "rank": 4
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__193c6a0bbcc76731c385f3e143d16a5fe379cfc3",
+        "score": 43.4485768495991,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S33",
+      "S30",
+      "S1"
+    ]
+  },
+  "q002": {
+    "question": "How did Oman's leadership under Sultan Qaboos manage to balance modernization with foreign policy independence, and what domestic pressures in 2011 led him to expand political participation?",
+    "answer": "Oman's leadership under Sultan Qaboos balanced modernization with foreign policy independence by prioritizing strategic ties to the UK and US, and maintaining a moderate, independent foreign policy that allowed the country to maintain good relations with its neighbors and avoid external entanglements. Domestic pressures in 2011, including popular uprisings for more jobs and economic benefits and an end to corruption, led Sultan Qaboos to expand political participation by implementing economic and political reforms, such as granting Oman's legislative body more power and authorizing direct elections for its lower house, as well as increasing unemployment benefits and implementing a national job creation plan.",
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+        "score": 67.55856532389696,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Oman",
+        "score": 61.82659365470819,
+        "rank": 2
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__30983fb97d2a5e5aed310cae481c6a38e3270ecb",
+        "score": 43.114560278833785,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T18_00_08Z",
+        "score": 40.45555975418784,
+        "rank": 4
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Yemen",
+        "score": 39.49030809352855,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S6",
+      "S10",
+      "S7"
+    ]
+  },
+  "q003": {
+    "question": "Based solely on this article, how many total soldiers and police were deployed across Zimbabwe during the election, and what proportion of polling stations reported irregularities?",
+    "answer": "The document does not provide sufficient information to answer the question about the total number of soldiers and police deployed across Zimbabwe during the election. However, it mentions that there was a \"massive\" deployment of soldiers and police at most stations, according to Movement for Democratic Change Secretary-General Tenda Biti, while journalists inside the country reported a heavy presence of the army and police but disagreed with Biti's description of it as \"massive.\"",
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+        "score": 70.23280771960448,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+        "score": 46.08973375218648,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+        "score": 45.60631494009028,
+        "rank": 3
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__b7a4a0e9f007fe91ef4126295b2937ba21403c6f",
+        "score": 44.98743282799373,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-29T10_03_01Z",
+        "score": 44.63745277061058,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S34",
+      "S36",
+      "S4"
+    ]
+  }
+}

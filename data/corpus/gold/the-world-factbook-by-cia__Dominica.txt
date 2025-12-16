@@ -1,0 +1,35 @@
+{
+  "doc_id": "gold/the-world-factbook-by-cia__Dominica",
+  "source_dataset": "the-world-factbook-by-cia",
+  "source": "Dominica",
+  "sentences": [
+    {
+      "sid": "S1",
+      "text": "Dominica was the last of the Caribbean islands to be colonized by Europeans, due chiefly to the fierce resistance of the native Caribs."
+    },
+    {
+      "sid": "S2",
+      "text": "France ceded possession to Britain in 1763, and Dominica became a British colony in 1805."
+    },
+    {
+      "sid": "S3",
+      "text": "Slavery ended in 1833, and in 1835, the first three men of African descent were elected to the legislative assembly of Dominica."
+    },
+    {
+      "sid": "S4",
+      "text": "In 1871, Dominica became first part of the British Leeward Islands and then the British Windward Islands until 1958."
+    },
+    {
+      "sid": "S5",
+      "text": "In 1967, Dominica became an associated state of the UK, formally taking responsibility for its internal affairs, and the country gained its independence in 1978."
+    },
+    {
+      "sid": "S6",
+      "text": "In 1980, Dominica's fortunes improved when Mary Eugenia Charles, the first female prime minister in the Caribbean, replaced a corrupt and tyrannical administration, and she served for the next 15 years."
+    },
+    {
+      "sid": "S7",
+      "text": "In 2017, Hurricane Maria passed over the island, causing extensive damage to structures, roads, communications, and the power supply, and largely destroying critical agricultural areas."
+    }
+  ]
+}

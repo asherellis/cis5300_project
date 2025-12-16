@@ -1,0 +1,103 @@
+{
+  "doc_id": "gold/russia-ukraine-conflict_2022-06-11T12_01_17Z",
+  "source_dataset": "hugginglearners/russia-ukraine-conflict-articles",
+  "source": "2022-06-11T12:01:17Z",
+  "sentences": [
+    {
+      "sid": "S1",
+      "text": "Ukraine\u2019s president, Volodymyr Zelenskiy, \u201cdidn\u2019t want to hear\u201d warnings of the Russian invasion, according to the US president, Joe Biden."
+    },
+    {
+      "sid": "S2",
+      "text": "Speaking at a fundraising reception in Los Angeles, Biden said there was no doubt Vladimir Putin had been planning to go in."
+    },
+    {
+      "sid": "S3",
+      "text": "Biden said nothing like this had happened since World War Two and that intelligence clearly showed Putin would cross the border."
+    },
+    {
+      "sid": "S4",
+      "text": "He added that Zelenskiy did not want to hear the warnings."
+    },
+    {
+      "sid": "S5",
+      "text": "Biden was referring to his work to rally and solidify support for Ukraine as the war continues into its fourth month."
+    },
+    {
+      "sid": "S6",
+      "text": "However, a former head of the British army accused Western leaders of lacking a long-term strategy in the conflict."
+    },
+    {
+      "sid": "S7",
+      "text": "Gen Lord Richards said the British government had adopted a \u201clet\u2019s see how it goes\u201d approach and was failing to show decisiveness."
+    },
+    {
+      "sid": "S8",
+      "text": "Writing in the Daily Telegraph, he argued that the West lacked early and decisive coordination of ends, ways and means."
+    },
+    {
+      "sid": "S9",
+      "text": "He said leaders still did not know how they wanted the war to end or what kind of Russia they sought to shape, especially regarding relations with China."
+    },
+    {
+      "sid": "S10",
+      "text": "He said leaders should consider whether a weakened Russia might be persuaded to align with the West rather than fall under Chinese influence."
+    },
+    {
+      "sid": "S11",
+      "text": "Richards added that Britain remained one of the world\u2019s leading economies and military powers, even if it was now a more regional strategic power."
+    },
+    {
+      "sid": "S12",
+      "text": "He said strategy required informed choices balancing ends, ways and means in pursuit of national interests."
+    },
+    {
+      "sid": "S13",
+      "text": "Zelenskiy said on Saturday that Ukraine was on course to win the grinding war with Russia, as fighting became focused on a key eastern city."
+    },
+    {
+      "sid": "S14",
+      "text": "Russian forces have been trying to seize Sievierodonetsk, creating one of the bloodiest battles of the conflict."
+    },
+    {
+      "sid": "S15",
+      "text": "Zelenskiy told a conference in Singapore that the future rules of the world were being decided on Ukraine\u2019s battlefields."
+    },
+    {
+      "sid": "S16",
+      "text": "Neither side has been able to gain the upper hand in Sievierodonetsk despite fierce street fighting that has reduced much of the city to rubble."
+    },
+    {
+      "sid": "S17",
+      "text": "Britain\u2019s defence ministry said Russian forces had not advanced into the south of the city as of Friday."
+    },
+    {
+      "sid": "S18",
+      "text": "The ministry said intense street-to-street fighting was ongoing and that both sides were likely suffering high casualties."
+    },
+    {
+      "sid": "S19",
+      "text": "Speaking from a secret location in Kyiv, Zelenskiy said it was crucial that nations sending aid did not let up."
+    },
+    {
+      "sid": "S20",
+      "text": "He warned that if Russian blockades stopped Ukraine exporting food, the world would face an acute food crisis and famine, especially in Asia and Africa."
+    },
+    {
+      "sid": "S21",
+      "text": "He said Russia was blocking ports in the Black Sea and Azov Sea, preventing Ukraine from exporting grain."
+    },
+    {
+      "sid": "S22",
+      "text": "The governor of Luhansk, Serhiy Haidai, said Russians controlled most of Sievierodonetsk after slow advances and retreats by both sides."
+    },
+    {
+      "sid": "S23",
+      "text": "The mayor of Mariupol said sanitation systems were broken and corpses were rotting in the streets of the devastated southern city."
+    },
+    {
+      "sid": "S24",
+      "text": "Ukraine\u2019s prosecutor general\u2019s office said at least 287 children had died in the war so far, including 24 additional deaths confirmed in Mariupol."
+    }
+  ]
+}

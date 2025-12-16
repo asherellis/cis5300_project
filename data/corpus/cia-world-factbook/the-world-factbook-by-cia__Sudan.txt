@@ -1,0 +1,296 @@
+url: https://www.cia.gov/the-world-factbook/countries/sudan/
+Introduction: Background: Long referred to as Nubia, modern-day Sudan was the site of the Kingdom of Kerma (ca. 2500-1500 B.C.) until it was absorbed into the New Kingdom of Egypt. By the 11th century B.C., the Kingdom of Kush gained independence from Egypt; it lasted in various forms until the middle of the 4th century A.D. After the fall of Kush, the Nubians formed three Christian kingdoms of Nobatia, Makuria, and Alodia, with the latter two enduring until around 1500. Between the 14th and 15th centuries, Arab nomads settled much of Sudan, leading to extensive Islamization between the 16th and 19th centuries. Following Egyptian occupation early in the 19th century, an agreement in 1899 set up a joint British-Egyptian government in Sudan, but it was effectively a British colony. Military regimes favoring Islamic-oriented governments have dominated national politics since Sudan gained independence from Anglo-Egyptian co-rule in 1956. During most of the second half of the 20th century, Sudan was embroiled in two prolonged civil wars rooted in northern domination of the largely non-Muslim, non-Arab southern portion of the country. The first civil war ended in 1972, but another broke out in 1983. Peace talks gained momentum in 2002-04, and the final North/South Comprehensive Peace Agreement in 2005 granted the southern rebels autonomy for six years, followed by a referendum on independence for Southern Sudan. South Sudan became independent in 2011, but Sudan and South Sudan have yet to fully implement security and economic agreements to normalize relations between the two countries. Sudan has also faced conflict in Darfur, Southern Kordofan, and Blue Nile starting in 2003.In 2019, after months of nationwide protests, the 30-year reign of President Omar Hassan Ahmad al-BASHIR ended when the military forced him out. Economist and former international civil servant Abdalla HAMDOUK al-Kinani was selected to serve as the prime minister of a transitional government as the country prepared for elections in 2022. In late 2021, however, the Sudanese military ousted HAMDOUK and his government and replaced civilian members of the Sovereign Council (Sudan’s collective Head of State) with individuals selected by the military. HAMDOUK was briefly reinstated but resigned in January 2022. General Abd-al-Fatah al-BURHAN Abd-al-Rahman, the Chair of Sudan’s Sovereign Council and Commander-in-Chief of the Sudanese Armed Forces, currently serves as de facto head of state and government. He presides over a Sovereign Council consisting of military leaders, former armed opposition group representatives, and military-appointed civilians. A cabinet of acting ministers handles day-to-day administration. 
+Geography: Location: north-eastern Africa, bordering the Red Sea, between Egypt and Eritrea
+Geography: Geographic coordinates: 15 00 N, 30 00 E
+Geography: Map references: Africa
+Geography: Area - total: 1,861,484 sq km
+Geography: Area - land: 1,731,671 sq km
+Geography: Area - water: 129,813 sq km
+Geography: Area - comparative: slightly less than one-fifth the size of the US
+Geography: Land boundaries - total: 6,819 km
+Geography: Land boundaries - border countries (7): Central African Republic 174 km; Chad 1,403 km; Egypt 1,276 km; Eritrea 682 km; Ethiopia 744 km; Libya 382 km; South Sudan 2,158 km
+Geography: Land boundaries - note: Sudan-South Sudan boundary represents 1 January 1956 alignment; final alignment pending negotiations and demarcation; final sovereignty status of Abyei region pending negotiations between Sudan and South Sudan
+Geography: Coastline: 853 km
+Geography: Maritime claims - territorial sea: 12 nm
+Geography: Maritime claims - contiguous zone: 18 nm
+Geography: Maritime claims - continental shelf: 200-m depth or to the depth of exploitation
+Geography: Climate: hot and dry; arid desert; rainy season varies by region (April to November)
+Geography: Terrain: generally flat, featureless plain; desert dominates the north
+Geography: Elevation - highest point: Jabal Marrah 3,042 m
+Geography: Elevation - lowest point: Red Sea 0 m
+Geography: Elevation - mean elevation: 568 m
+Geography: Natural resources: petroleum; small reserves of iron ore, copper, chromium ore, zinc, tungsten, mica, silver, gold; hydropower
+Geography: Land use - agricultural land: 100% (2018 est.)agricultural land: arable land: 15.7% (2018 est.)agricultural land: permanent crops: 0.2% (2018 est.)agricultural land: permanent pasture: 84.2% (2018 est.)
+Geography: Land use - forest: 0% (2018 est.)
+Geography: Land use - other: 0% (2018 est.)
+Geography: Irrigated land: 15,666 sq km (2020)
+Geography: Major rivers (by length in km): An Nīl (Nile) (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Egypt [m]) - 6,650 km; Blue Nile river mouth (shared with Ethiopia [s]) - 1,600 km
+Geography: Major rivers (by length in km) - note: – [s] after country name indicates river source; [m] after country name indicates river mouth
+Geography: Major watersheds (area sq km): Atlantic Ocean drainage: (Mediterranean Sea) Nile (3,254,853 sq km)Internal (endorheic basin) drainage: Lake Chad (2,497,738 sq km)
+Geography: Major aquifers: Nubian Aquifer System, Sudd Basin (Umm Ruwaba Aquifer)
+Geography: Population distribution: with the exception of a ribbon of settlement that corresponds to the banks of the Nile, northern Sudan, which extends into the dry Sahara, is sparsely populated; more abundant vegetation and broader access to water increases population distribution in the south extending habitable range along nearly the entire border with South Sudan; sizeable areas of population are found around Khartoum, southeast between the Blue and White Nile Rivers, and throughout South Darfur as shown on this population distribution map
+Geography: Natural hazards: dust storms and periodic persistent droughts
+Geography: Geography - note: the Nile is Sudan's primary water source; its major tributaries, the White Nile and the Blue Nile, meet at Khartoum to form the River Nile, which flows northward through Egypt to the Mediterranean Sea
+People and Society: Population - total: 50,467,278
+People and Society: Population - male: 25,335,092
+People and Society: Population - female: 25,132,186 (2024 est.)
+People and Society: Nationality - noun: Sudanese (singular and plural)
+People and Society: Nationality - adjective: Sudanese
+People and Society: Ethnic groups: Sudanese Arab (approximately 70%), Fur, Beja, Nuba, Ingessana, Uduk, Fallata, Masalit, Dajo, Gimir, Tunjur, Berti; there are over 500 ethnic groups
+People and Society: Languages: Arabic (official), English (official), Nubian, Ta Bedawie, Fur
+People and Society: Languages - major-language sample(s): كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)The World Factbook, the indispensable source for basic information. (English)
+People and Society: Religions: Sunni Muslim, small Christian minority
+People and Society: Demographic profile: Sudan’s population grew almost fourfold between 1956 and 2008, the date of its last census.  Even after the southern part of the country became independent South Sudan in 2011, the population of Sudan has continued to grow.  The gender balance overall is fairly even.  Females, however, are more prevalent in rural areas because of males migrating to urban areas in search of work.  The total fertility rate (TFR) remains high despite falling from 7 children per woman in Sudan’s first census in 1955 to about 4.5 in 2022, which can be attributed to early marriage and a low contraceptive prevalence rate.  Among the factors that led to the reduction in fertility are family planning, improvement in women’s education and participation in the labor force outside the home, and migration and urbanization.  The continued slow decline in fertility accompanied by a drop in mortality and increased life expectancy has produced an age structure where approximately 55% of the population was of working age (15-64) as of 2020.  This share will grow as the sizable youth population becomes working age.  As Sudan’s working age population increasingly outnumbers the youth and elderly populations (the dependent populations), the country will approach the possibility of a demographic dividend.  The window of opportunity for potential economic growth depends not only on a favorable age structure but also on having a trained and educated workforce, job creation (particularly in the formal market), and investment in health, as well as generating savings to invest in schooling and care for the elderly.  As of 2018, Sudan’s literacy rate was just over 60%, and even lower among women.  Improvements in school enrollment, student-teacher ratio, infrastructure, funding, and educational quality could help the country to realize a demographic dividend.
+People and Society: Age structure - 0-14 years: 40.1% (male 10,278,453/female 9,949,343)
+People and Society: Age structure - 15-64 years: 56.7% (male 14,211,514/female 14,390,486)
+People and Society: Age structure - 65 years and over: 3.2% (2024 est.) (male 845,125/female 792,357)
+People and Society: Dependency ratios - total dependency ratio: 76.9
+People and Society: Dependency ratios - youth dependency ratio: 74
+People and Society: Dependency ratios - elderly dependency ratio: 6.2
+People and Society: Dependency ratios - potential support ratio: 16.2 (2021 est.)
+People and Society: Median age - total: 19.3 years (2024 est.)
+People and Society: Median age - male: 19 years
+People and Society: Median age - female: 19.6 years
+People and Society: Population growth rate: 2.55% (2024 est.)
+People and Society: Birth rate: 33.1 births/1,000 population (2024 est.)
+People and Society: Death rate: 6.1 deaths/1,000 population (2024 est.)
+People and Society: Net migration rate: -1.6 migrant(s)/1,000 population (2024 est.)
+People and Society: Population distribution: with the exception of a ribbon of settlement that corresponds to the banks of the Nile, northern Sudan, which extends into the dry Sahara, is sparsely populated; more abundant vegetation and broader access to water increases population distribution in the south extending habitable range along nearly the entire border with South Sudan; sizeable areas of population are found around Khartoum, southeast between the Blue and White Nile Rivers, and throughout South Darfur as shown on this population distribution map
+People and Society: Urbanization - urban population: 36.3% of total population (2023)
+People and Society: Urbanization - rate of urbanization: 3.43% annual rate of change (2020-25 est.)
+People and Society: Major urban areas - population: 6.344 million KHARTOUM (capital), 1.057 million Nyala (2023)
+People and Society: Sex ratio - at birth: 1.05 male(s)/female
+People and Society: Sex ratio - 0-14 years: 1.03 male(s)/female
+People and Society: Sex ratio - 15-64 years: 0.99 male(s)/female
+People and Society: Sex ratio - 65 years and over: 1.07 male(s)/female
+People and Society: Sex ratio - total population: 1.01 male(s)/female (2024 est.)
+People and Society: Maternal mortality ratio: 270 deaths/100,000 live births (2020 est.)
+People and Society: Infant mortality rate - total: 40.6 deaths/1,000 live births (2024 est.)
+People and Society: Infant mortality rate - male: 46 deaths/1,000 live births
+People and Society: Infant mortality rate - female: 34.8 deaths/1,000 live births
+People and Society: Life expectancy at birth - total population: 67.8 years (2024 est.)
+People and Society: Life expectancy at birth - male: 65.5 years
+People and Society: Life expectancy at birth - female: 70.2 years
+People and Society: Total fertility rate: 4.47 children born/woman (2024 est.)
+People and Society: Gross reproduction rate: 2.18 (2024 est.)
+People and Society: Contraceptive prevalence rate: 12.2% (2014)
+People and Society: Drinking water source - improved: urban: 99% of populationrural: 80.7% of populationtotal: 87.1% of population
+People and Society: Drinking water source - unimproved: urban: 1% of populationrural: 19.3% of populationtotal: 12.9% of population (2020 est.)
+People and Society: Current health expenditure: 2.8% of GDP (2021)
+People and Society: Physician density: 0.26 physicians/1,000 population (2017)
+People and Society: Hospital bed density: 0.7 beds/1,000 population (2017)
+People and Society: Sanitation facility access - improved: urban: 72.1% of populationrural: 30.6% of populationtotal: 45.3% of population
+People and Society: Sanitation facility access - unimproved: urban: 27.9% of populationrural: 69.4% of populationtotal: 54.7% of population (2020 est.)
+People and Society: Obesity - adult prevalence rate: 6.6% (2014)
+People and Society: Alcohol consumption per capita - total: 1.93 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - beer: 0 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - wine: 0 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - spirits: 0.29 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - other alcohols: 1.63 liters of pure alcohol (2019 est.)
+People and Society: Children under the age of 5 years underweight: 33% (2014)
+People and Society: Currently married women (ages 15-49): 61.4% (2023 est.)
+People and Society: Education expenditures: NA
+People and Society: Literacy - definition: age 15 and over can read and write
+People and Society: Literacy - total population: 60.7%
+People and Society: Literacy - male: 65.4%
+People and Society: Literacy - female: 56.1% (2018)
+People and Society: School life expectancy (primary to tertiary education) - total: 8 years
+People and Society: School life expectancy (primary to tertiary education) - male: 8 years
+People and Society: School life expectancy (primary to tertiary education) - female: 7 years (2015)
+Environment: Environment - current issues: water pollution; inadequate supplies of potable water; water scarcity and periodic drought; wildlife populations threatened by excessive hunting; soil erosion; desertification; deforestation; loss of biodiversity 
+Environment: Environment - international agreements - party to: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands
+Environment: Environment - international agreements - signed, but not ratified: none of the selected agreements
+Environment: Climate: hot and dry; arid desert; rainy season varies by region (April to November)
+Environment: Land use - agricultural land: 100% (2018 est.)agricultural land: arable land: 15.7% (2018 est.)agricultural land: permanent crops: 0.2% (2018 est.)agricultural land: permanent pasture: 84.2% (2018 est.)
+Environment: Land use - forest: 0% (2018 est.)
+Environment: Land use - other: 0% (2018 est.)
+Environment: Urbanization - urban population: 36.3% of total population (2023)
+Environment: Urbanization - rate of urbanization: 3.43% annual rate of change (2020-25 est.)
+Environment: Food insecurity - severe localized food insecurity: due to conflict, civil insecurity, and soaring food prices - according to the results of the latest analysis, about 11.7 million people (24% of the analyzed population) are estimated to be severely food insecure during June to September 2022; the main drivers are macroeconomic challenges resulting in rampant food and non‑food inflation, tight supplies due to a poor 2021 harvest and the escalation of intercommunal violence (2022)
+Environment: Revenue from forest resources: 3.01% of GDP (2018 est.)
+Environment: Revenue from coal: 0% of GDP (2018 est.)
+Environment: Air pollutants - particulate matter emissions: 21.43 micrograms per cubic meter (2019 est.)
+Environment: Air pollutants - carbon dioxide emissions: 20 megatons (2016 est.)
+Environment: Air pollutants - methane emissions: 75.1 megatons (2020 est.)
+Environment: Waste and recycling - municipal solid waste generated annually: 2,831,291 tons (2015 est.)
+Environment: Major rivers (by length in km): An Nīl (Nile) (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Egypt [m]) - 6,650 km; Blue Nile river mouth (shared with Ethiopia [s]) - 1,600 km
+Environment: Major rivers (by length in km) - note: – [s] after country name indicates river source; [m] after country name indicates river mouth
+Environment: Major watersheds (area sq km): Atlantic Ocean drainage: (Mediterranean Sea) Nile (3,254,853 sq km)Internal (endorheic basin) drainage: Lake Chad (2,497,738 sq km)
+Environment: Major aquifers: Nubian Aquifer System, Sudd Basin (Umm Ruwaba Aquifer)
+Environment: Total water withdrawal - municipal: 950 million cubic meters (2020 est.)
+Environment: Total water withdrawal - industrial: 80 million cubic meters (2020 est.)
+Environment: Total water withdrawal - agricultural: 25.91 billion cubic meters (2020 est.)
+Environment: Total renewable water resources: 37.8 billion cubic meters (2020 est.)
+Government: Country name - conventional long form: Republic of the Sudan
+Government: Country name - conventional short form: Sudan
+Government: Country name - local long form: Jumhuriyat as-Sudan
+Government: Country name - local short form: As-Sudan
+Government: Country name - former: Anglo-Egyptian Sudan, Democratic Republic of the Sudan
+Government: Country name - etymology: the name "Sudan" derives from the Arabic "bilad-as-sudan" meaning "Land of the Black [peoples]"
+Government: Government type: presidential republic
+Government: Capital - name: Khartoum
+Government: Capital - geographic coordinates: 15 36 N, 32 32 E
+Government: Capital - time difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+Government: Capital - etymology: several explanations of the name exist; two of the more plausible are that it is derived from Arabic "al-jartum" meaning "elephant's trunk" or "hose," and likely referring to the narrow strip of land extending between the Blue and White Niles; alternatively, the name could derive from the Dinka words "khar-tuom," indicating a "place where rivers meet"
+Government: Administrative divisions: 18 states (wilayat, singular - wilayah); Blue Nile, Central Darfur, East Darfur, Gedaref, Gezira, Kassala, Khartoum, North Darfur, North Kordofan, Northern, Red Sea, River Nile, Sennar, South Darfur, South Kordofan, West Darfur, West Kordofan, White Nile
+Government: Administrative divisions - note: the peace Agreement signed in October 2020 included a provision to establish a system of governance to restructure the country's current 18 provinces/states into regions
+Government: Independence: 1 January 1956 (from Egypt and the UK)
+Government: National holiday: Independence Day, 1 January (1956)
+Government: Legal system: mixed legal system of Islamic law and English common law; note - in mid-July 2020, Sudan amended 15 provisions of its 1991 penal code
+Government: Constitution - history: previous 1973, 1998, 2005 (interim constitution, which was suspended in April 2019); latest initial draft completed by Transitional Military Council in May 2019; revised draft known as the "Draft Constitutional Charter for the 2019 Transitional Period," or “2019 Constitutional Declaration” was signed by the Council and opposition coalition on 4 August 2019
+Government: Constitution - amendments: amended 2020 to incorporate the Juba Agreement for Peace in Sudan; the military suspended several provisions of the Constitutional Declaration in October 2021
+Government: International law organization participation: accepts compulsory ICJ jurisdiction with reservations; withdrew acceptance of ICCt jurisdiction in 2008
+Government: Citizenship - citizenship by birth: no
+Government: Citizenship - citizenship by descent only: the father must be a citizen of Sudan
+Government: Citizenship - dual citizenship recognized: no
+Government: Citizenship - residency requirement for naturalization: 10 years
+Government: Suffrage: 17 years of age; universal
+Government: Executive branch - chief of state: Sovereign Council Chair and Commander-in-Chief of the Sudanese Armed Forces General Abd-al-Fattah al-BURHAN Abd-al-Rahman
+Government: Executive branch - head of government: Sovereign Council Chair and Commander-in-Chief of the Sudanese Armed Forces General Abd-al-Fattah al-BURHAN Abd-al-Rahman
+Government: Executive branch - cabinet: most members of the Council of Ministers were forced from office in October 2021 by the military and subsequently resigned in November 2021; the military allowed a handful of ministers appointed by former armed opposition groups to retain their posts; at present, most of the members of the Council are senior civil servants serving in an acting minister capacity appointed either by Prime Minister HAMDOUK prior to his resignation or by the military
+Government: Executive branch - elections/appointments: the 2019 Constitutional Declaration originally called for elections to be held in late 2022 at the end of the transitional period; that date was pushed back to late 2023 by the Juba Peace Agreement; the methodology for future elections has not yet been defined; according to the 2019 Constitutional Declaration, civilian members of the Sovereign Council and the prime minister were to have been nominated by an umbrella coalition of civilian actors known as the Forces for Freedom and Change; this methodology was followed in selecting HAMDOUK as prime minister in August 2019; the military purports to have suspended this provision of the 2019 Constitutional Declaration in October 2021; Prime Minister HAMDOUK’s restoration to office in November 2021 was the result of an agreement signed between him and Sovereign Council Chair BURHAN; military members of the Sovereign Council are selected by the leadership of the security forces; representatives of former armed groups to the Sovereign Council are selected by the signatories of the Juba Peace Agreement
+Government: Executive branch - election results: NA
+Government: Executive branch - note 1: the 2019 Constitutional Declaration established a collective chief of state of the "Sovereign Council," which was chaired by al-BURHAN; on 25 October 2021, al-BURHAN dissolved the Sovereign Council but reinstated it on 11 November 2021, replacing its civilian members (previously selected by the umbrella civilian coalition the Forces for Freedom and Change) with civilians of the military’s choosing but then relieved the newly appointed civilian members of their duties on 6 July 2022
+Government: Executive branch - note 2: Sovereign Council currently consists of only the 5 generals
+Government: Executive branch - note 3: former Prime Minister Abdallah HAMDOUK resigned on 2 January 2022; HAMDOUK served as prime minister from August 2019 to October 2019 before he was kidnapped; he was later freed and reinstated as prime minister on 21 November 2021
+Government: Legislative branch - note: the Parliament of Sudan was dissolved after a coup in April 2019; the August 2019 Constitutional Declaration established Sudan's transitional government; a Transitional Legislative Council (TLC) was to have served as the national legislature during the transitional period until elections could be held, but the TLC has not been created
+Government: Judicial branch - highest court(s): National Supreme Court (consists of 70 judges organized into panels of 3 judges and includes 4 circuits that operate outside the capital); Constitutional Court (consists of 9 justices including the court president); note - the Constitutional Court resides outside the national judiciary and has not been appointed since the signature of the 2019 Constitutional Declaration
+Government: Judicial branch - judge selection and term of office: National Supreme Court and Constitutional Court judges selected by the Supreme Judicial Council, which replaced the National Judicial Service Commission upon enactment of the 2019 Constitutional Declaration
+Government: Judicial branch - subordinate courts: Court of Appeal; other national courts; public courts; district, town, and rural courts
+Government: Political parties: Democratic Unionist PartyDemocratic Unionist Party or DUPFederal Umma PartyMuslim Brotherhood or MBNational Congress Party or NCPNational Umma Party or NUPPopular Congress Party or PCPReform Movement NowSudan National FrontSudanese Communist Party or SCPSudanese Congress Party or SCoPUmma Party for Reform and DevelopmentUnionist Movement Party or UMP
+Government: Political parties - note: in November 2019, the transitional government banned the National Congress Party
+Government: International organization participation: ABEDA, ACP, AfDB, AFESD, AMF, AU (suspended), CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)
+Government: Diplomatic representation in the US - chief of mission: Ambassador Mohamed Abdalla IDRIS (since 16 September 2022)
+Government: Diplomatic representation in the US - chancery: 2210 Massachusetts Avenue NW, Washington, DC 20008
+Government: Diplomatic representation in the US - telephone: [1] (202) 338-8565
+Government: Diplomatic representation in the US - FAX: [1] (202) 667-2406
+Government: Diplomatic representation in the US - email address and website: consular@sudanembassy.orghttps://www.sudanembassy.org/
+Government: Diplomatic representation from the US - chief of mission: Ambassador (vacant); Chargé d'Affaires Colleen Crenwelge (since May 2024)
+Government: Diplomatic representation from the US - embassy: P.O. Box 699, Kilo 10, Soba, Khartoum
+Government: Diplomatic representation from the US - mailing address: 2200 Khartoum Place, Washington DC  20521-2200
+Government: Diplomatic representation from the US - telephone: [249] 187-0-22000
+Government: Diplomatic representation from the US - email address and website: ACSKhartoum@state.govhttps://sd.usembassy.gov/
+Government: Diplomatic representation from the US - note: the U.S. Embassy in Khartoum suspended operations (to include visa, passport, and other routine consular services) on 22 April 2023
+Government: Flag description: three equal horizontal bands of red (top), white, and black with a green isosceles triangle based on the hoist side; colors and design based on the Arab Revolt flag of World War I, but the meanings of the colors are expressed as follows: red signifies the struggle for freedom, white is the color of peace, light, and love, black represents the people of Sudan (in Arabic 'Sudan' means black), green is the color of Islam, agriculture, and prosperity
+Government: National symbol(s): secretary bird; national colors: red, white, black, green
+Government: National anthem - name: "Nahnu Djundulla Djundulwatan" (We Are the Army of God and of Our Land)
+Government: National anthem - lyrics/music: Sayed Ahmad Muhammad SALIH/Ahmad MURJAN
+Government: National anthem - note: adopted 1956; originally served as the anthem of the Sudanese military
+Government: National heritage - total World Heritage Sites: 3 (2 cultural, 1 natural)
+Government: National heritage - selected World Heritage Site locales: Gebel Barkal and the Sites of the Napatan Region (c); Archaeological Sites of the Island of Meroe (c); Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park (n)
+Economy: Economic overview: low-income Sahel economy devastated by ongoing civil war; major impacts on rural income, basic commodity prices, industrial production, agricultural supply chain, communications and commerce; hyperinflation and currency depreciation worsening food access and humanitarian conditions
+Economy: Real GDP (purchasing power parity): $123.565 billion (2023 est.)$154.672 billion (2022 est.)$156.168 billion (2021 est.)note: data in 2021 dollars
+Economy: Real GDP growth rate: -20.11% (2023 est.)-0.96% (2022 est.)-1.87% (2021 est.)note: annual GDP % growth based on constant local currency
+Economy: Real GDP per capita: $2,500 (2023 est.)$3,100 (2022 est.)$3,200 (2021 est.)note: data in 2021 dollars
+Economy: GDP (official exchange rate): $109.266 billion (2023 est.)note: data in current dollars at official exchange rate
+Economy: Inflation rate (consumer prices): 138.81% (2022 est.)359.09% (2021 est.)163.26% (2020 est.)note: annual % change based on consumer prices
+Economy: GDP - composition, by sector of origin - agriculture: 5.5% (2023 est.)
+Economy: GDP - composition, by sector of origin - industry: 5.1% (2023 est.)
+Economy: GDP - composition, by sector of origin - services: 7.5% (2023 est.)note: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
+Economy: GDP - composition, by end use - household consumption: 80.7% (2023 est.)
+Economy: GDP - composition, by end use - government consumption: 17.4% (2023 est.)
+Economy: GDP - composition, by end use - investment in fixed capital: 2.2% (2023 est.)
+Economy: GDP - composition, by end use - investment in inventories: 0% (2023 est.)
+Economy: GDP - composition, by end use - exports of goods and services: 1.1% (2023 est.)
+Economy: GDP - composition, by end use - imports of goods and services: -1.4% (2023 est.)
+Economy: GDP - composition, by end use - note: figures may not total 100% due to rounding or gaps in data collection
+Economy: Agricultural products: sugarcane, sorghum, milk, onions, groundnuts, sesame seeds, goat milk, bananas, mangoes/guavas, millet (2023)note: top ten agricultural products based on tonnage
+Economy: Industries: oil, cotton ginning, textiles, cement, edible oils, sugar, soap distilling, shoes, petroleum refining, pharmaceuticals, armaments, automobile/light truck assembly, milling
+Economy: Industrial production growth rate: -19.71% (2023 est.)note: annual % change in industrial value added based on constant local currency
+Economy: Labor force: 14.149 million (2023 est.)note: number of people ages 15 or older who are employed or seeking work
+Economy: Unemployment rate: 11.45% (2023 est.)7.53% (2022 est.)11.47% (2021 est.)note: % of labor force seeking employment
+Economy: Youth unemployment rate (ages 15-24) - total: 18.2% (2023 est.)
+Economy: Youth unemployment rate (ages 15-24) - male: 18.5% (2023 est.)
+Economy: Youth unemployment rate (ages 15-24) - female: 17.5% (2023 est.)note: % of labor force ages 15-24 seeking employment
+Economy: Gini Index coefficient - distribution of family income: 34.2 (2014 est.)note: index (0-100) of income distribution; higher values represent greater inequality
+Economy: Household income or consumption by percentage share - lowest 10%: 3.2% (2014 est.)
+Economy: Household income or consumption by percentage share - highest 10%: 27.8% (2014 est.)note: % share of income accruing to lowest and highest 10% of population
+Economy: Remittances: 0.92% of GDP (2023 est.)2.9% of GDP (2022 est.)3.27% of GDP (2021 est.)note: personal transfers and compensation between resident and non-resident individuals/households/entities
+Economy: Budget - revenues: $9.045 billion (2015 est.)
+Economy: Budget - expenditures: $9.103 billion (2015 est.)note: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
+Economy: Public debt: 121.6% of GDP (2017 est.)
+Economy: Taxes and other revenues: 7.39% (of GDP) (2016 est.)note: central government tax revenue as a % of GDP
+Economy: Current account balance: -$4.443 billion (2022 est.)-$2.62 billion (2021 est.)-$5.841 billion (2020 est.)note: balance of payments - net trade and primary/secondary income in current dollars
+Economy: Exports: $5.908 billion (2022 est.)$6.664 billion (2021 est.)$5.065 billion (2020 est.)note: balance of payments - exports of goods and services in current dollars
+Economy: Exports - partners: UAE 21%, China 17%, Saudi Arabia 16%, Malaysia 9%, Egypt 8% (2023)note: top five export partners based on percentage share of exports
+Economy: Exports - commodities: crude petroleum, gold, oil seeds, sheep and goats, ground nuts (2023)note: top five export commodities based on value in dollars
+Economy: Imports: $11.575 billion (2022 est.)$10.271 billion (2021 est.)$10.52 billion (2020 est.)note: balance of payments - imports of goods and services in current dollars
+Economy: Imports - partners: China 21%, India 19%, Egypt 16%, UAE 14%, Saudi Arabia 7% (2023)note: top five import partners based on percentage share of imports
+Economy: Imports - commodities: raw sugar, wheat flours, refined petroleum, garments, packaged medicine (2023)note: top five import commodities based on value in dollars
+Economy: Reserves of foreign exchange and gold: $177.934 million (2017 est.)$168.284 million (2016 est.)$173.516 million (2015 est.)note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars
+Economy: Debt - external: $21.878 billion (2023 est.)note: present value of external debt in current US dollars
+Economy: Exchange rates: Sudanese pounds (SDG) per US dollar -
+Economy: Exchange rates - Exchange rates: 546.759 (2022 est.)370.791 (2021 est.)53.996 (2020 est.)45.767 (2019 est.)24.329 (2018 est.)
+Energy: Electricity access - electrification - total population: 63.2% (2022 est.)
+Energy: Electricity access - electrification - urban areas: 84%
+Energy: Electricity access - electrification - rural areas: 49.4%
+Energy: Electricity - installed generating capacity: 3.815 million kW (2022 est.)
+Energy: Electricity - consumption: 14.875 billion kWh (2022 est.)
+Energy: Electricity - imports: 933 million kWh (2022 est.)
+Energy: Electricity - transmission/distribution losses: 3.913 billion kWh (2022 est.)
+Energy: Electricity generation sources - fossil fuels: 37.6% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - solar: 0.2% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - hydroelectricity: 61.6% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - biomass and waste: 0.6% of total installed capacity (2022 est.)
+Energy: Coal - exports: 35 metric tons (2022 est.)
+Energy: Coal - imports: 300 metric tons (2022 est.)
+Energy: Petroleum - total petroleum production: 68,000 bbl/day (2023 est.)
+Energy: Petroleum - refined petroleum consumption: 127,000 bbl/day (2022 est.)
+Energy: Petroleum - crude oil estimated reserves: 1.25 billion barrels (2021 est.)
+Energy: Natural gas - proven reserves: 84.951 billion cubic meters (2021 est.)
+Energy: Carbon dioxide emissions: 16.497 million metric tonnes of CO2 (2022 est.)
+Energy: Carbon dioxide emissions - from coal and metallurgical coke: 1,000 metric tonnes of CO2 (2022 est.)
+Energy: Carbon dioxide emissions - from petroleum and other liquids: 16.496 million metric tonnes of CO2 (2022 est.)
+Energy: Energy consumption per capita: 6.271 million Btu/person (2022 est.)
+Communications: Telephones - fixed lines - total subscriptions: 156,000 (2022 est.)
+Communications: Telephones - fixed lines - subscriptions per 100 inhabitants: (2022 est.) less than 1
+Communications: Telephones - mobile cellular - total subscriptions: 34.7 million (2022 est.)
+Communications: Telephones - mobile cellular - subscriptions per 100 inhabitants: 74 (2022 est.)
+Communications: Telecommunication systems - general assessment: Sudan emerged as a poorer country when South Sudan separated from it in 2011; although Sudan has about four times the population of South Sudan, the latter benefits from its control of the majority of known oil reserves; the Sudanese economy has been affected by hyperinflation in recent years, partly the result of the loss of oil revenue but also due to domestic volatility and social unrest; the difficult economic conditions have meant that for several years telcos have reported revenue under hyper inflationary reporting standards; pressure on revenue has made it difficult for operators to invest in infrastructure upgrades, and so provide improved services to customers; despite this, the number of mobile subscribers increased 7% in 2021, year-on-year; this level of growth is expected to have been maintained in 2022, though could slow from 2023; the country’s poor fixed-line infrastructure has helped the development of mobile broadband services; after fighting started in April 2023, much of the telecommunications infrastructure was damaged (2023)
+Communications: Telecommunication systems - domestic: teledensity fixed-line is 1 per 100 and mobile-cellular is 74 telephones per 100 persons (2022)
+Communications: Telecommunication systems - international: country code - 249; landing points for the EASSy, FALCON and SAS-1,-2, fiber-optic submarine cable systems linking Africa, the Middle East, Indian Ocean Islands and Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) (2019)
+Communications: Broadcast media: Following the establishment of Sudan’s transitional government in August 2019, government-owned broadcasters became increasingly independent from government and military control. Following the October 2021 military takeover, additional restrictions were imposed on these government-owned broadcasters, which now practice a heightened degree of self-censorship but still operate more independently than in the pre-2019 environment. (2022)
+Communications: Internet country code: .sd
+Communications: Internet users - percent of population: 29% (2022 est.)
+Communications: Broadband - fixed subscriptions - total: 30,000 (2022 est.)
+Communications: Broadband - fixed subscriptions - subscriptions per 100 inhabitants: (2022 est.) less than 1
+Transportation: National air transport system - number of registered air carriers: 9 (2020)
+Transportation: National air transport system - inventory of registered aircraft operated by air carriers: 42
+Transportation: National air transport system - annual passenger traffic on registered air carriers: 269,958 (2018)
+Transportation: Civil aircraft registration country code prefix: ST
+Transportation: Airports: 41 (2024)
+Transportation: Heliports: 4 (2024)
+Transportation: Pipelines: 156 km gas, 4,070 km oil, 1,613 km refined products (2013)
+Transportation: Railways - total: 7,251 km (2014)
+Transportation: Railways - narrow gauge: 5,851 km (2014) 1.067-m gauge1,400 km 0.600-m gauge for cotton plantations
+Transportation: Roadways - total: 30,000 km
+Transportation: Roadways - paved: 8,000 km
+Transportation: Roadways - unpaved: 22,000 km
+Transportation: Roadways - urban: 1,000 km (2019)
+Transportation: Waterways: 4,068 km (2011) (1,723 km open year-round on White and Blue Nile Rivers)
+Transportation: Merchant marine - total: 14 (2023)
+Transportation: Merchant marine - by type: other 14
+Transportation: Ports - total ports: 4 (2024)
+Transportation: Ports - large: 0
+Transportation: Ports - medium: 2
+Transportation: Ports - small: 2
+Transportation: Ports - very small: 0
+Transportation: Ports - ports with oil terminals: 3
+Transportation: Ports - key ports: Al Khair Oil Terminal, Beshayer Oil Terminal, Port Sudan, Sawakin Harbor
+Military and Security: Military and security forces: Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Support Forces (RSF); Border GuardsMinistry of Interior: security police, special forces police, traffic police, Central Reserve Police (2024)
+Military and Security: Military and security forces - note 1: the RSF is a semi-autonomous paramilitary force formed in 2013 to fight armed rebel groups in Sudan, with Mohammed Hamdan DAGALO (aka Hemeti) as its commander; it was initially placed under the National Intelligence and Security Service, then came under the direct command of former president Omar al-BASHIR, who boosted the RSF as his own personal security force; as a result, the RSF was better funded and equipped than the regular armed forces; the RSF has since recruited from all parts of Sudan beyond its original Darfuri Arab groups but remains under the personal patronage and control of DAGALO; the RSF has participated in combat operations in Yemen and in counterinsurgency operations in Darfur, South Kordofan, and the Blue Nile State; it has also been active along the borders with Libya and the Central African Republic and has been used to respond to anti-regime demonstrations; the RSF has been accused of committing human rights abuses against civilians and is reportedly involved in business enterprises, such as gold mining; in 2023, heavy fighting broke out between the SAF and the RSF
+Military and Security: Military and security forces - note 2: the Central Reserve Police (aka Abu Tira) is a combat-trained paramilitary force that has been used against demonstrators and sanctioned by the US for human rights abuses
+Military and Security: Military expenditures: 1% of GDP (2021 est.)1% of GDP (2020 est.)2.4% of GDP (2019 est.)2% of GDP (2018 est.)3.6% of GDP (2017 est.)
+Military and Security: Military expenditures - note: many defense expenditures are probably off-budget
+Military and Security: Military and security service personnel strengths: prior to the outbreak of fighting between the SAF and the RSF in 2023, size estimates for Sudanese armed forces varied widely: up to 200,000 SAF personnel; up to 100,000 RSF fighters; up to 80,000 Central Reserve Police (2023)
+Military and Security: Military equipment inventories and acquisitions: the SAF's inventory includes a mix of mostly Chinese, Russian, Soviet-era, and domestically produced weapons systems; Sudan has one of the largest defense industries in Africa, which includes state-owned companies with military involvement; it has mostly manufactured weapons systems under license from China, Russia, Turkey, and Ukraine (2024)
+Military and Security: Military equipment inventories and acquisitions - note 1: Sudan has been under a UN Security Council approved arms embargo since 2005 as a result of violence in Darfur; in September 2024, the embargo was extended for another year
+Military and Security: Military equipment inventories and acquisitions - note 2: the RSF traditionally has been a lightly armed paramilitary force but over the years is reported to have acquired some heavier weapons and equipment such as armored vehicles, artillery, and anti-aircraft guns, although their origins are not available; it has captured some SAF arms and equipment during the ongoing conflict; since the start of the conflict, both the RSF and the SAF are reported to have received additional weaponry from various foreign suppliers
+Military and Security: Military service age and obligation: 18-33 years of age for compulsory or voluntary military service for men and women; 12-24 month service obligation (2023)
+Military and Security: Military service age and obligation - note: implementation of conscription is reportedly uneven
+Military and Security: Military - note: the primary responsibilities of the Sudanese Armed Forces (SAF) are internal security, border control, and countering potential external threats from its neighbors; SAF operations have traditionally been supported by militia and paramilitary forces, particularly the Rapid Support Forces (RSF); in the Spring of 2023, heavy fighting broke out between the SAF and the paramilitary RSF, particularly around the capital Khartoum and in the western region of Darfur, amid disputes over an internationally-backed plan for a transition towards civilian rule; fighting has since spread and continued into 2025 with reports of atrocities, ethnic cleansing, food insecurity, heavy civilian casualties, and millions of internally displaced personsthe Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the military has a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of 2024, UNISFA had approximately 3,200 personnel assignedthe October 2020 peace agreement provided for the establishment of a Joint Security Keeping Forces (JSKF) comprised of 12,000 personnel tasked with securing the Darfur region in the place of the UN African Union Hybrid Operation in Darfur (UNAMID), a joint African Union-UN peacekeeping force that operated in the war-torn region between 2007 and the end of its mandate in December 2020; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations; in September 2022, the first 2,000 members of the JSKF completed training; the status of the JSKF since the start of the civil war is not available (2025)
+Terrorism: Terrorist group(s) - Terrorist group(s): Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; Harakat Sawa’d Misr
+Terrorism: Terrorist group(s) - note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide
+Transnational Issues: Refugees and internally displaced persons - refugees (country of origin): 696,246 (South Sudan) (refugees and asylum seekers), 137,402 (Eritrea) (refugees and asylum seekers), 93,477 (Syria) (refugees and asylum seekers), 72,334 (Ethiopia) (refugees and asylum seekers), 18,279 (Central African Republic) (2023)
+Transnational Issues: Refugees and internally displaced persons - IDPs: 6.5 million (armed conflict between rival factions of the military government of Sudan since 15 April 2023) (2024); note - includes some non-Sudanese nationals
+Transnational Issues: Trafficking in persons - tier rating: Tier 3 — Sudan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Sudan was downgraded to Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/sudan/

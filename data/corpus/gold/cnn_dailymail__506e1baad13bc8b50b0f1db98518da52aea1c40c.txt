@@ -1,0 +1,103 @@
+{
+  "doc_id": "gold/cnn_dailymail__506e1baad13bc8b50b0f1db98518da52aea1c40c",
+  "source_dataset": "cnn_dailymail",
+  "source": "506e1baad13bc8b50b0f1db98518da52aea1c40c",
+  "sentences": [
+    {
+      "sid": "S1",
+      "text": "(CNN) -- Griffin Bell, who served as attorney general in the Carter administration, has died, according to the Carter Center in Atlanta, Georgia."
+    },
+    {
+      "sid": "S2",
+      "text": "He was 90."
+    },
+    {
+      "sid": "S3",
+      "text": "Griffin Bell is sworn in as attorney general in January 1977."
+    },
+    {
+      "sid": "S4",
+      "text": "Former President Jimmy Carter issued a statement saying that he and former first lady Rosalynn Carter were deeply saddened by Bell's death."
+    },
+    {
+      "sid": "S5",
+      "text": "\"A trusted and enduring public figure, Griffin's integrity, professionalism, and charm were greatly valued across party lines and presidential administrations,\" Carter said."
+    },
+    {
+      "sid": "S6",
+      "text": "\"As a World War II veteran, federal appeals court judge, civil rights advocate, and U.S. attorney general in my administration, Griffin made many lasting contributions to his native Georgia and country."
+    },
+    {
+      "sid": "S7",
+      "text": "Our thoughts and prayers are with his family.\""
+    },
+    {
+      "sid": "S8",
+      "text": "The son of a south Georgia cotton farmer, Bell passed the Georgia bar exam while still a student in law school, according to the New Georgia Encyclopedia."
+    },
+    {
+      "sid": "S9",
+      "text": "He went on to help build the prominent Atlanta law firm King and Spalding, and then to serve as the nation's top legal officer."
+    },
+    {
+      "sid": "S10",
+      "text": "He was a chairman of John F. Kennedy's 1960 presidential campaign, and Kennedy appointed him to the 5th U.S. Circuit Court of Appeals in 1961."
+    },
+    {
+      "sid": "S11",
+      "text": "As a federal judge, Bell was involved in desegregation rulings in the 1960s, and he became known as a moderate legal voice in the South."
+    },
+    {
+      "sid": "S12",
+      "text": "Fellow Georgian Jimmy Carter nominated Bell as attorney general in 1976."
+    },
+    {
+      "sid": "S13",
+      "text": "He was confirmed shortly after Carter's inauguration but only after sometimes difficult Senate hearings."
+    },
+    {
+      "sid": "S14",
+      "text": "Bell's memberships in private segregated clubs and some of his decisions as a federal judge became issues."
+    },
+    {
+      "sid": "S15",
+      "text": "He was confirmed in January 1977 by a Senate vote of 75 to 21."
+    },
+    {
+      "sid": "S16",
+      "text": "Bell's tenure as attorney general followed the Watergate era, and he was credited with helping restore public confidence in the Justice Department during the late 1970s."
+    },
+    {
+      "sid": "S17",
+      "text": "Bell resigned as attorney general in 1979 to return to private law practice in Atlanta with King and Spalding."
+    },
+    {
+      "sid": "S18",
+      "text": "He resurfaced in the public eye periodically, including in 2004 when he was listed among Georgia Democrats who endorsed President George W. Bush for re-election."
+    },
+    {
+      "sid": "S19",
+      "text": "Also in 2004, he co-authored an independent study ordered by FBI Director Robert Mueller of the FBI's internal disciplinary procedures."
+    },
+    {
+      "sid": "S20",
+      "text": "The report sharply criticized the FBI and called its methods for determining punishments for its agents \"seriously flawed.\""
+    },
+    {
+      "sid": "S21",
+      "text": "President Jimmy Carter nominated Griffin Bell as attorney general in 1976."
+    },
+    {
+      "sid": "S22",
+      "text": "Bell credited with helping restore confidence in Justice Department in late 1970s."
+    },
+    {
+      "sid": "S23",
+      "text": "His \"integrity, professionalism, and charm\" valued across party lines, Carter said."
+    },
+    {
+      "sid": "S24",
+      "text": "In 2004, he was listed among Georgia Dems who endorsed Bush for re-election."
+    }
+  ]
+}

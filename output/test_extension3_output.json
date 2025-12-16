@@ -1,0 +1,114 @@
+{
+  "q001": {
+    "question": "What specific EU energy measure was scheduled to take effect according to the report, and what key details did member states agree on regarding the scope and level of gas reductions?",
+    "answer": "According to the report, a voluntary 15% reduction in gas usage over the winter was agreed upon, with the possibility of it becoming mandatory if the Kremlin ordered a complete shutdown of gas to Europe. Member states agreed on exemptions for island nations, such as Ireland, Malta, and Cyprus, as well as for the Baltic states and countries that are little connected to the European gas network and can send liquified natural gas to their neighbors, such as Spain.",
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-26T17_01_01Z",
+        "score": -0.8401548862457275,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+        "score": -4.037204742431641,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-19T18_15_40Z",
+        "score": -4.361046314239502,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T15_09_05Z",
+        "score": -5.792367458343506,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-22T15_50_20Z",
+        "score": -6.194526672363281,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S2",
+      "S3",
+      "S20",
+      "S21",
+      "S23"
+    ]
+  },
+  "q002": {
+    "question": "How did long-term political instability, recurring coups, and the emergence of northern armed groups shape Mali\u2019s struggle to maintain territorial control from 1991 through 2024?",
+    "answer": "Mali saw 31 years of dictatorship until 1991, when a military coup led by Amadou Toumani TOURE ousted the government, and recurring coups continued to shape the country's politics. In 2012, a rebellion and military coup led to the expulsion of the military from the northern regions, allowing terrorist organizations to develop strongholds in the area. This instability contributed to the ongoing struggle to maintain territorial control, as the government's grasp in the region remains weak with local militias, terrorists, and insurgent groups competing for control.",
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Mali_history",
+        "score": -0.3870234787464142,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Mali",
+        "score": -2.021467924118042,
+        "rank": 2
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Guinea-Bissau",
+        "score": -3.3899269104003906,
+        "rank": 3
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Comoros",
+        "score": -4.050295829772949,
+        "rank": 4
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Nigeria",
+        "score": -4.506380081176758,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S12",
+      "S16",
+      "S18",
+      "S26",
+      "S28"
+    ]
+  },
+  "q003": {
+    "question": "According to the article, how close was the no-confidence vote against Prime Minister Manmohan Singh, and what unusual step was taken to ensure voting could occur?",
+    "answer": "The no-confidence vote against Prime Minister Manmohan Singh was extremely close, with the vote ending 275-256 in his favor. To ensure voting could occur, five members of parliament serving prison sentences were temporarily freed to cast votes under the watchful eyes of their jailers.",
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+        "score": 4.308494567871094,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-01T00_06_21Z",
+        "score": -8.714308738708496,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-24T16_22_11Z",
+        "score": -9.070735931396484,
+        "rank": 3
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__d3f2666d0fbc8d1778102c9a4eb707480134f84a",
+        "score": -9.146393775939941,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-29T12_21_30Z",
+        "score": -9.530131340026855,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S15",
+      "S2",
+      "S4"
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+url: https://www.cia.gov/the-world-factbook/countries/algeria/
+Introduction: Background: Algeria has known many empires and dynasties, including the ancient Numidians (3rd century B.C.), Phoenicians, Carthaginians, Romans, Vandals, Byzantines, over a dozen different Arab and Amazigh dynasties, Spaniards, and Ottoman Turks. Under the Turks, the Barbary pirates operated from North Africa and preyed on shipping, from about 1500 until the French captured Algiers in 1830. The French southward conquest of Algeria proceeded throughout the 19th century and was marked by many atrocities. A bloody eight-year struggle culminated in Algerian independence in 1962. Algeria's long-dominant political party, the National Liberation Front (FLN), was established in 1954 as part of the struggle for independence and has since played a large role in politics, though it is falling out of favor with the youth and current President Abdelmadjid TEBBOUNE. The Government of Algeria in 1988 instituted a multi-party system in response to public unrest, but the surprising first-round success of the Islamic Salvation Front (FIS) in the 1991 legislative election led the Algerian military to intervene and postpone the second round of elections to prevent what the secular elite feared would be an extremist-led government from assuming power. An army crackdown on the FIS escalated into an FIS insurgency and intense violence from 1992-98 that resulted in over 100,000 deaths, many of which were attributed to extremist groups massacring villagers. The government gained the upper hand by the late 1990s, and FIS’s armed wing, the Islamic Salvation Army, disbanded in 2000. FIS membership is now illegal. In 1999, Abdelaziz BOUTEFLIKA won the presidency with the backing of the military, in an election that was boycotted by several candidates protesting alleged fraud.  He won subsequent elections in 2004, 2009, and 2014. Widespread protests against his decision to seek a fifth term broke out in early 2019. BOUTEFLIKA resigned in April 2019, and in December 2019, Algerians elected former Prime Minister Abdelmadjid TEBBOUNE as the country’s new president. A longtime FLN member, TEBBOUNE ran for president as an independent. In 2020, Algeria held a constitutional referendum on governmental reforms, which TEBBOUNE enacted in 2021. Subsequent reforms to the national electoral law introduced open-list voting to curb corruption. The new law also eliminated gender quotas in Parliament, and the 2021 legislative elections saw female representation plummet. The referendum, parliamentary elections, and local elections saw record-low voter turnout.
+Geography: Location: Northern Africa, bordering the Mediterranean Sea, between Morocco and Tunisia
+Geography: Geographic coordinates: 28 00 N, 3 00 E
+Geography: Map references: Africa
+Geography: Area - total: 2,381,740 sq km
+Geography: Area - land: 2,381,740 sq km
+Geography: Area - water: 0 sq km
+Geography: Area - comparative: slightly less than 3.5 times the size of Texas
+Geography: Land boundaries - total: 6,734 km
+Geography: Land boundaries - border countries (6): Libya 989 km; Mali 1,359 km; Mauritania 460 km; Morocco 1,941 km; Niger 951 km; Tunisia 1,034 km
+Geography: Coastline: 998 km
+Geography: Maritime claims - territorial sea: 12 nm
+Geography: Maritime claims - contiguous zone: 24 nm
+Geography: Maritime claims - exclusive fishing zone: 32-52 nm
+Geography: Climate: arid to semiarid; mild, wet winters with hot, dry summers along coast; drier with cold winters and hot summers on high plateau; sirocco is a hot, dust/sand-laden wind especially common in summer
+Geography: Terrain: mostly high plateau and desert; Atlas Mountains in the far north and Hoggar Mountains in the south; narrow, discontinuous coastal plain
+Geography: Elevation - highest point: Tahat 2,908 m
+Geography: Elevation - lowest point: Chott Melrhir -40 m
+Geography: Elevation - mean elevation: 800 m
+Geography: Natural resources: petroleum, natural gas, iron ore, phosphates, uranium, lead, zinc
+Geography: Land use - agricultural land: 17.4% (2018 est.)agricultural land: arable land: 3.2% (2018 est.)agricultural land: permanent crops: 0.4% (2018 est.)agricultural land: permanent pasture: 13.8% (2018 est.)
+Geography: Land use - forest: 0.8% (2018 est.)
+Geography: Land use - other: 81.8% (2018 est.)
+Geography: Irrigated land: 12,605 sq km (2016)
+Geography: Major watersheds (area sq km): Atlantic Ocean drainage: Niger (2,261,741 sq km)Internal (endorheic basin) drainage: Lake Chad (2,497,738 sq km)
+Geography: Major aquifers: Lullemeden-Irhazer Aquifer System, Murzuk-Djado Basin, North Western Sahara Aquifer, Taoudeni-Tanezrouft Basin
+Geography: Population distribution: the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast as shown in this population distribution map
+Geography: Natural hazards: mountainous areas subject to severe earthquakes; mudslides and floods in rainy season; droughts
+Geography: Geography - note: largest country in Africa but 80% desert; canyons and caves in the southern Hoggar Mountains and in the barren Tassili n'Ajjer area in the southeast of the country contain numerous examples of prehistoric art -- rock paintings and carvings depicting human activities and wild and domestic animals (elephants, giraffes, cattle) -- that date to the African Humid Period, roughly 11,000 to 5,000 years ago, when the region was completely vegetated
+People and Society: Population - total: 47,022,473
+People and Society: Population - male: 23,854,821
+People and Society: Population - female: 23,167,652 (2024 est.)
+People and Society: Nationality - noun: Algerian(s)
+People and Society: Nationality - adjective: Algerian
+People and Society: Ethnic groups: Arab-Amazigh 99%, European less than 1%
+People and Society: Ethnic groups - note: although almost all Algerians are Amazigh in origin and not Arab, only a minority identify themselves as primarily Amazigh, about 15% of the total population; these people live mostly in the mountainous region of Kabylie east of Algiers and in several other communities; the Amazigh are also Muslim but identify with their Amazigh rather than Arab cultural heritage; some Amazigh have long agitated, sometimes violently, for autonomy; the government is unlikely to grant autonomy but has officially recognized Amazigh languages and introduced them into public schools
+People and Society: Languages: Arabic (official), French (lingua franca), Tamazight (official) (dialects include Kabyle (Taqbaylit), Shawiya (Tacawit), Mzab, Tuareg (Tamahaq))
+People and Society: Languages - major-language sample(s): كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)The World Factbook, the indispensable source for basic information.
+People and Society: Religions: Muslim (official; predominantly Sunni) 99%, other (includes Christian, Jewish, Ahmadi Muslim, Shia Muslim, Ibadi Muslim) <1% (2012 est.)
+People and Society: Demographic profile: For the first two thirds of the 20th century, Algeria's high fertility rate caused its population to grow rapidly. However, about a decade after independence from France in 1962, the total fertility rate fell dramatically from 7 children per woman in the 1970s to about 2.4 in 2000, slowing Algeria's population growth rate by the late 1980s. The lower fertility rate was mainly the result of women's rising age at first marriage (virtually all Algerian children being born in wedlock) and to a lesser extent the wider use of contraceptives. Later marriages and a preference for smaller families are attributed to increases in women's education and participation in the labor market; higher unemployment; and a shortage of housing forcing multiple generations to live together. The average woman's age at first marriage increased from about 19 in the mid-1950s to 24 in the mid-1970s to 30.5 in the late 1990s. Algeria's fertility rate experienced an unexpected upturn in the early 2000s, as the average woman's age at first marriage dropped slightly. The reversal in fertility could represent a temporary fluctuation in marriage age or, less likely, a decrease in the steady rate of contraceptive use. Thousands of Algerian peasants - mainly Berber men from the Kabylia region - faced with land dispossession and economic hardship under French rule migrated temporarily to France to work in manufacturing and mining during the first half of the 20th century. This movement accelerated during World War I, when Algerians filled in for French factory workers or served as soldiers. In the years following independence, low-skilled Algerian workers and Algerians who had supported the French (known as Harkis) emigrated en masse to France. Tighter French immigration rules and Algiers' decision to cease managing labor migration to France in the 1970s limited legal emigration largely to family reunification. Not until Algeria's civil war in the 1990s did the country again experience substantial outmigration. Many Algerians legally entered Tunisia without visas claiming to be tourists and then stayed as workers. Other Algerians headed to Europe seeking asylum, although France imposed restrictions. Sub-Saharan African migrants came to Algeria after its civil war to work in agriculture and mining. In the 2000s, a wave of educated Algerians went abroad seeking skilled jobs in a wider range of destinations, increasing their presence in North America and Spain. At the same time, legal foreign workers principally from China and Egypt came to work in Algeria's construction and oil sectors. Illegal migrants from Sub-Saharan Africa, particularly Malians, Nigeriens, and Gambians, continue to come to Algeria in search of work or to use it as a stepping stone to Libya and Europe. Since 1975, Algeria also has been the main recipient of Sahrawi refugees from the ongoing conflict in Western Sahara (today part of Morocco). More than 100,000 Sahrawis are estimated to be living in five refugee camps in southwestern Algeria near Tindouf.
+People and Society: Age structure - 0-14 years: 30.8% (male 7,411,337/female 7,062,794)
+People and Society: Age structure - 15-64 years: 62.3% (male 14,846,102/female 14,441,034)
+People and Society: Age structure - 65 years and over: 6.9% (2024 est.) (male 1,597,382/female 1,663,824)
+People and Society: Dependency ratios - total dependency ratio: 58.5
+People and Society: Dependency ratios - youth dependency ratio: 48.7
+People and Society: Dependency ratios - elderly dependency ratio: 9.8
+People and Society: Dependency ratios - potential support ratio: 10.2 (2021 est.)
+People and Society: Median age - total: 29.1 years (2024 est.)
+People and Society: Median age - male: 28.8 years
+People and Society: Median age - female: 29.4 years
+People and Society: Population growth rate: 1.54% (2024 est.)
+People and Society: Birth rate: 20.2 births/1,000 population (2024 est.)
+People and Society: Death rate: 4.4 deaths/1,000 population (2024 est.)
+People and Society: Net migration rate: -0.5 migrant(s)/1,000 population (2024 est.)
+People and Society: Population distribution: the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast as shown in this population distribution map
+People and Society: Urbanization - urban population: 75.3% of total population (2023)
+People and Society: Urbanization - rate of urbanization: 1.99% annual rate of change (2020-25 est.)
+People and Society: Major urban areas - population: 2.902 million ALGIERS (capital), 936,000 Oran (2022)
+People and Society: Sex ratio - at birth: 1.05 male(s)/female
+People and Society: Sex ratio - 0-14 years: 1.05 male(s)/female
+People and Society: Sex ratio - 15-64 years: 1.03 male(s)/female
+People and Society: Sex ratio - 65 years and over: 0.96 male(s)/female
+People and Society: Sex ratio - total population: 1.03 male(s)/female (2024 est.)
+People and Society: Maternal mortality ratio: 78 deaths/100,000 live births (2020 est.)
+People and Society: Infant mortality rate - total: 18.7 deaths/1,000 live births (2024 est.)
+People and Society: Infant mortality rate - male: 19.8 deaths/1,000 live births
+People and Society: Infant mortality rate - female: 17.5 deaths/1,000 live births
+People and Society: Life expectancy at birth - total population: 77.9 years (2024 est.)
+People and Society: Life expectancy at birth - male: 77.2 years
+People and Society: Life expectancy at birth - female: 78.7 years
+People and Society: Total fertility rate: 2.94 children born/woman (2024 est.)
+People and Society: Gross reproduction rate: 1.43 (2024 est.)
+People and Society: Contraceptive prevalence rate: 53.6% (2018/19)
+People and Society: Drinking water source - improved: urban: 99.6% of populationrural: 98.8% of populationtotal: 99.4% of population
+People and Society: Drinking water source - unimproved: urban: 0.4% of populationrural: 1.2% of populationtotal: 0.6% of population (2020 est.)
+People and Society: Current health expenditure: 5.5% of GDP (2021)
+People and Society: Physician density: 1.72 physicians/1,000 population (2018)
+People and Society: Hospital bed density: 1.9 beds/1,000 population (2015)
+People and Society: Sanitation facility access - improved: urban: 98.3% of populationrural: 91.3% of populationtotal: 96.5% of population
+People and Society: Sanitation facility access - unimproved: urban: 1.7% of populationrural: 8.7% of populationtotal: 3.5% of population (2020 est.)
+People and Society: Obesity - adult prevalence rate: 27.4% (2016)
+People and Society: Alcohol consumption per capita - total: 0.59 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - beer: 0.31 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - wine: 0.2 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - spirits: 0.08 liters of pure alcohol (2019 est.)
+People and Society: Alcohol consumption per capita - other alcohols: 0 liters of pure alcohol (2019 est.)
+People and Society: Tobacco use - total: 21% (2020 est.)
+People and Society: Tobacco use - male: 41.3% (2020 est.)
+People and Society: Tobacco use - female: 0.7% (2020 est.)
+People and Society: Children under the age of 5 years underweight: 2.7% (2018/19)
+People and Society: Currently married women (ages 15-49): 56% (2023 est.)
+People and Society: Child marriage - women married by age 18: 3.8% (2019 est.)
+People and Society: Education expenditures: 7% of GDP (2020 est.)
+People and Society: Literacy - definition: age 15 and over can read and write
+People and Society: Literacy - total population: 81.4%
+People and Society: Literacy - male: 87.4%
+People and Society: Literacy - female: 75.3% (2018)
+Environment: Environment - current issues: air pollution in major cities; soil erosion from overgrazing and other poor farming practices; desertification; dumping of raw sewage, petroleum refining wastes, and other industrial effluents is leading to the pollution of rivers and coastal waters; Mediterranean Sea, in particular, becoming polluted from oil wastes, soil erosion, and fertilizer runoff; inadequate supplies of potable water
+Environment: Environment - international agreements - party to: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands
+Environment: Environment - international agreements - signed, but not ratified: Nuclear Test Ban
+Environment: Climate: arid to semiarid; mild, wet winters with hot, dry summers along coast; drier with cold winters and hot summers on high plateau; sirocco is a hot, dust/sand-laden wind especially common in summer
+Environment: Land use - agricultural land: 17.4% (2018 est.)agricultural land: arable land: 3.2% (2018 est.)agricultural land: permanent crops: 0.4% (2018 est.)agricultural land: permanent pasture: 13.8% (2018 est.)
+Environment: Land use - forest: 0.8% (2018 est.)
+Environment: Land use - other: 81.8% (2018 est.)
+Environment: Urbanization - urban population: 75.3% of total population (2023)
+Environment: Urbanization - rate of urbanization: 1.99% annual rate of change (2020-25 est.)
+Environment: Revenue from forest resources: 0.1% of GDP (2018 est.)
+Environment: Revenue from coal: 0% of GDP (2018 est.)
+Environment: Air pollutants - particulate matter emissions: 22.68 micrograms per cubic meter (2019 est.)
+Environment: Air pollutants - carbon dioxide emissions: 150.01 megatons (2016 est.)
+Environment: Air pollutants - methane emissions: 49.94 megatons (2020 est.)
+Environment: Waste and recycling - municipal solid waste generated annually: 12,378,740 tons (2016 est.)
+Environment: Waste and recycling - municipal solid waste recycled annually: 990,299 tons (2013 est.)
+Environment: Waste and recycling - percent of municipal solid waste recycled: 8% (2013 est.)
+Environment: Major watersheds (area sq km): Atlantic Ocean drainage: Niger (2,261,741 sq km)Internal (endorheic basin) drainage: Lake Chad (2,497,738 sq km)
+Environment: Major aquifers: Lullemeden-Irhazer Aquifer System, Murzuk-Djado Basin, North Western Sahara Aquifer, Taoudeni-Tanezrouft Basin
+Environment: Total water withdrawal - municipal: 3.6 billion cubic meters (2020 est.)
+Environment: Total water withdrawal - industrial: 190 million cubic meters (2020 est.)
+Environment: Total water withdrawal - agricultural: 6.67 billion cubic meters (2020 est.)
+Environment: Total renewable water resources: 11.67 billion cubic meters (2020 est.)
+Government: Country name - conventional long form: People's Democratic Republic of Algeria
+Government: Country name - conventional short form: Algeria
+Government: Country name - local long form: Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Sha'biyah
+Government: Country name - local short form: Al Jaza'ir
+Government: Country name - etymology: the country name derives from the capital city of Algiers
+Government: Government type: presidential republic
+Government: Capital - name: Algiers
+Government: Capital - geographic coordinates: 36 45 N, 3 03 E
+Government: Capital - time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+Government: Capital - etymology: name derives from the Arabic "al-Jazair" meaning "the islands" and refers to the four islands formerly off the coast of the capital but joined to the mainland since 1525
+Government: Administrative divisions: 58 provinces (wilayas, singular - wilaya); Adrar, Ain Defla, Ain Temouchent, Alger (Algiers), Annaba, Batna, Bechar, Bejaia, Beni Abbes, Biskra, Blida, Bordj Badji Mokhtar, Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djanet, Djelfa, El Bayadh, El Meghaier, El Meniaa, El Oued, El Tarf, Ghardaia, Guelma, Illizi, In Guezzam, In Salah, Jijel, Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila, Naama, Oran, Ouargla, Ouled Djellal, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanrasset, Tebessa, Tiaret, Timimoun, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen, Touggourt
+Government: Independence: 5 July 1962 (from France)
+Government: National holiday: Independence Day, 5 July (1962); Revolution Day, 1 November (1954)
+Government: Legal system: mixed legal system of French civil law and Islamic law; judicial review of legislative acts in ad hoc Constitutional Council composed of various public officials including several Supreme Court justices
+Government: Constitution - history: several previous; latest approved by referendum 1 November 2020
+Government: Constitution - amendments: proposed by the president of the republic or through the president with the support of three fourths of the members of both houses of Parliament in joint session; passage requires approval by both houses, approval by referendum, and promulgation by the president; the president can forego a referendum if the Constitutional Council determines the proposed amendment does not conflict with basic constitutional principles; articles including the republican form of government, the integrity and unity of the country, and fundamental citizens’ liberties and rights cannot be amended; amended 2002, 2008, 2016; last in 2020
+Government: International law organization participation: has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
+Government: Citizenship - citizenship by birth: no
+Government: Citizenship - citizenship by descent only: the mother must be a citizen of Algeria
+Government: Citizenship - dual citizenship recognized: no
+Government: Citizenship - residency requirement for naturalization: 7 years
+Government: Suffrage: 18 years of age; universal
+Government: Executive branch - chief of state: President Abdelmadjid TEBBOUNE (since 12 December 2019)
+Government: Executive branch - head of government: Prime Minister Nadir LARBAOUI (since 11 November 2023)
+Government: Executive branch - cabinet: Cabinet of Ministers appointed by the president
+Government: Executive branch - elections/appointments: president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second term); election last held on 7 September 2024 (next to be held in 2029); prime minister nominated by the president after consultation with the majority party in Parliament
+Government: Executive branch - election results: 2024: Abdelmadjid TEBBOUNE (NLF) 94.7%, Abdelaali Hassani CHERIF (MSP) 3.2%, Youcef AOUCHICHE (FFS) 2.2%2019: (FLN) 58.1%, Abdelkader BENGRINA (El-Bina) 17.4%, Ali BENFLIS (Talaie El Hurriyet) 10.6%, Azzedine MIHOUBI (RND) 7.3%, Abdelaziz BELAID (Future Front) 6.7%
+Government: Legislative branch - legislature name: Parliament (Barlaman)
+Government: Legislative branch - legislative structure: bicameral
+Government: Legislative branch - lower chamber - chamber name: National People's Assembly (Al-Majlis Al-Chaabi Al-Watani)
+Government: Legislative branch - lower chamber - number of seats: 407 (all directly elected)
+Government: Legislative branch - lower chamber - electoral system: proportional representation
+Government: Legislative branch - lower chamber - scope of elections: full renewal
+Government: Legislative branch - lower chamber - term in office: 5 years
+Government: Legislative branch - lower chamber - most recent election date: 6/12/2021
+Government: Legislative branch - lower chamber - parties elected and seats per party: National Liberation Front (FLN) (98); Movement of Society for Peace (MSP) (65); National Democratic Rally (RND) (58); El-Moustakbel Front (Future", FM) (48); El Binaa Movement (39); Independents (84); Other (15)
+Government: Legislative branch - lower chamber - percentage of women in chamber: 7.9%
+Government: Legislative branch - lower chamber - expected date of next election: June 2026
+Government: Legislative branch - upper chamber - chamber name: Council of the Nation (Majlis al-Oumma)
+Government: Legislative branch - upper chamber - number of seats: 174 (116 indirectly elected; 58 appointed)
+Government: Legislative branch - upper chamber - electoral system: plurality/majority
+Government: Legislative branch - upper chamber - scope of elections: partial renewal
+Government: Legislative branch - upper chamber - term in office: 6 years
+Government: Legislative branch - upper chamber - most recent election date: 2/5/2022
+Government: Legislative branch - upper chamber - percentage of women in chamber: 4.1%
+Government: Legislative branch - upper chamber - expected date of next election: March 2025
+Government: Judicial branch - highest court(s): Supreme Court or Le Cour Suprême, (consists of 150 judges organized into 8 chambers: Civil, Commercial and Maritime, Criminal, House of Offenses and Contraventions, House of Petitions, Land, Personal Status, and Social; Constitutional Council (consists of 12 members including the court chairman and deputy chairman); note - Algeria's judicial system does not include sharia courts
+Government: Judicial branch - judge selection and term of office: Supreme Court judges appointed by the High Council of Magistracy, an administrative body presided over by the president of the republic, and includes the republic vice-president and several members; judges appointed for life; Constitutional Council members - 4 appointed by the president of the republic, 2 each by the 2 houses of Parliament, 2 by the Supreme Court, and 2 by the Council of State; Council president and members appointed for single 6-year terms with half the membership renewed every 3 years
+Government: Judicial branch - subordinate courts: appellate or wilaya courts; first instance or daira tribunals
+Government: Political parties: Algerian National Front or FNAAlgerian Popular Movement or MPAAlgeria's Hope Rally or TAJDignity or El KaramaEl-InfitahEl Mostakbal (Future Front)Ennour El Djazairi Party (Algerian Radiance Party) or PEDEquity and Proclamation Party or PEPIslamic Renaissance Movement or Ennahda MovementJustice and Development Front or FJDMovement for National Reform or El IslahMovement of Society for Peace or MSPNational Construction Movement or El-Bina (Harakat El-Binaa El-Watani)National Democratic Rally (Rassemblement National Democratique) or RNDNational Front for Social Justice or FNJSNational Liberation Front or FLNNational Militancy Front or FMNNational Party for Solidarity and Development or PNSDNational Republican Alliance or ANRNew Dawn Party (El-Fajr El-Jadid)New Generation (Jil Jadid)Oath of 1954 or Ahd 54Party of Justice and Liberty or PLJRally for Culture and Democracy or RCDSocialist Forces Front or FFSUnion for Change and Progress or UCPUnion of Democratic and Social Forces or UFDSVanguard of Liberties (Talaie El Hurriyet)Workers Party or PTYouth Party or PJ
+Government: Political parties - note: a law banning political parties based on religion was enacted in March 1997
+Government: International organization participation: ABEDA, AfDB, AFESD, AMF, AMU, AU, BIS, CAEU, CD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)
+Government: Diplomatic representation in the US - chief of mission: Ambassador Sabri BOUKADOUM (since 27 February 2024)
+Government: Diplomatic representation in the US - chancery: 2118 Kalorama Road NW, Washington, DC 20008
+Government: Diplomatic representation in the US - telephone: [1] (202) 265-2800
+Government: Diplomatic representation in the US - FAX: [1] (202) 986-5906
+Government: Diplomatic representation in the US - email address and website: mail@algerianembassy.orghttps://www.algerianembassy.org/
+Government: Diplomatic representation in the US - consulate(s) general: New York
+Government: Diplomatic representation from the US - chief of mission: Ambassador Elizabeth Moore AUBIN (since 9 February 2022)
+Government: Diplomatic representation from the US - embassy: 05 Chemin Cheikh Bachir, Ibrahimi, El-Biar 16030, Alger
+Government: Diplomatic representation from the US - mailing address: 6030 Algiers Place, Washington DC  20521-6030
+Government: Diplomatic representation from the US - telephone: [213] (0) 770-08-2000
+Government: Diplomatic representation from the US - FAX: [213] (0) 770-08-2299
+Government: Diplomatic representation from the US - email address and website: algierspd@state.govhttps://dz.usembassy.gov/
+Government: Flag description: two equal vertical bands of green (hoist side) and white; a red, five-pointed star within a red crescent centered over the two-color boundary; the colors represent Islam (green), purity and peace (white), and liberty (red); the crescent and star are also Islamic symbols, but the crescent is more closed than those of other Muslim countries because Algerians believe the long crescent horns bring happiness
+Government: National symbol(s): five-pointed star between the extended horns of a crescent moon, fennec fox; national colors: green, white, red
+Government: National anthem - name: "Kassaman" (We Pledge)
+Government: National anthem - lyrics/music: Mufdi ZAKARIAH/Mohamed FAWZI
+Government: National anthem - note: adopted 1962; ZAKARIAH wrote "Kassaman" as a poem while imprisoned in Algiers by French colonial forces
+Government: National heritage - total World Heritage Sites: 7 (6 cultural, 1 mixed)
+Government: National heritage - selected World Heritage Site locales: Beni Hammad Fort (c); Djémila (c); Casbah of Algiers (c); M'zab Valley (c); Tassili n'Ajjer (m); Timgad (c); Tipasa (c)
+Economy: Economic overview: suffering oil and gas economy; lack of sector and market diversification; political instability chilling domestic consumption; poor credit access and declines in business confidence; COVID-19 austerity policies; delayed promised socio-economic reforms
+Economy: Real GDP (purchasing power parity): $699.818 billion (2023 est.)$672.256 billion (2022 est.)$648.896 billion (2021 est.)note: data in 2021 dollars
+Economy: Real GDP growth rate: 4.1% (2023 est.)3.6% (2022 est.)3.8% (2021 est.)note: annual GDP % growth based on constant local currency
+Economy: Real GDP per capita: $15,200 (2023 est.)$14,800 (2022 est.)$14,500 (2021 est.)note: data in 2021 dollars
+Economy: GDP (official exchange rate): $247.626 billion (2023 est.)note: data in current dollars at official exchange rate
+Economy: Inflation rate (consumer prices): 9.32% (2023 est.)9.27% (2022 est.)7.23% (2021 est.)note: annual % change based on consumer prices
+Economy: Credit ratings - note: The year refers to the year in which the current credit rating was first obtained.
+Economy: GDP - composition, by sector of origin - agriculture: 13.1% (2023 est.)
+Economy: GDP - composition, by sector of origin - industry: 37.8% (2023 est.)
+Economy: GDP - composition, by sector of origin - services: 45.6% (2023 est.)note: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
+Economy: GDP - composition, by end use - household consumption: 40.8% (2023 est.)
+Economy: GDP - composition, by end use - government consumption: 17.9% (2023 est.)
+Economy: GDP - composition, by end use - investment in fixed capital: 32.8% (2023 est.)
+Economy: GDP - composition, by end use - investment in inventories: 4.9% (2023 est.)
+Economy: GDP - composition, by end use - exports of goods and services: 23.6% (2023 est.)
+Economy: GDP - composition, by end use - imports of goods and services: -20.1% (2023 est.)note: figures may not total 100% due to rounding or gaps in data collection
+Economy: Agricultural products: potatoes, watermelons, wheat, milk, onions, tomatoes, vegetables, oranges, dates, barley (2023)note: top ten agricultural products based on tonnage
+Economy: Industries: petroleum, natural gas, light industries, mining, electrical, petrochemical, food processing
+Economy: Industrial production growth rate: 3.88% (2023 est.)note: annual % change in industrial value added based on constant local currency
+Economy: Labor force: 13.552 million (2023 est.)note: number of people ages 15 or older who are employed or seeking work
+Economy: Unemployment rate: 11.81% (2023 est.)12.44% (2022 est.)13.61% (2021 est.)note: % of labor force seeking employment
+Economy: Youth unemployment rate (ages 15-24) - total: 30.8% (2023 est.)
+Economy: Youth unemployment rate (ages 15-24) - male: 27.4% (2023 est.)
+Economy: Youth unemployment rate (ages 15-24) - female: 46% (2023 est.)note: % of labor force ages 15-24 seeking employment
+Economy: Average household expenditures - on food: 37.2% of household expenditures (2023 est.)
+Economy: Average household expenditures - on alcohol and tobacco: 1% of household expenditures (2023 est.)
+Economy: Remittances: 0.75% of GDP (2023 est.)0.76% of GDP (2022 est.)0.96% of GDP (2021 est.)note: personal transfers and compensation between resident and non-resident individuals/households/entities
+Economy: Budget - revenues: $55.185 billion (2019 est.)
+Economy: Budget - expenditures: $64.728 billion (2019 est.)
+Economy: Public debt: 27.5% of GDP (2017 est.)
+Economy: Public debt - note: data cover central government debt as well as debt issued by subnational entities and intra-governmental debt
+Economy: Taxes and other revenues: 32.3% (of GDP) (2017 est.)
+Economy: Current account balance: $5.424 billion (2023 est.)$19.448 billion (2022 est.)-$4.51 billion (2021 est.)note: balance of payments - net trade and primary/secondary income in current dollars
+Economy: Exports: $58.816 billion (2023 est.)$69.242 billion (2022 est.)$41.851 billion (2021 est.)note: balance of payments - exports of goods and services in current dollars
+Economy: Exports - partners: Italy 29%, France 14%, Spain 13%, USA 6%, Netherlands 4% (2023)note: top five export partners based on percentage share of exports
+Economy: Exports - commodities: natural gas, crude petroleum, refined petroleum, fertilizers, iron bars (2023)note: top five export commodities based on value in dollars
+Economy: Imports: $51.516 billion (2023 est.)$46.63 billion (2022 est.)$44.297 billion (2021 est.)note: balance of payments - imports of goods and services in current dollars
+Economy: Imports - partners: China 24%, France 12%, Italy 8%, Turkey 7%, Brazil 6% (2023)note: top five import partners based on percentage share of imports
+Economy: Imports - commodities: wheat, plastics, cars, milk, corn (2023)note: top five import commodities based on value in dollars
+Economy: Reserves of foreign exchange and gold: $81.217 billion (2023 est.)$71.852 billion (2022 est.)$56.211 billion (2021 est.)note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars
+Economy: Debt - external: $4.839 billion (2023 est.)note: present value of external debt in current US dollars
+Economy: Exchange rates: Algerian dinars (DZD) per US dollar -
+Economy: Exchange rates - Exchange rates: 135.843 (2023 est.)141.995 (2022 est.)135.064 (2021 est.)126.777 (2020 est.)119.354 (2019 est.)
+Energy: Electricity access - electrification - total population: 100% (2022 est.)
+Energy: Electricity access - electrification - urban areas: 100%
+Energy: Electricity access - electrification - rural areas: 99.3%
+Energy: Electricity - installed generating capacity: 21.706 million kW (2022 est.)
+Energy: Electricity - consumption: 77.786 billion kWh (2022 est.)
+Energy: Electricity - exports: 1.529 billion kWh (2022 est.)
+Energy: Electricity - imports: 391.148 million kWh (2022 est.)
+Energy: Electricity - transmission/distribution losses: 9.263 billion kWh (2022 est.)
+Energy: Electricity generation sources - fossil fuels: 99.2% of total installed capacity (2022 est.)
+Energy: Electricity generation sources - solar: 0.7% of total installed capacity (2022 est.)
+Energy: Coal - consumption: 167,000 metric tons (2022 est.)
+Energy: Coal - imports: 168,000 metric tons (2022 est.)
+Energy: Coal - proven reserves: 223 million metric tons (2022 est.)
+Energy: Petroleum - total petroleum production: 1.443 million bbl/day (2023 est.)
+Energy: Petroleum - refined petroleum consumption: 428,000 bbl/day (2022 est.)
+Energy: Petroleum - crude oil estimated reserves: 12.2 billion barrels (2021 est.)
+Energy: Natural gas - production: 100.726 billion cubic meters (2022 est.)
+Energy: Natural gas - consumption: 47.963 billion cubic meters (2022 est.)
+Energy: Natural gas - exports: 49.583 billion cubic meters (2022 est.)
+Energy: Natural gas - proven reserves: 4.504 trillion cubic meters (2021 est.)
+Energy: Carbon dioxide emissions: 147.93 million metric tonnes of CO2 (2022 est.)
+Energy: Carbon dioxide emissions - from coal and metallurgical coke: 501,000 metric tonnes of CO2 (2022 est.)
+Energy: Carbon dioxide emissions - from petroleum and other liquids: 51.989 million metric tonnes of CO2 (2022 est.)
+Energy: Carbon dioxide emissions - from consumed natural gas: 95.439 million metric tonnes of CO2 (2022 est.)
+Energy: Energy consumption per capita: 58.473 million Btu/person (2022 est.)
+Communications: Telephones - fixed lines - total subscriptions: 6.324 million (2023 est.)
+Communications: Telephones - fixed lines - subscriptions per 100 inhabitants: 14 (2023 est.)
+Communications: Telephones - mobile cellular - total subscriptions: 51.5 million (2023 est.)
+Communications: Telephones - mobile cellular - subscriptions per 100 inhabitants: 109 (2022 est.)
+Communications: Telecommunication systems - general assessment: Algeria has a steadily developing telecom infrastructure with growth encouraged by supportive regulatory measures and by government policies aimed at delivering serviceable internet connections across the country; mobile broadband is largely based on 3G and LTE, and the data rates are also low in global terms; LTE is available in all provinces, investment is required from the mobile network operators (MNOs) to improve the quality of service; the state has previously been hesitant to commit to 5G, instead encouraging the MNOs to undertake upgrades to LTE infrastructure before investing in commercial 5G services; in March 2022, the state is in the process of freeing up the requisite spectrum to enable the MNOs to launch 5G services sometime this year; fixed internet speeds remain slow (2022)
+Communications: Telecommunication systems - domestic: a limited network of fixed-lines with a teledensity of slightly less than 12 telephones per 100 persons has been offset by the rapid increase in mobile-cellular subscribership; mobile-cellular teledensity was approximately 106 telephones per 100 persons in 2020 (2021)
+Communications: Telecommunication systems - international: country code - 213; ALPAL-2 is a submarine telecommunications cable system in the Mediterranean Sea linking Algeria and the Spanish Balearic island of Majorca; ORVAL is a submarine cable to Spain; landing points for the TE North/TGN-Eurasia/SEACOM/SeaMeWe-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; MED cable connecting Algeria with France; microwave radio relay to Italy, France, Spain, Morocco, and Tunisia; Algeria part of the 4,500 Km terrestrial Trans Sahara Backbone network which connects to other fiber networks in the region; Alcomstat-1 satellite offering  telemedicine network (2020)
+Communications: Broadcast media: Radio Algerienne is the state-run radio broadcast, whereas the National Company of Television (Entreprise Nationale de Télévision (ENTV)) is the primary state-run public broadcasting TV station (2024)
+Communications: Internet country code: .dz
+Communications: Internet users - percent of population: 71% (2022 est.)
+Communications: Broadband - fixed subscriptions - total: 5.54 million (2023 est.)
+Communications: Broadband - fixed subscriptions - subscriptions per 100 inhabitants: 12 (2023 est.)
+Transportation: National air transport system - number of registered air carriers: 3 (2020)
+Transportation: National air transport system - inventory of registered aircraft operated by air carriers: 87
+Transportation: National air transport system - annual passenger traffic on registered air carriers: 6,442,442 (2018)
+Transportation: National air transport system - annual freight traffic on registered air carriers: 28.28 million (2018) mt-km
+Transportation: Civil aircraft registration country code prefix: 7T
+Transportation: Airports: 85 (2024)
+Transportation: Heliports: 9 (2024)
+Transportation: Pipelines: 2,600 km condensate, 16,415 km gas, 3,447 km liquid petroleum gas, 7,036 km oil, 144 km refined products (2013)
+Transportation: Railways - total: 4,020 km (2019)
+Transportation: Roadways - total: 112,696 km (2020)
+Transportation: Merchant marine - total: 119 (2022)
+Transportation: Merchant marine - by type: bulk carrier 1, container ship 4, general cargo 11, oil tanker 14, other 89
+Transportation: Ports - total ports: 17 (2024)
+Transportation: Ports - large: 2
+Transportation: Ports - medium: 1
+Transportation: Ports - small: 6
+Transportation: Ports - very small: 8
+Transportation: Ports - ports with oil terminals: 3
+Transportation: Ports - key ports: Alger, Annaba, Arzew, Arzew El Djedid, Bejaia, Mers El Kebir, Oran, Port Methanier, Skikda
+Military and Security: Military and security forces: Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast Guard), Air Forces, Territorial Air Defense Forces, Republican Guard (under ANP but responsible to the President), National GendarmerieMinistry of Interior: General Directorate of National Security (national police) (2024)
+Military and Security: Military and security forces - note: the National Gendarmerie performs police functions outside urban areas under the auspices of the Ministry of National Defense; it is comprised of territorial, intervention/mobile, border guard, railway, riot control, and air support units; General Directorate of National Security share responsibility for maintaining law and order
+Military and Security: Military expenditures: 9% of GDP (2023 est.)4.8% of GDP (2022 est.)5.6% of GDP (2021 est.)6.7% of GDP (2020 est.)6% of GDP (2019 est.)
+Military and Security: Military and security service personnel strengths: approximately 225,000 armed forces personnel (100,000 Army; 15,000 Air Force/Air Defense; 10,000 Navy; 1,000 Republican Guard; 100,000 Gendarmerie) (2024)
+Military and Security: Military equipment inventories and acquisitions: the Algerian military has traditionally been armed mostly with Russian and Soviet-era weapons systems and equipment; over the past decade, it has made large investments in acquiring more modern armored vehicles, air defense systems, fighter aircraft, missiles, unmanned aerial vehicles, and warships, largely from Russia, its traditional supplier, but also China and Western European suppliers such as Germany (2024)
+Military and Security: Military service age and obligation: 18 is the legal minimum age for voluntary military service for men and women; 19-30 years of age for mandatory national service for men (all Algerian men must register at age 17); service obligation reduced from 18 to 12 months in 2014 (2024)
+Military and Security: Military service age and obligation - note: conscripts comprise an estimated 70% of the military
+Military and Security: Military - note: the ANP is responsible for external defense but also has some internal security responsibilities; key areas of concern include border and maritime security, terrorism, regional instability, and tensions with Morocco; Algeria supports the pro-independence Polisario Front in Western Sahara and accuses Morocco of supporting the Algerian separatist Movement for the Autonomy of Kabylie (MAK); border security and counterterrorism have received additional focus since the Arab Spring events of 2011 and the rise of terrorist threats emanating from Libya and the Sahel; the Army and Ministry of Defense (MND) paramilitary forces of the Gendarmerie and the border guards have beefed up their presence along the frontiers with Tunisia, Libya, Niger, and Mali to interdict and deter cross-border attacks by Islamist militant groups; the ANP and MND paramilitary forces have also increased counterterrorism cooperation with some neighboring countries, particularly Tunisia, including joint operationsthe ANP has also played a large role in the country’s politics since independence in 1962, including coups in 1965 and 1991; it was a key backer of BOUTEFLIKA’s election in 1999 and remained a center of power during his 20-year rule; the military was instrumental in BOUTEFLIKA’s resignation in 2019, when it withdrew support and called for him to be removed from office (2024)
+Space: Space agency/agencies: Algerian Space Agency (Agence Spatiale Algérienne, ASAL; established 2002) (2024)
+Space: Space launch site(s): none; note - in 1947, Algeria began hosting a French military rocket test site, which was the continent of Africa's first rocket launch site; it was called the Centre Interarmées d’Essais d’Engins Spéciaux (CIEES or Interarmy Special Vehicles Test Center) and was in service until 1967
+Space: Space program overview: has a national space policy and a national space research program with stated goals of supporting internal development, managing resource usage, mastering space technology, and reinforcing national sovereignty; builds and operates communications and remote sensing (RS) satellites; researching and developing a range of space-related capabilities, including satellites and satellite payloads, communications, RS, instrumentation, satellite image processing, and geo-spatial information; has bilateral relationships with a variety of foreign space agencies and industries, including those of Argentina, China, France, Germany, India, Russia, Ukraine, and the UK; also a member of the Arab Space Coordination Group, established by the UAE in 2019 (2024)
+Space: Space program overview - note: further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide
+Terrorism: Terrorist group(s) - Terrorist group(s): al-Qa'ida in the Islamic Maghreb (AQIM); Islamic State of Iraq and ash-Sham (ISIS) – Algeria; al-Mulathamun Battalion (al-Mourabitoun)
+Terrorism: Terrorist group(s) - note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide
+Transnational Issues: Refugees and internally displaced persons - refugees (country of origin): more than 100,000 (Sahrawi, mostly living in Algerian-sponsored camps in the southwestern Algerian town of Tindouf); 7,345 (Syria) (mid-year 2022)
+Transnational Issues: Trafficking in persons - tier rating: Tier 2 Watch list — Algeria does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Algeria was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/algeria/
+Transnational Issues: Illicit drugs: NA

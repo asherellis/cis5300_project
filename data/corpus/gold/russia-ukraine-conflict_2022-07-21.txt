@@ -1,0 +1,31 @@
+{
+  "doc_id": "gold/russia-ukraine-conflict_2022-07-21",
+  "source_dataset": "hugginglearners/russia-ukraine-conflict-articles",
+  "source": "2022-07-21",
+  "sentences": [
+    {
+      "sid": "S1",
+      "text": "Russia\u2019s decision to restart the flow of natural gas through a vital pipeline on Thursday brought a moment of relief to Germany, which uses the fuel to power its most important industries and heat half its homes."
+    },
+    {
+      "sid": "S2",
+      "text": "But it is unlikely to be much more than that."
+    },
+    {
+      "sid": "S3",
+      "text": "President Vladimir V. Putin of Russia has made clear that he intends to use his country\u2019s energy exports as a cudgel, and even a weapon, to punish and divide European leaders \u2014 loosening or tightening the taps as it suits him and his war aims in Ukraine."
+    },
+    {
+      "sid": "S4",
+      "text": "He is counting on that uncertainty to impose heavy economic and political costs on European leaders."
+    },
+    {
+      "sid": "S5",
+      "text": "Those elected officials are under growing pressure to bring down energy prices and avoid gas rationing that might force factories and government buildings to close and require people to lower thermostats in winter."
+    },
+    {
+      "sid": "S6",
+      "text": "Leaders in some nations, like Spain and Greece, are already chafing at a European Union plan to have every member country cut its gas use, arguing that they are already much less reliant on Russia than Germany."
+    }
+  ]
+}

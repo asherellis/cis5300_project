@@ -1,0 +1,812 @@
+{
+  "1": {
+    "extension": 1,
+    "total": 24,
+    "SUPPORTED": 14,
+    "PARTIAL": 1,
+    "NOT_SUPPORTED": 1,
+    "NO_DOC": 0,
+    "ERROR": 0,
+    "UNKNOWN": 0,
+    "per_question": [
+      {
+        "question_id": "q001",
+        "status": "SUPPORTED",
+        "answer_preview": "Griffin Bell's memberships in private segregated clubs and some of his decisions..."
+      },
+      {
+        "question_id": "q002",
+        "status": "SUPPORTED",
+        "answer_preview": "The proposed civil nuclear partnership sparked opposition from the Indian opposi..."
+      },
+      {
+        "question_id": "q003",
+        "status": "SUPPORTED",
+        "answer_preview": "According to the article, the electoral commission requested 3.3 million extra b..."
+      },
+      {
+        "question_id": "q004",
+        "status": "NOT_SUPPORTED",
+        "answer_preview": "The document does not provide specific information on the percentage of Rwanda\u2019s..."
+      },
+      {
+        "question_id": "q005",
+        "status": "SUPPORTED",
+        "answer_preview": "In response to the 2011 demonstrations, Sultan Qaboos implemented economic and p..."
+      },
+      {
+        "question_id": "q006",
+        "status": "SUPPORTED",
+        "answer_preview": "Ibrahim Boubacar KEITA won the Malian presidential elections in 2013 and 2018. A..."
+      },
+      {
+        "question_id": "q007",
+        "status": "SUPPORTED",
+        "answer_preview": "North Korea's dynastic leadership structure has been characterized by autocratic..."
+      },
+      {
+        "question_id": "q008",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q009",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q010",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q011",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q012",
+        "status": "SUPPORTED",
+        "answer_preview": "Russia's inability to make scheduled payments on its foreign bonds escalated int..."
+      },
+      {
+        "question_id": "q013",
+        "status": "SUPPORTED",
+        "answer_preview": "Investment analysts are cautiously reckoning that a Russian default would not ha..."
+      },
+      {
+        "question_id": "q014",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q015",
+        "status": "SUPPORTED",
+        "answer_preview": "Public statements from President Biden and General Lord Richards described diffe..."
+      },
+      {
+        "question_id": "q016",
+        "status": "SUPPORTED",
+        "answer_preview": "The UN had warned that the war risked mass malnutrition, hunger, and famine if U..."
+      },
+      {
+        "question_id": "q017",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q018",
+        "status": "PARTIAL",
+        "answer_preview": "Germany's projected consumer gas prices and energy planning were not directly af..."
+      },
+      {
+        "question_id": "q019",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q020",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q021",
+        "status": "SUPPORTED",
+        "answer_preview": "Pre-colonial political structures, particularly the Rwandan royal court dominate..."
+      },
+      {
+        "question_id": "q022",
+        "status": "SUPPORTED",
+        "answer_preview": "Critics of the government, including the opposition and civil society actors, pr..."
+      },
+      {
+        "question_id": "q023",
+        "status": "SUPPORTED",
+        "answer_preview": "Russia was using its natural gas exports as a tool of political influence over E..."
+      },
+      {
+        "question_id": "q024",
+        "status": "SUPPORTED",
+        "answer_preview": "Korea became the object of intense imperialistic rivalry among the Chinese, Japa..."
+      }
+    ],
+    "supported_pct": 87.5,
+    "partial_pct": 6.25,
+    "not_supported_pct": 6.25
+  },
+  "2": {
+    "extension": 2,
+    "total": 24,
+    "SUPPORTED": 18,
+    "PARTIAL": 1,
+    "NOT_SUPPORTED": 1,
+    "NO_DOC": 0,
+    "ERROR": 0,
+    "UNKNOWN": 0,
+    "per_question": [
+      {
+        "question_id": "q001",
+        "status": "SUPPORTED",
+        "answer_preview": "Bell's memberships in private segregated clubs and some of his decisions as a fe..."
+      },
+      {
+        "question_id": "q002",
+        "status": "SUPPORTED",
+        "answer_preview": "The main political tensions surrounding India's proposed civil nuclear partnersh..."
+      },
+      {
+        "question_id": "q003",
+        "status": "SUPPORTED",
+        "answer_preview": "The electoral commission requested 3.3 million extra ballots beyond the number o..."
+      },
+      {
+        "question_id": "q004",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q005",
+        "status": "SUPPORTED",
+        "answer_preview": "In response to the 2011 demonstrations, Sultan Qaboos implemented economic and p..."
+      },
+      {
+        "question_id": "q006",
+        "status": "SUPPORTED",
+        "answer_preview": "Ibrahim Boubacar KEITA won the Malian presidential elections in 2013 and 2018. A..."
+      },
+      {
+        "question_id": "q007",
+        "status": "SUPPORTED",
+        "answer_preview": "KIM Il Sung's authoritarian rule cemented autocratic one-party rule under the Ko..."
+      },
+      {
+        "question_id": "q008",
+        "status": "SUPPORTED",
+        "answer_preview": "Dominica transitioned from European colonial rule to an independent state by bei..."
+      },
+      {
+        "question_id": "q009",
+        "status": "SUPPORTED",
+        "answer_preview": "Hurricane Maria passed over the island in 2017, causing extensive damage to stru..."
+      },
+      {
+        "question_id": "q010",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q011",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q012",
+        "status": "SUPPORTED",
+        "answer_preview": "Russia's inability to make scheduled payments on its foreign bonds escalated int..."
+      },
+      {
+        "question_id": "q013",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q014",
+        "status": "SUPPORTED",
+        "answer_preview": "Russian officials, specifically Vladimir Putin's spokesperson Dmitry Peskov, pub..."
+      },
+      {
+        "question_id": "q015",
+        "status": "SUPPORTED",
+        "answer_preview": "President Biden stated that Ukraine's president, Volodymyr Zelenskiy, did not wa..."
+      },
+      {
+        "question_id": "q016",
+        "status": "NOT_SUPPORTED",
+        "answer_preview": "The document does not provide information on Zelenskiy warning of risks from Rus..."
+      },
+      {
+        "question_id": "q017",
+        "status": "PARTIAL",
+        "answer_preview": "The article does not mention the exact number of children reported killed in the..."
+      },
+      {
+        "question_id": "q018",
+        "status": "SUPPORTED",
+        "answer_preview": "Russia's reduction of gas flows through Nord Stream 1 prompted a four- to sixfol..."
+      },
+      {
+        "question_id": "q019",
+        "status": "SUPPORTED",
+        "answer_preview": "According to the report, Germany could operate for just about two-and-a-half mon..."
+      },
+      {
+        "question_id": "q020",
+        "status": "SUPPORTED",
+        "answer_preview": "Ukrainian officials and international observers, including Energoatom and the UK..."
+      },
+      {
+        "question_id": "q021",
+        "status": "SUPPORTED",
+        "answer_preview": "Pre-colonial Rwandan Tutsi monarchs extended their power and expanded borders th..."
+      },
+      {
+        "question_id": "q022",
+        "status": "SUPPORTED",
+        "answer_preview": "Opposition parties and civil society actors described the main threats to the fa..."
+      },
+      {
+        "question_id": "q023",
+        "status": "SUPPORTED",
+        "answer_preview": "According to the document, Russia was using its natural gas exports as a tool of..."
+      },
+      {
+        "question_id": "q024",
+        "status": "SUPPORTED",
+        "answer_preview": "The Chinese, Japanese, and Russian empires competed for influence over Korea in ..."
+      }
+    ],
+    "supported_pct": 90.0,
+    "partial_pct": 5.0,
+    "not_supported_pct": 5.0
+  },
+  "3": {
+    "extension": 3,
+    "total": 24,
+    "SUPPORTED": 18,
+    "PARTIAL": 0,
+    "NOT_SUPPORTED": 1,
+    "NO_DOC": 0,
+    "ERROR": 0,
+    "UNKNOWN": 0,
+    "per_question": [
+      {
+        "question_id": "q001",
+        "status": "SUPPORTED",
+        "answer_preview": "Bell's memberships in private segregated clubs and some of his decisions as a fe..."
+      },
+      {
+        "question_id": "q002",
+        "status": "SUPPORTED",
+        "answer_preview": "The main political tensions surrounding India's proposed civil nuclear partnersh..."
+      },
+      {
+        "question_id": "q003",
+        "status": "SUPPORTED",
+        "answer_preview": "The Zimbabwe Electoral Commission asked for 3.3 million more ballots than there ..."
+      },
+      {
+        "question_id": "q004",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q005",
+        "status": "SUPPORTED",
+        "answer_preview": "In response to the 2011 demonstrations, Sultan Qaboos implemented economic and p..."
+      },
+      {
+        "question_id": "q006",
+        "status": "SUPPORTED",
+        "answer_preview": "Ibrahim Boubacar KEITA won the Malian presidential elections in 2013 and 2018.  ..."
+      },
+      {
+        "question_id": "q007",
+        "status": "SUPPORTED",
+        "answer_preview": "KIM Il Sung's authoritarian rule, which included tight control over North Korean..."
+      },
+      {
+        "question_id": "q008",
+        "status": "SUPPORTED",
+        "answer_preview": "Dominica transitioned from European colonial rule to an independent state throug..."
+      },
+      {
+        "question_id": "q009",
+        "status": "SUPPORTED",
+        "answer_preview": "Hurricane Maria passed over the island in 2017, causing extensive damage to stru..."
+      },
+      {
+        "question_id": "q010",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q011",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q012",
+        "status": "SUPPORTED",
+        "answer_preview": "Russia's inability to make scheduled payments on its foreign bonds escalated int..."
+      },
+      {
+        "question_id": "q013",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q014",
+        "status": "SUPPORTED",
+        "answer_preview": "Russian officials, through Vladimir Putin's spokesperson Dmitry Peskov, publicly..."
+      },
+      {
+        "question_id": "q015",
+        "status": "SUPPORTED",
+        "answer_preview": "President Biden described President Zelenskiy of Ukraine as not wanting to hear ..."
+      },
+      {
+        "question_id": "q016",
+        "status": "NOT_SUPPORTED",
+        "answer_preview": "Zelenskiy warned that the occupying military force is not safe \"anywhere on our ..."
+      },
+      {
+        "question_id": "q017",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q018",
+        "status": "SUPPORTED",
+        "answer_preview": "Russia's reduction of gas flows through Nord Stream 1 led to a four- to sixfold ..."
+      },
+      {
+        "question_id": "q019",
+        "status": "SUPPORTED",
+        "answer_preview": "According to this report, Germany could operate without any Russian gas supplies..."
+      },
+      {
+        "question_id": "q020",
+        "status": "SUPPORTED",
+        "answer_preview": "Ukraine's state-run operator, Energoatom, and the UK's Ministry of Defence have ..."
+      },
+      {
+        "question_id": "q021",
+        "status": "SUPPORTED",
+        "answer_preview": "Pre-colonial political structures, specifically the Rwandan royal court centered..."
+      },
+      {
+        "question_id": "q022",
+        "status": "SUPPORTED",
+        "answer_preview": "Critics of the government predicted that the elections would be rigged or marred..."
+      },
+      {
+        "question_id": "q023",
+        "status": "SUPPORTED",
+        "answer_preview": "According to the document, Russia was deliberately cutting supplies of natural g..."
+      },
+      {
+        "question_id": "q024",
+        "status": "SUPPORTED",
+        "answer_preview": "Korea became the object of intense imperialistic rivalry among the Chinese, Japa..."
+      }
+    ],
+    "supported_pct": 94.73684210526315,
+    "partial_pct": 0.0,
+    "not_supported_pct": 5.263157894736842
+  },
+  "4": {
+    "extension": 4,
+    "total": 24,
+    "SUPPORTED": 19,
+    "PARTIAL": 0,
+    "NOT_SUPPORTED": 0,
+    "NO_DOC": 0,
+    "ERROR": 0,
+    "UNKNOWN": 0,
+    "per_question": [
+      {
+        "question_id": "q001",
+        "status": "SUPPORTED",
+        "answer_preview": "Griffin Bell's memberships in private segregated clubs and some of his decisions..."
+      },
+      {
+        "question_id": "q002",
+        "status": "SUPPORTED",
+        "answer_preview": "The main political tensions surrounding India's proposed civil nuclear partnersh..."
+      },
+      {
+        "question_id": "q003",
+        "status": "SUPPORTED",
+        "answer_preview": "The Zimbabwean electoral commission requested 3.3 million extra ballots beyond t..."
+      },
+      {
+        "question_id": "q004",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q005",
+        "status": "SUPPORTED",
+        "answer_preview": "In response to the 2011 demonstrations, Sultan Qaboos implemented economic and p..."
+      },
+      {
+        "question_id": "q006",
+        "status": "SUPPORTED",
+        "answer_preview": "Ibrahim Boubacar KEITA won the Malian presidential elections in 2013 and 2018. A..."
+      },
+      {
+        "question_id": "q007",
+        "status": "SUPPORTED",
+        "answer_preview": "The dynastic leadership structure in North Korea, led by the KIM family, has sha..."
+      },
+      {
+        "question_id": "q008",
+        "status": "SUPPORTED",
+        "answer_preview": "Dominica transitioned from European colonial rule to an independent state by bec..."
+      },
+      {
+        "question_id": "q009",
+        "status": "SUPPORTED",
+        "answer_preview": "According to the article, Hurricane Maria passed over the island in 2017, causin..."
+      },
+      {
+        "question_id": "q010",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q011",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q012",
+        "status": "SUPPORTED",
+        "answer_preview": "Russia's inability to make scheduled payments on its foreign bonds escalated int..."
+      },
+      {
+        "question_id": "q013",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q014",
+        "status": "SUPPORTED",
+        "answer_preview": "Russian officials publicly responded to accusations of default by denying the co..."
+      },
+      {
+        "question_id": "q015",
+        "status": "SUPPORTED",
+        "answer_preview": "In a public statement, President Biden implied that Ukraine's president, Volodym..."
+      },
+      {
+        "question_id": "q016",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q017",
+        "status": "SUPPORTED",
+        "answer_preview": "At least 3 children were killed in the attack. The document does not provide inf..."
+      },
+      {
+        "question_id": "q018",
+        "status": "SUPPORTED",
+        "answer_preview": "Russia's reduction of gas flows through Nord Stream 1 led to a four- to sixfold ..."
+      },
+      {
+        "question_id": "q019",
+        "status": "SUPPORTED",
+        "answer_preview": "According to the report, Germany could operate without any Russian gas for just ..."
+      },
+      {
+        "question_id": "q020",
+        "status": "SUPPORTED",
+        "answer_preview": "Ukrainian officials and international observers expressed concerns about the \"se..."
+      },
+      {
+        "question_id": "q021",
+        "status": "SUPPORTED",
+        "answer_preview": "Pre-colonial political structures, particularly the centralized Rwandan Tutsi ki..."
+      },
+      {
+        "question_id": "q022",
+        "status": "SUPPORTED",
+        "answer_preview": "Critics of the government and opposition parties described the main threats to t..."
+      },
+      {
+        "question_id": "q023",
+        "status": "SUPPORTED",
+        "answer_preview": "President Vladimir V. Putin of Russia is using his country's energy exports as a..."
+      },
+      {
+        "question_id": "q024",
+        "status": "SUPPORTED",
+        "answer_preview": "Japan became a regional power that was able to defeat the forces of both China a..."
+      }
+    ],
+    "supported_pct": 100.0,
+    "partial_pct": 0.0,
+    "not_supported_pct": 0.0
+  },
+  "5": {
+    "extension": 5,
+    "total": 24,
+    "SUPPORTED": 19,
+    "PARTIAL": 0,
+    "NOT_SUPPORTED": 0,
+    "NO_DOC": 0,
+    "ERROR": 0,
+    "UNKNOWN": 0,
+    "per_question": [
+      {
+        "question_id": "q001",
+        "status": "SUPPORTED",
+        "answer_preview": "Bell's memberships in private segregated clubs and some of his decisions as a fe..."
+      },
+      {
+        "question_id": "q002",
+        "status": "SUPPORTED",
+        "answer_preview": "The main political tensions surrounding India's proposed civil nuclear partnersh..."
+      },
+      {
+        "question_id": "q003",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q004",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q005",
+        "status": "SUPPORTED",
+        "answer_preview": "In response to the 2011 demonstrations, Sultan QABOOS implemented economic and p..."
+      },
+      {
+        "question_id": "q006",
+        "status": "SUPPORTED",
+        "answer_preview": "Ibrahim Boubacar KEITA won the Malian presidential elections in 2013 and 2018. A..."
+      },
+      {
+        "question_id": "q007",
+        "status": "SUPPORTED",
+        "answer_preview": "The dynastic leadership structure in North Korea has been shaped by the successi..."
+      },
+      {
+        "question_id": "q008",
+        "status": "SUPPORTED",
+        "answer_preview": "Dominica transitioned from European colonial rule to an independent state throug..."
+      },
+      {
+        "question_id": "q009",
+        "status": "SUPPORTED",
+        "answer_preview": "Hurricane Maria passed over the island in 2017, causing extensive damage to stru..."
+      },
+      {
+        "question_id": "q010",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q011",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q012",
+        "status": "SUPPORTED",
+        "answer_preview": "Russia's inability to make scheduled payments on its foreign bonds escalated int..."
+      },
+      {
+        "question_id": "q013",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q014",
+        "status": "SUPPORTED",
+        "answer_preview": "Russian officials publicly responded to accusations of default by denying that t..."
+      },
+      {
+        "question_id": "q015",
+        "status": "SUPPORTED",
+        "answer_preview": "President Biden implied that Ukraine's president, Volodymyr Zelenskiy, was resis..."
+      },
+      {
+        "question_id": "q016",
+        "status": "SUPPORTED",
+        "answer_preview": "Zelenskiy warned that if Russian blockades stopped Ukraine from exporting food, ..."
+      },
+      {
+        "question_id": "q017",
+        "status": "SUPPORTED",
+        "answer_preview": "At least 287 children have died in the war so far, according to Ukraine's prosec..."
+      },
+      {
+        "question_id": "q018",
+        "status": "SUPPORTED",
+        "answer_preview": "Germany's consumers could face a tripling of gas prices due to Russia's reductio..."
+      },
+      {
+        "question_id": "q019",
+        "status": "SUPPORTED",
+        "answer_preview": "According to this report, Germany could operate without any Russian gas for abou..."
+      },
+      {
+        "question_id": "q020",
+        "status": "SUPPORTED",
+        "answer_preview": "According to the document, Ukrainian officials identified risks of Russian milit..."
+      },
+      {
+        "question_id": "q021",
+        "status": "SUPPORTED",
+        "answer_preview": "Colonial rule reinforced existing trends toward autocratic and exclusionary rule..."
+      },
+      {
+        "question_id": "q022",
+        "status": "SUPPORTED",
+        "answer_preview": "Critics of the government have predicted that the elections will be rigged or ma..."
+      },
+      {
+        "question_id": "q023",
+        "status": "SUPPORTED",
+        "answer_preview": "According to the document, Russia was using its natural gas exports as a tool of..."
+      },
+      {
+        "question_id": "q024",
+        "status": "SUPPORTED",
+        "answer_preview": "Japan became a regional power during the late 19th and early 20th centuries, abl..."
+      }
+    ],
+    "supported_pct": 100.0,
+    "partial_pct": 0.0,
+    "not_supported_pct": 0.0
+  },
+  "6": {
+    "extension": 6,
+    "total": 24,
+    "SUPPORTED": 21,
+    "PARTIAL": 0,
+    "NOT_SUPPORTED": 0,
+    "NO_DOC": 0,
+    "ERROR": 0,
+    "UNKNOWN": 0,
+    "per_question": [
+      {
+        "question_id": "q001",
+        "status": "SUPPORTED",
+        "answer_preview": "Bell's memberships in private segregated clubs and some of his decisions as a fe..."
+      },
+      {
+        "question_id": "q002",
+        "status": "SUPPORTED",
+        "answer_preview": "The main political tensions surrounding India's proposed civil nuclear partnersh..."
+      },
+      {
+        "question_id": "q003",
+        "status": "SUPPORTED",
+        "answer_preview": "According to the article, the electoral commission requested 3.3 million more ba..."
+      },
+      {
+        "question_id": "q004",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q005",
+        "status": "SUPPORTED",
+        "answer_preview": "In response to the 2011 demonstrations, Sultan QABOOS implemented economic and p..."
+      },
+      {
+        "question_id": "q006",
+        "status": "SUPPORTED",
+        "answer_preview": "Ibrahim Boubacar KEITA won the Malian presidential elections in 2013 and 2018. A..."
+      },
+      {
+        "question_id": "q007",
+        "status": "SUPPORTED",
+        "answer_preview": "North Korea's dynastic leadership structure, with KIM Il Sung's son KIM Jong Il ..."
+      },
+      {
+        "question_id": "q008",
+        "status": "SUPPORTED",
+        "answer_preview": "Dominica transitioned from European colonial rule to an independent state throug..."
+      },
+      {
+        "question_id": "q009",
+        "status": "SUPPORTED",
+        "answer_preview": "Hurricane Maria passed over the island in 2017, causing extensive damage to stru..."
+      },
+      {
+        "question_id": "q010",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q011",
+        "status": "SKIPPED",
+        "reason": "No answer or declined to answer"
+      },
+      {
+        "question_id": "q012",
+        "status": "SUPPORTED",
+        "answer_preview": "Russia's efforts to avoid default hit an insurmountable roadblock in late May wh..."
+      },
+      {
+        "question_id": "q013",
+        "status": "SUPPORTED",
+        "answer_preview": "Analysts expected the stigma of a Russian default to raise its borrowing costs i..."
+      },
+      {
+        "question_id": "q014",
+        "status": "SUPPORTED",
+        "answer_preview": "Russian officials, through Vladimir Putin's spokesperson Dmitry Peskov, publicly..."
+      },
+      {
+        "question_id": "q015",
+        "status": "SUPPORTED",
+        "answer_preview": "Public statements from President Biden described a weakness in the Western respo..."
+      },
+      {
+        "question_id": "q016",
+        "status": "SUPPORTED",
+        "answer_preview": "Zelenskiy warned that if Russian blockades stopped Ukraine exporting food, the w..."
+      },
+      {
+        "question_id": "q017",
+        "status": "SUPPORTED",
+        "answer_preview": "At least 287 children have died in the war, with 24 additional confirmed deaths ..."
+      },
+      {
+        "question_id": "q018",
+        "status": "SUPPORTED",
+        "answer_preview": "Russia's reduction of gas flows through Nord Stream 1 prompted a four- to sixfol..."
+      },
+      {
+        "question_id": "q019",
+        "status": "SUPPORTED",
+        "answer_preview": "According to the report, Germany could operate without any Russian gas for about..."
+      },
+      {
+        "question_id": "q020",
+        "status": "SUPPORTED",
+        "answer_preview": "Ukrainian officials identified a risk of strikes near the Zaporizhzhia nuclear r..."
+      },
+      {
+        "question_id": "q021",
+        "status": "SUPPORTED",
+        "answer_preview": "Colonial rule reinforced existing trends toward autocratic and exclusionary rule..."
+      },
+      {
+        "question_id": "q022",
+        "status": "SUPPORTED",
+        "answer_preview": "Critics of the government predicted that the elections would be either rigged or..."
+      },
+      {
+        "question_id": "q023",
+        "status": "SUPPORTED",
+        "answer_preview": "Russia was using its natural gas exports to \"terrorise\" Europe by deliberately c..."
+      },
+      {
+        "question_id": "q024",
+        "status": "SUPPORTED",
+        "answer_preview": "According to the historical account provided, Korea became the object of intense..."
+      }
+    ],
+    "supported_pct": 100.0,
+    "partial_pct": 0.0,
+    "not_supported_pct": 0.0
+  }
+}

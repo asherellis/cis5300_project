@@ -1,0 +1,1092 @@
+{
+  "rag_extension4": {
+    "retrieval": {
+      "recall_at_1": 20,
+      "recall_at_5": 23,
+      "total": 24,
+      "per_question": [
+        {
+          "question_id": "q001",
+          "gold_doc_id": "gold/cnn_dailymail__506e1baad13bc8b50b0f1db98518da52aea1c40c",
+          "retrieved_top_1": "gold/cnn_dailymail__506e1baad13bc8b50b0f1db98518da52aea1c40c",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q002",
+          "gold_doc_id": "gold/cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+          "retrieved_top_1": "gold/cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q003",
+          "gold_doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+          "retrieved_top_1": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q004",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Rwanda_history",
+          "retrieved_top_1": "gold/the-world-factbook-by-cia__Rwanda_history",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q005",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+          "retrieved_top_1": "gold/the-world-factbook-by-cia__Oman_history",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q006",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Mali_history",
+          "retrieved_top_1": "gold/the-world-factbook-by-cia__Mali_history",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q007",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Korea_North_history",
+          "retrieved_top_1": "gold/the-world-factbook-by-cia__Korea_North_history",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q008",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Dominica",
+          "retrieved_top_1": "gold/the-world-factbook-by-cia__Dominica",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q009",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Dominica",
+          "retrieved_top_1": "gold/the-world-factbook-by-cia__Dominica",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q010",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Mali_history",
+          "retrieved_top_1": "gold/the-world-factbook-by-cia__Mali_history",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q011",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+          "retrieved_top_1": "gold/the-world-factbook-by-cia__Oman_history",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q012",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+          "retrieved_top_1": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q013",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+          "retrieved_top_1": "hugginglearners/russia-ukraine-conflict-articles__2022-07-04T05_05_34Z",
+          "recall_at_1": 0,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q014",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+          "retrieved_top_1": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q015",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-06-11T12_01_17Z",
+          "retrieved_top_1": "gold/russia-ukraine-conflict_2022-06-11T12_01_17Z",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q016",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-06-11T12_01_17Z",
+          "retrieved_top_1": "hugginglearners/russia-ukraine-conflict-articles__2022-07-13T00_10_53Z",
+          "recall_at_1": 0,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q017",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-06-11T12_01_17Z",
+          "retrieved_top_1": "hugginglearners/russia-ukraine-conflict-articles__2022-07-15T08_22_30Z",
+          "recall_at_1": 0,
+          "recall_at_5": 0
+        },
+        {
+          "question_id": "q018",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-06-24T10_57_22Z",
+          "retrieved_top_1": "gold/russia-ukraine-conflict_2022-06-24T10_57_22Z",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q019",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-06-24T10_57_22Z",
+          "retrieved_top_1": "gold/russia-ukraine-conflict_2022-06-24T10_57_22Z",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q020",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-08-05T12_31_57Z",
+          "retrieved_top_1": "gold/russia-ukraine-conflict_2022-08-05T12_31_57Z",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q021",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Rwanda_history",
+          "retrieved_top_1": "gold/the-world-factbook-by-cia__Rwanda_history",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q022",
+          "gold_doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+          "retrieved_top_1": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q023",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-07-21",
+          "retrieved_top_1": "gold/russia-ukraine-conflict_2022-07-21",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q024",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Korea_North_history",
+          "retrieved_top_1": "cia-world-factbook/the-world-factbook-by-cia__Japan",
+          "recall_at_1": 0,
+          "recall_at_5": 1
+        }
+      ],
+      "recall_at_1_pct": 83.33333333333334,
+      "recall_at_5_pct": 95.83333333333334
+    },
+    "citation": {
+      "total_questions": 24,
+      "questions_with_evidence": 22,
+      "precision_sum": 14.033333333333333,
+      "recall_sum": 10.649404761904762,
+      "f1_sum": 11.60917415917416,
+      "per_question": [
+        {
+          "question_id": "q001",
+          "gold_doc_id": "gold/cnn_dailymail__506e1baad13bc8b50b0f1db98518da52aea1c40c",
+          "gold_sentences": [
+            "S13",
+            "S14",
+            "S15"
+          ],
+          "pred_sentences": [
+            "S13",
+            "S14",
+            "S15"
+          ],
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        {
+          "question_id": "q002",
+          "gold_doc_id": "gold/cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+          "gold_sentences": [
+            "S1",
+            "S12",
+            "S2",
+            "S4",
+            "S5",
+            "S8",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S12",
+            "S14",
+            "S5"
+          ],
+          "precision": 0.6666666666666666,
+          "recall": 0.2857142857142857,
+          "f1": 0.4
+        },
+        {
+          "question_id": "q003",
+          "gold_doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+          "gold_sentences": [
+            "S36",
+            "S7"
+          ],
+          "pred_sentences": [
+            "S17",
+            "S7"
+          ],
+          "precision": 0.5,
+          "recall": 0.5,
+          "f1": 0.5
+        },
+        {
+          "question_id": "q005",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+          "gold_sentences": [
+            "S8",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S7",
+            "S8",
+            "S9"
+          ],
+          "precision": 0.6666666666666666,
+          "recall": 1.0,
+          "f1": 0.8
+        },
+        {
+          "question_id": "q006",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Mali_history",
+          "gold_sentences": [
+            "S22",
+            "S23"
+          ],
+          "pred_sentences": [
+            "S22",
+            "S23"
+          ],
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        {
+          "question_id": "q007",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Korea_North_history",
+          "gold_sentences": [
+            "S10",
+            "S12",
+            "S13",
+            "S14",
+            "S15",
+            "S16",
+            "S17",
+            "S18"
+          ],
+          "pred_sentences": [
+            "S10",
+            "S13",
+            "S16",
+            "S22",
+            "S25"
+          ],
+          "precision": 0.6,
+          "recall": 0.375,
+          "f1": 0.4615384615384615
+        },
+        {
+          "question_id": "q008",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Dominica",
+          "gold_sentences": [
+            "S1",
+            "S2",
+            "S4",
+            "S5",
+            "S6"
+          ],
+          "pred_sentences": [
+            "S2",
+            "S5",
+            "S6"
+          ],
+          "precision": 1.0,
+          "recall": 0.6,
+          "f1": 0.7499999999999999
+        },
+        {
+          "question_id": "q009",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Dominica",
+          "gold_sentences": [
+            "S7"
+          ],
+          "pred_sentences": [
+            "S7"
+          ],
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        {
+          "question_id": "q011",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+          "gold_sentences": [
+            "S9"
+          ],
+          "pred_sentences": [],
+          "precision": 0,
+          "recall": 0,
+          "f1": 0
+        },
+        {
+          "question_id": "q012",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+          "gold_sentences": [
+            "S1",
+            "S18",
+            "S19",
+            "S2",
+            "S5",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S18",
+            "S19",
+            "S23",
+            "S5",
+            "S7"
+          ],
+          "precision": 0.6,
+          "recall": 0.5,
+          "f1": 0.5454545454545454
+        },
+        {
+          "question_id": "q013",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+          "gold_sentences": [
+            "S1",
+            "S21",
+            "S22",
+            "S23",
+            "S25",
+            "S26",
+            "S8"
+          ],
+          "pred_sentences": [
+            "S12",
+            "S13",
+            "S23",
+            "S3",
+            "S7"
+          ],
+          "precision": 0.2,
+          "recall": 0.14285714285714285,
+          "f1": 0.16666666666666666
+        },
+        {
+          "question_id": "q014",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+          "gold_sentences": [
+            "S11",
+            "S17",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S14",
+            "S15",
+            "S22",
+            "S5",
+            "S9"
+          ],
+          "precision": 0.2,
+          "recall": 0.3333333333333333,
+          "f1": 0.25
+        },
+        {
+          "question_id": "q015",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-06-11T12_01_17Z",
+          "gold_sentences": [
+            "S1",
+            "S4",
+            "S6",
+            "S7",
+            "S8",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S1",
+            "S12",
+            "S4",
+            "S7",
+            "S8"
+          ],
+          "precision": 0.8,
+          "recall": 0.6666666666666666,
+          "f1": 0.7272727272727272
+        },
+        {
+          "question_id": "q016",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-06-11T12_01_17Z",
+          "gold_sentences": [
+            "S19",
+            "S20",
+            "S21"
+          ],
+          "pred_sentences": [],
+          "precision": 0,
+          "recall": 0,
+          "f1": 0
+        },
+        {
+          "question_id": "q017",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-06-11T12_01_17Z",
+          "gold_sentences": [
+            "S24"
+          ],
+          "pred_sentences": [
+            "S1",
+            "S4"
+          ],
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0
+        },
+        {
+          "question_id": "q018",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-06-24T10_57_22Z",
+          "gold_sentences": [
+            "S10",
+            "S11",
+            "S2",
+            "S3",
+            "S4",
+            "S6",
+            "S8",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S12",
+            "S2",
+            "S4",
+            "S8",
+            "S9"
+          ],
+          "precision": 0.8,
+          "recall": 0.5,
+          "f1": 0.6153846153846154
+        },
+        {
+          "question_id": "q019",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-06-24T10_57_22Z",
+          "gold_sentences": [
+            "S10",
+            "S11"
+          ],
+          "pred_sentences": [
+            "S10",
+            "S11"
+          ],
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        {
+          "question_id": "q020",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-08-05T12_31_57Z",
+          "gold_sentences": [
+            "S1",
+            "S12",
+            "S13",
+            "S2"
+          ],
+          "pred_sentences": [
+            "S12",
+            "S13"
+          ],
+          "precision": 1.0,
+          "recall": 0.5,
+          "f1": 0.6666666666666666
+        },
+        {
+          "question_id": "q021",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Rwanda_history",
+          "gold_sentences": [
+            "S1",
+            "S10",
+            "S11",
+            "S12",
+            "S13",
+            "S14",
+            "S15",
+            "S16",
+            "S17",
+            "S18",
+            "S2",
+            "S3",
+            "S6",
+            "S7",
+            "S8",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S10",
+            "S11",
+            "S12",
+            "S2",
+            "S9"
+          ],
+          "precision": 1.0,
+          "recall": 0.3125,
+          "f1": 0.47619047619047616
+        },
+        {
+          "question_id": "q022",
+          "gold_doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+          "gold_sentences": [
+            "S26",
+            "S27",
+            "S28",
+            "S33",
+            "S34",
+            "S35",
+            "S36",
+            "S37",
+            "S38",
+            "S39",
+            "S4",
+            "S6",
+            "S7",
+            "S8",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S27",
+            "S28",
+            "S4",
+            "S6",
+            "S7"
+          ],
+          "precision": 1.0,
+          "recall": 0.3333333333333333,
+          "f1": 0.5
+        },
+        {
+          "question_id": "q023",
+          "gold_doc_id": "gold/russia-ukraine-conflict_2022-07-21",
+          "gold_sentences": [
+            "S1",
+            "S3",
+            "S4",
+            "S5",
+            "S6"
+          ],
+          "pred_sentences": [
+            "S3",
+            "S4",
+            "S5"
+          ],
+          "precision": 1.0,
+          "recall": 0.6,
+          "f1": 0.7499999999999999
+        },
+        {
+          "question_id": "q024",
+          "gold_doc_id": "gold/the-world-factbook-by-cia__Korea_North_history",
+          "gold_sentences": [
+            "S6",
+            "S7",
+            "S8"
+          ],
+          "pred_sentences": [
+            "S15",
+            "S24",
+            "S4"
+          ],
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0
+        }
+      ],
+      "avg_precision": 0.6378787878787878,
+      "avg_recall": 0.48406385281385284,
+      "avg_f1": 0.5276897345079163
+    },
+    "llm_judge": {
+      "total_questions": 24,
+      "questions_with_rubrics": 24,
+      "answer_score_sum": 91,
+      "evidence_score_sum": 12.922379136760354,
+      "combined_score_sum": 15.561189568380176,
+      "lambda_weight": 0.5,
+      "per_question": [
+        {
+          "question_id": "q001",
+          "answer_score_raw": 4,
+          "answer_score_normalized": 0.8,
+          "answer_rationale": "The model answer accurately mentions both controversies (segregated club memberships and judicial decisions) and states that these made the confirmation hearings difficult, consistent with the gold answer. However, it omits the detail about the confirmation date.",
+          "evidence_score": 1.0,
+          "combined_score": 0.9,
+          "gold_sentences": [
+            "S13",
+            "S14",
+            "S15"
+          ],
+          "pred_sentences": [
+            "S13",
+            "S14",
+            "S15"
+          ]
+        },
+        {
+          "question_id": "q002",
+          "answer_score_raw": 4,
+          "answer_score_normalized": 0.8,
+          "answer_rationale": "The model answer mentions sovereignty concerns, opposition objections, and the no-confidence vote, but omits India's refusal to join non-proliferation agreements and U.S. support for the deal.",
+          "evidence_score": 0.33035714285714285,
+          "combined_score": 0.5651785714285714,
+          "gold_sentences": [
+            "S1",
+            "S12",
+            "S2",
+            "S4",
+            "S5",
+            "S8",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S12",
+            "S14",
+            "S5"
+          ]
+        },
+        {
+          "question_id": "q003",
+          "answer_score_raw": 5,
+          "answer_score_normalized": 1.0,
+          "answer_rationale": "The model answer correctly states exactly 3.3 million extra ballots and 19 stations lacking accreditation, attributes both to the article, and does not introduce any detail not present in the source.",
+          "evidence_score": 0.44,
+          "combined_score": 0.72,
+          "gold_sentences": [
+            "S36",
+            "S7"
+          ],
+          "pred_sentences": [
+            "S17",
+            "S7"
+          ]
+        },
+        {
+          "question_id": "q004",
+          "answer_score_raw": 5,
+          "answer_score_normalized": 1.0,
+          "answer_rationale": "The model answer correctly refuses to answer numerically, does not introduce unsupported numbers or speculation, and explicitly states that the article contains no demographic percentages, making it fully correct.",
+          "evidence_score": 0.0,
+          "combined_score": 0.5,
+          "gold_sentences": [],
+          "pred_sentences": [
+            "S12",
+            "S18",
+            "S19",
+            "S3",
+            "S8"
+          ]
+        },
+        {
+          "question_id": "q005",
+          "answer_score_raw": 4,
+          "answer_score_normalized": 0.8,
+          "answer_rationale": "The model answer includes three of the required reforms (expanded legislative authority, authorization of direct elections for the lower house, and increased unemployment benefits) with minor phrasing inaccuracies, but misses the nationwide job-creation directive.",
+          "evidence_score": 1.0,
+          "combined_score": 0.9,
+          "gold_sentences": [
+            "S8",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S7",
+            "S8",
+            "S9"
+          ]
+        },
+        {
+          "question_id": "q006",
+          "answer_score_raw": 5,
+          "answer_score_normalized": 1.0,
+          "answer_rationale": "The model answer accurately states that Ibrahim Boubacar Keita won the elections in 2013 and 2018, and that international observers deemed the elections credible despite security and logistical shortfalls, matching the gold answer exactly.",
+          "evidence_score": 1.0,
+          "combined_score": 1.0,
+          "gold_sentences": [
+            "S22",
+            "S23"
+          ],
+          "pred_sentences": [
+            "S22",
+            "S23"
+          ]
+        },
+        {
+          "question_id": "q007",
+          "answer_score_raw": 4,
+          "answer_score_normalized": 0.8,
+          "answer_rationale": "The model answer accurately describes dynastic succession, autocratic one-party rule, and ideological rigidity including 'self-reliance' (similar to juche), but omits the specific mention of nuclear development and militarization as key effects of the dynastic leadership structure.",
+          "evidence_score": 0.5081967213114754,
+          "combined_score": 0.6540983606557378,
+          "gold_sentences": [
+            "S10",
+            "S12",
+            "S13",
+            "S14",
+            "S15",
+            "S16",
+            "S17",
+            "S18"
+          ],
+          "pred_sentences": [
+            "S10",
+            "S13",
+            "S16",
+            "S22",
+            "S25"
+          ]
+        },
+        {
+          "question_id": "q008",
+          "answer_score_raw": 4,
+          "answer_score_normalized": 0.8,
+          "answer_rationale": "The model answer correctly describes the colonial timeline, mentions Mary Eugenia Charles, and includes the correct dates of associated statehood and independence. However, it inaccurately describes the 1980 transition as replacing a 'corrupt and tyrannical administration', which is not mentioned in the gold answer.",
+          "evidence_score": 0.72,
+          "combined_score": 0.76,
+          "gold_sentences": [
+            "S1",
+            "S2",
+            "S4",
+            "S5",
+            "S6"
+          ],
+          "pred_sentences": [
+            "S2",
+            "S5",
+            "S6"
+          ]
+        },
+        {
+          "question_id": "q009",
+          "answer_score_raw": 5,
+          "answer_score_normalized": 1.0,
+          "answer_rationale": "The model answer correctly lists all impacts from the article: extensive damage to structures, roads, communications systems, and power supply, plus major destruction of agricultural areas.",
+          "evidence_score": 1.0,
+          "combined_score": 1.0,
+          "gold_sentences": [
+            "S7"
+          ],
+          "pred_sentences": [
+            "S7"
+          ]
+        },
+        {
+          "question_id": "q010",
+          "answer_score_raw": 5,
+          "answer_score_normalized": 1.0,
+          "answer_rationale": "The model answer explicitly states that the document does not provide sufficient information to answer the question, clearly refusing to invent information and aligning with the gold answer's tone.",
+          "evidence_score": 1.0,
+          "combined_score": 1.0,
+          "gold_sentences": [],
+          "pred_sentences": []
+        },
+        {
+          "question_id": "q011",
+          "answer_score_raw": 4,
+          "answer_score_normalized": 0.8,
+          "answer_rationale": "The model answer states the information is not given, but it does not explicitly mention that only a mandate is described in the article.",
+          "evidence_score": 0.0,
+          "combined_score": 0.4,
+          "gold_sentences": [
+            "S9"
+          ],
+          "pred_sentences": []
+        },
+        {
+          "question_id": "q012",
+          "answer_score_raw": 4,
+          "answer_score_normalized": 0.8,
+          "answer_rationale": "The model answer correctly mentions Russia missing payments, OFAC blocking transfers, and investors expecting a default. However, it misses the specific detail about Russia claiming to have funds but being unable to transmit them due to OFAC actions.",
+          "evidence_score": 0.5238095238095238,
+          "combined_score": 0.661904761904762,
+          "gold_sentences": [
+            "S1",
+            "S18",
+            "S19",
+            "S2",
+            "S5",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S18",
+            "S19",
+            "S23",
+            "S5",
+            "S7"
+          ]
+        },
+        {
+          "question_id": "q013",
+          "answer_score_raw": 1,
+          "answer_score_normalized": 0.2,
+          "answer_rationale": "The model answer fails to mention differences between 2022 and 1998 or misstates basic facts, as it claims the document does not provide sufficient information to answer the question.",
+          "evidence_score": 0.25735294117647056,
+          "combined_score": 0.2286764705882353,
+          "gold_sentences": [
+            "S1",
+            "S21",
+            "S22",
+            "S23",
+            "S25",
+            "S26",
+            "S8"
+          ],
+          "pred_sentences": [
+            "S12",
+            "S13",
+            "S23",
+            "S3",
+            "S7"
+          ]
+        },
+        {
+          "question_id": "q014",
+          "answer_score_raw": 5,
+          "answer_score_normalized": 1.0,
+          "answer_rationale": "The model answer accurately captures Russia's official denial of default, states that they had the funds, blames sanctions for preventing intermediaries from transferring payments, and references claims that asset seizure would be illegal, all without any inaccuracies or hallucinations.",
+          "evidence_score": 0.6071428571428571,
+          "combined_score": 0.8035714285714286,
+          "gold_sentences": [
+            "S11",
+            "S17",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S14",
+            "S15",
+            "S22",
+            "S5",
+            "S9"
+          ]
+        },
+        {
+          "question_id": "q015",
+          "answer_score_raw": 3,
+          "answer_score_normalized": 0.6,
+          "answer_rationale": "The model answer captures the general idea that Biden raised concerns about warnings and Richards criticized strategy, but lacks detail and misstates one element. Specifically, it incorrectly quotes Richards as saying 'let's see how it goes' and fails to mention his point about Western uncertainty about war aims.",
+          "evidence_score": 0.686046511627907,
+          "combined_score": 0.6430232558139535,
+          "gold_sentences": [
+            "S1",
+            "S4",
+            "S6",
+            "S7",
+            "S8",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S1",
+            "S12",
+            "S4",
+            "S7",
+            "S8"
+          ]
+        },
+        {
+          "question_id": "q016",
+          "answer_score_raw": 1,
+          "answer_score_normalized": 0.2,
+          "answer_rationale": "The model answer fails to mention famine risk or misidentifies affected regions, and instead claims the document does not provide sufficient information to answer the question.",
+          "evidence_score": 0.0,
+          "combined_score": 0.1,
+          "gold_sentences": [
+            "S19",
+            "S20",
+            "S21"
+          ],
+          "pred_sentences": []
+        },
+        {
+          "question_id": "q017",
+          "answer_score_raw": 1,
+          "answer_score_normalized": 0.2,
+          "answer_rationale": "Incorrect numbers or invented statistics; fails to provide both required figures, and also misstates the information about Mariupol.",
+          "evidence_score": 0.09090909090909091,
+          "combined_score": 0.14545454545454545,
+          "gold_sentences": [
+            "S24"
+          ],
+          "pred_sentences": [
+            "S1",
+            "S4"
+          ]
+        },
+        {
+          "question_id": "q018",
+          "answer_score_raw": 5,
+          "answer_score_normalized": 1.0,
+          "answer_rationale": "The model answer correctly describes the 40% reduction in gas flows, the four- to sixfold rise in market prices, the potential tripling of gas prices for consumers, the declaration of the alarm phase, the fear that Russia may not restart the pipeline after the July shutdown, and Germany's 2.5-month storage limit, with no hallucinated content.",
+          "evidence_score": 0.6114285714285714,
+          "combined_score": 0.8057142857142857,
+          "gold_sentences": [
+            "S10",
+            "S11",
+            "S2",
+            "S3",
+            "S4",
+            "S6",
+            "S8",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S12",
+            "S2",
+            "S4",
+            "S8",
+            "S9"
+          ]
+        },
+        {
+          "question_id": "q019",
+          "answer_score_raw": 5,
+          "answer_score_normalized": 1.0,
+          "answer_rationale": "The model answer clearly states the correct duration (two and a half months) and the correct conditional requirement (storage facilities being mathematically 100% full), with no added or missing facts.",
+          "evidence_score": 1.0,
+          "combined_score": 1.0,
+          "gold_sentences": [
+            "S10",
+            "S11"
+          ],
+          "pred_sentences": [
+            "S10",
+            "S11"
+          ]
+        },
+        {
+          "question_id": "q020",
+          "answer_score_raw": 3,
+          "answer_score_normalized": 0.6,
+          "answer_rationale": "The model answer provides some correct facts, such as Ukrainian officials' concerns and the UK's Ministry of Defence raising similar concerns. However, it omits key points like the proximity of strikes to a reactor, the number of strikes, and the strategic implications of Russia's actions.",
+          "evidence_score": 0.5555555555555556,
+          "combined_score": 0.5777777777777777,
+          "gold_sentences": [
+            "S1",
+            "S12",
+            "S13",
+            "S2"
+          ],
+          "pred_sentences": [
+            "S12",
+            "S13"
+          ]
+        },
+        {
+          "question_id": "q021",
+          "answer_score_raw": 4,
+          "answer_score_normalized": 0.8,
+          "answer_rationale": "The model answer captures the broad sequence of events, including pre-colonial hierarchies, colonial reinforcement and shifts, the 1959 uprising, and the trigger event of 1994. However, it misses the specific role of exiled Tutsis and the Rwandan Patriotic Front rebellion, which are key details in the gold answer.",
+          "evidence_score": 0.3677685950413223,
+          "combined_score": 0.5838842975206612,
+          "gold_sentences": [
+            "S1",
+            "S10",
+            "S11",
+            "S12",
+            "S13",
+            "S14",
+            "S15",
+            "S16",
+            "S17",
+            "S18",
+            "S2",
+            "S3",
+            "S6",
+            "S7",
+            "S8",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S10",
+            "S11",
+            "S12",
+            "S2",
+            "S9"
+          ]
+        },
+        {
+          "question_id": "q022",
+          "answer_score_raw": 3,
+          "answer_score_normalized": 0.6,
+          "answer_rationale": "The model answer captures some key issues such as party agent expulsion, irregular rolls, and partisan commission, but misses the security-force presence and extra ballots, and fails to connect to the significance of Mugabe's rule in a more detailed manner.",
+          "evidence_score": 0.4511627906976744,
+          "combined_score": 0.5255813953488372,
+          "gold_sentences": [
+            "S26",
+            "S27",
+            "S28",
+            "S33",
+            "S34",
+            "S35",
+            "S36",
+            "S37",
+            "S38",
+            "S39",
+            "S4",
+            "S6",
+            "S7",
+            "S8",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S27",
+            "S28",
+            "S4",
+            "S6",
+            "S7"
+          ]
+        },
+        {
+          "question_id": "q023",
+          "answer_score_raw": 4,
+          "answer_score_normalized": 0.8,
+          "answer_rationale": "The model answer captures the basic idea that Russia used gas politically and that Germany/EU faced pressure, but lacks detail or misstates specific effects described in the article. It correctly mentions Russia's use of gas as leverage and Germany's dependency, but does not explicitly mention the risks of rationing and price pressure as described in the gold answer.",
+          "evidence_score": 0.6147540983606558,
+          "combined_score": 0.707377049180328,
+          "gold_sentences": [
+            "S1",
+            "S3",
+            "S4",
+            "S5",
+            "S6"
+          ],
+          "pred_sentences": [
+            "S3",
+            "S4",
+            "S5"
+          ]
+        },
+        {
+          "question_id": "q024",
+          "answer_score_raw": 3,
+          "answer_score_normalized": 0.6,
+          "answer_rationale": "The model answer mentions Japan, China, and Russia as competing powers, but fails to mention the Sino-Japanese War and the Russo-Japanese War, and also lacks information about Russia's involvement.",
+          "evidence_score": 0.15789473684210525,
+          "combined_score": 0.3789473684210526,
+          "gold_sentences": [
+            "S6",
+            "S7",
+            "S8"
+          ],
+          "pred_sentences": [
+            "S15",
+            "S24",
+            "S4"
+          ]
+        }
+      ],
+      "avg_answer_score": 3.7916666666666665,
+      "avg_evidence_score": 0.5384324640316814,
+      "avg_combined_score": 0.6483828986825073
+    }
+  }
+}

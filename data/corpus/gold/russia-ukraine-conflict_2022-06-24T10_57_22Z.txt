@@ -1,0 +1,59 @@
+{
+  "doc_id": "gold/russia-ukraine-conflict_2022-06-24T10_57_22Z",
+  "source_dataset": "hugginglearners/russia-ukraine-conflict-articles",
+  "source": "2022-06-24T10:57:22Z",
+  "sentences": [
+    {
+      "sid": "S1",
+      "text": "German consumers could face a tripling of gas prices in the coming months after Russia\u2019s throttling of deliveries to Europe, a senior energy official has said."
+    },
+    {
+      "sid": "S2",
+      "text": "Moscow reduced the flow of gas through the Nord Stream 1 pipeline by 40% last week, citing technical reasons that Berlin dismisses as a pretext, prompting a four- to sixfold rise in market prices, said the head of Germany\u2019s federal network agency, Klaus M\u00fcller."
+    },
+    {
+      "sid": "S3",
+      "text": "Such \u201cenormous leaps in price\u201d were unlikely to be passed down entirely to consumers, M\u00fcller said, but German citizens had to brace themselves for dramatically rising costs."
+    },
+    {
+      "sid": "S4",
+      "text": "\u201cA doubling or tripling is possible,\u201d he told the public broadcaster ARD."
+    },
+    {
+      "sid": "S5",
+      "text": "He said the rising costs now showing up on people\u2019s energy bills were the result of higher prices on the gas market last autumn."
+    },
+    {
+      "sid": "S6",
+      "text": "The German economic ministry announced the second of three energy emergency plan phases on Thursday, warning of a high risk of long-term supply shortages as a result of Russia systematically choking off gas deliveries."
+    },
+    {
+      "sid": "S7",
+      "text": "The so-called \u201calarm phase\u201d enables utility firms to pass on high gas prices to customers and thereby help to lower demand."
+    },
+    {
+      "sid": "S8",
+      "text": "Robert Habeck, the minister for economic affairs, said there was some concern that there would be a complete stop to Russian gas deliveries after 13 July, when the Nord Stream 1 has to be closed down for 10 days for an annual inspection."
+    },
+    {
+      "sid": "S9",
+      "text": "Asked by the RTL Nachtjournal programme if he was worried that Vladimir Putin might not switch the gas tap on again after the scheduled interruption, Habeck said: \u201cI would be lying if I said that isn\u2019t something I worry about.\u201d"
+    },
+    {
+      "sid": "S10",
+      "text": "M\u00fcller said Germany could go for just over two months without Russian gas supplies."
+    },
+    {
+      "sid": "S11",
+      "text": "\u201cIf the storage facilities in Germany were mathematically 100% full \u2026 we could do without Russian gas completely \u2026 for just about two-and-a-half months and then the storage tanks will be empty,\u201d he told the Maybrit Illner programme on Thursday evening."
+    },
+    {
+      "sid": "S12",
+      "text": "To prepare for the supply crunch, Germany needed to save gas and rapidly diversify its suppliers, he said."
+    },
+    {
+      "sid": "S13",
+      "text": "\u201cMost of the scenarios are not pretty and mean either too little gas by the end of the winter, or even \u2013 and that\u2019s a very tricky situation \u2013 in the autumn or winter.\u201d"
+    }
+  ]
+}

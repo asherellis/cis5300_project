@@ -1,0 +1,296 @@
+{
+  "q001": {
+    "question": "What disagreements emerged within the European Union regarding proposed gas-use reductions, and which countries argued that they should not have to cut consumption equally?",
+    "answer": "They are potentially trying more to cut off supplies into the Donbas, create a battle of attrition in that part of Ukraine.\u201d\n\n\u201cWith strikes on Lviv and Kyiv they may also be trying to hit targets throughout the country, to force them to disperse air defence systems throughout the country, so they don\u2019t have them where needed in the Donbas.\u201d\n\nFor Ukraine to win this battle, it needs more air defences for the west, in addition to the heavy weapons and short range air defence systems heading east, ...",
+    "answers": [
+      {
+        "answer": "They are potentially trying more to cut off supplies into the Donbas, create a battle of attrition in that part of Ukraine.\u201d\n\n\u201cWith strikes on Lviv and Kyiv they may also be trying to hit targets throughout the country, to force them to disperse air defence systems throughout the country, so they don\u2019t have them where needed in the Donbas.\u201d\n\nFor Ukraine to win this battle, it needs more air defences for the west, in addition to the heavy weapons and short range air defence systems heading east, ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-27T15_09_55Z",
+          "score": 46.45160804999934,
+          "sentence_ids": [
+            0,
+            29,
+            32
+          ]
+        }
+      },
+      {
+        "answer": "He says sanctions, which should have been tougher in response to Crimea, are working and should remain in place. The high-end machine tools and sophisticated components needed to run major IT systems in Russia\u2019s major cities come from countries robustly supporting the sanctions regime\n\nAt the beginning of the invasion, many people believed the west would impose only weak sanctions and that Moscow would find allies to circumvent the most damaging ones. It was a colossal delusion.\u201d\n\nThere will be ...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-11T15_00_23Z",
+          "score": 45.074606030838794,
+          "sentence_ids": [
+            9,
+            18,
+            25
+          ]
+        }
+      },
+      {
+        "answer": "It undermines the effort to bring food to the hungry and the credibility of Russia\u2019s commitments to the deal finalized yesterday to allow Ukrainian exports.\u201d 3.7 million Ukrainian refugees have received temporary protection status in the European Union, according to the UNHCR. The Secretary of State went on to blame Russia for the global food shortage and said \u201cRussia bears responsibility for deepening the food crisis and must stop its aggression.\u201d\n\nUpdated at 22.28 BST\n\n23 Jul 2022 21.32 3.7 mi...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-23T23_00_08Z",
+          "score": 44.45349777147747,
+          "sentence_ids": [
+            16,
+            54,
+            86
+          ]
+        }
+      },
+      {
+        "answer": "The Washington-based think tank suggested Moscow may be taking an \u201coperational pause,\u201d but said that does not entail \u201cthe complete cessation of active hostilities.\u201d Russian forces will likely confine themselves to relatively small-scale offensive actions as they attempt to set conditions for more significant offensive operations\u201d and rebuild the necessary combat power, the institute said. Because if countries do not follow decisions they have agreed about sanctions, how can we talk about solidar...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+          "score": 43.63966079830827,
+          "sentence_ids": [
+            12,
+            34,
+            63
+          ]
+        }
+      },
+      {
+        "answer": "sleep]?\u201d If not, they need to reject these EU proposals now and keep the . It emerged the co-pilot was paid a salary so low that she lived with her parents near Seattle and commuted across the country to her job, a combination of long travel and little money that a safety official called a \"recipe for an accident\". Nearly half of pilots say they have fallen asleep at the controls, it emerged yesterday.",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__193c6a0bbcc76731c385f3e143d16a5fe379cfc3",
+          "score": 43.4485768495991,
+          "sentence_ids": [
+            3,
+            25,
+            27
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-27T15_09_55Z",
+        "score": 46.45160804999934,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-11T15_00_23Z",
+        "score": 45.074606030838794,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-23T23_00_08Z",
+        "score": 44.45349777147747,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+        "score": 43.63966079830827,
+        "rank": 4
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__193c6a0bbcc76731c385f3e143d16a5fe379cfc3",
+        "score": 43.4485768495991,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S33",
+      "S30",
+      "S1"
+    ]
+  },
+  "q002": {
+    "question": "How did Oman's leadership under Sultan Qaboos manage to balance modernization with foreign policy independence, and what domestic pressures in 2011 led him to expand political participation?",
+    "answer": "He prioritized strategic ties to the UK and US, and his moderate, independent foreign policy allowed Oman to maintain good relations with its neighbors and avoid external entanglements. As part of the government's efforts to decentralize authority and allow greater citizen participation in local governance, Oman successfully conducted its first municipal council elections in 2012. In 2011, the popular uprisings that swept the Middle East and North Africa inspired demonstrations in Oman that call...",
+    "answers": [
+      {
+        "answer": "He prioritized strategic ties to the UK and US, and his moderate, independent foreign policy allowed Oman to maintain good relations with its neighbors and avoid external entanglements. As part of the government's efforts to decentralize authority and allow greater citizen participation in local governance, Oman successfully conducted its first municipal council elections in 2012. In 2011, the popular uprisings that swept the Middle East and North Africa inspired demonstrations in Oman that call...",
+        "citation": {
+          "doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+          "score": 67.55856532389696,
+          "sentence_ids": [
+            5,
+            6,
+            9
+          ]
+        }
+      },
+      {
+        "answer": "Economy: GDP - composition, by sector of origin - agriculture: 2.3% (2023 est.)\nEconomy: GDP - composition, by sector of origin - industry: 54.3% (2023 est.)\nEconomy: GDP - composition, by sector of origin - services: 46.4% (2023 est.)note: figures may not total 100% due to non-allocated consumption not captured in sector-reported data\nEconomy: GDP - composition, by end use - household consumption: 34.3% (2022 est.)\nEconomy: GDP - composition, by end use - government consumption: 17.9% (2022 est...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Oman",
+          "score": 61.82659365470819,
+          "sentence_ids": [
+            15,
+            16,
+            17
+          ]
+        }
+      },
+      {
+        "answer": "In the past three years it has taught thousands of children how to sail and it is also helping to develop a women's squad in an effort to boost Oman's Olympic chances. After becoming the first Arab to sail around the world, Al Busaidi became a national hero in Oman and an ambassador for the \"Omani Sail\" project. \"I am very proud of what I have achieved so far but it is important for me to give something back to the community,\" said Al Busaidi, who is heading back to Oman for Ramadan before re-jo...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__30983fb97d2a5e5aed310cae481c6a38e3270ecb",
+          "score": 43.114560278833785,
+          "sentence_ids": [
+            18,
+            20,
+            21
+          ]
+        }
+      },
+      {
+        "answer": "The Reuters news agency reported: The petition, addressed to Ukrainian president Volodymyr Zelenskiy, lists Johnson\u2019s strengths as \u201cworldwide support for Boris Johnson, a clear position against the military invasion of Ukraine, (and) wisdom in the political, financial and legal spheres.\u201d The petition, however, does acknowledge one negative side of such an appointment: its non-compliance with Ukraine\u2019s constitution. \u201cWe are forced to conclude that the problem with the ongoing attempts of the arme...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T18_00_08Z",
+          "score": 40.45555975418784,
+          "sentence_ids": [
+            2,
+            54,
+            71
+          ]
+        }
+      },
+      {
+        "answer": "Government: Legislative branch - lower chamber - chamber name: House of Representatives (Majlis Annowab)\nGovernment: Legislative branch - lower chamber - number of seats: 301 (all directly elected)\nGovernment: Legislative branch - lower chamber - electoral system: plurality/majority\nGovernment: Legislative branch - lower chamber - scope of elections: full renewal\nGovernment: Legislative branch - lower chamber - term in office: 6 years\nGovernment: Legislative branch - lower chamber - most recent ...",
+        "citation": {
+          "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Yemen",
+          "score": 39.49030809352855,
+          "sentence_ids": [
+            31,
+            32,
+            35
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/the-world-factbook-by-cia__Oman_history",
+        "score": 67.55856532389696,
+        "rank": 1
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Oman",
+        "score": 61.82659365470819,
+        "rank": 2
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__30983fb97d2a5e5aed310cae481c6a38e3270ecb",
+        "score": 43.114560278833785,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T18_00_08Z",
+        "score": 40.45555975418784,
+        "rank": 4
+      },
+      {
+        "doc_id": "cia-world-factbook/the-world-factbook-by-cia__Yemen",
+        "score": 39.49030809352855,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S6",
+      "S10",
+      "S7"
+    ]
+  },
+  "q003": {
+    "question": "Based solely on this article, how many total soldiers and police were deployed across Zimbabwe during the election, and what proportion of polling stations reported irregularities?",
+    "answer": "The United States this week warned of a possible unfair election, and New York-based Human Rights Watch warned this month that the elections were likely to be \"deeply flawed.\" An MDC official said this week that leaked correspondence from the electoral commission showed it had asked for 3.3 million more ballots than there are registered voters, including 250,000 extra postal ballots for soldiers and police. The main opposition party, Movement for Democratic Change, alleged widespread irregularit...",
+    "answers": [
+      {
+        "answer": "The United States this week warned of a possible unfair election, and New York-based Human Rights Watch warned this month that the elections were likely to be \"deeply flawed.\" An MDC official said this week that leaked correspondence from the electoral commission showed it had asked for 3.3 million more ballots than there are registered voters, including 250,000 extra postal ballots for soldiers and police. The main opposition party, Movement for Democratic Change, alleged widespread irregularit...",
+        "citation": {
+          "doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+          "score": 70.23280771960448,
+          "sentence_ids": [
+            3,
+            33,
+            35
+          ]
+        }
+      },
+      {
+        "answer": "Nations across Africa, the Middle East, Asia and even Latin America are feeling the heat from this conflict.\u201d UN warns of \u2018looming hunger catastrophe\u2019 due to Russian blockade Read more\n\n\n\n7 Jul 2022 00.13 Russian prosecutors have called for prison sentences for a prominent opposition activist and for a Moscow city council member who opposes the invasion of Ukraine. Black smoke flies up and spreads across the sky for many kilometers.\u201d The dry stalks of grain are set ablaze \u201clike matches\u201d from inc...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+          "score": 46.08973375218648,
+          "sentence_ids": [
+            23,
+            42,
+            44
+          ]
+        }
+      },
+      {
+        "answer": "He told reporters: \u201cWhen the far-right, in all its forms, represents that much in France, you can\u2019t consider things are going well, so you must go out and convince people with a lot of humility, and respect for those who weren\u2019t on our side in this first round.\u201d\n\nIn other news \u2026\n\nRepresentative Marjorie Taylor Greene and Donald Trump during a rally in Commerce, Georgia, last month. The New York Times said otherwise on Sunday, in a report headlined: \u201cJanuary 6 panel has evidence for criminal refe...",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+          "score": 45.60631494009028,
+          "sentence_ids": [
+            13,
+            20,
+            25
+          ]
+        }
+      },
+      {
+        "answer": "Describing what happened in an interview with Noel Gallagher on the BBC he said: 'I was bored no, so I was with my friends and one of them was limping so I got one bin you know the bin? Party: These are the 'barrage cannons' of fireworks set off in the bathroom, which wrecked the first floor and started a blaze on the eve a huge game again Manchester United. New photographs appear to show how tiles and plaster were blown off the walls and ceilings, the walls were scorched and covered in  soot an...",
+        "citation": {
+          "doc_id": "abisee/cnn_dailymail__b7a4a0e9f007fe91ef4126295b2937ba21403c6f",
+          "score": 44.98743282799373,
+          "sentence_ids": [
+            6,
+            9,
+            18
+          ]
+        }
+      },
+      {
+        "answer": "Photograph: Ricki Richardson/Handout\n\nThe premier of the British Virgin Islands, Andrew Fahie, has been arrested in Miami on charges of conspiring to import cocaine into the US and money laundering during a sting operation. Oleanvine Maynard, the manager director of the BVI\u2019s port authority, and her son Kadeem were also detained. Photograph: Rex/Shutterstock\n\nDozens of people in Arkansas, Louisiana and Mississippi reported seeing a remarkably bright meteor on Wednesday after hearing loud booms.",
+        "citation": {
+          "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-29T10_03_01Z",
+          "score": 44.63745277061058,
+          "sentence_ids": [
+            21,
+            25,
+            29
+          ]
+        }
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_id": "gold/cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+        "score": 70.23280771960448,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+        "score": 46.08973375218648,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+        "score": 45.60631494009028,
+        "rank": 3
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__b7a4a0e9f007fe91ef4126295b2937ba21403c6f",
+        "score": 44.98743282799373,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-29T10_03_01Z",
+        "score": 44.63745277061058,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S34",
+      "S36",
+      "S4"
+    ]
+  }
+}

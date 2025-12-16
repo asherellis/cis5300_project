@@ -1,0 +1,16 @@
+# CIS 5300 Project Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core NLP
+nltk>=3.8
+rank-bm25>=0.2.2
+
+# LLM API
+groq>=0.4.0
+
+# Embeddings and reranking
+sentence-transformers>=2.2.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0

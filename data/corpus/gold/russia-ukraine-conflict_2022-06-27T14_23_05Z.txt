@@ -1,0 +1,111 @@
+{
+  "doc_id": "gold/russia-ukraine-conflict_2022-06-27T14_23_05Z",
+  "source_dataset": "hugginglearners/russia-ukraine-conflict-articles",
+  "source": "2022-06-27T14:23:05Z",
+  "sentences": [
+    {
+      "sid": "S1",
+      "text": "Russia is poised to default on its debt for the first time since 1998, further alienating the country from the global financial system after sanctions imposed over its war in Ukraine."
+    },
+    {
+      "sid": "S2",
+      "text": "The country missed a deadline of Sunday night to meet a 30-day grace period on interest payments of $100m (\u00a381.2m) on two eurobonds originally due on 27 May, Bloomberg reported on Monday morning."
+    },
+    {
+      "sid": "S3",
+      "text": "Some Taiwanese holders of Russian eurobonds said on Monday that they had not received interest payments due, two sources told Reuters."
+    },
+    {
+      "sid": "S4",
+      "text": "Official confirmation of the default was expected to come from international ratings agencies."
+    },
+    {
+      "sid": "S5",
+      "text": "Russia\u2019s efforts to avoid the default hit an insurmountable roadblock in late May when the US Treasury Department\u2019s Office of Foreign Assets Control (OFAC) effectively blocked Moscow from making payments."
+    },
+    {
+      "sid": "S6",
+      "text": "\u201cSince March we thought that a Russian default is probably inevitable, and the question was just when,\u201d Dennis Hranitzky, the head of sovereign litigation at law firm Quinn Emanuel, told Reuters."
+    },
+    {
+      "sid": "S7",
+      "text": "\u201cOFAC has intervened to answer that question for us, and the default is now upon us.\u201d"
+    },
+    {
+      "sid": "S8",
+      "text": "While a formal default would be largely symbolic given Russia cannot borrow internationally at the moment and does not need to thanks to plentiful oil and gas export revenues, the stigma would probably raise its borrowing costs in future."
+    },
+    {
+      "sid": "S9",
+      "text": "The Kremlin denied the country was in default, with Vladimir Putin\u2019s spokesperson, Dmitry Peskov, calling the claims \u201cabsolutely unjustified\u201d and saying it was \u201cnot our problem\u201d that sanctions had prevented intermediaries from transferring the payments."
+    },
+    {
+      "sid": "S10",
+      "text": "Russia has defaulted for first time in a century on $100m in interest payments."
+    },
+    {
+      "sid": "S11",
+      "text": "Russia has pushed back against the default, saying it has the funds to cover and has been forced into non-payment."
+    },
+    {
+      "sid": "S12",
+      "text": "Investors can wait and see."
+    },
+    {
+      "sid": "S13",
+      "text": "A formal default declaration would come from a ratings agency."
+    },
+    {
+      "sid": "S14",
+      "text": "Russia owes about $40bn in foreign bonds."
+    },
+    {
+      "sid": "S15",
+      "text": "Before the start of the war, Moscow had about $640bn in foreign currency and gold reserves, much of which was held overseas and is frozen."
+    },
+    {
+      "sid": "S16",
+      "text": "Ukraine and some western countries want to use this frozen cash to repair the damage caused by the war and compensate for Kyiv\u2019s losses."
+    },
+    {
+      "sid": "S17",
+      "text": "Peskov called such an idea \u201ccompletely illegal\u201d and said it would \u201cessentially amount to straight-up theft.\u201d"
+    },
+    {
+      "sid": "S18",
+      "text": "Investors have expected Russia to default for months."
+    },
+    {
+      "sid": "S19",
+      "text": "Insurance contracts that cover Russian debt have priced an 80% likelihood of default for weeks, and rating agencies such as Standard & Poor\u2019s and Moody\u2019s have placed the country\u2019s debt deep into junk territory."
+    },
+    {
+      "sid": "S20",
+      "text": "Once a country defaults, it can be cut off from bond-market borrowing until the default is sorted out and investors regain confidence in the government\u2019s ability and willingness to pay."
+    },
+    {
+      "sid": "S21",
+      "text": "Russia has already been cut off from western capital markets, so any return to borrowing is a long way off anyway."
+    },
+    {
+      "sid": "S22",
+      "text": "The Kremlin can still borrow roubles at home, where it mostly relies on Russian banks to buy its bonds."
+    },
+    {
+      "sid": "S23",
+      "text": "Western sanctions over the war have sent foreign companies fleeing from Russia and interrupted the country\u2019s trade and financial ties with the rest of the world."
+    },
+    {
+      "sid": "S24",
+      "text": "Default would be one more symptom of that isolation and disruption."
+    },
+    {
+      "sid": "S25",
+      "text": "Investment analysts are cautiously reckoning that a Russian default would not have the kind of impact on global financial markets and institutions that came from its default in 1998."
+    },
+    {
+      "sid": "S26",
+      "text": "Back then, Russia\u2019s default on domestic rouble bonds led the US government to step in and get banks to bail out Long-Term Capital Management, a large US hedge fund whose collapse, it was feared, could have shaken the wider financial and banking system."
+    }
+  ]
+}
